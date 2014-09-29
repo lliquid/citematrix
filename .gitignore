@@ -1,0 +1,10 @@
+.git
+.idea
+node_modules
+vendor
+build/*
+test.html
+data/*.pyc
+data/logger.pyc
+data/util.pyc
+data/congress/*

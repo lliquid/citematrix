@@ -1,0 +1,25 @@
+.conf_row rect {
+    stroke: #bbb;
+    stroke-width: 0.5px;
+    fill: #fff;
+}
+
+.year_row text {
+    font-size: 12px;
+}
+
+
+.year_col circle {
+    fill: #C0C0C0;
+    stroke: #000;
+}
+
+.year_col circle.highlight {
+    fill: #FFDFB0;
+    stroke: #FD7C2F;
+}
+
+.year_col circle.selected {
+    fill: #FFDFB0;
+    stroke: #FD7C2F;
+}

@@ -1,0 +1,8 @@
+bower install
+npm install grunt
+npm install
+grunt develop
+
+
+
+
