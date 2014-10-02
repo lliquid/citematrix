@@ -4,6 +4,17 @@
 
 var d3behaviour = {
 
+    highlight: function () {
+        d3.select(this)
+            .on('mouseover.highlightAndSelection', function () {
+                d3.select(this).classed('highlight', true);
+            })
+            .on('mouseout.highlightAndSelection', function () {
+                d3.select(this).classed('highlight', false);
+            });
+    },
+
+
     highlightAndSelection: function () {
         d3.select(this)
             .on('mouseover.highlightAndSelection', function () {

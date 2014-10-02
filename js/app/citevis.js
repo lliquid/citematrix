@@ -233,7 +233,7 @@ _.extend(CiteVis.prototype, {
                                             .end();
 
                                     })
-                                    .each(d3behaviour.highlightAndSelection)
+                                    .each(d3behaviour.highlight)
                                     // .on('mouseover', function(y, j) {
                                     // })
                                     .on('mouseover', function(y, j) {
