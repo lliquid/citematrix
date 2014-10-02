@@ -6,12 +6,12 @@
 var config = {
 
     x0: 300,
-    y0: 300,
+    y0: 120,
 
-    width: 1400,
-    height: 1000,
+    width: 1000,
+    height: 800,
 
-    matrixCellSize: 12,
+    matrixCellSize: 16,
     
     matrixCellPadding: 0.5,
     matrixPadding: 3,

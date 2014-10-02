@@ -35,11 +35,18 @@ _.extend(CiteVis.prototype, {
         var self = this;
 
         this.confs = ['infovis', 'vast', 'vis'];
+        // this.years = {
+        //     'infovis': d3.range(1998, 2014),
+        //     'vast': d3.range(2006, 2014),
+        //     'vis': d3.range(1998, 2014)
+        // };
+
+        //years in inverse order
         this.years = {
-            'infovis': d3.range(1998, 2014),
-            'vast': d3.range(2006, 2014),
-            'vis': d3.range(1998, 2014)
-        };
+            'infovis': d3.range(2013, 1997, -1),
+            'vast': d3.range(2013, 2005, -1),
+            'vis': d3.range(2013, 1997, -1)
+        };        
 
 
         var eids = this.graph.getLinks(function(eid) {
@@ -74,18 +81,56 @@ _.extend(CiteVis.prototype, {
         var self = this;
         self.infopanel.selectAll('*').remove();
 
-        var papers = _.keys(paperCnts);
+        var papers = _.keys(paperCnts).sort();
 
-        self.infopanel.selectAll('.paper')
+        var pdivs = self.infopanel.selectAll('.paper')
             .data(papers)
             .enter()
             .append('div')
-            .attr('class', 'paper')
-            .append(function(title) {
-                return '<p>' + title +'<p>';
-            });
+            .attr('class', 'paper');
+            
+        pdivs.append('p')
+            .text(function(p) {return paperCnts[p] + '--' + p});
 
     },
+
+    highlightLabels: function(cc, c, yy, y) {
+
+        var self = this;
+
+        console.info(cc + c + yy + ' ' + y);
+
+        self.canvas.selectAll('.year_row_label')
+            .classed('highlight', false)
+            .filter(function(_y) {
+                return _y == yy && d3.select(this.parentNode.parentNode).datum() == cc;
+            })
+            .classed('highlight', true);
+
+        self.canvas.selectAll('.year_col_label')
+            .classed('highlight', false)
+            .filter(function(_y) {
+                return _y == y && d3.select(this.parentNode.parentNode).datum() == c;
+            })
+            .classed('highlight', true);
+
+        self.canvas.selectAll('.conf_row_label')
+            .classed('highlight', false)
+            .filter(function(_c) {return _c == cc;})
+            .classed('highlight', true);
+
+        self.canvas.selectAll('.conf_col_label')
+            .classed('highlight', false)
+            .filter(function(_c) {return _c == c;})
+            .classed('highlight', true);
+    },
+
+    // cleanDetails: function() {
+
+    //     this.infopanel.selectAll('*').remove();
+
+    //     return this;
+    // },
 
     layout: function() {
         //STUB
@@ -153,6 +198,8 @@ _.extend(CiteVis.prototype, {
 
             });
 
+
+        //draw matrix cells
         d3.selectAll('.conf_row')
             .each(function(cc, ii) {
 
@@ -175,7 +222,7 @@ _.extend(CiteVis.prototype, {
 
                                 var cells = d3.select(this)
                                     .selectAll('.year_col')
-                                    .data(self.years)
+                                    .data(self.years[c])
                                     .enter()
                                     .append('g')
                                     .attr('class', 'year_col')
@@ -187,10 +234,14 @@ _.extend(CiteVis.prototype, {
 
                                     })
                                     .each(d3behaviour.highlightAndSelection)
-                                    .each(function(y, j) {
+                                    // .on('mouseover', function(y, j) {
+                                    // })
+                                    .on('mouseover', function(y, j) {
 
                                         var key = cc + '_' + c + '_' + yy + '_' + y;
                                         
+                                        self.highlightLabels(cc, c, yy, y);
+
                                         if (self.groups[key] == undefined) {
                                             return;
                                         } else {
@@ -207,6 +258,7 @@ _.extend(CiteVis.prototype, {
                                         }
 
                                     });
+                                    // .on('mouseout', self.cleanDetails);
 
 
                                 cells.append('rect')
@@ -230,6 +282,32 @@ _.extend(CiteVis.prototype, {
                             });
                     });
             });
-    }
 
+        //draw column labels
+        d3.select('.conf_row')
+            .select('.year_row')
+            .selectAll('.conf_col')
+            .append('text')
+            .attr('class', 'conf_col_label')
+            .text(_.identity)
+            .attr('text-anchor', 'middle')
+            .attr('x', function(c, i) {return self.years[c].length * matrixCellSize / 2;})
+            .attr('y', self.config.label0Shift)
+            .each(function(c, i) {
+
+                var years = d3.select(this.parentNode)
+                    .selectAll('.year_col');
+
+                console.log(years);
+                console.log(c);
+
+                years.append('text')
+                    .attr('class', 'year_col_label')
+                    .text(_.identity)
+                    .attr('text-anchor', 'start')
+                    .attr('y', self.config.label1Shift)
+                    .attr('x', matrixCellSize)
+                    .attr('transform', geom.transform.begin().rotate(-90.0, matrixCellSize, self.config.label1Shift).end());
+            });
+    }
 });

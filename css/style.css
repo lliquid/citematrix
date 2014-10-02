@@ -4,11 +4,6 @@
     fill: #fff;
 }
 
-.year_row text {
-    font-size: 12px;
-}
-
-
 .year_col circle {
     fill: #C0C0C0;
     stroke: #666666;
@@ -47,4 +42,60 @@
     background-color: #f5f5b5;
     border: 1px solid #deca7e;
     text-align: begin;
+}
+
+
+p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    margin: 0.1rem;
+}
+
+
+.year_col_label {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.7rem;
+    fill: #6B6B6B;
+}
+
+.year_row_label {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;    
+    font-size: 0.7rem;
+    fill: #6B6B6B;    
+}
+
+.year_col_label.highlight {
+    font-size: 0.8rem;
+    fill: #7A59D2;
+    stroke: #7A59D2;
+}
+
+.year_row_label.highlight {
+    font-size: 0.8rem;
+    fill: #7A59D2;
+    stroke: #7A59D2;   
+}
+
+
+.conf_col_label {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 1.2rem;    
+}
+
+.conf_row_label {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 1.2rem;
+}
+
+
+.conf_col_label.highlight {
+    font-size: 1.3rem;
+    fill: #7A59D2;
+    stroke: #7A59D2;    
+}
+
+.conf_row_label.highlight {
+    font-size: 1.3rem;
+    fill: #7A59D2;
+    stroke: #7A59D2;    
 }
