@@ -25,7 +25,8 @@ $(function() {
         app.vis = new CiteVis(app.graph, app.canvas, app.config);
 
         app.vis.init()
-            // .layout()
+            .setInfoPanel(d3.select('#aux'))
+            .layout()
             .draw();
             // .registerCallBack();
     })

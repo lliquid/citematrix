@@ -24,5 +24,9 @@ var config = {
     labelFontAscend: 0.75,
     labelFontDescend: -0.17,
 
+    label0Shift: -100,
+    label1Shift: -20
+
+
 
 }

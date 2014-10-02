@@ -11,15 +11,40 @@
 
 .year_col circle {
     fill: #C0C0C0;
-    stroke: #000;
+    stroke: #666666;
 }
 
-.year_col circle.highlight {
-    fill: #FFDFB0;
-    stroke: #FD7C2F;
+.year_col.highlight circle {
+    fill: #656CFC;
+    stroke: #7A59D2;
 }
 
-.year_col circle.selected {
-    fill: #FFDFB0;
-    stroke: #FD7C2F;
+.year_col.selected circle {
+    fill: #656CFC;
+    stroke: #7A59D2;
+}
+
+.year_col rect {
+    fill: #fff;
+    stroke: #fff;
+}
+
+.year_col.highlight rect {
+    fill: #fff;
+    stroke: #5B34F8;
+}
+
+.year_col.selected rect {
+    fill: #fff;
+    stroke: #5B34F8;
+}
+
+.tooltipsy
+{
+    padding: 10px;
+    max-width: 400px;
+    color: #303030;
+    background-color: #f5f5b5;
+    border: 1px solid #deca7e;
+    text-align: begin;
 }

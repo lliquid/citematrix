@@ -1,5 +1,5 @@
 /**
- * Created by user on 4/16/14.
+ * Created by panpan on 4/16/14.
  */
 geom = function () {
     var g = {version: "0.0"};
