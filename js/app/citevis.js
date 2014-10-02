@@ -258,7 +258,6 @@ _.extend(CiteVis.prototype, {
                                         }
 
                                     });
-                                    // .on('mouseout', self.cleanDetails);
 
 
                                 cells.append('rect')
