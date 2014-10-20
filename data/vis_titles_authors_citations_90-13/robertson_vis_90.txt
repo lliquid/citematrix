@@ -1,0 +1,4 @@
+title: A Methodology for Scientific Data Visualisation: Choosing Representations Based on a Natural Scene Paradigm
+authors: Philip K. Robertson
+in_vis_citations: 
+

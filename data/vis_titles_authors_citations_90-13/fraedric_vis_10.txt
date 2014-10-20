@@ -1,0 +1,13 @@
+title: Efficient High-Quality Volume Rendering of SPH Data
+authors: Roland Fraedrich, Stefan Auer, Ruediger Westermann
+in_vis_citations: 
+hopf_vis_03
+rosentha_vis_08
+hansenc_vis_92
+hopf_vis_03
+krueger_vis_03
+navratil_vis_07
+fraedric_vis_09
+biddiscombe_vis_07
+ellswort_vis_04
+

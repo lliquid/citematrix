@@ -1,0 +1,4 @@
+title: Geographically Weighted Visualization: Interactive Graphics for Scale-Varying Exploratory Analysis
+authors: Jason Dykes, Chris Brunsdon
+in_vis_citations: 
+

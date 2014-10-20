@@ -1,0 +1,4 @@
+title: Research Report: Adaptive Information Visualization Based on the User's Viewpoints - Interactive 3D Visualization of the WWW
+authors: Teruhiko Teraoka, Minoru Maruyama
+in_vis_citations: 
+

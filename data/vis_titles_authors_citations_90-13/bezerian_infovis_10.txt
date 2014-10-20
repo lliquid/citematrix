@@ -1,0 +1,6 @@
+title: GeneaQuilts: A System for Exploring Large Genealogies
+authors: Anastasia Bezerianos, Pierre Dragicevic, Jean-Daniel Fekete, Juhee Bae, Ben Watson, Ben Watson
+in_vis_citations: 
+fekete_infovis_02
+mcguffin_infovis_05
+

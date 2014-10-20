@@ -1,0 +1,11 @@
+title: PivotPaths: Strolling through Faceted Information Spaces
+authors: Marian Doerk, Nathalie Henry Riche, Gonzalo Ramos, Susan Dumais
+in_vis_citations: 
+collins_vast_09
+cao_infovis_10
+kang_vast_06
+stasko_vast_07
+weaver_vast_08
+heer_infovis_07
+doerk_infovis_08
+

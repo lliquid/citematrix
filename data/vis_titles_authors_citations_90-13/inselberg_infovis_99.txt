@@ -1,0 +1,5 @@
+title: The Automated Multidimensional Detective
+authors: Alfred Inselberg, Tova Avidan
+in_vis_citations: 
+inselber_infovis_97
+

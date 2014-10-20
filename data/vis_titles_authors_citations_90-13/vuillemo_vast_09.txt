@@ -1,0 +1,9 @@
+title: What's Being Said Near "Martha"? Exploring Name Entities in Literary Text Collections
+authors: Romain Vuillemot, Tanya Clement, Catherine Plaisant, Amit Kumar
+in_vis_citations: 
+wattenbe_infovis_08
+viegas_infovis_07
+oelke_vast_08
+keim_vast_07
+stasko_vast_07
+

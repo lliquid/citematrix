@@ -1,0 +1,4 @@
+title: Anisotropic Volume Rendering for Extremely Dense, Thin Line Data
+authors: Greg Schussman, Kwan-Liu Ma
+in_vis_citations: 
+

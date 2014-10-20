@@ -1,0 +1,5 @@
+title: Constrained 3D Navigation with 2D Controllers
+authors: Andrew J. Hanson, Eric A. Wernert
+in_vis_citations: 
+hanson_vis_95
+

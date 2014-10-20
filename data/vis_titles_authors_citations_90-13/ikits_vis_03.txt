@@ -1,0 +1,7 @@
+title: A Constraint-Based Technique for Haptic Volume Exploration
+authors: Milan Ikits, J. Dean Brederson, Charles D. Hansen, Christopher R. Johnson
+in_vis_citations: 
+zhang_vis_01
+lawrence_vis_00
+avila_vis_96
+

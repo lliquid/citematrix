@@ -1,0 +1,6 @@
+title: Interactive 3D Visualization Of Rigid Body Systems
+authors: Zoltan Konyha, Kresimir Matkovic, Helwig Hauser
+in_vis_citations: 
+leeuw_vis_93
+post_vis_95
+

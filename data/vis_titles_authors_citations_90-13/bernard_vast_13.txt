@@ -1,0 +1,9 @@
+title: MotionExplorer: Exploratory Search in Human Motion Capture Data Based on Hierarchical Aggregation
+authors: J??rgen Bernard, Nils Wilhelm, Bjorn Kr??ger, Thorsten May, Tobias Schreck, J??rn Kohlhammer
+in_vis_citations: 
+telea_vis_99
+schreck_vast_08
+abello_infovis_06
+scheepens_infovis_11
+cao_infovis_11
+

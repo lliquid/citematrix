@@ -1,0 +1,5 @@
+title: Visualization of High Speed Aerodynamic Configuration Design
+authors: Monika Hannemann, Helmut Sobieczky, H. Sobieczky, F. C. Dougherty, K. D. Jones
+in_vis_citations: 
+pagendarm_vis_93
+

@@ -1,0 +1,8 @@
+title: Projecting Tetrahedra without Rendering Artifacts
+authors: Martin Kraus, Wei Qiao, David S. Ebert
+in_vis_citations: 
+roettger_vis_00
+weiler_vis_03
+kraus_vis_01
+krueger_vis_03
+

@@ -1,0 +1,6 @@
+title: Compression Domain Rendering of Time-Resolved Volume Data
+authors: Ruediger Westermann
+in_vis_citations: 
+krueger_vis_90
+muraki_vis_92
+

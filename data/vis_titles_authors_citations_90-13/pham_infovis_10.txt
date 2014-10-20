@@ -1,0 +1,12 @@
+title: Visualization of Diversity in Large Multivariate Data Sets
+authors: Tuan Pham, Rob Hess, Crystal Ju, Eugene Zhang, Ronald Metoyer
+in_vis_citations: 
+inselberg_vis_90
+leblanc_vis_90
+peng_infovis_04
+inselber_infovis_97
+hauser_infovis_02
+johnson_vis_91
+fua_vis_99
+artero_infovis_04
+

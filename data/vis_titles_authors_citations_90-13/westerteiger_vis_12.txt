@@ -1,0 +1,4 @@
+title: Interactive Retro-Deformation of Terrain for Reconstructing 3D Fault Displacements
+authors: Rolf Westerteiger, Tracy Compton, Tony Bernardin, Eric Cowgill, Klaus Gwinner, Bernd Hamann, Andreas Gerndt, Hans Hagen
+in_vis_citations: 
+

@@ -1,0 +1,11 @@
+title: Improving the Readability of Clustered Social Networks using Node Duplication
+authors: Nathalie Henry, Anastasia Bezerianos, Jean-Daniel Fekete
+in_vis_citations: 
+henry_infovis_07
+henry_infovis_06
+kang_vast_06
+abello_infovis_06
+card_infovis_97
+holten_infovis_06
+auber_infovis_03
+

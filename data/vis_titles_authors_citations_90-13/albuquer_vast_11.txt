@@ -1,0 +1,10 @@
+title: Perception-Based Visual Quality Measures
+authors: Georgia Albuquerque, Martin Eisemann, Marcus Magnor
+in_vis_citations: 
+wilkinso_infovis_05
+albuquer_vast_10
+schneidewind_vast_06
+tatu_vast_09
+dasgupta_infovis_10
+johansso_infovis_09
+

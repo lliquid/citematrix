@@ -1,0 +1,10 @@
+title: Interactive Visualization of Hyperspectral Images of Historical Documents
+authors: Seon Joo Kim, Shaojie Zhuo, Fanbo Deng, Chi-Wing Fu, Michael S. Brown
+in_vis_citations: 
+kehrer_vis_08
+kruger_vis_08
+johnson_vis_08
+millerja_vis_06
+gooch_vis_95
+li_vis_08
+

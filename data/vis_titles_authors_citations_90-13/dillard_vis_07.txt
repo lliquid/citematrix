@@ -1,0 +1,7 @@
+title: Construction of Simplified Boundary Surfaces from Serial-sectioned Metal Micrographs
+authors: Scott E. Dillard, John F. Bingert, Dan Thoma, Bernd Hamann
+in_vis_citations: 
+weinstei_vis_00
+nilsson_vis_05
+nielson3_vis_97
+

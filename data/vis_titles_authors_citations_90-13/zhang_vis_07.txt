@@ -1,0 +1,6 @@
+title: Shadow-Driven 4D Haptic Visualization
+authors: Hui Zhang, Andrew J. Hanson
+in_vis_citations: 
+huang_vis_96
+hanson_vis_05
+

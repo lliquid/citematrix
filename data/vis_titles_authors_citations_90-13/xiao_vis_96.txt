@@ -1,0 +1,4 @@
+title: The Challenges of Visualizing And Modeling Environmental Data
+authors: Yingcai Xiao, John P. Ziebarth, Chuck Woodbury, Eric Bayer, Bruce Rundell, Jeroen van der Zijp
+in_vis_citations: 
+

@@ -1,0 +1,13 @@
+title: Topology Preserving Compression of 2D Vector Fields
+authors: Suresh K. Lodha, Jose C. Renteria, Krishna M. Roskin
+in_vis_citations: 
+telea_vis_99
+lavin_vis_98
+deleeuw_vis_99
+kenwright_vis_98
+heckel_vis_99
+scheuer2_vis_99
+globus_vis_91
+scheuerm_vis_97
+bajaj_vis_98
+

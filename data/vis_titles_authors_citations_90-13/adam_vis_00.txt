@@ -1,0 +1,5 @@
+title: New Techniques for Topologically Correct Surface Reconstruction
+authors: Udo Adamy, Joachim Giesen, Matthias John
+in_vis_citations: 
+teichman_vis_98
+

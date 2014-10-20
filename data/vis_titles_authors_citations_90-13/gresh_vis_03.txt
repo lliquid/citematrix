@@ -1,0 +1,6 @@
+title: Visualization, Optimization, and Business Strategy: A Case Study
+authors: Donna L. Gresh, Eugene I. Kelton
+in_vis_citations: 
+stolte_infovis_00
+gresh_vis_02
+

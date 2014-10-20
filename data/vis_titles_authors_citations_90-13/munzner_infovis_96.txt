@@ -1,0 +1,5 @@
+title: Visualizing the Global Topology of the MBone
+authors: Tamara Munzner, Eric Hoffman, K. Claffy, Bill Fenner
+in_vis_citations: 
+cox_infovis_95
+

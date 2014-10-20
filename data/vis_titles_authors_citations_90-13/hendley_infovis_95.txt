@@ -1,0 +1,4 @@
+title: Case Study Narcissus: Visualising Information
+authors: R. J. Hendley, N. S. Drew, A. M. Wood, R. Beale
+in_vis_citations: 
+

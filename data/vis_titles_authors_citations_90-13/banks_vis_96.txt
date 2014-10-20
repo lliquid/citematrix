@@ -1,0 +1,4 @@
+title: Data Reduction and Interpolation for Visualizing 3D Soil-Quality Data
+authors: David C. Banks, Bernd Hamann, Po-Yu Tsai, Robert J. Moorhead, Jonathan Barlow
+in_vis_citations: 
+

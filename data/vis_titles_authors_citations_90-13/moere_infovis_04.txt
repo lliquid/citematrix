@@ -1,0 +1,4 @@
+title: Time-Varying Data Visualization using Information Flocking Boids
+authors: Andrew Vande Moere
+in_vis_citations: 
+

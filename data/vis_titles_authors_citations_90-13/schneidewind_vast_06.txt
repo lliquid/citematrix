@@ -1,0 +1,9 @@
+title: Pixnostics: Towards Measuring the Value of Visualization
+authors: Joern Schneidewind, Mike Sips, Daniel A. Keim
+in_vis_citations: 
+wattensp_infovis_05
+wilkinso_infovis_05
+house_vis_05
+wijk_vis_05
+chi_infovis_00
+

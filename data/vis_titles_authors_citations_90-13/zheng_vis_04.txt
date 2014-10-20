@@ -1,0 +1,13 @@
+title: Topological Lines in 3D Tensor Fields
+authors: Xiaoqiang Zheng, Alex Pang
+in_vis_citations: 
+boring_vis_98
+weinstei_vis_99
+leeuw_vis_93
+zheng_vis_03
+zheng_vis_02
+delmarcelle_vis_94
+kirby_vis_99
+laidlaw_vis_98
+kindlman_vis_99
+

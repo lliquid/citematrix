@@ -1,0 +1,4 @@
+title: ACE: A Fast Multiscale Eigenvectors Computation for Drawing Huge Graphs
+authors: Yehuda Koren, Liran Carmel, David Harel
+in_vis_citations: 
+

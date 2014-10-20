@@ -1,0 +1,8 @@
+title: iVisClassifier: An Interactive Visual Analytics System for Classification Based on Supervised Dimension Reduction
+authors: Jaegul Choo, Hanseung Lee, Jaeyeon Kihm, Haesun Park
+in_vis_citations: 
+choo_vast_09
+yang_infovis_03
+williams_infovis_04
+johansso_infovis_09
+

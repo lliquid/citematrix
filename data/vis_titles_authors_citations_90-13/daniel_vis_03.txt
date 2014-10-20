@@ -1,0 +1,5 @@
+title: Video Visualization
+authors: Gareth Daniel, Min Chen
+in_vis_citations: 
+zhou_vis_02
+

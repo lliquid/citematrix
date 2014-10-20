@@ -1,0 +1,14 @@
+title: D3: Data-Driven Documents
+authors: Michael Bostock, Vadim Ogievetsky, Jeffrey Heer
+in_vis_citations: 
+stasko_infovis_00
+havre_infovis_00
+heer_infovis_10
+bostock_infovis_09
+weaver_infovis_04
+heer2_infovis_06
+wattenba_infovis_05
+byron_infovis_08
+fekete_infovis_04
+heer_infovis_07
+

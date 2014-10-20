@@ -1,0 +1,7 @@
+title: RecMap : Rectangular Map Approximations
+authors: Roland Heilmann, Daniel A. Keim, Christian Panse Mike Sips
+in_vis_citations: 
+house_vis_98
+johnson_vis_91
+keim_infovis_02
+

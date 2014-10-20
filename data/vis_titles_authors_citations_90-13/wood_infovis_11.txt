@@ -1,0 +1,7 @@
+title: BallotMaps: Detecting Name Bias in Alphabetically Ordered Ballot Papers
+authors: Jo Wood, Donia Badawood, Jason Dykes, Aidan Slingsby
+in_vis_citations: 
+slingsby_infovis_09
+wood_infovis_08
+wickham_infovis_10
+

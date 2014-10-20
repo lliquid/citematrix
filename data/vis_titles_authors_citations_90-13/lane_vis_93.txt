@@ -1,0 +1,9 @@
+title: Visualization of Time-Dependent Flow Fields
+authors: David A. Lane
+in_vis_citations: 
+hultquist1_vis_92
+bancroft_vis_90
+grinstein_vis_92
+globus_vis_91
+schroederw_vis_91
+

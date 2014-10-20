@@ -1,0 +1,4 @@
+title: The Visible Radio: Process Visualization of a Software-Defined Radio
+authors: Matthew Hall, Alex Betts, Donna Cox, David Pointer, Volodymyr Kindratenko
+in_vis_citations: 
+

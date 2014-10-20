@@ -1,0 +1,4 @@
+title: Optimizing Triangulations By Curvature Equalization
+authors: Lori L. Scarlatos
+in_vis_citations: 
+

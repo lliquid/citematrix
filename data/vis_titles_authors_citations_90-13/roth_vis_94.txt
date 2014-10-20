@@ -1,0 +1,4 @@
+title: Case Study: Visualization of Volcanic Ash Clouds
+authors: Mitchell Roth, Rick Guritz
+in_vis_citations: 
+

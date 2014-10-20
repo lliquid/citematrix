@@ -1,0 +1,8 @@
+title: Fuzzy Volume Rendering
+authors: Nathaniel Fout, Kwan-Liu Ma
+in_vis_citations: 
+lundstroem_vis_07
+zheng_vis_10
+kniss_vis_05
+correa_vast_09
+

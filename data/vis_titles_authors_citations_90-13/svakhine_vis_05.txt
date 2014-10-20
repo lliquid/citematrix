@@ -1,0 +1,16 @@
+title: Illustration and Photography Inspired Visualization of Flows and Volumes
+authors: Nikolai A. Svakhine, Yun Jang, David Ebert, Kelly Gaither
+in_vis_citations: 
+post_vis_95
+max_vis_93
+li-gs_vis_03
+zoeckler_vis_96
+interran_vis_97
+weiskopf_vis_03
+kirby_vis_99
+ebert_vis_00
+jobard_vis_00
+joshi_vis_05
+treavett_vis_00
+crawfis_vis_93
+

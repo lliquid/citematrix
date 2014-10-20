@@ -1,0 +1,6 @@
+title: The Effect of Colour and Transparency on the Perception of Overlaid Grids
+authors: Lyn Bartram, Billy Cheung, Maureen C. Stone
+in_vis_citations: 
+bair_vis_07
+acevedo_vis_06
+

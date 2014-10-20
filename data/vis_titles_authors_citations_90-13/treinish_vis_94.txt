@@ -1,0 +1,5 @@
+title: Case Study: Severe Rainfall Events in Northwestern Peru (Visualization of Scattered Meteorological Data)
+authors: Lloyd A. Treinish
+in_vis_citations: 
+lucas1_vis_92
+

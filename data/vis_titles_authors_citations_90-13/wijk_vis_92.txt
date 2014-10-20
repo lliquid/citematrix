@@ -1,0 +1,5 @@
+title: Rendering Surface-Particles
+authors: Jarke J. van Wijk
+in_vis_citations: 
+helman_vis_90
+

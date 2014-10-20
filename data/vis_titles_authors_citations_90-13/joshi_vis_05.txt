@@ -1,0 +1,13 @@
+title: Illustration-inspired techniques for visualizing time-varying data
+authors: Alark Joshi, Penny Rheingans
+in_vis_citations: 
+lum_vis_01
+shen_vis_99
+shen_vis_94
+silver_vis_96
+sutton_vis_99
+svakhine_vis_05
+lu_vis_02
+ebert_vis_00
+hadwiger_vis_03
+

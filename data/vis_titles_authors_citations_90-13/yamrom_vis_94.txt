@@ -1,0 +1,6 @@
+title: Visualizing Polycrystalline Orientation Microstructures with Spherical Color Maps
+authors: Boris Yamrom, John A. Sutliff, Andrew P. Woodfieldt
+in_vis_citations: 
+alpern_vis_93
+fekete_vis_90
+

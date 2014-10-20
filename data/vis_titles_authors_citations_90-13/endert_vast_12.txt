@@ -1,0 +1,9 @@
+title: Semantic Interaction for Sensemaking: Inferring Analytical Reasoning for Model Steering
+authors: Alex Endert, Patrick Fiaux, Chris North
+in_vis_citations: 
+wise_infovis_95
+andrews_vast_12
+endert_vast_11
+kang_vast_11
+stasko_vast_07
+

@@ -1,0 +1,9 @@
+title: Color Design for Illustrative Visualization
+authors: Lujin Wang, Joachim Giesen, Kevin T. McDonnell, Peter Zolliker, Klaus Mueller
+in_vis_citations: 
+rogowitz_vis_93
+healey_vis_96
+giesen_vis_07
+kimyoung_vis_06
+rogowitz_vis_01
+

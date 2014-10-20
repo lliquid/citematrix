@@ -1,0 +1,11 @@
+title: The Scalable Reasoning System: Lightweight Visualization for Distributed Analytics
+authors: William A. Pike, Joe Bruce, Bob Baddeley, Daniel Best, Lyndsey Franklin, Richard May, Douglas M. Rice, Rick Riensche, Katarina Younkin
+in_vis_citations: 
+viegas_infovis_07
+smith_infovis_06
+eick_vast_07
+hetzler_infovis_05
+rogowitz_vis_93
+stasko_vast_07
+pan_vast_07
+

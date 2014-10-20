@@ -1,0 +1,6 @@
+title: Image Graphs - A Novel Approach to Visual Data Exploration
+authors: Kwan-Liu Ma
+in_vis_citations: 
+abram_vis_95
+he1_vis_96
+

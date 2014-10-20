@@ -1,0 +1,9 @@
+title: Smooth View-Dependent Level-of-Detail Control and its Application to Terrain Rendering
+authors: Hugues Hoppe
+in_vis_citations: 
+defloriani_vis_97
+cohenor1_vis_96
+xia_vis_96
+duchaine_vis_97
+cohen_vis_97
+

@@ -1,0 +1,7 @@
+title: Selecting the Aspect Ratio of a Scatter Plot Based on Its Delaunay Triangulation
+authors: Martin Fink, Jan-Henrik Haunert, Joachim Spoerhase, Alexander Wolff
+in_vis_citations: 
+heer1_infovis_06
+talbot_infovis_12
+talbot_infovis_11
+

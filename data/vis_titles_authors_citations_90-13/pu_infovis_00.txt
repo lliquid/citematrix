@@ -1,0 +1,5 @@
+title: Interactive Problem Solving Via Algorithm Visualization
+authors: Pearl Pu, Denis Lalanne
+in_vis_citations: 
+chuah_infovis_98
+

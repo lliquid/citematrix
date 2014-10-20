@@ -1,0 +1,5 @@
+title: Causality Visualization Using Animated Growing Polygons
+authors: Niklas Elmqvist, Philippas Tsigas
+in_vis_citations: 
+moses_infovis_98
+

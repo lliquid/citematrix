@@ -1,0 +1,5 @@
+title: Semi-Regular Mesh Extraction from Volumes
+authors: Zoe J. Wood, Mathieu Desbrun, Peter Schroeder, David Breen
+in_vis_citations: 
+gerstner_vis_00
+

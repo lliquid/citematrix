@@ -1,0 +1,13 @@
+title: Hybrid Simplification: Combining Multi-resolution Polygon and Point Rendering
+authors: Jonathan D. Cohen, Daniel G. Aliaga, Weiqiang Zhang
+in_vis_citations: 
+elsana_vis_97
+klein_vis_96
+lindstrom_vis_98
+defloriani_vis_98
+schroede_vis_97
+garland_vis_98
+chen_vis_01
+cohen_vis_97
+defloriani_vis_97
+

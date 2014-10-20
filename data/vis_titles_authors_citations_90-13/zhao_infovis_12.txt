@@ -1,0 +1,9 @@
+title: Facilitating Discourse Analysis with Interactive Visualization
+authors: Jian Zhao, Fanny Chevalier, Christopher Collins, Ravin Balakrishnan
+in_vis_citations: 
+bremm_vast_11
+tu_infovis_07
+collins_infovis_09
+munzner_infovis_99
+vanham_infovis_03
+

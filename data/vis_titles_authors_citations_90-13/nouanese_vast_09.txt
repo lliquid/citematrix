@@ -1,0 +1,5 @@
+title: Using Projection and 2D Plots to Visually Reveal Genetic Mechanisms of Complex Human Disorders
+authors: Boonthanome Nouanesengsy, Han-Wei Shen, Sang-Cheol Seok, Veronica J. Vieland
+in_vis_citations: 
+vanwijk1_vis_93
+

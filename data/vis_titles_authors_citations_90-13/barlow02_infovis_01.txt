@@ -1,0 +1,4 @@
+title: Case Study: Visualization for Decision Tree Analysis in Data Mining
+authors: Todd Barlow, Padraic Neville
+in_vis_citations: 
+

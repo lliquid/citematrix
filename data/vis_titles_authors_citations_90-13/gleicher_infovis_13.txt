@@ -1,0 +1,5 @@
+title: Perception of Average Value in Multiclass Scatterplots
+authors: Michael Gleicher, Michael Correll, Christine Nothelfer, Steven Franconeri
+in_vis_citations: 
+haroz_infovis_12
+

@@ -1,0 +1,9 @@
+title: Watch This: A Taxonomy for Dynamic Data Visualization
+authors: Joseph A. Cottam, Andrew Lumsdaine, Chris Weaver
+in_vis_citations: 
+ogawa_infovis_09
+moere_infovis_04
+heer_infovis_07
+robertso_infovis_08
+chi_infovis_00
+

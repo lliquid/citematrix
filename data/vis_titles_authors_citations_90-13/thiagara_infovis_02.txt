@@ -1,0 +1,6 @@
+title: Visualizing Biosequence data using Texture Mapping
+authors: Praveen R. Thiagarajan, Guang R. Gao
+in_vis_citations: 
+cline_vis_98
+keahey_infovis_01
+

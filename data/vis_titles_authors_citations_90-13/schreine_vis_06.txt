@@ -1,0 +1,9 @@
+title: High-Quality Extraction of Isosurfaces from Regular and Irregular Grids
+authors: John Schreiner, Carlos E. Scheidegger, Claudio T. Silva
+in_vis_citations: 
+nielson_vis_91
+wood_vis_00
+crossno_vis_97
+kindlman_vis_03
+livnat_vis_04
+

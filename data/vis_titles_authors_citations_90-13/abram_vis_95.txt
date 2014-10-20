@@ -1,0 +1,8 @@
+title: An Extended Data-Flow Architecture for Data Analysis and Visualization
+authors: Greg Abram, Lloyd Treinish
+in_vis_citations: 
+pang_vis_94
+song_vis_93
+haber_vis_91
+lucas1_vis_92
+

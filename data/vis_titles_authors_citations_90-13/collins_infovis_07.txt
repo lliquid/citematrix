@@ -1,0 +1,11 @@
+title: VisLink: Revealing Relationships Amongst Visualizations
+authors: Christopher Collins, Sheelagh Carpendale
+in_vis_citations: 
+mcguffin_vis_03
+inselberg_vis_90
+shneiderman_infovis_06
+johnson_vis_91
+wongn_infovis_03
+yee_infovis_01
+holten_infovis_06
+

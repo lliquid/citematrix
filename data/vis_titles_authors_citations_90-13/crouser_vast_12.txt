@@ -1,0 +1,24 @@
+title: An Affordance-Based Framework for Human Computation and Human-Computer Collaboration
+authors: Jordan Crouser, Remco Chang
+in_vis_citations: 
+migut_vast_10
+dou_vast_11
+fuchs_vis_09
+liu_vast_10
+garg_vast_10
+andrienk_vast_09
+chen_vast_10
+koch_vast_09
+ingram_vast_10
+steed_vast_09
+migut_vast_11
+shriniva_vast_09
+kadivar_vast_09
+tatu_vast_09
+ruiz_vis_11
+zheng_vis_11
+ip_vis_11
+choo_vast_10
+lipford_vast_10
+chen_vast_11
+

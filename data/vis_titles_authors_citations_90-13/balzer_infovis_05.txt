@@ -1,0 +1,10 @@
+title: Voronoi Treemaps
+authors: Michael Balzer, Oliver Deussen
+in_vis_citations: 
+granitze_infovis_04
+wattenberg_infovis_01
+johnson_vis_91
+du_vis_04
+turo_vis_92
+vanwijk_infovis_99
+

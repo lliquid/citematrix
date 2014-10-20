@@ -1,0 +1,4 @@
+title: A Voxel-Based, Forward Projection Algorithm for Rendering Surface and Volumetric Data
+authors: John R. Wright, Julia C. L. Hsieh
+in_vis_citations: 
+

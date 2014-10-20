@@ -1,0 +1,6 @@
+title: A Shader-Based Parallel Rendering Framework
+authors: Jeremie Allard, Bruno Raffin
+in_vis_citations: 
+abram_vis_95
+kanitsar2_vis_02
+

@@ -1,0 +1,4 @@
+title: Visualizing Causal Effects in 4D Space-Time Vector Fields
+authors: D. Silver, M. Gao, N. Zabusky
+in_vis_citations: 
+

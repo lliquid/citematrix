@@ -1,0 +1,5 @@
+title: Case Study: Visualization of 3D Ultrasonic Data
+authors: Georgios Sakas, Lars-Arne Schreyer, Marcus Grimm
+in_vis_citations: 
+williamsp_vis_92
+

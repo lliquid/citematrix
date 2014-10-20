@@ -1,0 +1,5 @@
+title: Case Study: Application of Feature Tracking to Analysis of Autoignition Simulation Data
+authors: Wendy S. Koegler
+in_vis_citations: 
+silver_vis_98
+

@@ -1,0 +1,5 @@
+title: 3D Digital Cleansing Using Segmentation Rays
+authors: Sarang Lakare, Ming Wan, Mie Sato, Arie Kaufman
+in_vis_citations: 
+wan2_vis_99
+

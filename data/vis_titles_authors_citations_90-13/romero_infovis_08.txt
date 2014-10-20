@@ -1,0 +1,6 @@
+title: Viz-A-Vis: Toward Visualizing Video through Computer Vision
+authors: Mario Romero, Jay Summet, John Stasko, Gregory Abowd
+in_vis_citations: 
+daniel_vis_03
+ivanov_infovis_07
+

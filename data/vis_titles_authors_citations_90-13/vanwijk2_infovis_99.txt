@@ -1,0 +1,4 @@
+title: Cluster and Calendar based Visualization of Time Series Data
+authors: Jarke J. van Wijk, Edward R. van Selow
+in_vis_citations: 
+

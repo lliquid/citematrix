@@ -1,0 +1,8 @@
+title: Interactive Visual Comparison of Multiple Trees
+authors: Sebastian Bremm, Tatiana von Landesberger, Martin Hess, Tobias Schreck, Philipp Weil, Kay Hamacher
+in_vis_citations: 
+tu_infovis_08
+chenjin_infovis_09
+vonlande_vast_09
+tu_infovis_07
+

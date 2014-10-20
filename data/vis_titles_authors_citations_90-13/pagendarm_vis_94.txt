@@ -1,0 +1,5 @@
+title: Feature Detection from Vector Quantities in a Numerically Simulated Hypersonic Flow Field in Combination with Experimental Flow Visualization
+authors: Hans-Georg Pagendarm, Birgit Walter
+in_vis_citations: 
+kenwright_vis_92
+

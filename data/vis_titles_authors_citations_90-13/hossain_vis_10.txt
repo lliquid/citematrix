@@ -1,0 +1,8 @@
+title: Edge Aware Anisotropic Diffusion for 3D Scalar Data
+authors: Zahid Hossain, Torsten Moeller
+in_vis_citations: 
+tasdizen_vis_02
+kindlman_vis_03
+carr_vis_04
+tenginakai_vis_01
+

@@ -1,0 +1,5 @@
+title: Comparative Visualization for Wave-based and Geometric Acoustics
+authors: Eduard Deines, Martin Bertram, Jan Mohring, Jevgenij Jegorovs, Frank Michel, Hans Hagen, Gregory M. Nielson
+in_vis_citations: 
+bertram_vis_05
+

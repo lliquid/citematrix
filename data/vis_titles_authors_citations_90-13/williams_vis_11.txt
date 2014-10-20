@@ -1,0 +1,7 @@
+title: Adaptive Extraction and Quantification of Geophysical Vortices
+authors: Sean Williams, Mark Petersen, Peer-Timo Bremer, Matthew Hecht, Valerio Pascucci, James Ahrens, Mario Hlawitschka, Bernd Hamann
+in_vis_citations: 
+banks_vis_94
+schneide_vis_08
+crawfis_vis_93
+

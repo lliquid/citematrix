@@ -1,0 +1,4 @@
+title: Parallel Coordinates: A Tool for Visualizing Multi-Dimensional Geometry
+authors: Alfred Inselberg, Bernard Dimsdale
+in_vis_citations: 
+

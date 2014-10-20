@@ -1,0 +1,7 @@
+title: Visual Optimality and Stability Analysis of 3DCT Scan Positions
+authors: Artem Amirkhanov, Christoph Heinzl, Michael Reiter, Eduard Groeller
+in_vis_citations: 
+viola_vis_06
+takahash_vis_05
+bordoloi_vis_05
+

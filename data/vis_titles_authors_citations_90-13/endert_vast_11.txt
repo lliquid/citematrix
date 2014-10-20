@@ -1,0 +1,4 @@
+title: Observation-Level Interaction with Statistical Models for Visual Analytics
+authors: Alex Endert, Chao Han, Dipayan Maiti, Leanna House, Scotland Leman, Chris North
+in_vis_citations: 
+

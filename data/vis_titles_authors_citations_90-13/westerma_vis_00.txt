@@ -1,0 +1,15 @@
+title: A Level-Set Method for Flow Visualization
+authors: Ruediger Westermann, Christopher Johnson, Thomas Ertl
+in_vis_citations: 
+telea_vis_99
+rezk_vis_99
+crawfis_vis_93
+hultquist1_vis_92
+interran_vis_97
+heckel_vis_99
+vanwijk2_vis_93
+vanwijk2_vis_93
+shen_vis_97
+cai_vis_97
+max_vis_94
+

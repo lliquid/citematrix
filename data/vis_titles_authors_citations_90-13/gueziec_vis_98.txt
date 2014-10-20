@@ -1,0 +1,6 @@
+title: Converting Sets of Polygons to Manifold Surfaces by Cutting and Stitching
+authors: Andre Gueziec, Gabriel Taubin, Francis Lazarus, William Horn
+in_vis_citations: 
+barequet_vis_97
+abram_vis_95
+

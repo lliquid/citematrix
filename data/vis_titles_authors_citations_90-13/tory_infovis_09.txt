@@ -1,0 +1,12 @@
+title: Comparing Dot and Landscape Spatializations for Visual Memory Differences
+authors: Melanie Tory, Colin Swindells, Rebecca Dreezer
+in_vis_citations: 
+granitze_infovis_04
+nowell_infovis_02
+tory_infovis_07
+williams_infovis_04
+tavanti_infovis_01
+wise_infovis_95
+tavanti_infovis_01
+nowell_infovis_01
+

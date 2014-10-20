@@ -1,0 +1,6 @@
+title: Approximate Shading for the Re-Illumination of Synthetic Images
+authors: Randy Scoggins, Raghu Machiraju
+in_vis_citations: 
+hoppe_vis_99
+scoggins_vis_00
+

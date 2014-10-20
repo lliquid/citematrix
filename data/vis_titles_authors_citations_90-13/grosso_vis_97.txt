@@ -1,0 +1,11 @@
+title: The Multilevel Finite Element Method for Adaptive Mesh Optimization and Visualization of Volume Data
+authors: Roberto Grosso, Christoph Luerig, Thomas Ertl
+in_vis_citations: 
+shekhar_vis_96
+klein_vis_96
+gross_vis_95
+shen_vis_96
+yagel_vis_93
+shen_vis_95
+wilhelms_vis_96
+

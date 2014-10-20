@@ -1,0 +1,4 @@
+title: Interactive Visualization of Large Scalar Voxel Fields
+authors: Georgios Sakas, Jochen Hartig
+in_vis_citations: 
+

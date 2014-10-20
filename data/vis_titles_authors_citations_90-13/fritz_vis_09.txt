@@ -1,0 +1,10 @@
+title: A Visual Approach to Efficient Analysis and Quantification of Ductile Iron and Reinforced Sprayed Concrete
+authors: Laura Fritz, Markus Hadwiger, Georg Geier, Gerhard Pittino, Eduard Groeller
+in_vis_citations: 
+hadwiger_vis_08
+huang_vis_03
+correa_vis_08
+kniss_vis_01
+krueger_vis_03
+gyulassy1_vis_07
+

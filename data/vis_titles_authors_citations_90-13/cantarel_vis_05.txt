@@ -1,0 +1,4 @@
+title: Visualizing the tightening of knots
+authors: Jason Cantarella, Michael Piatek, Eric Rawdon
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Visualization for Aerodynamic Design of Helicopter Rotor Blades
+authors: G. David Kerlick
+in_vis_citations: 
+

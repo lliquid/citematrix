@@ -1,0 +1,4 @@
+title: The Vision Camera: An Interactive Tool for Volume Data Exploration and Navigation
+authors: Hans-Heino Ehricke, Gerhard Daiber, Wolfgang Strasser
+in_vis_citations: 
+

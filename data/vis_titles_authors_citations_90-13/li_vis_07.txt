@@ -1,0 +1,18 @@
+title: Visualizing Large-Scale Uncertainty in Astrophysical Data
+authors: Hongwei Li, Chi-Wing Fu, Yinggang Li, Andrew J. Hanson
+in_vis_citations: 
+cedilnik_vis_00
+grigorya_vis_02
+hopf_vis_03
+kniss_vis_05
+millerja_vis_06
+liyingga_vis_06
+sanderso_vis_04
+botchen_vis_05
+lodha2_vis_96
+kaehler_vis_02
+lodha1_vis_96
+olston_infovis_02
+magnor_vis_05
+magnor_vis_04
+

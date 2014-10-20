@@ -1,0 +1,15 @@
+title: A Visual Analysis Concept for the Validation of Geoscientific Simulation Models
+authors: Andrea Unger, Sven Schulte, Volker Klemann, Doris Dransch
+in_vis_citations: 
+yuan_vis_10
+tomaszew_vast_10
+torsneyweir_vis_11
+matkovic_vis_08
+waser_vis_11
+waser_vis_10
+matkovic_vis_10
+bruckner_vis_10
+vanwijk1_vis_93
+sanyal_vis_10
+kehrer_vis_08
+

@@ -1,0 +1,11 @@
+title: Model Space Visualization for Multivariate Linear Trend Discovery
+authors: Zhenyu Guo, Matthew O. Ward, Elke A. Rundensteiner
+in_vis_citations: 
+schreck_vast_08
+yang_vast_07
+savikhin_vast_08
+nam_vast_07
+inselberg_vis_90
+garg_vast_08
+barlowe_vast_08
+

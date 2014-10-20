@@ -1,0 +1,4 @@
+title: Dynamic Map Labeling
+authors: Ken Been, Eli Daiches, Chee Yap
+in_vis_citations: 
+

@@ -1,0 +1,9 @@
+title: ManiWordle: Providing Flexible Control over Wordle
+authors: Kyle Koh, Bongshin Lee, Bohyoung Kim, Jinwook Seo
+in_vis_citations: 
+pousman_infovis_07
+yi_infovis_07
+viegas_infovis_09
+collins_vast_09
+skog_infovis_03
+

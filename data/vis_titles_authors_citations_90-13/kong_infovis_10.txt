@@ -1,0 +1,14 @@
+title: Perceptual Guidelines for Creating Rectangular Treemaps
+authors: Nicholas Kong, Jeffrey Heer, Maneesh Agrawala
+in_vis_citations: 
+stasko_infovis_00
+wattensp_infovis_05
+kobsa_infovis_04
+saito_infovis_05
+lam_infovis_07
+wattenberg_infovis_01
+barlow01_infovis_01
+ziemkiew_infovis_08
+vanwijk_infovis_99
+vanham_infovis_02
+

@@ -1,0 +1,6 @@
+title: Interactive Sound Rendering in Complex and Dynamic Scenes using Frustum Tracing
+authors: Christian Lauterbach, Anish Chandak, Dinesh Manocha
+in_vis_citations: 
+deines_vis_06
+bertram_vis_05
+

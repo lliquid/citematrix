@@ -1,0 +1,11 @@
+title: Analysis of Large Digital Collections with Interactive Visualization
+authors: Weijia Xu, Maria Esteva, Suyog Dutt Jain, Varun Jain
+in_vis_citations: 
+stasko_infovis_00
+wattenbe_infovis_08
+clarkson_infovis_09
+stasko_vast_07
+fekete_infovis_04
+shi_vast_10
+vanwijk_infovis_99
+

@@ -1,0 +1,8 @@
+title: Case Study on the Adaptation of Interactive Visualization Applications to Web-Based Production for Operational Mesoscale Weather Models
+authors: Lloyd A. Treinish
+in_vis_citations: 
+treinish1_vis_00
+abram_vis_95
+jankun_vis_00
+treinish2_vis_00
+

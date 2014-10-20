@@ -1,0 +1,9 @@
+title: Sketching Uncertainty into Simulations
+authors: Hrvoje Ribicic, Juergen Waser, Roman Gurbat, Bernhard Sadransky, Eduard Groeller
+in_vis_citations: 
+waser_vis_10
+waser_vis_11
+waser_vis_10
+tateosia_vis_10
+afzal_vast_11
+

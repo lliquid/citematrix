@@ -1,0 +1,6 @@
+title: Isosurface Generation by Using Extrema Graphs
+authors: Takayuki Itoh, Koji Koyamada
+in_vis_citations: 
+koyamada_vis_92
+gallagher_vis_91
+

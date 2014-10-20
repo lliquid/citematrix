@@ -1,0 +1,6 @@
+title: Constrained Optimal Framings of Curves and Surfaces using Quaternion Gauss Maps
+authors: Andrew J. Hanson
+in_vis_citations: 
+hanson_vis_94
+hanson_vis_97
+

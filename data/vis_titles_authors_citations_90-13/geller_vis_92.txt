@@ -1,0 +1,4 @@
+title: Visualizing the Universe
+authors: Margaret J. Geller, Emilio E. Falco, Daniel G. Fabricant, Boyd Estus
+in_vis_citations: 
+

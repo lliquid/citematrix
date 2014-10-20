@@ -1,0 +1,4 @@
+title: A Data Model for Scientific Visualization with Provisions for Regular and Irregular Grids
+authors: R.B. Haber, B. Lucas, N. Collins
+in_vis_citations: 
+

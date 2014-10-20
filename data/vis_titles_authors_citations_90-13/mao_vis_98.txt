@@ -1,0 +1,6 @@
+title: Image-Guided Streamline Placement on Curvilinear Grid Surfaces
+authors: Xiaoyang Mao, Yuji Hatanaka, Hidenori Higashida, Atsumi Imamiya
+in_vis_citations: 
+max_vis_94
+dovey_vis_95
+

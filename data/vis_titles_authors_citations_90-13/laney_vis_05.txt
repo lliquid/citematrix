@@ -1,0 +1,7 @@
+title: Hardware-Accelerated Simulated Radiography
+authors: Daniel Laney, Steven P. Callahan, Nelson Max, Claudio T. Silva,
+in_vis_citations: 
+roettger_vis_00
+kraus_vis_04
+weiler_vis_03
+

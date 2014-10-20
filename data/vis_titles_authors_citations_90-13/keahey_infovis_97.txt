@@ -1,0 +1,5 @@
+title: Nonlinear Magnification Fields
+authors: T. Alan Keaheyy, Edward L. Robertson
+in_vis_citations: 
+keahey_infovis_96
+

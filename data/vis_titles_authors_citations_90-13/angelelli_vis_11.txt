@@ -1,0 +1,11 @@
+title: Straightening Tubular Flow for Side-by-Side Visualization
+authors: Paolo Angelelli, Helwig Hauser
+in_vis_citations: 
+ropinski_vis_09
+jones_vis_10
+roth_vis_96
+kanitsar_vis_03
+vanpelt_vis_10
+bartoli_vis_01
+lampe_vis_09
+

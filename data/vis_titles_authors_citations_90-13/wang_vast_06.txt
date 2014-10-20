@@ -1,0 +1,8 @@
+title: Interactive Wormhole Detection in Large Scale Wireless Networks
+authors: Weichao Wang, Aidong Lu
+in_vis_citations: 
+chalmers_vis_96
+rafiei_vis_05
+morrison_infovis_02
+williams_infovis_04
+

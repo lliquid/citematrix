@@ -1,0 +1,4 @@
+title: Visualization of Multi-dimensional Structures. Applications in Positron Emission Tomography and Climate Data
+authors: Nahum D. Gershon
+in_vis_citations: 
+

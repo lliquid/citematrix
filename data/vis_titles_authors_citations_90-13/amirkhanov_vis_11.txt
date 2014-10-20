@@ -1,0 +1,6 @@
+title: Projection-Based Metal-Artifact Reduction for Industrial 3D X-ray Computed Tomography
+authors: Artem Amirkhanov, Christoph Heinzl, Michael Reiter, Johann Kastner, Eduard Groeller
+in_vis_citations: 
+hadwiger_vis_08
+huang_vis_03
+

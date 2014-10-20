@@ -1,0 +1,5 @@
+title: Visual Path Analysis
+authors: T. Alan Keahey, Stephen G. Eick
+in_vis_citations: 
+brainerd_infovis_01
+

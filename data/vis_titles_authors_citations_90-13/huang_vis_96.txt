@@ -1,0 +1,4 @@
+title: Untangling Knots by Stochastic Energy Optimization
+authors: Milana Huang, Robert P Grzeszczukt, Louis H. Kauffman
+in_vis_citations: 
+

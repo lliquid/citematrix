@@ -1,0 +1,5 @@
+title: Volume Sampled Voxelization of Geometric Primitives
+authors: Sidney W. Wang, Arie E. Kaufman
+in_vis_citations: 
+wright_vis_92
+

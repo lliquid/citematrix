@@ -1,0 +1,9 @@
+title: SAVE: Sensor Anomaly Visualization Engine
+authors: Lei Shi, Qi Liao, Yuan He, Rui Li, Aaron Striegel, Zhong Su
+in_vis_citations: 
+bak_infovis_09
+wong_vast_09
+heer_infovis_05
+ghoniem_infovis_04
+liu_vast_10
+

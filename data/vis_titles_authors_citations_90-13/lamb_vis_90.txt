@@ -1,0 +1,4 @@
+title: Interpreting a 3D Object From a Rough 2D Line Drawing
+authors: Del Lamb, Amit Bandopadhay
+in_vis_citations: 
+

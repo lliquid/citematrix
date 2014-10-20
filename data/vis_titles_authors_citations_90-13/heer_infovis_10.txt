@@ -1,0 +1,15 @@
+title: Declarative Language Design for Interactive Visualization
+authors: Jeffrey Heer, Michael Bostock
+in_vis_citations: 
+bostock_infovis_09
+heer2_infovis_06
+weaver_infovis_04
+viegas_infovis_07
+slingsby_infovis_09
+lucas1_vis_92
+mcdonnel_infovis_09
+piringer_infovis_09
+heer_infovis_07
+fekete_infovis_04
+stolte_infovis_00
+

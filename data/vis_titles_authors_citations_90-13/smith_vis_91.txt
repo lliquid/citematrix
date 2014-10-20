@@ -1,0 +1,4 @@
+title: Interactive Data Exploration with a Supercomputer
+authors: Stuart Smith, Georges Grinstein, R. Daniel Bergeron
+in_vis_citations: 
+

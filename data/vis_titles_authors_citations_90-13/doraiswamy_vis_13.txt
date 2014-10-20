@@ -1,0 +1,7 @@
+title: An Exploration Framework to Identify and Track Movement of Cloud Systems
+authors: Harish Doraiswamy, Vijay Natarajan, Ravi S. Nanjundiah
+in_vis_citations: 
+gosink_vis_07
+laney_vis_06
+riley_vis_03
+

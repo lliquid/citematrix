@@ -1,0 +1,6 @@
+title: Using Visualization to Detect Plagiarism in Computer Science Classes
+authors: Randy L. Ribler, Marc Abrams
+in_vis_citations: 
+wu_vis_93
+chi_vis_95
+

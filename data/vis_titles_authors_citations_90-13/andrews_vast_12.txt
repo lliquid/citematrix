@@ -1,0 +1,15 @@
+title: Analyst's Workspace: An Embodied Sensemaking Environment For Large, High-Resolution Displays
+authors: Christopher Andrews, Chris North
+in_vis_citations: 
+liu_infovis_08
+bier_vast_08
+kapler_infovis_04
+robinson_vast_08
+yost_infovis_06
+eccles_vast_07
+isenberg_vast_10
+endert_vast_11
+stasko_vast_07
+kang_vast_11
+kang_vast_09
+

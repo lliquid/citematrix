@@ -1,0 +1,10 @@
+title: Isosurface Extraction in Time-varying Fields Using a Temporal Hierarchical Index Tree
+authors: Han-Wei Shen
+in_vis_citations: 
+itoh_vis_96
+chiang_vis_97
+shen_vis_96
+chiang_vis_98
+gallagher_vis_91
+shen_vis_95
+

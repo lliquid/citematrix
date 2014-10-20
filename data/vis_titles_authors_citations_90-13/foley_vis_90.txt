@@ -1,0 +1,5 @@
+title: Visualization of Irregular Multivariate Data
+authors: Thomas A. Foley, David A. Lane
+in_vis_citations: 
+gross_infovis_97
+

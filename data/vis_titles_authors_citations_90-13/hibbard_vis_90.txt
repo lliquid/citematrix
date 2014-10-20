@@ -1,0 +1,4 @@
+title: The VIS-5D System for Easy Interactive Visualization
+authors: Bill Hibbard, Dave Santek
+in_vis_citations: 
+

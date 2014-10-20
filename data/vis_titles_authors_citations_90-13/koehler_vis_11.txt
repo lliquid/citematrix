@@ -1,0 +1,25 @@
+title: Vortex Visualization in Ultra Low Reynolds Number Insect Flight
+authors: Christopher Koehler, Thomas Wischgoll, Haibo Dong, Zachary Gaston
+in_vis_citations: 
+jiang_vis_02
+stegmaie_vis_05
+wiebel_vis_07
+ye_vis_05
+vonfunck_vis_08
+ferstl_vis_10
+wiebel_vis_05
+laramee_vis_05
+marchesi_vis_10
+verma_vis_00
+weinkauf_vis_10
+tricoche_vis_04
+roth_vis_98
+chen_vis_07
+krishnan_vis_09
+garth_vis_08
+sadlo_vis_06
+bauer_vis_02
+weinkauf_vis_07
+born_vis_10
+jankunke_vis_06
+

@@ -1,0 +1,6 @@
+title: Necklace Maps
+authors: Bettina Speckmann, Kevin Verbeek
+in_vis_citations: 
+heilmann_infovis_04
+wood_infovis_08
+

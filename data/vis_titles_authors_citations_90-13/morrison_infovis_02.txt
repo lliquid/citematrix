@@ -1,0 +1,5 @@
+title: A Hybrid Layout Algorithm for Sub-Quadratic Multidimensional Scaling
+authors: Alistair Morrison, Greg Ross, Matthew Chalmers
+in_vis_citations: 
+chalmers_vis_96
+

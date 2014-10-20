@@ -1,0 +1,9 @@
+title: Extensions of the Zwart-Powell Box Spline for Volumetric Data Reconstruction on the Cartesian Lattice
+authors: Alireza Entezari, Torsten Moeller
+in_vis_citations: 
+marschner_vis_94
+carlbom_vis_93
+qiao_vis_05
+entezari_vis_04
+moeller_vis_97
+

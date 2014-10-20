@@ -1,0 +1,11 @@
+title: Orion: A System for Modeling, Transformation and Visualization of Multidimensional Heterogeneous Networks
+authors: Jeffrey Heer, Adam Perer
+in_vis_citations: 
+heer_infovis_10
+bostock_infovis_09
+heer2_infovis_06
+henry_infovis_07
+shneiderman_infovis_06
+kang_vast_06
+stolte_infovis_00
+

@@ -1,0 +1,4 @@
+title: Legibility Enhancement for Information Visualisation
+authors: Rob Ingram, Steve Benford
+in_vis_citations: 
+

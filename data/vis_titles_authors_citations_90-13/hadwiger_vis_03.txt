@@ -1,0 +1,8 @@
+title: High-Quality Two-Level Volume Rendering of Segmented Data Sets on Consumer Graphics Hardware
+authors: Markus Hadwiger, Christoph Berger, Helwig Hauser
+in_vis_citations: 
+tiede_vis_98
+krueger_vis_03
+lu_vis_02
+ebert_vis_00
+

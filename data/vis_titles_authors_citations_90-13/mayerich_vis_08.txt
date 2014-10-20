@@ -1,0 +1,8 @@
+title: Visualization of Cellular and Microvascular Relationships
+authors: David M. Mayerich, Louise Abbott, John Keyser
+in_vis_citations: 
+stoll_vis_05
+puig_vis_97
+melek_vis_06
+petrovic_vis_07
+

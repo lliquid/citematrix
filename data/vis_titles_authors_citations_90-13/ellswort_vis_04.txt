@@ -1,0 +1,11 @@
+title: Interactive Terascale Particle Visualization
+authors: David Ellsworth, Bryan Green, Patrick Moran
+in_vis_citations: 
+chiang_vis_03
+chiang_vis_98
+cox_vis_97
+ellswort_vis_03
+lane_vis_94
+heermann_vis_98
+abram_vis_95
+

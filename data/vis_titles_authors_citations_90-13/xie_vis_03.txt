@@ -1,0 +1,5 @@
+title: Piecewise C1 Continuous Surface Reconstruction of Noisy Point Clouds via Local Implicit Quadric Regression
+authors: Hui Xie, Jianning Wang, Jing Hua, Hong Qin, Arie Kaufman
+in_vis_citations: 
+alexa_vis_01
+

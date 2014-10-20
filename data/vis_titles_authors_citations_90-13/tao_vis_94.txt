@@ -1,0 +1,5 @@
+title: Progressive Transmission of Scientific Data Using Biorthogonal Wavelet Transform
+authors: Hai Tao, Robert J. Moorhead
+in_vis_citations: 
+ning_vis_93
+

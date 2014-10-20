@@ -1,0 +1,4 @@
+title: An Illustrated Analysis of Sonification for Scientific Visualisation
+authors: R. Minghim, A. R. Forrest
+in_vis_citations: 
+

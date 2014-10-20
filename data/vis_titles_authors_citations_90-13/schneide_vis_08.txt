@@ -1,0 +1,16 @@
+title: Interactive Comparison of Scalar Fields Based on Largest Contours with Applications to Flow Visualization
+authors: Dominic Schneider, Alexander Wiebel, Hamish Carr, Mario Hlawitschka, Gerik Scheuermann
+in_vis_citations: 
+woodring_vis_06
+kniss_vis_01
+garth_vis_04
+jaenicke_vis_07
+stegmaie_vis_05
+sauber_vis_06
+carr_vis_04
+ji_vis_03
+gosink_vis_07
+wiebel_vis_05
+bajaj_vis_97
+weigle_vis_05
+

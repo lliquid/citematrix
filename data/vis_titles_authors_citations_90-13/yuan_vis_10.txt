@@ -1,0 +1,10 @@
+title: Scalable Multi-variate Analytics of Seismic and Satellite-based Observational Data
+authors: Xiaoru Yuan, Xiao He, Hanqi Guo, Peihong Guo, Wesley Kendall, Jian Huang, Yongxian Zhang
+in_vis_citations: 
+yuan_infovis_09
+kniss_vis_03
+inselberg_vis_90
+chopra2_vis_02
+patel_vis_08
+glatter_vis_08
+

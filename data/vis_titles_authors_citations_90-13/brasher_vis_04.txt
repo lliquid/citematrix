@@ -1,0 +1,4 @@
+title: Rendering Planar Cuts Through Quadratic and Cubic Finite Elements
+authors: Michael Brasher, Robert Haimes
+in_vis_citations: 
+

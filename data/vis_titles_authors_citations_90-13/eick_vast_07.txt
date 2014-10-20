@@ -1,0 +1,4 @@
+title: Thin Client Visualization
+authors: Stephen G. Eick, M. Andrew Eick, Jesse Fugitt, Brian Horst, Maxim Khailo, Russell A. Lankenau
+in_vis_citations: 
+

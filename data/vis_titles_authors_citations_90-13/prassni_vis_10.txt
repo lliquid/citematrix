@@ -1,0 +1,10 @@
+title: Uncertainty-Aware Guided Volume Segmentation
+authors: Joerg-Stefan Prassni, Timo Ropinski, Klaus Hinrichs
+in_vis_citations: 
+fischer_vis_05
+bartz_vis_03
+correa_vis_09
+lundstroem_vis_07
+kniss_vis_05
+sherbond_vis_03
+

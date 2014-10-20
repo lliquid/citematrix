@@ -1,0 +1,4 @@
+title: Rendering on a Budget: A Framework for Time-Critical Rendering
+authors: James T. Klosowski, Claudio T. Silva
+in_vis_citations: 
+

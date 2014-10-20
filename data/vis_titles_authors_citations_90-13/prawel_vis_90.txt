@@ -1,0 +1,4 @@
+title: Real-World Applications of Visualization Solutions
+authors: David A. Prawel
+in_vis_citations: 
+

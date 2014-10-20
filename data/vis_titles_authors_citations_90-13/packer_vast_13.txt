@@ -1,0 +1,10 @@
+title: Visual Analytics for Spatial Clustering: Using a Heuristic Approach for Guided Exploration
+authors: Eli Packer, Peter Bak, Mikko Nikkila, Valentin Polishchuk, Harold J. Ship
+in_vis_citations: 
+endert_vast_11
+yang_infovis_03
+brown_vast_12
+collins_infovis_09
+choo_vast_10
+alper_infovis_11
+

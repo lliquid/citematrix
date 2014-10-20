@@ -1,0 +1,5 @@
+title: Text Scaffolds for Effective Surface Labeling
+authors: Gregory Cipriano, Michael Gleicher
+in_vis_citations: 
+wood_vis_00
+

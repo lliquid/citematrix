@@ -1,0 +1,8 @@
+title: Task-Specific Visualization Design: A Case Study in Operational Weather Forecasting
+authors: Lloyd A. Treinish
+in_vis_citations: 
+abram_vis_95
+rushmeie_vis_97
+domik_vis_94
+zhou_infovis_96
+

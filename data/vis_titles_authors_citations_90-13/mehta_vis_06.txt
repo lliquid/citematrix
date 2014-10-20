@@ -1,0 +1,10 @@
+title: Detection and Visualization of Defects in 3D Unstructured Models of Nematic Liquid Crystals
+authors: Ketan Mehta, T.J. Jankun-Kelly
+in_vis_citations: 
+jankun_vis_06
+slavin_vis_06
+ma_vis_97
+mehta_vis_04
+marchesi_vis_10
+tricoche_vis_01
+

@@ -1,0 +1,16 @@
+title: An Interaction Model for Visualizations Beyond The Desktop
+authors: Yvonne Jansen, Pierre Dragicevic
+in_vis_citations: 
+liu_infovis_10
+wijk_vis_05
+viegas_infovis_07
+amar_infovis_05
+bezerianos_infovis_12
+yi_infovis_07
+lee_infovis_12
+heer2_infovis_06
+tobiasz_infovis_09
+wongn_infovis_03
+chi_infovis_98
+wehrend_vis_90
+

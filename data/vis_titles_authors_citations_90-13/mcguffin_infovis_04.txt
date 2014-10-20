@@ -1,0 +1,6 @@
+title: Expand-Ahead: A Space-Filling Strategy for Browsing Trees
+authors: Michael J. McGuffin, Gord Davison, Ravin Balakrishnan
+in_vis_citations: 
+plaisant_infovis_02
+nguyen_infovis_02
+

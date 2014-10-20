@@ -1,0 +1,5 @@
+title: GeoTime Information Visualization
+authors: Thomas Kapler, William Wright
+in_vis_citations: 
+maceachr_infovis_03
+

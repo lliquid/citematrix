@@ -1,0 +1,7 @@
+title: Rapid Prototyping of Information Visualizations Using VANISH
+authors: Rick Kazman, Jeromy Carriere
+in_vis_citations: 
+ahlberg_infovis_95
+carriere_infovis_95
+johnson_vis_91
+

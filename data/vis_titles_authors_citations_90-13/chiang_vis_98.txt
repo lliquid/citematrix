@@ -1,0 +1,7 @@
+title: Interactive Out-Of-Core Isosurface Extraction
+authors: Yi-Jen Chiang, Claudio T. Silvat, William J. Schroeder
+in_vis_citations: 
+cox_vis_97
+chiang_vis_97
+shen_vis_96
+

@@ -1,0 +1,6 @@
+title: The Visual Code Navigator: An Interactive Toolset for Source Code Investigation
+authors: Gerard Lommerse, Freek Nossin, Lucian Voinea, Alexandru Telea
+in_vis_citations: 
+vanwijk_infovis_99
+vanwijk_vis_01
+

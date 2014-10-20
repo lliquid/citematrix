@@ -1,0 +1,6 @@
+title: Visual Exploration of Complex Time-Varying Graphs
+authors: Gautam Kumar, Michael Garland
+in_vis_citations: 
+vanham_infovis_04
+gansner_infovis_04
+

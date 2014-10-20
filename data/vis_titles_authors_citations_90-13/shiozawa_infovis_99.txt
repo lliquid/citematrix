@@ -1,0 +1,5 @@
+title: 3D Interactive Visualization for Inter-Cell Dependencies of Spreadsheets
+authors: Hidekazu Shiozawa, Kenichi Okada, Yutaka Matsushita
+in_vis_citations: 
+chi_infovis_97
+

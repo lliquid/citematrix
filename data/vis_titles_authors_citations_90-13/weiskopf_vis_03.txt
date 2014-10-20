@@ -1,0 +1,6 @@
+title: A Texture-Based Framework for Spacetime-Coherent Visualization of Time-Dependent Vector Fields
+authors: Daniel Weiskopf, Gordon Erlebacher, Thomas Ertl
+in_vis_citations: 
+jobard_vis_01
+verma_vis_99
+

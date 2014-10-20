@@ -1,0 +1,4 @@
+title: Fast and Reliable Space Leaping For Interactive Volume Rendering
+authors: Ming Wan, Aamir Sadiq, Arie Kaufman
+in_vis_citations: 
+

@@ -1,0 +1,16 @@
+title: Accelerating Large Data Analysis By Exploiting Regularities
+authors: David Ellsworth, Patrick J. Moran
+in_vis_citations: 
+shen_vis_99
+chiang_vis_98
+cox_vis_97
+chiang_vis_97
+lane_vis_94
+sutton_vis_99
+law_vis_99
+shenh_vis_98
+lucas1_vis_92
+hibbard_vis_94
+haber_vis_91
+abram_vis_95
+

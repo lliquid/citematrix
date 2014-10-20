@@ -1,0 +1,6 @@
+title: A Spreadsheet Interface for Visualization Exploration
+authors: T.J. Jankun-Kelly, Kwan-Liu Ma
+in_vis_citations: 
+ma_vis_99
+abram_vis_95
+

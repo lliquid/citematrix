@@ -1,0 +1,7 @@
+title: Visual Analytics for Model Selection in Time Series Analysis
+authors: Markus B??gl, Wolfgang Aigner, Peter Filzmoser, Tim Lammarsch, Silvia Miksch, Alexander Rind
+in_vis_citations: 
+rind_vast_13
+sedlmair_infovis_12
+heer_infovis_07
+

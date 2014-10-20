@@ -1,0 +1,5 @@
+title: Case Study 3D Displays of Internet Traffic
+authors: Kenneth C. Cox, Stephen G. Eick
+in_vis_citations: 
+eick_vis_93
+

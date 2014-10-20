@@ -1,0 +1,7 @@
+title: Efficient Structure-Aware Selection Techniques for 3D Point Cloud Visualizations with 2DOF Input
+authors: Lingyun Yu, Konstantinos Efstathiou, Petra Isenberg, Tobias Isenberg
+in_vis_citations: 
+yu_vis_10
+wiebel_vis_12
+elmqvist_infovis_08
+

@@ -1,0 +1,7 @@
+title: Application-Controlled Demand Paging for Out-of-Core Visualization
+authors: Michael Cox, David Ellsworth
+in_vis_citations: 
+lane_vis_94
+bancroft_vis_90
+song_vis_93
+

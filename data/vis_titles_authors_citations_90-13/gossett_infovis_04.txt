@@ -1,0 +1,5 @@
+title: Paint Inspired Color Mixing and Compositing for Visualization
+authors: Nathan Gossett
+in_vis_citations: 
+urness_vis_03
+

@@ -1,0 +1,12 @@
+title: Turbulence Visualization at the Terascale on Desktop PCs
+authors: Marc Treib, Kai Burger, Florian Reichl, Charles Meneveau, Alex Szalay, Ruediger Westermann
+in_vis_citations: 
+guthe_vis_02
+lum_vis_01
+lindstro_vis_06
+kraus_vis_05
+krueger_vis_03
+guthe_vis_01
+ellswort_vis_04
+schneide_vis_03
+

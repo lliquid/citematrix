@@ -1,0 +1,4 @@
+title: Case Study: Interacting with Cortical Flat Maps of the Human Brain
+authors: Monica K. Hurdal, Kevin W. Kurtz, David C. Banks
+in_vis_citations: 
+

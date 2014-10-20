@@ -1,0 +1,5 @@
+title: The Perceptual Scalability of Visualization
+authors: Beth Yost, Chris North
+in_vis_citations: 
+fekete_infovis_02
+

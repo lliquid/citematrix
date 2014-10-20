@@ -1,0 +1,4 @@
+title: IMAS: The Interactive Multigenomic Analysis System
+authors: Christopher D. Shaw, Gregory A. Dasch, Marina E. Eremeeva
+in_vis_citations: 
+

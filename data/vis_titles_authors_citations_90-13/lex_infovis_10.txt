@@ -1,0 +1,11 @@
+title: Comparative Analysis of Multidimensional, Quantitative Data
+authors: Alexander Lex, Marc Streit, Christian Partl, Karl Kashofer, Dieter Schmalstieg
+in_vis_citations: 
+healey_vis_96
+inselberg_vis_90
+holten_infovis_06
+graham_infovis_07
+tu_infovis_07
+meyer_infovis_09
+stolte_infovis_00
+

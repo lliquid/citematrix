@@ -1,0 +1,9 @@
+title: SensePlace2: GeoTwitter Analytics Support for Situational Awareness
+authors: Alan M. MacEachren, Anuj Jaiswal, Anthony C. Robinson, Scott Pezanowski, Alexander Savelyev, Prasenjit Mitra, Xiao Zhang, Justine Blanford
+in_vis_citations: 
+andrienk_vast_10
+kim_vast_07
+doerk_infovis_10
+livnat_infovis_05
+diakopou_vast_10
+

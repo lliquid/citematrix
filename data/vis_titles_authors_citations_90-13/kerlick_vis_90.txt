@@ -1,0 +1,4 @@
+title: Moving Iconic Objects in Scientific Visualization
+authors: G. David Kerlick
+in_vis_citations: 
+

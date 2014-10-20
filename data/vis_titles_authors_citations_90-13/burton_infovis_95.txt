@@ -1,0 +1,4 @@
+title: Case Study An Empirical Investigation of Thumbnail Image Recognition
+authors: C. A. Burton, L. J. Johnston, E. A. Sonenberg
+in_vis_citations: 
+

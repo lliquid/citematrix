@@ -1,0 +1,5 @@
+title: Visualizing Geodesics
+authors: Ingrid Hotz, Hans Hagen
+in_vis_citations: 
+bryson_vis_92
+

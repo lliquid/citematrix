@@ -1,0 +1,4 @@
+title: Supporting Detail-in-Context for the DNA Representation, H-Curves
+authors: L. Lantin, S. T. Carpendale
+in_vis_citations: 
+

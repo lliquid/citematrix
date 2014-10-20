@@ -1,0 +1,12 @@
+title: Case Study: E-Commerce Clickstream Visualization
+authors: Jeffrey Brainerd, Barry Becker
+in_vis_citations: 
+korn_infovis_98
+munzner_infovis_97
+frecon_infovis_98
+abello_infovis_00
+herman_infovis_00
+cox_infovis_95
+munzner_infovis_96
+overbye_infovis_00
+

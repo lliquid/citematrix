@@ -1,0 +1,10 @@
+title: A Frequency-Sensitive Point Hierarchy for Images and Volumes
+authors: Tomihisa Welsh, Klaus Mueller
+in_vis_citations: 
+dey_vis_02
+theussl_vis_01
+mora_vis_02
+chen_vis_01
+cohen_vis_01
+guthe_vis_02
+

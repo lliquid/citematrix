@@ -1,0 +1,6 @@
+title: Comparing Different Levels of Interaction Constraints for Deriving Visual Problem Isomorphs
+authors: Wenwen Dou, Caroline Ziemkiewicz, Lane Harrison, Dong Hyun Jeong, Roxanne Ryan, William Ribarsky, Xiaoyu Wang, Remco Chang
+in_vis_citations: 
+yi_infovis_07
+liu_infovis_08
+

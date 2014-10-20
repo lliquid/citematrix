@@ -1,0 +1,7 @@
+title: Large Scale Terrain Visualization Using The Restricted Quadtree Triangulation
+authors: Renato Pajarola
+in_vis_citations: 
+duchaine_vis_97
+koller_vis_95
+suter_vis_95
+

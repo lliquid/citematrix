@@ -1,0 +1,4 @@
+title: Evaluation of a Multimodal Interface for 3D Terrain Visualization
+authors: David M. Krum, Olugbenga Omoteso, William Ribarsky, Thad Starner, Larry F. Hodges
+in_vis_citations: 
+

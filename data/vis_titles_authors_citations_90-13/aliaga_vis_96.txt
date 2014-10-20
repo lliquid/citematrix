@@ -1,0 +1,4 @@
+title: Visualization of Complex Models Using Dynamic Texture-based Simplification
+authors: Daniel G. Aliaga
+in_vis_citations: 
+

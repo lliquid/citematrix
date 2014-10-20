@@ -1,0 +1,6 @@
+title: Teniae Coli Guided Navigation and Registration for Virtual Colonoscopy
+authors: Adam Huang, Dave Roy, Marek Franaszek, Ronald M. Summers
+in_vis_citations: 
+nielson_vis_02
+bartoli_vis_01
+

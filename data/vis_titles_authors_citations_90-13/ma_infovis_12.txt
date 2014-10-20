@@ -1,0 +1,7 @@
+title: Living Liquid: Design and Evaluation of an Exploratory Visualization Tool for Museum Visitors
+authors: Joyce Ma, Isaac Liao, Kwan-Liu Ma, Jennifer Frazier
+in_vis_citations: 
+hinrichs_infovis_08
+hullman1_infovis_11
+viegas_infovis_04
+

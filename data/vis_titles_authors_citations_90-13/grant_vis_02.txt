@@ -1,0 +1,8 @@
+title: Case Study: Visualizing Ocean Flow Vertical Motions using Lagrangian-Eulerian Time Surfaces
+authors: Josh Grant, Gordon Erlebacher, James O'Brien
+in_vis_citations: 
+scheuer1_vis_99
+jobard_vis_01
+westerma_vis_00
+nations_vis_96
+

@@ -1,0 +1,6 @@
+title: Interactive Tree Comparison for Co-located Collaborative Information Visualization
+authors: Petra Isenberg, Sheelagh Carpendale
+in_vis_citations: 
+stasko_infovis_00
+yost_infovis_06
+

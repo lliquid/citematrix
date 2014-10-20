@@ -1,0 +1,7 @@
+title: Visiting the Goedel Universe
+authors: Frank Grave, Michael Buser
+in_vis_citations: 
+liyingga_vis_06
+magnor_vis_05
+li_vis_07
+

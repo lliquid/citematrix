@@ -1,0 +1,5 @@
+title: Extracting Feature Lines from 3D Unstructured Grids
+authors: Kwan-Liu Ma, Victoria Interrante
+in_vis_citations: 
+interrante_vis_95
+

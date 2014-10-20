@@ -1,0 +1,13 @@
+title: Exploring Uncertainty in Geodemographics with Interactive Graphics
+authors: Aidan Slingsby, Jason Dykes, Jo Wood
+in_vis_citations: 
+wills_infovis_96
+dykes_infovis_10
+chang_infovis_07
+kong_infovis_10
+fua_vis_99
+wood_infovis_08
+dorling_infovis_06
+yi_infovis_07
+weaver_infovis_04
+

@@ -1,0 +1,6 @@
+title: Beyond Usability: Evaluation Aspects of Visual Analytic Environments
+authors: Jean Scholtz
+in_vis_citations: 
+wehrend_vis_90
+amar_infovis_04
+

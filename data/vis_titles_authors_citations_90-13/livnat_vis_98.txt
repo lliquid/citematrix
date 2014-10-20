@@ -1,0 +1,14 @@
+title: View Dependent Isosurface Extraction
+authors: Yarden Livnat, Charles Hansen
+in_vis_citations: 
+shen_vis_95
+shen_vis_96
+painter_vis_96
+parker_vis_98
+montani_vis_94
+itoh_vis_96
+shekhar_vis_96
+matveyev_vis_94
+gallagher_vis_91
+itoh_vis_94
+

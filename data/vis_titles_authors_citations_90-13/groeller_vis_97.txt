@@ -1,0 +1,10 @@
+title: Fast Oriented Line Integral Convolution for Vector Field Visualization via the Internet
+authors: Rainer Wegenkittl, Eduard Groeller
+in_vis_citations: 
+leeuw_vis_95
+forssell_vis_94
+hin_vis_93
+kiu_vis_96
+crawfis_vis_93
+max_vis_94
+

@@ -1,0 +1,12 @@
+title: Multi-Resolution Dynamic Meshes with Arbitrary Deformations
+authors: Ariel Shamir, Valerio Pascucci, Chandrajit Bajaj
+in_vis_citations: 
+defloriani_vis_97
+hoppe_vis_99
+shen_vis_99
+sutton_vis_99
+staadt_vis_98
+xia_vis_96
+hoppe_vis_98
+schroede_vis_97
+

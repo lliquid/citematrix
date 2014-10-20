@@ -1,0 +1,6 @@
+title: Efficient Cartogram Generation: A Comparison
+authors: Daniel A. Keim, Stephen C. North, Christian Panse, Joern Schneidewind
+in_vis_citations: 
+keim_vis_98
+house_vis_98
+

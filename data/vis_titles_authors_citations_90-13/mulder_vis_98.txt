@@ -1,0 +1,5 @@
+title: Pixel Masks for Screen-Door Transparency
+authors: Jurriaan D. Mulder, Frans C.A. Groen, Jarke J. van Wijk
+in_vis_citations: 
+hibbard_vis_90
+

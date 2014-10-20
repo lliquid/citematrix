@@ -1,0 +1,6 @@
+title: Case Study Visualising Cyberspace: Information Visualisation in the Harmony Internet Browser
+authors: Keith Andrews
+in_vis_citations: 
+johnson_vis_91
+lin_vis_92
+

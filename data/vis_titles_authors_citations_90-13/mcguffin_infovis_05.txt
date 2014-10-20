@@ -1,0 +1,8 @@
+title: Interactive Visualization of Genealogical Graphs
+authors: Michael J. McGuffin, Ravin Balakrishnan
+in_vis_citations: 
+mcguffin_infovis_04
+munzner_infovis_97
+johnson_vis_91
+plaisant_infovis_02
+

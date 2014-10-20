@@ -1,0 +1,7 @@
+title: Augmented Topological Descriptors of Pore Networks for Material Science
+authors: Daniela M. Ushizima, Dmitriy Morozov, Gunther H. Weber, Andrea G. C. Bianchi, James A. Sethian, E. Wes Bethel
+in_vis_citations: 
+jones_vis_10
+gyulassy1_vis_07
+childs_vis_05
+

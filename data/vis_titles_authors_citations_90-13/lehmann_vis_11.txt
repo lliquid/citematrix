@@ -1,0 +1,9 @@
+title: Features in Continuous Parallel Coordinates
+authors: Dirk J. Lehmann, Holger Theisel
+in_vis_citations: 
+bachthal_vis_08
+lehmann_vis_10
+bajaj_vis_98
+heinrich_vis_09
+peikert_vis_99
+

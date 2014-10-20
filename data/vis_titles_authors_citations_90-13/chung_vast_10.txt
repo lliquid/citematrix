@@ -1,0 +1,10 @@
+title: VizCept: Supporting Synchronous Collaboration for Constructing Visualizations in Intelligence Analysis
+authors: Haeyong Chung, Seungwon Yang, Naveed Massjouni, Christopher Andrews, Rahul Kanna, Chris North
+in_vis_citations: 
+mckeon_infovis_09
+stasko_vast_07
+whiting_vast_09
+bier_vast_08
+viegas_infovis_07
+pike_vast_08
+

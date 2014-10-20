@@ -1,0 +1,7 @@
+title: A Case Study on Multiresolution Visualization of Local Rainfall from Weather Radar Measurements
+authors: Thomas Gerstner, Dirk Meetschen, Susanne Crewell, Michael Griebel, Clemens Simmer
+in_vis_citations: 
+koller_vis_95
+zhou_vis_97
+treinish2_vis_00
+

@@ -1,0 +1,16 @@
+title: DiffAni: Visualizing Dynamic Graphs with a Hybrid of Difference Maps and Animation
+authors: Sebastien Rufiange, Michael J. McGuffin
+in_vis_citations: 
+cottam_vast_12
+brandes_infovis_11
+saraiya_infovis_05
+burch_infovis_11
+wattenbe_infovis_02
+hadlak_infovis_11
+henry_infovis_08
+henry_infovis_07
+plaisant_infovis_02
+zhao_infovis_05
+brandes_infovis_02
+heer_infovis_07
+

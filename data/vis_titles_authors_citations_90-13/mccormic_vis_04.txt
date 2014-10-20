@@ -1,0 +1,8 @@
+title: Scout: A Hardware-Accelerated System for Quantitatively Driven Visualization and Analysis
+authors: Patrick S. McCormick, Jeff Inman, James P. Ahrens, Charles Hansen, Greg Roth
+in_vis_citations: 
+abram_vis_95
+moran_vis_99
+kniss_vis_01
+lefohn_vis_03
+

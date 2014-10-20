@@ -1,0 +1,11 @@
+title: Hierarchical Edge Bundles: Visualization of Adjacency Relations in Hierarchical Data
+authors: Danny Holten
+in_vis_citations: 
+ghoniem_infovis_04
+wongn_infovis_03
+phan_infovis_05
+vanham_infovis_03
+zhao_infovis_05
+munzner_infovis_97
+nguyen_infovis_02
+

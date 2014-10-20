@@ -1,0 +1,6 @@
+title: A Note on Space-Filling Visualizations and Space-Filling Curves
+authors: Martin Wattenberg
+in_vis_citations: 
+wattenberg_infovis_01
+nguyen_infovis_02
+

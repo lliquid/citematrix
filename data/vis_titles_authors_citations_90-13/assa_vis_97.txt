@@ -1,0 +1,9 @@
+title: Displaying Data in Multidimensional Relevance Space with 2D Visualization Maps
+authors: Jackie Assa, Daniel Cohen-Or, Tova Milo
+in_vis_citations: 
+hendley_infovis_95
+inselberg_vis_90
+wise_infovis_95
+spoerri_vis_93
+andrews_infovis_95
+

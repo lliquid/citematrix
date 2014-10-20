@@ -1,0 +1,14 @@
+title: NodeTrix: A Hybrid Visualization of Social Networks
+authors: Nathalie Henry, Jean-Daniel Fekete, Michael J. McGuffin
+in_vis_citations: 
+henry_infovis_06
+kang_vast_06
+heer_infovis_05
+abello_infovis_04
+kumar_infovis_06
+zhao_infovis_05
+shneiderman_infovis_06
+holten_infovis_06
+fekete_infovis_04
+auber_infovis_03
+

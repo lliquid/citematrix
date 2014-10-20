@@ -1,0 +1,6 @@
+title: Real-Time Incremental Visualization of Dynamic Ultrasound Volumes Using Parallel BSP Trees
+authors: William F. Garrett, Henry Fuchs, Mary C. Whitton, Andrei State
+in_vis_citations: 
+thune_vis_91
+state_vis_94
+

@@ -1,0 +1,13 @@
+title: Dynamic View Selection for Time-Varying Volumes
+authors: Guangfeng Ji, Han-Wei Shen
+in_vis_citations: 
+kindlman_vis_03
+silver_vis_96
+wernert_vis_99
+vanwijk_infovis_03
+takahash_vis_05
+joshi_vis_05
+bordoloi_vis_05
+gumhold_vis_02
+woodring_vis_03
+

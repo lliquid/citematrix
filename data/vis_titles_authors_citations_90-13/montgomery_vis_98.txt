@@ -1,0 +1,4 @@
+title: A Case Study Using the Virtual Environment for Reconstructive Surgery
+authors: Kevin Montgomery, Michael Stephanides, Stephen Schendel, Muriel Ross
+in_vis_citations: 
+

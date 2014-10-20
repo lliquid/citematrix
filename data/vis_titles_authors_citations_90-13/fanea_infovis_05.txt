@@ -1,0 +1,17 @@
+title: An Interactive 3D Integration of Parallel Coordinates and Star Glyphs
+authors: Elena Fanea, Sheelagh Carpendale, Tobias Isenberg
+in_vis_citations: 
+martin_vis_95
+chenh_infovis_03
+wongn_infovis_03
+hauser_infovis_02
+yang_infovis_04
+yang_infovis_03
+peng_infovis_04
+artero_infovis_04
+fua_vis_99
+yang_infovis_02
+ward_vis_94
+wong1_vis_97
+inselberg_vis_90
+

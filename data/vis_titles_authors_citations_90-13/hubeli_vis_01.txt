@@ -1,0 +1,6 @@
+title: Multiresolution Feature Extraction for Unstructured Meshes
+authors: Andreas Hubeli, Markus Gross
+in_vis_citations: 
+clarenz_vis_00
+hubeli_vis_00
+

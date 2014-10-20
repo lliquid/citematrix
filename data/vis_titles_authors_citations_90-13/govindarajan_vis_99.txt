@@ -1,0 +1,9 @@
+title: Visualizing Simulated Room Fires 
+authors: Jayesh Govindarajan, Matthew Ward, Jonathan Barnett
+in_vis_citations: 
+rushmeier_vis_94
+pajon_vis_90
+treinish_vis_93
+interrante_vis_96
+hong_vis_95
+

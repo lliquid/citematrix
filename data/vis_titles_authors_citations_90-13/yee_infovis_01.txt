@@ -1,0 +1,5 @@
+title: Animated Exploration of Dynamic Graphs with Radial Layout
+authors: Ka-Ping Yee, Danyel Fisher, Rachna Dhamija, Marti Hearst
+in_vis_citations: 
+munzner_infovis_97
+

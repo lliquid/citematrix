@@ -1,0 +1,12 @@
+title: Geometry-Based Edge Clustering for Graph Visualization
+authors: Weiwei Cui, Hong Zhou, Huamin Qu, Pak Chung Wong, Xiaoming Li
+in_vis_citations: 
+ellis_infovis_07
+frishman_infovis_07
+vanham_infovis_04
+wongn_infovis_03
+phan_infovis_05
+gansner_infovis_04
+johansso_infovis_05
+holten_infovis_06
+

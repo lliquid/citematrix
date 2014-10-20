@@ -1,0 +1,6 @@
+title: Feature Comparisons Of 3-D Vector Fields Using Earth Mover???s Distance
+authors: Rajesh Batra, Lambertus Hesselink
+in_vis_citations: 
+lavin_vis_98
+shenq_vis_98
+

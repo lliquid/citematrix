@@ -1,0 +1,9 @@
+title: Change Blindness in Information Visualization: A Case Study
+authors: Lucy Nowell, Elizabeth Hetzler, Ted Tanasse
+in_vis_citations: 
+brodbeck_infovis_97
+leuski_infovis_00
+andrews_infovis_95
+wise_infovis_95
+hendley_infovis_95
+

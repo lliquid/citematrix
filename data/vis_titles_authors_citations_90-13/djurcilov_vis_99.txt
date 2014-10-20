@@ -1,0 +1,5 @@
+title: Visualizing Gridded Datasets with Large Number of Missing Values
+authors: Suzana Djurcilov, Alex Pang
+in_vis_citations: 
+xiao_vis_96
+

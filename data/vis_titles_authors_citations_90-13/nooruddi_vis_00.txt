@@ -1,0 +1,7 @@
+title: Interior/Exterior Classification of Polygonal Models
+authors: F. S. Nooruddin, Greg Turk
+in_vis_citations: 
+elsana_vis_97
+interrante_vis_95
+rheingans_vis_96
+

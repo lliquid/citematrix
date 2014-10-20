@@ -1,0 +1,15 @@
+title: Vorticity Based Flow Analysis and Visualization for Pelton Turbine Design Optimization
+authors: Filip Sadlo, Ronald Peikert, Etienne Parkinson
+in_vis_citations: 
+ebling_vis_03
+silver_vis_96
+fuhrmann_vis_98
+hultquist1_vis_92
+verma_vis_00
+mao_vis_98
+banks_vis_94
+scheuermann_vis_01
+peikert_vis_99
+deleeuw_vis_99
+jiang_vis_02
+

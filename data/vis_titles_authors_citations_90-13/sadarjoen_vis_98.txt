@@ -1,0 +1,8 @@
+title: Selective Visualization of Vortices in Hydrodynamic Flows
+authors: I. Ari Sadarjoen, Frits H. Post, Bing Ma, David C. Banks, Hans-Georg Pagendarm
+in_vis_citations: 
+mynett_vis_95
+kenwrigh_vis_97
+banks_vis_94
+roth_vis_96
+

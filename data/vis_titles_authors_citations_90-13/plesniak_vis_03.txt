@@ -1,0 +1,4 @@
+title: Holographic Video Display of Time-Series Volumetric Medical Data
+authors: Wendy Plesniak, Michael Halle, Steven D. Pieper, William Wells III, Marianna Jakab, Dominik S. Meier, Stephen A. Benton, Charles R. G. Guttmann, Ron Kikinis, Michael Halle
+in_vis_citations: 
+

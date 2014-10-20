@@ -1,0 +1,4 @@
+title: Interactive Design of Multi-Perspective Images for Visualizing Urban Landscapes
+authors: Augusto Roman, Gaurav Garg, Marc Levoy
+in_vis_citations: 
+

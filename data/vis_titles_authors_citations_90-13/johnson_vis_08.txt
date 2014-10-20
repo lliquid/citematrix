@@ -1,0 +1,9 @@
+title: Interactive Visualization and Analysis of Transitional Flow
+authors: Gregory P. Johnson, Victor M. Calo, Kelly P. Gaither
+in_vis_citations: 
+stocking_vis_05
+hin_vis_93
+gao_vis_05
+haber_vis_91
+ellswort_vis_04
+

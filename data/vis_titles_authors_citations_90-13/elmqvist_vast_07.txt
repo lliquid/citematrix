@@ -1,0 +1,19 @@
+title: DataMeadow: A Visual Canvas for Analysis of Large-Scale Multivariate Data
+authors: Niklas Elmqvist, John Stasko, Philippas Tsigas
+in_vis_citations: 
+stolte_infovis_00
+leblanc_vis_90
+johnson_vis_91
+brodbeck_infovis_03
+brennan_vast_06
+bendix_infovis_05
+xie_vast_06
+theron_vast_06
+amar_infovis_05
+inselber_infovis_97
+sifer_vast_06
+gotz_vast_06
+rosario_infovis_03
+fua_vis_99
+wehrend_vis_90
+

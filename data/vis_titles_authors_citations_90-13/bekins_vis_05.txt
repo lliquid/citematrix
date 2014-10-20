@@ -1,0 +1,4 @@
+title: Build-by-Number: Rearranging the Real World to Visualize Novel Architectural Spaces
+authors: Daniel Bekins, Daniel G. Aliaga
+in_vis_citations: 
+

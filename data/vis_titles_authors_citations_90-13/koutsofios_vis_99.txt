@@ -1,0 +1,7 @@
+title: Visualizing Large-scale Telecommunication Networks and Services
+authors: Eleftherios E. Koutsofios, Stephen C. North, Russell Truscott, Daniel A. Keim
+in_vis_citations: 
+keim_vis_98
+ahlberg_infovis_95
+buja_vis_91
+

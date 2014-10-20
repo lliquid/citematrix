@@ -1,0 +1,13 @@
+title: A Flow-guided Streamline Seeding Strategy
+authors: Vivek Verma, David Kao, Alex Pang
+in_vis_citations: 
+helman_vis_90
+lavin_vis_98
+globus_vis_91
+max_vis_94
+bancroft_vis_90
+dovey_vis_95
+jobard_vis_97
+mao_vis_98
+verma_vis_99
+

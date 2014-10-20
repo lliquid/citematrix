@@ -1,0 +1,4 @@
+title: Electrical Energy Absorption in the Human Head From a Cellular Telephone
+authors: Vishram Pandit, Robert McDermott, Gianluca Lazzi, Cynthia Furse, Om Gandhi
+in_vis_citations: 
+

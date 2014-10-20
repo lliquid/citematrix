@@ -1,0 +1,4 @@
+title: Continuous Cartogram Construction
+authors: Donald H. House, Christopher J. Kocmoud
+in_vis_citations: 
+

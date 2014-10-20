@@ -1,0 +1,9 @@
+title: Rapid Graph Layout Using Space Filling Curves
+authors: Chris Muelder, Kwan-Liu Ma
+in_vis_citations: 
+koren_infovis_02
+wattensp_infovis_05
+heer_infovis_05
+gansner_infovis_04
+frishman_infovis_07
+

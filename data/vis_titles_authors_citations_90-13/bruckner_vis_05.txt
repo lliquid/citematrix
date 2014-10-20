@@ -1,0 +1,10 @@
+title: VolumeShop: An Interactive System for Direct Volume Illustration
+authors: Stefan Bruckner, Eduard Groeller
+in_vis_citations: 
+ebert_vis_00
+lu_vis_02
+lee_vis_04
+krueger_vis_03
+viola_vis_04
+lum_vis_04
+

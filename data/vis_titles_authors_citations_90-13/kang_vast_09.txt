@@ -1,0 +1,9 @@
+title: Evaluating Visual Analytics Systems for Investigative Analysis: Deriving Design Principles from a Case Study
+authors: Youn-ah Kang, Carsten Goerg, John Stasko
+in_vis_citations: 
+bier_vast_08
+jeong_vast_08
+scholtz_vast_06
+stasko_vast_07
+robinson_vast_08
+

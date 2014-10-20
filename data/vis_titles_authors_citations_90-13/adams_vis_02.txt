@@ -1,0 +1,4 @@
+title: Case Study: A Virtual Environment for Genomic Data Visualization
+authors: Mark Adams, Blaze Stancampiano, Michael McKenna, David Small
+in_vis_citations: 
+

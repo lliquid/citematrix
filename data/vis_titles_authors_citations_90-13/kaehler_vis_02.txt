@@ -1,0 +1,5 @@
+title: Rendering The First Star In The Universe - A Case Study
+authors: Ralf Kahler, Donna Cox, Robert Patterson, Stuart Levy, Hans-Christian Hege, Tom Abel
+in_vis_citations: 
+park_vis_02
+

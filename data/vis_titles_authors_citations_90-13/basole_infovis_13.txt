@@ -1,0 +1,12 @@
+title: Understanding Interfirm Relationships in Business Ecosystems with Interactive Visualization
+authors: Rahul C. Basole, Trustin Clear, Mengdie Hu, Harshit Mehrotra, John Stasko
+in_vis_citations: 
+henry_infovis_06
+livnat_infovis_05
+csallner_infovis_03
+heer_infovis_05
+sedlmair_infovis_12
+perer_infovis_06
+ziegler_vast_10
+shneiderman_infovis_06
+

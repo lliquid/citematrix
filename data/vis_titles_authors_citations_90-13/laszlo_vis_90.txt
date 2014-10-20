@@ -1,0 +1,4 @@
+title: Techniques for Visualizing 3-Dimensional Manifolds
+authors: Michael J. Laszlo
+in_vis_citations: 
+

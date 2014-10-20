@@ -1,0 +1,8 @@
+title: Volumetric Shadows Using Splatting
+authors: Caixia Zhang, Roger Crawfis
+in_vis_citations: 
+mueller_vis_98
+mueller_vis_99
+huang_vis_00
+kniss_vis_02
+

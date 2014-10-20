@@ -1,0 +1,6 @@
+title: Semantic Depth of Field
+authors: Robert Kosara, Silvia Miksch, Helwig Hauser
+in_vis_citations: 
+huang_vis_00
+kreusele_infovis_00
+

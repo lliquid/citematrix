@@ -1,0 +1,7 @@
+title: Voronoi-Based Extraction and Visualization of Molecular Paths
+authors: Norbert Lindow, Daniel Baum, Hans-Christian Hege
+in_vis_citations: 
+jones_vis_10
+tarini_vis_06
+krone_vis_09
+

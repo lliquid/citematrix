@@ -1,0 +1,7 @@
+title: Particle-Based Labeling: Fast Point-Feature Labeling without Obscuring Other Visual Features
+authors: Martin Luboschik, Heidrun Schumann, Hilko Cords
+in_vis_citations: 
+been_infovis_06
+been_infovis_06
+bruckner_vis_05
+

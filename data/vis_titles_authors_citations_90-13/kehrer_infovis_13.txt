@@ -1,0 +1,14 @@
+title: A Model for Structure-Based Comparison of Many Categories in Small-Multiple Displays
+authors: Johannes Kehrer, Harald Piringer, Wolfgang Berger, Eduard Groller
+in_vis_citations: 
+lex_infovis_10
+mackinlay_infovis_07
+matkovic_vis_05
+muehlbacher_vast_13
+turkay_infovis_11
+bremm_vast_11
+robertso_infovis_08
+stolte_infovis_00
+tominski2_infovis_12
+collins_infovis_07
+

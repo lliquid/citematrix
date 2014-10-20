@@ -1,0 +1,6 @@
+title: The Perspective Shear-Warp Algorithm In A Virtual Environment
+authors: Juergen P. Schulze, Roland Niemeier, Ulrich Lang
+in_vis_citations: 
+he2_vis_96
+chen1_vis_99
+

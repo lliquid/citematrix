@@ -1,0 +1,10 @@
+title: Volume Deformation For Tensor Visualization
+authors: Xiaoqiang Zheng, Alex Pang
+in_vis_citations: 
+boring_vis_98
+kirby_vis_99
+leeuw_vis_93
+schroederw_vis_91
+delmarcelle_vis_92
+laidlaw_vis_98
+

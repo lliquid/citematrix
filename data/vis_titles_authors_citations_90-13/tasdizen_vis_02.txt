@@ -1,0 +1,4 @@
+title: Geometric Surface Smoothing via Anisotropic Diffusion of Normals
+authors: Tolga Tasdizen, Ross Whitaker, Paul Burchard, Stanley Osher
+in_vis_citations: 
+

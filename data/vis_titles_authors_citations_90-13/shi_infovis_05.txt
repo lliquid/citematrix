@@ -1,0 +1,6 @@
+title: An Evaluation of Content Browsing Techniques for Hierarchical Space-Filling Visualizations
+authors: Kang Shi, Pourang Irani, Ben Li
+in_vis_citations: 
+stasko_infovis_00
+mcguffin_infovis_04
+

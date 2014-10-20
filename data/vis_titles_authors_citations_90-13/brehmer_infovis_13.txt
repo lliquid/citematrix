@@ -1,0 +1,27 @@
+title: A Multi-Level Typology of Abstract Visualization Tasks
+authors: Matthew Brehmer, Tamara Munzner
+in_vis_citations: 
+pousman_infovis_07
+kandel_vast_12
+chuah_infovis_96
+sedlmair_infovis_12
+pohl_vast_12
+amar_infovis_05
+liu_infovis_10
+heer_infovis_07
+plaisant_infovis_02
+yi_infovis_07
+lee_infovis_12
+munzner_infovis_09
+lam_infovis_08
+springmeyer_vis_92
+tory_infovis_04
+gotz_vast_08
+kang_vast_11
+liu_infovis_08
+heer_infovis_08
+chi_infovis_98
+amar_infovis_04
+doerk_infovis_12
+wehrend_vis_90
+

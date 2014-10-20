@@ -1,0 +1,12 @@
+title: SellTrend: Inter-Attribute Visual Analysis of Temporal Transaction Data
+authors: Zhicheng Liu, John Stasko, Timothy Sullivan
+in_vis_citations: 
+chang_vast_07
+bendix_infovis_05
+johnson_vis_91
+geller_vis_92
+smith_infovis_06
+inselber_infovis_97
+liu_infovis_08
+stasko_vast_07
+

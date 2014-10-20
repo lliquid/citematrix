@@ -1,0 +1,6 @@
+title: Narratives: A Visualization to Track Narrative Events as they Develop
+authors: Danyel Fisher, Aaron Hoff, George Robertson, Matthew Hurst
+in_vis_citations: 
+wattenba_infovis_05
+vanwijk2_infovis_99
+

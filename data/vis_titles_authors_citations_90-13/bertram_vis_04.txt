@@ -1,0 +1,8 @@
+title: Volume Refinement Fairing Isosurfaces
+authors: Martin Bertram
+in_vis_citations: 
+bertram_vis_03
+kindlman_vis_03
+roessl_vis_03
+clarenz_vis_00
+

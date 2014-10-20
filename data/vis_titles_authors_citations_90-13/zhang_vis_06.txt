@@ -1,0 +1,9 @@
+title: Interactive Point-based Isosurface Exploration and High-quality Rendering
+authors: Haitao Zhang, Arie Kaufman
+in_vis_citations: 
+parker_vis_98
+von-rymo_vis_04
+shen_vis_96
+livnat_vis_04
+livnat_vis_98
+

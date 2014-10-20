@@ -1,0 +1,6 @@
+title: Us vs. Them: Understanding Social Dynamics in Wikipedia with Revert Graph Visualizations
+authors: Bongwon Suh, Ed H. Chi, Bryan A. Pendleton, Aniket Kittur
+in_vis_citations: 
+perer_infovis_06
+heer_infovis_05
+

@@ -1,0 +1,7 @@
+title: High Dimensional Brushing for Interactive Exploration of Multivariate Data
+authors: Allen R. Martin
+in_vis_citations: 
+leblanc_vis_90
+inselberg_vis_90
+ward_vis_94
+

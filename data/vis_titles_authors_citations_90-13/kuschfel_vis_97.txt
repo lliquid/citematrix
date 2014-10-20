@@ -1,0 +1,8 @@
+title: Case Study: Efficient visualization of physical and structural properties in crash-worthiness simulations
+authors: Sven Kuschfeldt, Thomas Ertl
+in_vis_citations: 
+rheingans_vis_96
+seidenberg_vis_92
+kerlick_vis_93
+lorensen1_vis_93
+

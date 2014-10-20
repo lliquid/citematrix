@@ -1,0 +1,7 @@
+title: Interactive Exploration of Surveillance Video through Action Shot Summarization and Trajectory Visualization
+authors: Amir H. Meghdadi, Pourang Irani
+in_vis_citations: 
+kapler_infovis_04
+hoeferlin_vis_12
+daniel_vis_03
+

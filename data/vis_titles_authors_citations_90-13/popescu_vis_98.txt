@@ -1,0 +1,5 @@
+title: Efficient Warping for Architectural Walkthroughs Using Layered Depth Images
+authors: Voicu Popescu, Anselmo Lastra, Daniel Aliaga, Manuel de Oliveira Neto 
+in_vis_citations: 
+aliaga_vis_97
+

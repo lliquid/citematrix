@@ -1,0 +1,5 @@
+title: Visual Analytics on Mobile Devices for Emergency Response
+authors: SungYe Kim, Yun Jang, Angela Mellema, David S. Ebert, Timothy Collins
+in_vis_citations: 
+pattath_vast_06
+

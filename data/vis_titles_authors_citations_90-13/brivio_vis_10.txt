@@ -1,0 +1,4 @@
+title: Browsing Large Image Datasets through Voronoi Diagrams
+authors: Paolo Brivio, Marco Tarini, Paolo Cignoni
+in_vis_citations: 
+

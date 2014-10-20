@@ -1,0 +1,9 @@
+title: Characterizing the Intelligence Analysis Process: Informing Visual Analytics Design through a Longitudinal Field Study
+authors: Youn-ah Kang, John Stasko
+in_vis_citations: 
+bier_vast_08
+springmeyer_vis_92
+robinson_vast_08
+munzner_infovis_09
+stasko_vast_07
+

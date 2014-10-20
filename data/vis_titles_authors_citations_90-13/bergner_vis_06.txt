@@ -1,0 +1,12 @@
+title: A Spectral Analysis of Function Composition and Its Implications for Sampling in Direct Volume Visualization
+authors: Steven Bergner, Torsten Moeller, Daniel Weiskopf, David J. Muraki
+in_vis_citations: 
+liw_vis_03
+yuan_vis_05
+kniss_vis_03
+yagel_vis_93
+roettger_vis_00
+kniss_vis_01
+krueger_vis_03
+lamar_vis_99
+

@@ -1,0 +1,24 @@
+title: RankExplorer: Visualization of Ranking Changes in Large Time Series Data
+authors: Conglei Shi, Weiwei Cui, Shixia Liu, Panpan Xu, Wei Chen, Huamin Qu
+in_vis_citations: 
+byron_infovis_08
+shi_vast_10
+kincaid_infovis_10
+ziegler_vast_10
+havre_infovis_00
+hao_infovis_05
+krstajic_infovis_11
+ellis_infovis_07
+wangchao_vis_08
+doerk_infovis_10
+kidwell_infovis_08
+wang_infovis_09
+vanwijk2_infovis_99
+wattenba_infovis_05
+keim_vis_95
+lee_infovis_10
+cui_infovis_11
+javed_infovis_10
+zhao_infovis_11
+liu_infovis_09
+

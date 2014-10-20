@@ -1,0 +1,14 @@
+title: Protovis: A Graphical Toolkit for Visualization
+authors: Michael Bostock, Jeffrey Heer
+in_vis_citations: 
+moran_vis_99
+weaver_infovis_04
+heer2_infovis_06
+viegas_infovis_07
+chi_infovis_98
+heer_vast_07
+byron_infovis_08
+fekete_infovis_04
+stolte_infovis_00
+eick_vast_07
+

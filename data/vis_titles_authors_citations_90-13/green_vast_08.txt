@@ -1,0 +1,11 @@
+title: Visual Analytics for Complex Concepts Using a Human Cognition Model
+authors: Tera Marie Green, William Ribarsky, Brian Fisher
+in_vis_citations: 
+wijk_vis_05
+yang_vast_06
+chang_infovis_07
+stasko_vast_07
+ghoniem_vast_07
+chang_vast_07
+wise_infovis_95
+

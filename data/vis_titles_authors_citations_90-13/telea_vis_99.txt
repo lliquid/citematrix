@@ -1,0 +1,7 @@
+title: Simplified Representation of Vector Fields
+authors: Alexandru Telea, Jarke J. van Wijk
+in_vis_citations: 
+leeuw_vis_95
+banks_vis_94
+schroederw_vis_91
+

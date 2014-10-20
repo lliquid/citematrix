@@ -1,0 +1,10 @@
+title: G-PARE*: A Visual Analytic Tool for Comparative Analysis of Uncertain Graphs
+authors: Hossam Sharara, Awalin Sopan, Galileo Namata, Lise Getoor
+in_vis_citations: 
+perer_infovis_06
+migut_vast_10
+liu_vast_10
+bilgic_vast_06
+choo_vast_10
+henry_infovis_07
+

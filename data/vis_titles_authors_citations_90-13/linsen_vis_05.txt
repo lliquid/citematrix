@@ -1,0 +1,5 @@
+title: Differential Protein Expression Analysis via Liquid-Chromatography/Mass-Spectrometry Data Visualization
+authors: Lars Linsen, Julia Loecherbach, Matthias Berth, Joerg Bernhardt, Doerte Becher
+in_vis_citations: 
+grosso_vis_97
+

@@ -1,0 +1,5 @@
+title: A Comparison of User-Generated and Automatic Graph Layouts
+authors: Tim Dwyer, Bongshin Lee, Danyel Fisher, Kori Inkpen Quinn, Petra Isenberg, George Robertson, Chris North
+in_vis_citations: 
+vanham_infovis_08
+

@@ -1,0 +1,4 @@
+title: Phonon Tracing for Auralization and Visualization of Sound
+authors: Martin Bertram, Eduard Deines, Jan Mohring, Jevgenij Jegorovs, Hans Hagen
+in_vis_citations: 
+

@@ -1,0 +1,9 @@
+title: Visualization in the Einstein Year 2005: A Case Study on Explanatory and Illustrative Visualization of Relativity and Astrophysics
+authors: Daniel Weiskopf, Marc Borchers, Thomas Ertl, Martin Falk, Oliver Fechtig, Regine Frank, Frank Grave, Andreas King, Ute Kraus, Thomas M??ller, Hans-Peter Nollert, Isabel Rica Mendez, Hanns Ruder, Tobias Schafhitzel, Sonja Sch??r, Corvin Zahn, Michael Zatloukal
+in_vis_citations: 
+weiskopf1_vis_00
+weiskopf2_vis_00
+ebert_vis_00
+cignoni_vis_03
+magnor_vis_04
+

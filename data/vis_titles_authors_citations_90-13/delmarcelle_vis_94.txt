@@ -1,0 +1,5 @@
+title: The Topology of Symmetric, Second-Order Tensor Fields
+authors: Thierry Delmarcelle, Lambertus Hesselink
+in_vis_citations: 
+globus_vis_91
+

@@ -1,0 +1,7 @@
+title: Visualization of Electrostatic Dipoles in Molecular Dynamics of Metal Oxides
+authors: Sebastian Grottel, Philipp Beck, Christoph Muller, Guido Reina, Johannes Roth, Hans-Rainer Trebin, Thomas Ertl
+in_vis_citations: 
+laney_vis_06
+wijk_vis_05
+kindlman_vis_99
+

@@ -1,0 +1,4 @@
+title: Optimal Filter Design for Volume Reconstruction and Visualization
+authors: Ingrid Carlbom
+in_vis_citations: 
+

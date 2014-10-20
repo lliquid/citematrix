@@ -1,0 +1,10 @@
+title: Visualization of Parameter Space for Image Analysis
+authors: A. Johannes Pretorius, Mark-Anthony P. Bray, Anne E. Carpenter, Roy A. Ruddle
+in_vis_citations: 
+kobsa_infovis_04
+bavoil_vis_05
+johnson_vis_91
+ma_vis_99
+jankun_vis_00
+barlow01_infovis_01
+

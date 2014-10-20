@@ -1,0 +1,6 @@
+title: Simplifying Flexible Isosurfaces Using Local Geometric Measures
+authors: Hamish Carr, Jack Snoeyink, Michiel van de Panne
+in_vis_citations: 
+carr_vis_01
+pascucci_vis_02
+

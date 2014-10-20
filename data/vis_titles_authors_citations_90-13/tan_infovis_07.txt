@@ -1,0 +1,8 @@
+title: AdaptiviTree: Adaptive Tree Visualization for Tournament-Style Brackets
+authors: Desney S. Tan, Greg Smith, Bongshin Lee, George G. Robertson
+in_vis_citations: 
+plaisant_infovis_02
+conklin_infovis_02
+munzner_infovis_97
+card_vast_06
+

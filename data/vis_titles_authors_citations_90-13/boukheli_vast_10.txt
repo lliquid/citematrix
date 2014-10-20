@@ -1,0 +1,4 @@
+title: Real-time Aggregation of Wikipedia Data for Visual Analytics
+authors: Nadia Boukhelifa, Fanny Chevalier, Jean-Daniel Fekete
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: A Virtual Environment for Simulated Rat Dissection: A Case Study of Visualization for Astronaut Training
+authors: Kevin Montgomery, Wm. LeRoy Heinrichs, Cynthia Bruyns, Simon Wildermuth
+in_vis_citations: 
+

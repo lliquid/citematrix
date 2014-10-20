@@ -1,0 +1,13 @@
+title: Visualizing Flow Over Curvilinear Grid Surfaces Using Line Integral Convolution
+authors: Lisa K. Forssell
+in_vis_citations: 
+ma_vis_92
+bancroft_vis_90
+bryson_vis_91
+max_vis_92
+helman_vis_90
+max_vis_93
+hin_vis_93
+globus_vis_91
+wijk_vis_92
+

@@ -1,0 +1,5 @@
+title: Time Management, Simultaneity and Time-Critical Computation in Interactive Unsteady Visualization Environments
+authors: Steve Bryson, Sandy Johan
+in_vis_citations: 
+kenwright_vis_95
+

@@ -1,0 +1,4 @@
+title: Haar Wavelets over Triangular Domains with Applications to Multiresolution Models for Flow over a Sphere
+authors: Gregory M. Nielson, Il-Hong Jung, Junwon Sung
+in_vis_citations: 
+

@@ -1,0 +1,8 @@
+title: Wavelet Representation of Contour Sets
+authors: Martin Bertram, Daniel E. Laney, Mark A. Duchaineau, Charles D. Hansen, Bernd Hamann, Kenneth I. Joy
+in_vis_citations: 
+tao_vis_94
+bertra_vis_00
+tricoche_vis_00
+wood_vis_00
+

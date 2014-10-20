@@ -1,0 +1,5 @@
+title: Immersive Virtual Reality for Visualizing Flow Through an Artery
+authors: Andrew S. Forsberg, Robert M. Kirby, David H. Laidlaw, George E. Karniadakis, Jonathan L. Elion, Andries van Dam
+in_vis_citations: 
+bryson_vis_91
+

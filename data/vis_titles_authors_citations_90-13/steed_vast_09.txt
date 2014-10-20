@@ -1,0 +1,12 @@
+title: Guided Analysis of Hurricane Trends Using Statistical Processes Integrated with Interactive Parallel Coordinates
+authors: Chad A. Steed, J. Edward Swan, T.J. Jankun-Kelly, Patrick J. Fitzpatrick
+in_vis_citations: 
+qu_vis_07
+johansso_infovis_05
+theron_vast_06
+artero_infovis_04
+martin_vis_95
+hauser_infovis_02
+fua_vis_99
+novotny_vis_06
+

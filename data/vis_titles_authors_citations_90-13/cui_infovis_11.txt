@@ -1,0 +1,14 @@
+title: TextFlow: Towards Better Understanding of Evolving Topics in Text
+authors: Weiwei Cui, Shixia Liu, Li Tan, Conglei Shi, Yangqiu Song, Zekai J. Gao, Xin Tong, Huamin Qu
+in_vis_citations: 
+shi_vast_10
+collins_vast_09
+dwyer_infovis_06
+viegas_infovis_09
+byron_infovis_08
+doerk_infovis_10
+fisher_vast_08
+wattenba_infovis_05
+rose_vast_09
+riehmann_infovis_05
+

@@ -1,0 +1,4 @@
+title: FemaRepViz: Automatic Extraction and Geo-Temporal Visualization of FEMA National Situation Updates
+authors: Chi-Chun Pan, Prasenjit Mitra
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Local and Global Comparison of Continuous Functions
+authors: Herbert Edelsbrunner, John Harer, Vijay Natarajan, Valerio Pascucci
+in_vis_citations: 
+

@@ -1,0 +1,10 @@
+title: A Generic and Scalable Pipeline for GPU Tetrahedral Grid Rendering
+authors: Joachim Georgii, Ruediger Westermann
+in_vis_citations: 
+weiler_vis_03
+westerma_vis_97
+roettger_vis_00
+krueger_vis_03
+weiler_vis_01
+wilhelms_vis_96
+

@@ -1,0 +1,11 @@
+title: Visualizing the Intellectual Structure with Paper-Reference Matrices
+authors: Jian Zhang, Chaomei Chen, Jiexun Li
+in_vis_citations: 
+stasko_infovis_00
+wattenbe_infovis_08
+cui_infovis_08
+liu_infovis_08
+vanham_infovis_04
+dwyer_infovis_08
+johnson_vis_91
+

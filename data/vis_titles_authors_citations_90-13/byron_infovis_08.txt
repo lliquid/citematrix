@@ -1,0 +1,8 @@
+title: Stacked Graphs - Geometry & Aesthetics
+authors: Lee Byron, Martin Wattenberg
+in_vis_citations: 
+heer1_infovis_06
+wattenba_infovis_05
+viegas_infovis_07
+havre_infovis_00
+

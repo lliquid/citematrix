@@ -1,0 +1,8 @@
+title: Lagrangian-Eulerian Advection for Unsteady Flow Visualization
+authors: Bruno Jobard, Gordon Erlebacher, M. Yousuff Hussaini
+in_vis_citations: 
+jobard_vis_00
+lane_vis_94
+becker_vis_95
+jobard_vis_00
+

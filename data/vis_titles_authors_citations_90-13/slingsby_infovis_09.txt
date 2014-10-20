@@ -1,0 +1,10 @@
+title: Configuring Hierarchical Layouts to Address Research Questions
+authors: Aidan Slingsby, Jason Dykes, Jo Wood
+in_vis_citations: 
+yi_infovis_07
+maceachr_infovis_03
+leblanc_vis_90
+robertso_infovis_08
+heer_infovis_07
+jankun-k_vis_02
+

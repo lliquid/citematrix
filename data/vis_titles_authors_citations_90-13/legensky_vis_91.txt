@@ -1,0 +1,4 @@
+title: Advanced Visualization on Desktop Workstations
+authors: Steve M. Legensky
+in_vis_citations: 
+

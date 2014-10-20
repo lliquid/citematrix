@@ -1,0 +1,5 @@
+title: Smooth Approximation and Rendering of Large Scattered Data Sets
+authors: Joerg Haber, Frank Zeilfelder, Oleg Davydov, Hans-Peter Seidel
+in_vis_citations: 
+duchaine_vis_97
+

@@ -1,0 +1,10 @@
+title: Visual Market Sector Analysis for Financial Time Series Data
+authors: Hartmut Ziegler, Marco Jenny, Tino Gruse, Daniel A. Keim
+in_vis_citations: 
+alexa_infovis_01
+brodbeck_infovis_97
+keim_infovis_01
+vanwijk2_infovis_99
+csallner_infovis_03
+varshney_infovis_96
+

@@ -1,0 +1,4 @@
+title: A Fast Gibbs Sampler for Synthesizing Constrained Fractals
+authors: Baba C. Vemuri, Chhandomay Mandal
+in_vis_citations: 
+

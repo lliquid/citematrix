@@ -1,0 +1,6 @@
+title: Have Green - A Visual Analytics Framework for Large Semantic Graphs
+authors: Pak Chung Wong, George Chin Jr., Harlan Foote, Patrick Mackey, Jim Thomas
+in_vis_citations: 
+wongp_infovis_03
+wong_infovis_05
+

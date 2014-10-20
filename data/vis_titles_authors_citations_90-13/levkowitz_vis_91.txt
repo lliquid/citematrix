@@ -1,0 +1,4 @@
+title: Color Icons: Merging Color and Texture Perception for Integrated Visualization of Multiple Parameters
+authors: Haim Levkowitz
+in_vis_citations: 
+

@@ -1,0 +1,9 @@
+title: Research Report Volume Rendering for Relational Data
+authors: Barry G. Becker
+in_vis_citations: 
+wise_infovis_95
+ahlberg_infovis_95
+martin_vis_95
+wong_infovis_96
+crawfis_vis_93
+

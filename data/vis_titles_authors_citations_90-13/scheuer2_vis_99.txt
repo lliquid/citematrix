@@ -1,0 +1,7 @@
+title: C1-Interpolation for Vector Field Topology Visualization
+authors: Gerik Scheuermann, Xavier Tricoche, Hans Hagen
+in_vis_citations: 
+globus_vis_91
+bajaj_vis_98
+roth_vis_98
+

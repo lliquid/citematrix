@@ -1,0 +1,16 @@
+title: Isosurface Extraction in Time-varying Fields Using a Temporal Branch-on-Need Tree (T-BON)
+authors: Philip Sutton, Charles D. Hansen
+in_vis_citations: 
+heermann_vis_98
+shen_vis_96
+chiang_vis_98
+shenh_vis_98
+chiang_vis_97
+cox_vis_97
+monks_vis_96
+itoh_vis_96
+lanzagorta_vis_98
+tiede_vis_98
+lorensen_vis_95
+favre_vis_97
+

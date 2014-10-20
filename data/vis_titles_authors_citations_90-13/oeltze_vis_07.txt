@@ -1,0 +1,5 @@
+title: Interactive Visual Analysis of Perfusion Data
+authors: Steffen Oeltze, Helmut Doleisch, Helwig Hauser, Philipp Muigg, Bernhard Preim
+in_vis_citations: 
+gresh_vis_00
+

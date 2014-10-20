@@ -1,0 +1,4 @@
+title: Design of an End-User Data Visualization System
+authors: Donald L. Brittain, Josh Aller, Michael Wilson, Sue-Ling C. Wang
+in_vis_citations: 
+

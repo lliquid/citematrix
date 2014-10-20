@@ -1,0 +1,14 @@
+title: A Higher-Order Method For Finding Vortex Core Lines
+authors: Martin Roth, Ronald Peikert
+in_vis_citations: 
+roth_vis_96
+interran_vis_97
+leeuw_vis_95
+globus_vis_91
+kenwrigh_vis_97
+banks_vis_94
+silver_vis_96
+lavin_vis_97
+crawfis_vis_93
+scheuerm_vis_97
+

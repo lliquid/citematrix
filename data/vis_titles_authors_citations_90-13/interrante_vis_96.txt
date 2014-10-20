@@ -1,0 +1,7 @@
+title: Illustrating Transparent Surfaces with Curvature-Directed Strokes
+authors: Victoria Interrante, Henry Fuchs, Stephen Pizer, Marc Levoy
+in_vis_citations: 
+interrante_vis_95
+dooley_vis_90
+rheingans_vis_96
+

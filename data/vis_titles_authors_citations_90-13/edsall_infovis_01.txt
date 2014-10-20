@@ -1,0 +1,5 @@
+title: Case Study: Design and Assessment of an Enhanced Geographic Information System for Exploration of Multivariate Health Statistics
+authors: Robert M. Edsall, Alan M. MacEachren, Linda Pickle
+in_vis_citations: 
+maceache_infovis_98
+

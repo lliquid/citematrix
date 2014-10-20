@@ -1,0 +1,7 @@
+title: Uncertainty Visualization in Medical Volume Rendering Using Probabilistic Animation
+authors: Claes Lundstr??m, Patric Ljung, Anders Persson, Anders Ynnerman
+in_vis_citations: 
+kniss_vis_05
+gershon_vis_92
+kindlman_vis_03
+

@@ -1,0 +1,14 @@
+title: Visual Exploration of Classification Models for Risk Assessment
+authors: Malgorzata Migut, Marcel Worring
+in_vis_citations: 
+yi_infovis_07
+bendix_infovis_05
+tatu_vast_09
+ankerst_infovis_98
+fuchs_vis_09
+stolte_infovis_00
+collins_infovis_07
+yu_vast_08
+ward_vis_94
+elmqvist_infovis_08
+

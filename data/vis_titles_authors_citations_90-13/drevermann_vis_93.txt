@@ -1,0 +1,4 @@
+title: Non Conventional Methods for the Visualization of Events from High Energy Physics
+authors: H. Drevermann, D. Kuhn
+in_vis_citations: 
+

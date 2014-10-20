@@ -1,0 +1,10 @@
+title: ParallelTopics: A Probabilistic Approach to Exploring Document Collections
+authors: Wenwen Dou, Xiaoyu Wang, Remco Chang, William Ribarsky
+in_vis_citations: 
+shi_vast_10
+crossno_vast_09
+dasgupta_infovis_10
+oesterli_vast_10
+chenyanh_infovis_09
+havre_infovis_00
+

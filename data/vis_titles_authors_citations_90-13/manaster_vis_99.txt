@@ -1,0 +1,4 @@
+title: Detecting Null Alleles With Vasarely Charts
+authors: Carl J. Manaster, Elizabeth Nanthakumar, Phillip A. Morin
+in_vis_citations: 
+

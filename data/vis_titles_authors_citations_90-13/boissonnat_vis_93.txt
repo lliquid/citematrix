@@ -1,0 +1,4 @@
+title: 3D Simulation of Delivery
+authors: J.-D. Boissonnat, B. Geiger
+in_vis_citations: 
+

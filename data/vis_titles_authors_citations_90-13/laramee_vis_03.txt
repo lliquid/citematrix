@@ -1,0 +1,7 @@
+title: Image Space Based Visualization of Unsteady Flow on Surfaces
+authors: Robert S. Laramee, Bruno Jobard, Helwig Hauser
+in_vis_citations: 
+jobard_vis_01
+forssell_vis_94
+leeuw_vis_95
+

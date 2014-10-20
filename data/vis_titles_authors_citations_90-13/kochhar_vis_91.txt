@@ -1,0 +1,4 @@
+title: Cooperative, Computer-Aided Design of Scientific Visualizations
+authors: Sandeep Kochhart, Mark Friedel, Mark LaPolla
+in_vis_citations: 
+

@@ -1,0 +1,6 @@
+title: Clifford Convolution And Pattern Matching On Vector Fields
+authors: Julia Ebling, Gerik Scheuermann
+in_vis_citations: 
+tricoche_vis_00
+scheuerm_vis_97
+

@@ -1,0 +1,9 @@
+title: Low-Level Components of Analytic Activity in Information Visualization
+authors: Robert Amar, James Eagan, John Stasko
+in_vis_citations: 
+wehrend_vis_90
+chi_infovis_98
+chi_infovis_00
+saraiya_infovis_04
+kobsa_infovis_01
+

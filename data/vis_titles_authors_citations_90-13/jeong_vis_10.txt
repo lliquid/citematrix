@@ -1,0 +1,12 @@
+title: Interactive Histology of Large-Scale Biomedical Image Stacks
+authors: Won-Ki Jeong, Jens Schneider, Stephen G. Turney, Beverly E. Faulkner-Jones, Dominik Meyer, R??diger Westermann, R. Clay Reid, Jeff Lichtman, Hanspeter Pfister
+in_vis_citations: 
+shen_vis_94
+guthe_vis_02
+lum_vis_01
+fout_vis_07
+westermann_vis_95
+guthe_vis_01
+ghavamnia_vis_95
+schneide_vis_03
+

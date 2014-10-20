@@ -1,0 +1,4 @@
+title: Triangular NURBS Surface Modeling of Scattered Data
+authors: Song Han, Gerard Medioni
+in_vis_citations: 
+

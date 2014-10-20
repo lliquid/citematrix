@@ -1,0 +1,10 @@
+title: MoleView: An Attribute and Structure-Based Semantic Lens for Large Element-Based Plots
+authors: Christophe Hurter, Ozan Ersoy, Alexandru Telea
+in_vis_citations: 
+ersoy_infovis_11
+cui_infovis_08
+holten_infovis_06
+phan_infovis_05
+gansner_infovis_04
+wongn_infovis_03
+

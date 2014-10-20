@@ -1,0 +1,4 @@
+title: Forward Image Mapping
+authors: Baoquan Chen, Frank Dachille, Arie Kaufman
+in_vis_citations: 
+

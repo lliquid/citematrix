@@ -1,0 +1,6 @@
+title: Visualization Schemas for Flexible Information Visualization
+authors: Chris North, Nathan Conklin, Varun Saini
+in_vis_citations: 
+ahlberg_infovis_95
+derthick_infovis_97
+

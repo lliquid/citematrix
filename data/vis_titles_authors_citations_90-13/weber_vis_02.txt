@@ -1,0 +1,11 @@
+title: Exploring Scalar Fields Using Critical Isovalues
+authors: Gunther H. Weber, Gerik Scheuermann, Hans Hagen, Bernd Hamann
+in_vis_citations: 
+rockwood_vis_90
+bajaj_vis_97
+bajaj_vis_98
+fujishiro_vis_99
+nielson_vis_91
+gerstner_vis_00
+wood_vis_00
+

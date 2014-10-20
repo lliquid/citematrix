@@ -1,0 +1,4 @@
+title: The Electronic Structure of Oxygen in Silicon as Revealed by Volume Visualization of Ab Initio Calculations
+authors: Robert H. Wolfe, Mark Needelst, John D. Joannopoulos
+in_vis_citations: 
+

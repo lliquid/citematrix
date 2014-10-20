@@ -1,0 +1,8 @@
+title: The Benefits of Synchronous Collaborative Information Visualization: Evidence from an Experimental Evaluation
+authors: Sabrina Bresciani, Martin J. Eppler
+in_vis_citations: 
+robinson_vast_08
+isenberg_infovis_07
+robertso_infovis_08
+wen_infovis_08
+

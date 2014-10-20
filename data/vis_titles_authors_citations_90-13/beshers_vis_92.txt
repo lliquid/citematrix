@@ -1,0 +1,5 @@
+title: Automated Design of Virtual Worlds for Visualizing Multivariate Relations
+authors: Clifford Beshers, Steven Feiner
+in_vis_citations: 
+kochhar_vis_91
+

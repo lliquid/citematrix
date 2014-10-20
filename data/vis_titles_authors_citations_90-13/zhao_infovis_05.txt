@@ -1,0 +1,6 @@
+title: Elastic Hierarchies: Combining Treemaps and Node-Link Diagrams
+authors: Shengdong Zhao, Michael J. McGuffin, Mark H. Chignell
+in_vis_citations: 
+stasko_infovis_00
+plaisant_infovis_02
+

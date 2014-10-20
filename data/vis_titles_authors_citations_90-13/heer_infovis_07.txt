@@ -1,0 +1,7 @@
+title: Animated Transitions in Statistical Data Graphics
+authors: Jeffrey Heer, George G. Robertson
+in_vis_citations: 
+bederson_infovis_99
+yee_infovis_01
+plaisant_infovis_02
+

@@ -1,0 +1,15 @@
+title: Direct Volume Editing
+authors: Kai Buerger, Jens Krueger, Ruediger Westermann
+in_vis_citations: 
+krueger_vis_06
+interrante_vis_96
+krueger_vis_03
+weiskopf_vis_02
+lu_vis_02
+bruckner_vis_07
+ikits_vis_03
+ebert_vis_00
+viola_vis_04
+bruckner_vis_05
+avila_vis_96
+

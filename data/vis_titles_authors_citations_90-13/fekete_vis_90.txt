@@ -1,0 +1,4 @@
+title: Rendering and managing spherical data with Sphere Quadtrees
+authors: Gyorgy Fekete
+in_vis_citations: 
+

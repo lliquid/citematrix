@@ -1,0 +1,7 @@
+title: Case Study: Integrating Spatial Data Display with Virtual Reconstruction
+authors: Philip Peterson, Brian Hayden, F. David Fracchia
+in_vis_citations: 
+palamidese_vis_93
+ervin_vis_92
+bryson_vis_91
+

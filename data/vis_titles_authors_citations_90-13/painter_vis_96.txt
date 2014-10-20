@@ -1,0 +1,4 @@
+title: Case Study: Mantle Convection Visualization on the Cray T3D
+authors: James S. Painter, Yarden Livnat
+in_vis_citations: 
+

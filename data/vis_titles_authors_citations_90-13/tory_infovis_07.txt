@@ -1,0 +1,8 @@
+title: Spatialization Design: Comparing Points and Landscapes
+authors: Melanie Tory, David W. Sprague, Fuqu Wu, Wing Yan So, Tamara Munzner
+in_vis_citations: 
+williams_infovis_04
+granitze_infovis_04
+nowell_infovis_02
+wise_infovis_95
+

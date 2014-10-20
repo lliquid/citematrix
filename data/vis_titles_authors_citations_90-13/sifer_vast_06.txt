@@ -1,0 +1,6 @@
+title: User Interfaces for the Exploration of Hierarchical Multi-dimensional Data
+authors: Mark Sifer
+in_vis_citations: 
+hauser_infovis_02
+bendix_infovis_05
+

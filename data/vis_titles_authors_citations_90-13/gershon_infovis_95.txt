@@ -1,0 +1,4 @@
+title: Case Study Visualizing Internet Resources
+authors: Nahum Gershon, Joshua LeVasseur, Joel Winstead, James Croall, Ari Pernick, William Ruh
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Lighthouse: Showing the Way to Relevant Information
+authors: Anton Leuski, James Allan
+in_vis_citations: 
+

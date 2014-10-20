@@ -1,0 +1,8 @@
+title: Analyzing Complex FTMS Simulations: a Case Study in High-Level Visualization of Ion Motions
+authors: Wojciech Burakiewicz, Robert van Liere
+in_vis_citations: 
+wei_vis_01
+robbins_vis_04
+huitema_vis_00
+ljung_vis_00
+

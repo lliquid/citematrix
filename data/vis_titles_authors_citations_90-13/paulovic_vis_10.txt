@@ -1,0 +1,12 @@
+title: Two-Phase Mapping for Projecting Massive Data Sets
+authors: Fernando V. Paulovich, Claudio T. Silva, L. Gustavo Nonato
+in_vis_citations: 
+koren_infovis_02
+chalmers_vis_96
+paulovic_infovis_08
+heinrich_vis_09
+williams_infovis_04
+frishman_infovis_07
+elmqvist_infovis_08
+morrison_infovis_02
+

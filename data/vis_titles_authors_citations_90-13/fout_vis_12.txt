@@ -1,0 +1,7 @@
+title: An Adaptive Prediction-Based Approach to Lossless Compression of Floating-Point Volume Data
+authors: Nathaniel Fout, Kwan-Liu Ma
+in_vis_citations: 
+trott_vis_96
+lindstro_vis_06
+tao_vis_94
+

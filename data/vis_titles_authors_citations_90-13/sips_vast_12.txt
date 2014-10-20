@@ -1,0 +1,6 @@
+title: A Visual Analytics Approach to Multiscale Exploration of Environmental Time Series
+authors: Mike Sips, Patrick Kothur, Andrea Unger, Hans-Christian Hege, Doris Dransch
+in_vis_citations: 
+alexa_infovis_01
+jerding_infovis_95
+

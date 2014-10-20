@@ -1,0 +1,6 @@
+title: Interactive Visualization of Aircraft and Power Generation Engines
+authors: Lisa Sobierajski Avila, William Schroeder
+in_vis_citations: 
+schroeder_vis_96
+schroede_vis_97
+

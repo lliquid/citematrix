@@ -1,0 +1,8 @@
+title: Effectively Visualizing Large Networks Through Sampling
+authors: Davood Rafiei, Stephen Curial
+in_vis_citations: 
+abello_infovis_01
+gansner_infovis_04
+plaisant_infovis_02
+auber_infovis_03
+

@@ -1,0 +1,9 @@
+title: A Visibility Determination Algorithm for Interactive Virtual Endoscopy
+authors: Rami Hietala, Jarkko Oikarinen
+in_vis_citations: 
+you_vis_97
+gobbetti_vis_98
+parker_vis_98
+bartz_vis_99
+wan2_vis_99
+

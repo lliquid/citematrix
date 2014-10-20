@@ -1,0 +1,6 @@
+title: Monitoring Network Traffic with Radial Traffic Analyzer
+authors: Daniel A. Keim, Florian Mansmann, J??rn Schneidewind, Tobias Schreck
+in_vis_citations: 
+stasko_infovis_00
+chuah_infovis_98
+

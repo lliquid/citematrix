@@ -1,0 +1,9 @@
+title: Enabling Automatic Clutter Reduction in Parallel Coordinate Plots
+authors: Geoffrey Ellis, Alan Dix
+in_vis_citations: 
+schussma_vis_04
+rafiei_vis_05
+fekete_infovis_04
+fua_vis_99
+peng_infovis_04
+

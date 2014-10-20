@@ -1,0 +1,8 @@
+title: Algorithms for Labeling Focus Regions
+authors: Martin Fink, Jan-Henrik Haunert, Andre Schulz, Joachim Spoerhase, Alexander Wolff
+in_vis_citations: 
+haunert_infovis_11
+speckman_infovis_10
+steinberger_infovis_11
+olston_infovis_00
+

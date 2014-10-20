@@ -1,0 +1,10 @@
+title: Similarity-Guided Streamline Placement with Error Evaluation
+authors: Yuan Chen, Jonathan D. Cohen, Julian H. Krolik
+in_vis_citations: 
+ye_vis_05
+mebarki_vis_05
+nielson1_vis_04
+haber_vis_01
+liuzhanp_vis_06
+verma_vis_00
+

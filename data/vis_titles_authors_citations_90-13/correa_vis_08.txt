@@ -1,0 +1,13 @@
+title: Size-based Transfer Functions: A New Volume Exploration Technique
+authors: Carlos D. Correa, Kwan-Liu Ma
+in_vis_citations: 
+kindlman_vis_03
+fujishiro_vis_99
+ebert_vis_00
+kniss_vis_01
+lum_vis_04
+tzeng_vis_03
+ghavamnia_vis_95
+sherbond_vis_03
+correa_vis_05
+

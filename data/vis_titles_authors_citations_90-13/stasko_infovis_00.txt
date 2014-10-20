@@ -1,0 +1,8 @@
+title: Focus+Context Display and Navigation Techniques for Enhancing Radial, Space-Filling Hierarchy Visualizations
+authors: John Stasko, Eugene Zhang
+in_vis_citations: 
+vanwijk_infovis_99
+turo_vis_92
+chuah_infovis_98
+johnson_vis_91
+

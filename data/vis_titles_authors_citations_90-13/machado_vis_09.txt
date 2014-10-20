@@ -1,0 +1,7 @@
+title: A Physiologically-based Model for Simulation of Color Vision Deficiency
+authors: Gustavo M. Machado, Manuel M. Oliveira, Leandro A. F. Fernandes
+in_vis_citations: 
+healey_vis_96
+bergman_vis_95
+kuhn_vis_08
+

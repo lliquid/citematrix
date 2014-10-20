@@ -1,0 +1,10 @@
+title: Flow-based Scatterplots for Sensitivity Analysis
+authors: Yu-Hsuan Chan, Carlos D. Correa, Kwan-Liu Ma
+in_vis_citations: 
+bachthal_vis_08
+barlowe_vast_08
+correa_vast_09
+yang_vast_07
+shneiderman_infovis_06
+elmqvist_infovis_08
+

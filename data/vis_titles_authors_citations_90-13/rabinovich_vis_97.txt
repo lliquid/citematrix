@@ -1,0 +1,5 @@
+title: Visualization of Large Terrains in Resource-Limited Computing Environments
+authors: Boris Rabinovich, Craig Gotsman
+in_vis_citations: 
+cohenor1_vis_96
+

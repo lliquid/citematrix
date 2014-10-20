@@ -1,0 +1,7 @@
+title: Towards a Comprehensive Volume Visualization System
+authors: Ricardo S. Avilat, Lisa M. Sobierajski, Arie E. Kaufman
+in_vis_citations: 
+montine_vis_90
+senft_vis_90
+yagel_vis_91
+

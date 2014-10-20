@@ -1,0 +1,7 @@
+title: Geographic Visualization: Designing Manipulable Maps for Exploring Temporally Varying Georeferenced Statistics
+authors: Alan M. MacEachren, Francis P. Boscoe, Daniel Haug, Linda W. Pickle
+in_vis_citations: 
+buja_vis_91
+rheingan_vis_97
+rheingans_vis_92
+

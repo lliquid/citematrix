@@ -1,0 +1,12 @@
+title: Large Field Visualization With Demand-Driven Calculation
+authors: Patrick J. Moran, Chris Henze
+in_vis_citations: 
+lucas1_vis_92
+cox_vis_97
+bryson1_vis_96
+lane_vis_94
+song_vis_93
+bancroft_vis_90
+shen_vis_97
+abram_vis_95
+

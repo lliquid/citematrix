@@ -1,0 +1,6 @@
+title: POPTEX: Interactive Ocean Model Visualization Using Texture Mapping Hardware
+authors: Allen McPherson, Mathew Maltrud
+in_vis_citations: 
+hibbard_vis_90
+nations_vis_96
+

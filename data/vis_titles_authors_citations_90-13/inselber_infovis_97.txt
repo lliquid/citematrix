@@ -1,0 +1,6 @@
+title: Multidimensional Detective
+authors: Alfred Inselberg
+in_vis_citations: 
+inselberg_vis_90
+ward_vis_94
+

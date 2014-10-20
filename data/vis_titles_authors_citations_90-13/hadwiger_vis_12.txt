@@ -1,0 +1,7 @@
+title: Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach
+authors: Markus Hadwiger, Johanna Beyer, Won-Ki Jeong, Hanspeter Pfister
+in_vis_citations: 
+lamar_vis_99
+krueger_vis_03
+hughes_vis_09
+

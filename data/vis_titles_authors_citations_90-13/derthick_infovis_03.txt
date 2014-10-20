@@ -1,0 +1,5 @@
+title: Constant Density Displays Using Diversity Sampling
+authors: Mark Derthick, Michael G. Christel, Alexander G. Hauptmann, Howard D. Wactlar
+in_vis_citations: 
+hetzler_infovis_98
+

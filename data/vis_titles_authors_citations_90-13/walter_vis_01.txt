@@ -1,0 +1,7 @@
+title: Attribute Preserving Dataset Simplification
+authors: Jason D. Walter, Christopher G. Healey
+in_vis_citations: 
+roth_vis_98
+garland_vis_98
+hoppe_vis_99
+

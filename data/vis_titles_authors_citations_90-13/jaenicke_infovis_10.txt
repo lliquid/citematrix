@@ -1,0 +1,5 @@
+title: Visualization of Graph Products
+authors: Stefan Jaenicke, Christian Heine, Marc Hellmuth, Peter F. Stadler, Gerik Scheuermann
+in_vis_citations: 
+frishman_infovis_07
+

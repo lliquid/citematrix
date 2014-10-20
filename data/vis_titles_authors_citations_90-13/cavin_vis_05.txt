@@ -1,0 +1,4 @@
+title: COTS Cluster-based Sort-last Rendering: Performance Evaluation and Pipelined Implementation
+authors: Xavier Cavin, Christophe Mion, Alain Filbois, Inria Lorraine
+in_vis_citations: 
+

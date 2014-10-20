@@ -1,0 +1,10 @@
+title: Dynamic Visualization of Transient Data Streams
+authors: Pak Chung Wong, Harlan Foote, Dan Adams, Wendy Cowley, Jim Thomas
+in_vis_citations: 
+bentley_infovis_96
+chalmers_vis_96
+wong1_vis_97
+morrison_infovis_02
+wise_infovis_95
+rodden_infovis_99
+

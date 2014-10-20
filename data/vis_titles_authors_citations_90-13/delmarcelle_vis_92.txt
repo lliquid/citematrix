@@ -1,0 +1,8 @@
+title: Visualization of Second Order Tensor Fields and Matrix Data
+authors: Thieny Delmarcelle, Lambertus Hesselink
+in_vis_citations: 
+kerlick_vis_90
+helman_vis_90
+schroederw_vis_91
+globus_vis_91
+

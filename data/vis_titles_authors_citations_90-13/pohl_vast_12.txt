@@ -1,0 +1,9 @@
+title: The User Puzzle - Explaining the Interaction with Visual Analytics Systems
+authors: Margit Pohl, Michael Smuc, Eva Mayr
+in_vis_citations: 
+liu_infovis_08
+yi_infovis_07
+lipford_vast_10
+green_vast_08
+ziemkiew_vast_11
+

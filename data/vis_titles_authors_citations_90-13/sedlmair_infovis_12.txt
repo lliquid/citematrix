@@ -1,0 +1,21 @@
+title: Design Study Methodology: Reflections from the Trenches and the Stacks
+authors: Michael Sedlmair, Miriah Meyer, Tamara Munzner
+in_vis_citations: 
+munzner_infovis_99
+munzner_infovis_96
+barsky_infovis_08
+keefe_vis_09
+baur_infovis_10
+amar_infovis_05
+kincaid_infovis_10
+perer_vast_11
+wood_infovis_11
+lam_vast_07
+nielsen_infovis_09
+borkin_infovis_11
+slingsby_infovis_09
+craig_infovis_03
+meyer_infovis_09
+munzner_infovis_09
+lloyd_infovis_11
+

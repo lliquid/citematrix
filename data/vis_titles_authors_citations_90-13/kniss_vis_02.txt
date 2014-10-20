@@ -1,0 +1,5 @@
+title: Interactive Translucent Volume Rendering and Procedural Modeling
+authors: Joe Kniss, Simon Premoze, Charles Hansen, David Ebert
+in_vis_citations: 
+krueger_vis_90
+

@@ -1,0 +1,8 @@
+title: Fast Visualization by Shear-Warp on Quadratic Super-Spline Models Using Wavelet Data Decompositions
+authors: Gregor Schlosser, Juergen Hesser, Frank Zeilfelder, Christian Roessl, Reinhard Maenner, Guenther Nuernberger, Hans-Peter Seidel
+in_vis_citations: 
+parker_vis_98
+schulze_vis_01
+marschner_vis_94
+krueger_vis_90
+

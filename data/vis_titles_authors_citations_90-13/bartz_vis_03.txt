@@ -1,0 +1,5 @@
+title: Hybrid Segmentation and Exploration of the Human Lungs
+authors: Dirk Bartz, Dirk Mayer, Jan Fischer, Sebastian Ley, Anxo del Rio, Steffi Thust, Claus Peter Heussel, Hans-Ulrich Kauczor, Wolfgang Stra??er
+in_vis_citations: 
+wegenkittl_vis_00
+

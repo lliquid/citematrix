@@ -1,0 +1,7 @@
+title: Visualizing Time-Series on Spirals
+authors: Marc Weber, Marc Alexa, Wolfgang Mueller
+in_vis_citations: 
+buja_vis_91
+havre_infovis_00
+jerding_infovis_95
+

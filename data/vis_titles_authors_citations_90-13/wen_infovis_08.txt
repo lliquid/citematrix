@@ -1,0 +1,11 @@
+title: Evaluating the Use of Data Transformation for Information Visualization
+authors: Zhen Wen, Michelle X. Zhou
+in_vis_citations: 
+amar_infovis_05
+kobsa_infovis_04
+cui_infovis_06
+chi_infovis_00
+yang_infovis_03
+wehrend_vis_90
+viegas_infovis_07
+

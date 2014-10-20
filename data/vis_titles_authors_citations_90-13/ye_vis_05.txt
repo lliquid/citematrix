@@ -1,0 +1,10 @@
+title: Strategy for Seeding 3D Streamlines
+authors: Xiaohong Ye, David Kao, Alex Pang
+in_vis_citations: 
+verma_vis_00
+zoeckler_vis_96
+westerma_vis_00
+telea_vis_99
+bryson_vis_91
+theisel_vis_03
+

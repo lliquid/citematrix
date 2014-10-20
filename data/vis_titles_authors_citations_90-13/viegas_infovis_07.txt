@@ -1,0 +1,7 @@
+title: Many Eyes: A Site for Visualization at Internet Scale
+authors: Fernanda B. Viegas, Martin Wattenberg, Frank van Ham, Jesse Kriss, Matt McKeon
+in_vis_citations: 
+wattenba_infovis_05
+hill_vis_91
+tang_infovis_03
+

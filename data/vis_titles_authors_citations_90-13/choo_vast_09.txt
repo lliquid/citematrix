@@ -1,0 +1,5 @@
+title: Two-stage Framework for Visualization of Clustered High Dimensional Data
+authors: Jaegul Choo, Shawn Bohn, Haesun Park
+in_vis_citations: 
+koren_infovis_03
+

@@ -1,0 +1,9 @@
+title: Organizing Search Results with a Reference Map
+authors: Arlind Nocaj, Ulrik Brandes
+in_vis_citations: 
+balzer_infovis_05
+munzner_infovis_97
+holten_infovis_06
+cao_infovis_10
+clarkson_infovis_09
+

@@ -1,0 +1,10 @@
+title: Hierarchical Splatting of Scattered Data
+authors: Matthias Hopf, Thomas Ertl
+in_vis_citations: 
+swan_vis_97
+park_vis_02
+mueller_vis_99
+zwicker_vis_01
+alexa_vis_01
+pauly_vis_02
+

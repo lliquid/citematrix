@@ -1,0 +1,8 @@
+title: Coherency-Based Curve Compression for High-Order Finite Element Model Visualization
+authors: Alexander Bock, Erik Sunden, Bingchen Liu
+in_vis_citations: 
+hong_vis_98
+brasher_vis_04
+nelson_vis_11
+georgii_vis_06
+

@@ -1,0 +1,4 @@
+title: Adapting the Cognitive Walkthrough Method to Assess the Usability of a Knowledge Domain Visualization
+authors: Kenneth Allendoerfer, Serge Alukerz, Gulshan Panjwani, Jason Proctor, David Sturtz, Mirjana Vukovic, Chaomei Chen
+in_vis_citations: 
+

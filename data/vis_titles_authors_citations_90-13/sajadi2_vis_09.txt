@@ -1,0 +1,10 @@
+title: Color Seamlessness in Multi-Projector Displays Using Constrained Gamut Morphing
+authors: Behzad Sajadi, Maxim Lazarov, Aditi Majumder, M. Gopi
+in_vis_citations: 
+yang_vis_01
+chen_vis_02
+majumder_vis_00
+raskar_vis_99
+bhasker_vis_07
+bhasker_vis_06
+

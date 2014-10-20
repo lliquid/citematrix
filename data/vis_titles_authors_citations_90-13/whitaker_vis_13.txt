@@ -1,0 +1,8 @@
+title: Contour Boxplots: A Method for Characterizing Uncertainty in Feature Sets from Simulation Ensembles
+authors: Ross T. Whitaker, Mahsa Mirzargar, Robert M. Kirby
+in_vis_citations: 
+grigorya_vis_02
+lodha1_vis_96
+kniss_vis_05
+sanyal_vis_10
+

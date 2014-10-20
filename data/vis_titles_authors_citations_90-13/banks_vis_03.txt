@@ -1,0 +1,12 @@
+title: Counting Cases in Marching Cubes: Toward a Generic Algorithm for Producing Substitopes
+authors: David C. Banks, Stephen Linton
+in_vis_citations: 
+bhanira_vis_00
+nielson2_vis_97
+weigle_vis_96
+shen_vis_96
+shen_vis_95
+gallagher_vis_91
+nielson3_vis_97
+bruyns_vis_01
+

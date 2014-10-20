@@ -1,0 +1,16 @@
+title: TreeNetViz: Revealing Patterns of Networks over Tree Structures
+authors: Liang Gou, Xiaolong Zhang
+in_vis_citations: 
+ghoniem_infovis_04
+auber_infovis_03
+vanham_infovis_03
+yang_infovis_02
+meyer_infovis_09
+pretorius_infovis_06
+cui_infovis_08
+abello_infovis_06
+stasko_infovis_00
+shneiderman_infovis_06
+collins_infovis_07
+holten_infovis_06
+

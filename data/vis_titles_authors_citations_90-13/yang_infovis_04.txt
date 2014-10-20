@@ -1,0 +1,10 @@
+title: Value and Relation Display for Interactive Exploration of High Dimensional Datasets
+authors: Jing Yang, Anilkumar Patro, Shiping Huang, Nishant Mehta, Matthew O. Ward, Elke A. Rundsteiner
+in_vis_citations: 
+ankerst_infovis_98
+yang_infovis_03
+ward_vis_94
+wongp_infovis_03
+wise_infovis_95
+keim_vis_95
+

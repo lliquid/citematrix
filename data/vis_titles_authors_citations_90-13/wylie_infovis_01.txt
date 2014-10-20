@@ -1,0 +1,5 @@
+title: Cluster Stability and the Use of Noise in Interpretation of Clustering
+authors: George S. Davidson, Brian N. Wylie, Kevin W. Boyack
+in_vis_citations: 
+wise_infovis_95
+

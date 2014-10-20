@@ -1,0 +1,5 @@
+title: Visualizing DIII-D Tokamak Magnetic Field Lines
+authors: Greg Schussman, Kwan-Liu Ma, David Schissel, Todd Evans
+in_vis_citations: 
+zoeckler_vis_96
+

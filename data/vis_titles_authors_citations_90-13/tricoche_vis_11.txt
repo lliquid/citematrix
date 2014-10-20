@@ -1,0 +1,13 @@
+title: Visualization of Topological Structures in Area-Preserving Maps
+authors: Xavier Tricoche, Christoph Garth, Allen Sanderson
+in_vis_citations: 
+gyulassy_vis_05
+theisel_vis_03
+garth_vis_04
+tricoche_vis_00
+weber_vis_07
+sanderson_vis_10
+zhengcom_vis_05
+mann_vis_02
+delmarcelle_vis_94
+

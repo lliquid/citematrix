@@ -1,0 +1,6 @@
+title: TimeTree: Exploring Time Changing Hierarchies
+authors: Stuart K. Card, Bongwon Suh, Bryan A. Pendleton, Jeffrey Heer, John W. Bodnar
+in_vis_citations: 
+chenc_infovis_03
+johnson_vis_91
+

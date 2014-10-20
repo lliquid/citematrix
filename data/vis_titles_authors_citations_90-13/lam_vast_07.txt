@@ -1,0 +1,8 @@
+title: Session Viewer: Visual Exploratory Analysis of Web Session Logs
+authors: Heidi Lam, Daniel Russell, Diane Tang, Tamara Munzner
+in_vis_citations: 
+frecon_infovis_98
+maceachr_infovis_03
+kreusele_infovis_04
+gray_infovis_96
+

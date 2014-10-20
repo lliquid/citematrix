@@ -1,0 +1,4 @@
+title: Geo-Historical Context Support for Information Foraging and Sensemaking: Conceptual Model, Implementation, and Assessment
+authors: Brian Tomaszewski, Alan M. MacEachren
+in_vis_citations: 
+

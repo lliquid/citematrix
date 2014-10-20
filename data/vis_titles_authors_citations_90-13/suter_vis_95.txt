@@ -1,0 +1,4 @@
+title: Automated Generation of Visual Simulation Databases Using Remote Sensing and GIS
+authors: M. Suter, D. Niiesch
+in_vis_citations: 
+

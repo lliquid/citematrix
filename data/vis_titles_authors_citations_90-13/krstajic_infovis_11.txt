@@ -1,0 +1,9 @@
+title: CloudLines: Compact Display of Event Episodes in Multiple Time-Series
+authors: Milos Krstajic, Enrico Bertini, Daniel A. Keim
+in_vis_citations: 
+kincaid_infovis_10
+chen_vast_06
+hetzler_infovis_05
+kerr_infovis_03
+heer_infovis_07
+

@@ -1,0 +1,9 @@
+title: A Fast Volume Rendering Algorithm for Time-Varying Fields Using a Time-Space Partitioning (TSP) Tree
+authors: Han-Wei Shen, Ling-Jen Chiang, Kwan-Liu Ma
+in_vis_citations: 
+parker_vis_98
+cox_vis_97
+fang_vis_96
+shenh_vis_98
+westermann_vis_95
+

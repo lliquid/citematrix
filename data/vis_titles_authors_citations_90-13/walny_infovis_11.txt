@@ -1,0 +1,13 @@
+title: Visual Thinking In Action: Visualizations As Used On Whiteboards
+authors: Jagoda Walny, Sheelagh Carpendale, Nathalie Henry Riche, Gina Venolia, Philip Fawcett
+in_vis_citations: 
+heer_infovis_10
+segal_infovis_10
+dwyer_infovis_06
+ellis_infovis_07
+vanham_infovis_08
+amar_infovis_04
+plaisant_infovis_02
+johnson_vis_91
+grammel_infovis_10
+

@@ -1,0 +1,7 @@
+title: Interactive Terrain Rendering and Volume Visualization on the Princeton Engine
+authors: Jim Kaba, Jim Matey, Gordon Stoll, Herb Taylor, Pat Hanrahan
+in_vis_citations: 
+yoo_vis_91
+schroederp_vis_91
+yagel_vis_91
+

@@ -1,0 +1,7 @@
+title: Temporal Event Sequence Simplification
+authors: Megan Monroe, Rongjian Lan, Hanseung Lee, Catherine Plaisant, Ben Shneiderman
+in_vis_citations: 
+vrotsou_infovis_09
+sedlmair_infovis_12
+jin_vast_10
+

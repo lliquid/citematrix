@@ -1,0 +1,8 @@
+title: Lattice-Based Volumetric Global Illumination
+authors: Feng Qiu, Fang Xu, Zhe Fan, Neophytou Neophytos, Arie Kaufman, Klaus Mueller
+in_vis_citations: 
+entezari_vis_04
+theussl_vis_01
+krueger_vis_03
+qiao_vis_05
+

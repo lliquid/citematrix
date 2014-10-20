@@ -1,0 +1,5 @@
+title: Tetrahedron Based, Least Squares, Progressive Volume Models with Application to Freehand Ultrasound Data
+authors: Tom Roxborough, Gregory M. Nielson
+in_vis_citations: 
+grosso_vis_97
+

@@ -1,0 +1,4 @@
+title: Building and Traversing a Surface at Variable Resolution
+authors: Leila De Floriani, Paola Magillo, Enrico Puppo
+in_vis_citations: 
+

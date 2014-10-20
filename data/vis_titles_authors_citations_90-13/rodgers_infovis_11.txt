@@ -1,0 +1,6 @@
+title: Exploring Ambient and Artistic Visualization for Residential Energy Use Feedback
+authors: Johnny Rodgers, Lyn Bartram
+in_vis_citations: 
+pousman_infovis_07
+skog_infovis_03
+

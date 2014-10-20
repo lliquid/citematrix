@@ -1,0 +1,4 @@
+title: Fairing Scalar Fields by Variational Modeling of Contours
+authors: Martin Bertram
+in_vis_citations: 
+

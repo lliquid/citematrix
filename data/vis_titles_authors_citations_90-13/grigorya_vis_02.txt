@@ -1,0 +1,8 @@
+title: Probabilistic Surfaces: Point Based Primitives to Show Surface Uncertainty
+authors: Gevorg Grigoryan, Penny Rheingans
+in_vis_citations: 
+lodha1_vis_96
+cedilnik_vis_00
+chen_vis_01
+minghim_vis_95
+

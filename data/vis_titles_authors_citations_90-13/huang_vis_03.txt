@@ -1,0 +1,4 @@
+title: Visualizing Industrial CT Volume Data for Nondestructive Testing Applications
+authors: Runzhen Huang, Kwan-Liu Ma, Patrick McCormick, William Ward
+in_vis_citations: 
+

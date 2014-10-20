@@ -1,0 +1,6 @@
+title: Scanline Surfacing: Building Separating Surfaces from Planar Contours
+authors: David Weinstein
+in_vis_citations: 
+nielson3_vis_97
+moran_vis_94
+

@@ -1,0 +1,6 @@
+title: Discovering Bits of Place Histories from People's Activity Traces
+authors: Gennady Andrienko, Natalia Andrienko, Martin Mladenov, Michael Mock, Christian P??litz
+in_vis_citations: 
+vanwijk2_infovis_99
+ivanov_infovis_07
+

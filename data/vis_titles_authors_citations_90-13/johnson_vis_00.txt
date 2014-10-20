@@ -1,0 +1,4 @@
+title: Visualization of Multi-Dimensional Data with Vector-fusion
+authors: R. R. Johnson
+in_vis_citations: 
+

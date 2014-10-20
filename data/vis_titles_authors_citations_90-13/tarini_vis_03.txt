@@ -1,0 +1,6 @@
+title: Visibility based methods and assessment for detail-recovery
+authors: Marco Tarini, Paolo Cignoni, Roberto Scopigno
+in_vis_citations: 
+zhang9-3_vis_02
+cignoni_vis_98
+

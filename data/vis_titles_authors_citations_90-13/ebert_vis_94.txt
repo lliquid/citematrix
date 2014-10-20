@@ -1,0 +1,4 @@
+title: Volume Rendering Methods for Computational Fluid Dynamics Visualization
+authors: David S. Ebert, Roni Yagel, Jim Scott, Yair Kurzion
+in_vis_citations: 
+

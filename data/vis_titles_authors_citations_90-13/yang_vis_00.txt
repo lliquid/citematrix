@@ -1,0 +1,5 @@
+title: On-the-Fly Rendering Of Losslessly Compressed Irregular Volume Data
+authors: Chuan-kai Yang, Tulika Mitra, Tzi-cker Chiueh
+in_vis_citations: 
+gumhold_vis_99
+

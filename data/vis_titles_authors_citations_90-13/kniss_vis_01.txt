@@ -1,0 +1,9 @@
+title: Interactive Volume Rendering Using Multi-Dimensional Transfer Functions and Direct Manipulation Widgets
+authors: Joe Kniss, Gordon Kindlmann, Charles Hansen
+in_vis_citations: 
+bergman_vis_95
+lamar_vis_99
+meissner_vis_99
+he1_vis_96
+bajaj_vis_97
+

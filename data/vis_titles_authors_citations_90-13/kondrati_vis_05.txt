@@ -1,0 +1,9 @@
+title: The Application of GPU Particle Tracing to Diffusion Tensor Field Visualization
+authors: Polina Kondratieva, Jens Krueger, Ruediger Westermann
+in_vis_citations: 
+kindlman_vis_99
+zhukov_vis_02
+delmarcelle_vis_92
+weinstei_vis_99
+laidlaw_vis_98
+

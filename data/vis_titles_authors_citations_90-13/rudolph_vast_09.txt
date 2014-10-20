@@ -1,0 +1,13 @@
+title: FinVis: Applied Visual Analytics for Personal Financial Planning
+authors: Stephen Rudolph, Anya Savikhin, David S. Ebert
+in_vis_citations: 
+havre_infovis_00
+brodbeck_infovis_97
+pousman_infovis_07
+alexa_infovis_01
+willett_infovis_07
+viegas_infovis_07
+savikhin_vast_08
+csallner_infovis_03
+varshney_infovis_96
+

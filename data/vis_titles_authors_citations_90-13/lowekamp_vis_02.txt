@@ -1,0 +1,5 @@
+title: Exploring Surface Characteristics with Interactive Gaussian Images (A Case Study)
+authors: Bradley Lowekamp, Penny Rheingans, Terry S. Yoo
+in_vis_citations: 
+grinspun_vis_01
+

@@ -1,0 +1,4 @@
+title: VRMosaic: WEB Access from within a Virtual Environment
+authors: Ian G. Angus, Henry A. Sowizral
+in_vis_citations: 
+

@@ -1,0 +1,10 @@
+title: Dataset Traversal with Motion-Controlled Transfer Functions
+authors: Carlos D. Correa, Deborah Silver
+in_vis_citations: 
+liw_vis_03
+park_vis_02
+lu_vis_02
+hadwiger_vis_03
+viola_vis_04
+wan_vis_01
+

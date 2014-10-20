@@ -1,0 +1,7 @@
+title: Comparative Evaluation of Visualization and Experimental Results Using Image Comparison Metrics
+authors: Hualin Zhou, Min Chen, Mike F. Webster
+in_vis_citations: 
+sahasrab_vis_99
+trapp_vis_96
+shenq_vis_98
+

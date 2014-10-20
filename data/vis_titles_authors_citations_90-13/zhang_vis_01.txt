@@ -1,0 +1,8 @@
+title: An Immersive Virtual Environment for DT-MRI Volume Visualization Applications: a Case Study
+authors: Youwei Zhang, Robert Rohling, Dinesh K. Pai
+in_vis_citations: 
+weinstei_vis_99
+forsberg_vis_00
+montgomery_vis_98
+kindlman_vis_99
+

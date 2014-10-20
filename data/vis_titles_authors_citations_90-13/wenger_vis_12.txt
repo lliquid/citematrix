@@ -1,0 +1,7 @@
+title: Visualization of Astronomical Nebulae via Distributed Multi-GPU Compressed Sensing Tomography
+authors: Stephan Wenger, Marco Ament, Stefan Guthe, Dirk Lorenz, Andreas Tillmann, Daniel Weiskopf, Marcus Magnor
+in_vis_citations: 
+magnor_vis_05
+magnor_vis_04
+marschner_vis_94
+

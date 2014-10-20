@@ -1,0 +1,7 @@
+title: On the Interpolation of Data with Normally Distributed Uncertainty for Visualization
+authors: Steven Schlegel, Nico Korn, Gerik Scheuermann
+in_vis_citations: 
+li_vis_07
+hlawatsch_vis_11
+kniss_vis_05
+

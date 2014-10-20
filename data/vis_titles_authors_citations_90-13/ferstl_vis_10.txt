@@ -1,0 +1,17 @@
+title: Interactive Separating Streak Surfaces
+authors: Florian Ferstl, Kai Buerger, Holger Theisel, Ruediger Westermann
+in_vis_citations: 
+krishnan_vis_09
+wiebel_vis_07
+hultquist1_vis_92
+garth_vis_08
+scheuermann_vis_01
+sadlo_vis_07
+vanwijk2_vis_93
+kindlman_vis_09
+burger_vis_09
+merhof_vis_06
+garth_vis_07
+vonfunck_vis_08
+kondrati_vis_05
+

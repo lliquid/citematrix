@@ -1,0 +1,7 @@
+title: 4D Space-Time Techniques: A Medical Imaging Case Study
+authors: Melanie Tory, Niklas Roeber, Torsten Moeller, Anna Celler, M. Stella Atkins
+in_vis_citations: 
+crawfis_vis_93
+laidlaw_vis_98
+kindlman_vis_99
+

@@ -1,0 +1,5 @@
+title: VisageWeb: Visualizing WWW Data in Visage
+authors: Michael Higgins, Peter Lucas, Jeffrey Senn
+in_vis_citations: 
+mukherjea_infovis_96
+

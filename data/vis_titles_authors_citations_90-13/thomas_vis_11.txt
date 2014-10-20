@@ -1,0 +1,7 @@
+title: Symmetry in Scalar Field Topology
+authors: Dilip Mathew Thomas, Vijay Natarajan
+in_vis_citations: 
+schneide_vis_08
+zhou_vis_09
+weber_vis_07
+

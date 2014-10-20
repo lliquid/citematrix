@@ -1,0 +1,10 @@
+title: The Streams of Our Lives: Visualizing Listening Histories in Context
+authors: Dominikus Baur, Student Member, Frederik Seiffert, Michael Sedlmair, Sebastian Boring
+in_vis_citations: 
+byron_infovis_08
+pousman_infovis_07
+alexa_infovis_01
+wattenbe_infovis_02
+vanwijk2_infovis_99
+fails_vast_06
+

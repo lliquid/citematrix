@@ -1,0 +1,6 @@
+title: Hotmap: Looking at Geographic Attention
+authors: Danyel Fisher
+in_vis_citations: 
+wattenba_infovis_05
+mehler_infovis_06
+

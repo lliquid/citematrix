@@ -1,0 +1,5 @@
+title: Visualizing Nuclear Scission through a Multifield Extension of Topological Analysis
+authors: David Duke, Hamish Carr, Aaron Knoll, Nicolas Schunck, Hai Ah Nam, Andrzej Staszczak
+in_vis_citations: 
+schneide_vis_08
+

@@ -1,0 +1,18 @@
+title: Stress Tensor Field Visualization for Implant Planning in Orthopedics
+authors: Christian Dick, Joachim Georgii, Rainer Burgkart, Ruediger Westermann
+in_vis_citations: 
+kondrati_vis_05
+krueger_vis_06
+zheng_vis_03
+hotz_vis_04
+laidlaw_vis_98
+petrovic_vis_07
+sigfrids_vis_02
+delmarcelle_vis_94
+wilson_vis_05
+zheng_vis_02
+delmarcelle_vis_94
+zhukov_vis_02
+merhof_vis_06
+boring_vis_98
+

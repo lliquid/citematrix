@@ -1,0 +1,5 @@
+title: Visual Unrolling of Network Evolution and the Analysis of Dynamic Discourse
+authors: Ulrik Brandes, Steven R. Corman
+in_vis_citations: 
+yee_infovis_01
+

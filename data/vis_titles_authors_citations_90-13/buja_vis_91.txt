@@ -1,0 +1,4 @@
+title: Interactive Data Visualization using Focusing and Linking
+authors: Andreas Buja, John Alan McDonald, John Michalak, Werner Stuetzle
+in_vis_citations: 
+

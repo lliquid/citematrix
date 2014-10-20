@@ -1,0 +1,5 @@
+title: An Interactive Local Flattening Operator to Support Digital Investigations on Artwork Surfaces
+authors: Nico Pietroni, Massimiliano Corsini, Paolo Cignoni, Roberto Scopigno
+in_vis_citations: 
+jin_vis_04
+

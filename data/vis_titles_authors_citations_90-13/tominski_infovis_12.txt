@@ -1,0 +1,11 @@
+title: Stacking-Based Visualization of Trajectory Attribute Data
+authors: Christian Tominski, Heidrun Schumann, Gennady Andrienko, Natalia Andrienko
+in_vis_citations: 
+dang_infovis_10
+lui2_vast_11
+crnovrsa_vast_09
+bergman_vis_95
+kapler_infovis_04
+saito_infovis_05
+andrienk_vast_11
+

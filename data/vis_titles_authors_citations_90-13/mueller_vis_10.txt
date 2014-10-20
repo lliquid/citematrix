@@ -1,0 +1,5 @@
+title: Special Relativistic Visualization by Local Ray Tracing
+authors: Thomas Mueller, Sebastian Grottel, Daniel Weiskopf
+in_vis_citations: 
+weiskopf1_vis_00
+

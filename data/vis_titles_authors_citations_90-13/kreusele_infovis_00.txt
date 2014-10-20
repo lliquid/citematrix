@@ -1,0 +1,12 @@
+title: A Scalable Framework for Information Visualization
+authors: Matthias Kreuseler, Norma Lopez. Heidrun Schumann
+in_vis_citations: 
+inselberg_vis_90
+gross_infovis_97
+beaudoin_vis_96
+hoffman_vis_97
+wise_infovis_95
+hendley_infovis_95
+jeong_infovis_98
+johnson_vis_91
+

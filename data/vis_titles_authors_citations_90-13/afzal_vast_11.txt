@@ -1,0 +1,15 @@
+title: Visual Analytics Decision Support Environment for Epidemic Modeling and Response Evaluation
+authors: Shehzad Afzal, Ross Maciejewski, David S. Ebert
+in_vis_citations: 
+heer_infovis_08
+mackinlay_infovis_07
+brodlie_vis_93
+kadivar_vast_09
+waser_vis_10
+bruckner_vis_10
+baur_infovis_10
+wang_infovis_09
+matkovic_vis_10
+card_vast_06
+stolte_infovis_00
+

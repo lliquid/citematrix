@@ -1,0 +1,10 @@
+title: A Visual Analytics Approach to Model Learning
+authors: Supriya Garg, I.V. Ramakrishnan, Klaus Mueller 
+in_vis_citations: 
+garg_vast_08
+schreck_vast_08
+andrienk_vast_09
+janoos_vast_07
+crossno_vast_09
+mao_infovis_07
+

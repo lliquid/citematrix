@@ -1,0 +1,5 @@
+title: Visualization of Equations in an Interactive Environment
+authors: D. Watson, J. Wejchert, D. W. Williams, B. M. Collins
+in_vis_citations: 
+rockwood_vis_90
+

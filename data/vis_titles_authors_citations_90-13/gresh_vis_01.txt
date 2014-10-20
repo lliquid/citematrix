@@ -1,0 +1,5 @@
+title: Case Study: An Environment for Understanding Protein Simulations Using Game Graphics
+authors: Donna Gresh, Frank Suits, Yuk Yin Sham
+in_vis_citations: 
+varshney_vis_95
+

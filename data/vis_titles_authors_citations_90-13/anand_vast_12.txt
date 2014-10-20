@@ -1,0 +1,11 @@
+title: Visual Pattern Discovery using Random Projections
+authors: Anushka Anand, Leland Wilkinson, Tuan Nhon Dang
+in_vis_citations: 
+albuquer_vast_10
+turkay_infovis_11
+albuquer_vast_11
+stasko_vast_07
+ingram_vast_10
+wilkinso_infovis_05
+choo_vast_09
+

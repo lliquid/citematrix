@@ -1,0 +1,9 @@
+title: Querying and Creating Visualizations by Analogy
+authors: Carlos E. Scheidegger, Huy T. Vo, David Koop, Juliana Freire, Claudio T. Silva
+in_vis_citations: 
+wijk_vis_05
+kreusele_infovis_04
+brodlie_vis_04
+bavoil_vis_05
+childs_vis_05
+

@@ -1,0 +1,13 @@
+title: Beyond Mouse and Keyboard: Expanding Design Considerations for Information Visualization Interactions
+authors: Bongshin Lee, Petra Isenberg, Nathalie Henry Riche, Sheelagh Carpendale
+in_vis_citations: 
+grammel_infovis_10
+yi_infovis_07
+liu_infovis_08
+tobiasz_infovis_09
+baur_infovis_10
+henry_infovis_07
+wattenba_infovis_05
+chi_infovis_98
+isenberg_infovis_07
+

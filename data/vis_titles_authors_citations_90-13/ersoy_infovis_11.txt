@@ -1,0 +1,10 @@
+title: Skeleton-Based Edge Bundling for Graph Visualization
+authors: Ozan Ersoy, Christophe Hurter, Fernando V. Paulovich, Gabriel Cantareira, Alexandru Telea
+in_vis_citations: 
+cui_infovis_08
+holten_infovis_06
+ellis_infovis_07
+abello_infovis_06
+phan_infovis_05
+vanham_infovis_03
+

@@ -1,0 +1,6 @@
+title: Multi-Focused Geospatial Analysis Using Probes
+authors: Thomas Butkiewicz, Wenwen Dou, Zachary Wartell, William Ribarsky, Remco Chang
+in_vis_citations: 
+brewer_infovis_00
+chang_infovis_07
+

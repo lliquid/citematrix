@@ -1,0 +1,6 @@
+title: Perception of Visual Variables on Tiled Wall-Sized Displays for Information Visualization Applications
+authors: Anastasia Bezerianos, Petra Isenberg
+in_vis_citations: 
+isenberg_infovis_11
+yost_infovis_06
+

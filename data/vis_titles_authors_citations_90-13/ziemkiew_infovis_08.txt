@@ -1,0 +1,8 @@
+title: The Shaping of Information by Visual Metaphors
+authors: Caroline Ziemkiewicz, Robert Kosara
+in_vis_citations: 
+kobsa_infovis_04
+vanham_infovis_02
+fekete_infovis_04
+barlow01_infovis_01
+

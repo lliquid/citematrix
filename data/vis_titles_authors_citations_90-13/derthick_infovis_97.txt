@@ -1,0 +1,6 @@
+title: Coordinating Declarative Queries with a Direct Manipulation Data Exploration Environment
+authors: Mark Derthick, Steven F Roth, John Kolojejchick
+in_vis_citations: 
+ahlberg_infovis_95
+roth_infovis_96
+

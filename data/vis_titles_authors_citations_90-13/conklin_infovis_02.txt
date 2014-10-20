@@ -1,0 +1,7 @@
+title: Multiple Foci Drill-Down through Tuple and Attribute Aggregation Polyarchies in Tabular Data
+authors: Nathan Conklin, Sandeep Prabhakar, Chris North
+in_vis_citations: 
+stolte_infovis_00
+chi_infovis_97
+roth_infovis_96
+

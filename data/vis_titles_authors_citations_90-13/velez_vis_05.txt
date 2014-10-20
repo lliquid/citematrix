@@ -1,0 +1,6 @@
+title: Understanding Visualization through Spatial Ability Differences
+authors: Maria C. Velez, Deborah Silver, Marilyn Tremaine
+in_vis_citations: 
+kim_infovis_03
+tory_vis_03
+

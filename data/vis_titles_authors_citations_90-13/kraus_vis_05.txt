@@ -1,0 +1,7 @@
+title: Scale-Invariant Volume Rendering
+authors: Martin Kraus
+in_vis_citations: 
+roettger_vis_00
+ebert_vis_00
+marschner_vis_94
+

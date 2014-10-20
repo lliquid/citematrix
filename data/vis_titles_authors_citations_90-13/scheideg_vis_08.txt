@@ -1,0 +1,10 @@
+title: Revisiting Histograms and Isosurface Statistics
+authors: Carlos E. Scheidegger, John M. Schreiner, Brian Duffy, Hamish Carr, Claudio T. Silva
+in_vis_citations: 
+carr_vis_06
+bachthal_vis_08
+kniss_vis_01
+pekar_vis_01
+bajaj_vis_97
+tenginakai_vis_01
+

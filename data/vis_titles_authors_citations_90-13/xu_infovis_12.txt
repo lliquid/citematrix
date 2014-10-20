@@ -1,0 +1,11 @@
+title: A User Study on Curved Edges in Graph Visualization
+authors: Kai Xu, Chris Rooney, Peter Passmore, Dong-Han Ham, Phong H. Nguyen
+in_vis_citations: 
+ersoy_infovis_11
+wattenbe_infovis_02
+holten_infovis_06
+amar_infovis_05
+wong_infovis_05
+wongn_infovis_03
+shneiderman_infovis_06
+

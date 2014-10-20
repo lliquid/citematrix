@@ -1,0 +1,4 @@
+title: Techniques for Non-Linear Magnification Transformations
+authors: T. Alan Keahey, Edward L. Robertson
+in_vis_citations: 
+

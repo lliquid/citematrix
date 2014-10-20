@@ -1,0 +1,6 @@
+title: Evaluation of Traditional, Orthogonal, and Radial Tree Diagrams by an Eye Tracking Study
+authors: Michael Burch, Julian Heinrich, Natalia Konevtsova, Markus Hoferlin
+in_vis_citations: 
+diehl_infovis_10
+kobsa_infovis_04
+

@@ -1,0 +1,11 @@
+title: 2D Asymmetric Tensor Analysis
+authors: Xiaoqiang Zheng, Alex Pang
+in_vis_citations: 
+livingst_vis_97
+lavin_vis_98
+delmarcelle_vis_94
+delmarcelle_vis_94
+hotz_vis_04
+laidlaw_vis_98
+kindlman_vis_99
+

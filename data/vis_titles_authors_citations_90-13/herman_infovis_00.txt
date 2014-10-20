@@ -1,0 +1,8 @@
+title: Density Functions for Visual Attributes and Effective Partitioning in Graph Visualization
+authors: Ivan Herman, M. Scott Marshall, Guy Melancon
+in_vis_citations: 
+wilson_infovis_99
+globus_vis_91
+fua_infovis_99
+bancroft_vis_90
+

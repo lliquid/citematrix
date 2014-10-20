@@ -1,0 +1,15 @@
+title: The FlowVizMenu and Parallel Scatterplot Matrix: Hybrid Multidimensional Visualizations for Network Exploration
+authors: Christophe Viau, Michael J. McGuffin, Yves Chiricota, Igor Jurisica
+in_vis_citations: 
+mcguf_infovis_09
+wilkinso_infovis_05
+qu_vis_07
+yuan_infovis_09
+steed_vast_09
+fanea_infovis_05
+buering_infovis_06
+chiricot_infovis_04
+collins_infovis_07
+auber_infovis_03
+elmqvist_infovis_08
+

@@ -1,0 +1,5 @@
+title: Case Study: Visual Debugging Of Cluster Hardware
+authors: Patricia Crossno, Rena Haynes
+in_vis_citations: 
+crossno2_vis_99
+

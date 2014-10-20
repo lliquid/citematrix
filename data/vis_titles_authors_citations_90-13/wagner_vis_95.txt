@@ -1,0 +1,5 @@
+title: A Model and a System for Data-Parallel Program Visualization
+authors: Thomas A. Wagner, R. Daniel Bergeron
+in_vis_citations: 
+smith_vis_91
+

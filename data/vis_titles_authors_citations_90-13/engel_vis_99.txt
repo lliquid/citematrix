@@ -1,0 +1,10 @@
+title: Isosurface Extraction Techniques for Web-based Volume Visualization
+authors: Klaus Engel, Ruediger Westermann, Thomas Ertl
+in_vis_citations: 
+michaels_vis_97
+shen_vis_96
+shen_vis_95
+nielson_vis_91
+livnat_vis_98
+shekhar_vis_96
+

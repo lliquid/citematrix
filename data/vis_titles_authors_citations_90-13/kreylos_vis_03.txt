@@ -1,0 +1,4 @@
+title: Interactive Protein Manipulation
+authors: Oliver Kreylos, Nelson L. Max, Bernd Hamann, Silvia N. Crivelli, E. Wes Bethel
+in_vis_citations: 
+

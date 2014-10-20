@@ -1,0 +1,11 @@
+title: Predictor-Corrector Schemes for Visualization of Smoothed Particle Hydrodynamics Data
+authors: Benjamin Schindler, Raphael Fuchs, John Biddiscombe, Ronald Peikerit
+in_vis_citations: 
+peikert_vis_99
+chen_vis_07
+theisel_vis_05
+roth_vis_98
+laramee_vis_04
+weinkauf_vis_07
+rosentha_vis_08
+

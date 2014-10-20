@@ -1,0 +1,8 @@
+title: Multivariate Data Analysis Using Persistence-Based Filtering and Topological Signatures
+authors: Bastian Rieck, Hubert Mara, Heike Leitte
+in_vis_citations: 
+kerlick_vis_90
+gyulassy_vis_05
+weber_vis_07
+pascucci_vis_02
+

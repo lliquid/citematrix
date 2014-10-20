@@ -1,0 +1,8 @@
+title: Simplification of Tetrahedral Meshes with Accurate Error Evaluation
+authors: P. Cignoni, D. Costanza, C. Montani, C. Rocchini, R. Scopigno
+in_vis_citations: 
+trotts_vis_98
+grosso_vis_97
+staadt_vis_98
+garland_vis_98
+

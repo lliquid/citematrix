@@ -1,0 +1,8 @@
+title: Visualization of Shape Motions in Shape Space
+authors: Vahid Taimouri, Jing Hua
+in_vis_citations: 
+jiguangf_vis_06
+elmqvist_infovis_03
+zou_vis_09
+moere_infovis_04
+

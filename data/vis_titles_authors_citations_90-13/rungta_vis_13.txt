@@ -1,0 +1,5 @@
+title: ManyVis: Multiple Applications in an Integrated Visualization Environment
+authors: Atul Rungta, Brian Summa, Dogan Demir, Peer-Timo Bremer, Valerio Pascucci
+in_vis_citations: 
+gyulassy2_vis_07
+

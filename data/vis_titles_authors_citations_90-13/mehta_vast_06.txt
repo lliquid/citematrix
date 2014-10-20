@@ -1,0 +1,5 @@
+title: Visual Exploration of Spatio-temporal Relationships for Scientific Data
+authors: Sameep Mehta, Srinivasan Parthasarathy, Raghu Machiraju
+in_vis_citations: 
+jiang_vis_02
+

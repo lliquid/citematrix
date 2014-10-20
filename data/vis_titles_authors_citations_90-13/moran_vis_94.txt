@@ -1,0 +1,4 @@
+title: Introducing Alpha Shapes for the Analysis of Path Integral Monte Carlo Results
+authors: Patrick J. Moran
+in_vis_citations: 
+

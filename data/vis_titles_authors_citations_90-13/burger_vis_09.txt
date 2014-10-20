@@ -1,0 +1,9 @@
+title: Interactive Streak Surface Visualization on the GPU
+authors: Kai Buerger, Florian Ferstl, Holger Theisel, Ruediger Westermann
+in_vis_citations: 
+hultquist1_vis_92
+scheuermann_vis_01
+garth_vis_08
+vanwijk2_vis_93
+vonfunck_vis_08
+

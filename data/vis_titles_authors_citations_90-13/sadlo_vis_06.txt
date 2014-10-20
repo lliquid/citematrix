@@ -1,0 +1,7 @@
+title: Visualization Tools for Vorticity Transport Analysis in Incompressible Flow
+authors: Filip Sadlo, Ronald Peikert, Mirjam Sick
+in_vis_citations: 
+silver_vis_96
+peikert_vis_99
+sadlo_vis_04
+

@@ -1,0 +1,13 @@
+title: Enhancing Depth-Perception with Flexible Volumetric Halos
+authors: Stefan Bruckner, Eduard Groeller
+in_vis_citations: 
+kindlman_vis_03
+krueger_vis_06
+ebert_vis_00
+interran_vis_97
+stewart_vis_03
+ritter_vis_06
+lum_vis_04
+yagel_vis_91
+kersten_vis_06
+

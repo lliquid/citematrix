@@ -1,0 +1,15 @@
+title: Isosurface Extraction and Spatial Filtering Using Persistent Octree (POT)
+authors: Qingmin Shi, Joseph JaJa
+in_vis_citations: 
+parker_vis_98
+gallagher_vis_91
+chiang_vis_98
+shen_vis_96
+shen_vis_99
+gregorsk_vis_02
+shenh_vis_98
+sutton_vis_99
+livnat_vis_04
+livnat_vis_98
+bordoloi_vis_03
+

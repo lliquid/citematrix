@@ -1,0 +1,4 @@
+title: PRIMA: A Case Study of Using Information Visualization Techniques for Patient Record Analysis
+authors: D. L. Gresh, D. A. Rabenhorst, S. Slavin, A. Shabo
+in_vis_citations: 
+

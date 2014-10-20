@@ -1,0 +1,4 @@
+title: A Library for Visualizing Combinatorial Structures
+authors: Marc A. Najork, Marc H. Brown
+in_vis_citations: 
+

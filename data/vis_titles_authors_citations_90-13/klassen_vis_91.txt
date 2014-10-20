@@ -1,0 +1,4 @@
+title: Shadowed Hedgehogs: A Technique for Visualizing 2D Slices of 3D Vector Fields
+authors: R. Victor Klassen, Steven J. Harrington
+in_vis_citations: 
+

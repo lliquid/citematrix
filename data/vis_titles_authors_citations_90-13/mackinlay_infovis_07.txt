@@ -1,0 +1,5 @@
+title: Show Me: Automatic Presentation for Visual Analysis
+authors: Jock D. Mackinlay, Pat Hanrahan, Chris Stolte
+in_vis_citations: 
+stolte_infovis_00
+

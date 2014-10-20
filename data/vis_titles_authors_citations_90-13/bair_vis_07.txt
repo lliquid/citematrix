@@ -1,0 +1,9 @@
+title: A Grid with a View: Optimal Texturing for Perception of Layered Surface Shape
+authors: Alethea Bair, Donald House
+in_vis_citations: 
+house_vis_05
+bair_vis_06
+laidlaw_vis_01
+kim_infovis_03
+acevedo_vis_06
+

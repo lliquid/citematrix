@@ -1,0 +1,12 @@
+title: Stacking Graphic Elements to Avoid Over-Plotting
+authors: Tuan Nhon Dang, Leland Wilkinson, Anushka Anand
+in_vis_citations: 
+bendix_infovis_05
+johansso_infovis_05
+heinrich_vis_09
+jerding_infovis_95
+johnson_vis_91
+wattenba_infovis_05
+artero_infovis_04
+havre_infovis_00
+

@@ -1,0 +1,8 @@
+title: Effective Visualization of Complex Vascular Structures Using a Non-Parametric Vessel Detection Method
+authors: Alark Joshi, Xiaoning Qian, Donald P. Dione, Ketan R. Bulsara, Christopher K. Breuer, Albert J. Sinusas, Xenophon Papademetris
+in_vis_citations: 
+ritter_vis_06
+ebert_vis_00
+bruckner_vis_07
+kanitsar_vis_03
+

@@ -1,0 +1,4 @@
+title: Using Deformations for Browsing Volumetric Data
+authors: Michael J. McGuffin, Liviu Tancau, Ravin Balakrishnan
+in_vis_citations: 
+

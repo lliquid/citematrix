@@ -1,0 +1,5 @@
+title: Virtual Spacetime: An Environment for the Visualization of Curved Spacetimes via Geodesic Flows
+authors: Steve Bryson
+in_vis_citations: 
+bryson_vis_91
+

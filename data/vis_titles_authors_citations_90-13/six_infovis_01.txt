@@ -1,0 +1,4 @@
+title: Effective Graph Visualization Via Node Grouping
+authors: Janet M. Six, Ioannis G. Tollis
+in_vis_citations: 
+

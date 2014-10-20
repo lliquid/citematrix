@@ -1,0 +1,9 @@
+title: Horizon Occlusion Culling for Real-time Rendering of Hierarchical Terrains
+authors: Brandon Lloyd, Parris Egbert
+in_vis_citations: 
+cline_vis_98
+pajarola_vis_98
+rabinovich_vis_97
+duchaine_vis_97
+hoppe_vis_98
+

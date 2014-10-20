@@ -1,0 +1,4 @@
+title: Fanal: a Relational Analysis and Visualization Package for High Energy Physics
+authors: Henri Videau, Paulo Mora de Freitas
+in_vis_citations: 
+

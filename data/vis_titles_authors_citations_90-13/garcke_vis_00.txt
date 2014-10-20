@@ -1,0 +1,12 @@
+title: A Continuous Clustering Method for Vector Fields
+authors: H. Garcke, T. Preu??er, M. Rumpf, A. Telea, U. Weikard, J. van Wijk
+in_vis_citations: 
+telea_vis_99
+leeuw_vis_95
+forssell_vis_94
+heckel_vis_99
+post_vis_95
+rezk_vis_99
+zoeckler_vis_96
+preusser_vis_99
+

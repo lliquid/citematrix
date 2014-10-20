@@ -1,0 +1,7 @@
+title: Volume Clipping via Per-Fragment Operations in Texture-Based Volume Visualization
+authors: Daniel Weiskopf, Klaus Engel, Thomas Ertl
+in_vis_citations: 
+rezk_vis_99
+kniss_vis_01
+frohlich_vis_99
+

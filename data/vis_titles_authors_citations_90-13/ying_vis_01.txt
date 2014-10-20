@@ -1,0 +1,5 @@
+title: Nonmanifold Subdivision
+authors: Lexing Ying, Denis Zorin
+in_vis_citations: 
+guezvis_vis_99
+

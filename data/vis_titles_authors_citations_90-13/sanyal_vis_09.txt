@@ -1,0 +1,10 @@
+title: A User Study to Compare Four Uncertainty Visualization Methods for 1D and 2D Datasets
+authors: Jibonananda Sanyal, Song Zhang, Gargi Bhattacharya, Phil Amburn, Robert J. Moorhead
+in_vis_citations: 
+lundstroem_vis_07
+lodha1_vis_96
+cedilnik_vis_00
+olston_infovis_02
+tory_infovis_04
+li_vis_07
+

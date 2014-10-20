@@ -1,0 +1,5 @@
+title: Activity Analysis Using Spatio-Temporal Trajectory Volumes in Surveillance Applications
+authors: Firdaus Janoos, Shantanu Singh, Okan Irfanoglu, Raghu Machiraju, Richard Parent
+in_vis_citations: 
+chen_vis_06
+

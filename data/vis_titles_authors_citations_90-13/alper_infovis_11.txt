@@ -1,0 +1,8 @@
+title: Design Study of LineSets, a Novel Set Visualization Technique
+authors: Basak Alper, Nathalie Henry Riche, Gonzalo Ramos, Mary Czerwinski
+in_vis_citations: 
+freiler_infovis_08
+riche_infovis_10
+collins_infovis_09
+heer_infovis_05
+

@@ -1,0 +1,4 @@
+title: Instructional Software for Visualizing Optical Phenomena
+authors: David C. Banks, John T. Foley, Kiril N. Vidimce, Ming-Hoe Kiu
+in_vis_citations: 
+

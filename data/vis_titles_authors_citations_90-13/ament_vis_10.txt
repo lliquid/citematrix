@@ -1,0 +1,18 @@
+title: Direct Interval Volume Visualization
+authors: Marco Ament, Daniel Weiskopf, Hamish Carr
+in_vis_citations: 
+parker_vis_98
+nielson2_vis_97
+kraus_vis_04
+guo_vis_95
+weiskopf_vis_02
+marchesi_vis_09
+bergner_vis_06
+lederger_vis_08
+roettger_vis_00
+kraus_vis_05
+scheideg_vis_08
+krueger_vis_03
+knoll_vis_09
+fujishiro_vis_95
+

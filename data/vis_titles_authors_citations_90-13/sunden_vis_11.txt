@@ -1,0 +1,11 @@
+title: Image Plane Sweep Volume Illumination
+authors: Erik Sunden, Anders Ynnerman, Timo Ropinski
+in_vis_citations: 
+lindemann_vis_11
+zhang3-1_vis_02
+stewart_vis_03
+kniss_vis_02
+qiu_vis_07
+krueger_vis_03
+smelyans_vis_09
+

@@ -1,0 +1,4 @@
+title: Interactive Visualization of Particle-In-Cell Simulations
+authors: Patric Ljung, Mark Dieckmann, Niclas Andersson, Anders Ynnerman
+in_vis_citations: 
+

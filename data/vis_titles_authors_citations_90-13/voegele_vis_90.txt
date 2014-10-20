@@ -1,0 +1,4 @@
+title: Scattered Data Interpolation Tools in a Microcomputer Visualization Environment
+authors: Keith Voegele
+in_vis_citations: 
+

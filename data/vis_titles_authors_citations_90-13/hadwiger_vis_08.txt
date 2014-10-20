@@ -1,0 +1,8 @@
+title: Interactive Volume Exploration for Feature Detection and Quantification in Industrial CT Data
+authors: Markus Hadwiger, Laura Fritz, Christof Rezk-Salama, Thomas Hoellt, Georg Geier, Thomas Pabel
+in_vis_citations: 
+huang_vis_03
+kniss_vis_01
+bajaj_vis_97
+tenginakai_vis_01
+

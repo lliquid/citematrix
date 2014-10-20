@@ -1,0 +1,5 @@
+title: MC*: Star Functions for Marching Cubes
+authors: Gregory M. Nielson
+in_vis_citations: 
+nielson_vis_91
+

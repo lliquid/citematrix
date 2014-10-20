@@ -1,0 +1,5 @@
+title: Visualization of Water Quality Data for the Chesapeake Bay
+authors: Adam B. Forgang, Bernd Hamann, Carl F. Cerco
+in_vis_citations: 
+post_vis_95
+

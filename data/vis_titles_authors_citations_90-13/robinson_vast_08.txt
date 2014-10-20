@@ -1,0 +1,7 @@
+title: Collaborative Synthesis of Visual Analytic Results
+authors: Anthony C. Robinson
+in_vis_citations: 
+heer_vast_07
+mackinlay_infovis_07
+isenberg_infovis_07
+

@@ -1,0 +1,13 @@
+title: VisBricks: Multiform Visualization of Large, Inhomogeneous Data
+authors: Alexander Lex, Hans-Joerg Schulz, Marc Streit, Christian Partl, Dieter Schmalstieg
+in_vis_citations: 
+zhao_infovis_05
+lex_infovis_10
+abello_infovis_06
+henry_infovis_07
+maceachr_infovis_03
+holten_infovis_06
+meyer_infovis_09
+pham_infovis_10
+shneiderman_infovis_06
+

@@ -1,0 +1,26 @@
+title: Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization
+authors: Enrico Bertini, Andrada Tatu, Daniel Keim
+in_vis_citations: 
+wattensp_infovis_05
+albuquer_vast_10
+schneidewind_vast_06
+dasgupta_infovis_10
+segal_infovis_10
+peng_infovis_04
+cui_infovis_06
+yi_infovis_07
+wilkinso_infovis_05
+inselberg_vis_90
+maceachr_infovis_03
+leblanc_vis_90
+ellis_infovis_06
+tory_infovis_04
+tatu_vast_09
+yang_infovis_03
+ferdosi_vast_10
+ellis_infovis_07
+ankerst_infovis_98
+chi_infovis_00
+seo_infovis_04
+johansso_infovis_09
+

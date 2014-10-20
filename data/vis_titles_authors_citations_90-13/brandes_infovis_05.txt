@@ -1,0 +1,4 @@
+title: Highlighting Conflict Dynamics in Event Data
+authors: Ulrik Brandes, Daniel Fleischer, Juergen Lerner
+in_vis_citations: 
+

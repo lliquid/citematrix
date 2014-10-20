@@ -1,0 +1,10 @@
+title: Fast View-Dependent Level-of-Detail Rendering Using Cached Geometry
+authors: Joshua Levenberg
+in_vis_citations: 
+duchaine_vis_97
+cohenor1_vis_96
+pajarola_vis_98
+lindstrom02_vis_01
+xia_vis_96
+hoppe_vis_98
+

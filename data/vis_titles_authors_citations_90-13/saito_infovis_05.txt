@@ -1,0 +1,4 @@
+title: Two-Tone Pseudo Coloring: Compact Visualization for One-Dimensional Data
+authors: Takafumi Saito, Hiroko Nakamura Miyamura, Mitsuyoshi Yamamoto, Hiroki Saito, Yuka Hoshiya, Takumi Kaseda
+in_vis_citations: 
+

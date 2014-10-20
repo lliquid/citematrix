@@ -1,0 +1,4 @@
+title: Surface Curvature Analysis Using Color
+authors: Lee R. Seidenberg, Robert B. Jerard, John Magewick, Nahum D. Gershon
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Constrained Inverse Volume Rendering for Planetary Nebulae
+authors: Marcus Magnor, Gordon Kindlmann, Charles Hansen
+in_vis_citations: 
+

@@ -1,0 +1,7 @@
+title: How Locus of Control Influences Compatibility with Visualization Style
+authors: Caroline Ziemkiewicz, R. Jordan Crouser, Ashley Rye Yauilla, Sara L. Su, William Ribarsky
+in_vis_citations: 
+green_vast_10
+ziemkiew_infovis_08
+liu_infovis_08
+

@@ -1,0 +1,5 @@
+title: Data Shaders
+authors: Brian Corrie, Paul Mackerras
+in_vis_citations: 
+foley_vis_91
+

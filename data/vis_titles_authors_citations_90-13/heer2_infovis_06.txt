@@ -1,0 +1,10 @@
+title: Software Design Patterns for Information Visualization
+authors: Jeffrey Heer, Maneesh Agrawala
+in_vis_citations: 
+chi_infovis_98
+stolte_infovis_02
+tang_infovis_03
+stolte_infovis_00
+weaver_infovis_04
+fekete_infovis_04
+

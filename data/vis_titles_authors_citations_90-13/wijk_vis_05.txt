@@ -1,0 +1,10 @@
+title: The Value of Visualization
+authors: Jarke J. van Wijk
+in_vis_citations: 
+johnson_vis_91
+kobsa_infovis_04
+laidlaw_vis_01
+banks_vis_03
+vandewetering_infovis_01
+vanwijk2_infovis_99
+

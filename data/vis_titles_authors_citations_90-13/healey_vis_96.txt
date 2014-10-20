@@ -1,0 +1,6 @@
+title: Choosing Effective Colours for Data Visualization
+authors: Christopher G. Healey
+in_vis_citations: 
+bergman_vis_95
+rogowitz_vis_93
+

@@ -1,0 +1,21 @@
+title: An Information-theoretic Framework for Visualization
+authors: Min Chen, Heike Jaenicke
+in_vis_citations: 
+jaenicke_vis_07
+wijk_vis_05
+viola_vis_06
+chuah_infovis_96
+takahash_vis_05
+yangpela_infovis_00
+yi_infovis_07
+wangchao_vis_06
+tory_infovis_04
+ellis_infovis_07
+wangchao_vis_08
+liu_infovis_08
+card_infovis_97
+bordoloi_vis_05
+chi_infovis_00
+wehrend_vis_90
+gumhold_vis_02
+

@@ -1,0 +1,8 @@
+title: Statistically Quantitative Volume Visualization
+authors: Joe M. Kniss, Robert Van Uitert, Abraham Stephens, Guo-Shi Li, Tolga Tasdizen, Charles Hansen
+in_vis_citations: 
+hadwiger_vis_03
+tiede_vis_98
+viola_vis_04
+bajaj_vis_97
+

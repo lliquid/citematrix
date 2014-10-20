@@ -1,0 +1,12 @@
+title: Domesticating Bead: Adapting an Information Visualization System to a Financial Institution
+authors: Dominique Brodbeck, Matthew Chalmers, Aran Lunzer, Pamela Cotture
+in_vis_citations: 
+inselberg_vis_90
+wise_infovis_95
+healey_vis_96
+ahlberg_infovis_95
+ward_vis_94
+bentley_infovis_96
+buja_vis_91
+chalmers_vis_96
+

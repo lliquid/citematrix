@@ -1,0 +1,4 @@
+title: Fairing Of Non-Manifolds For Visualization
+authors: Andreas Hubeli, Markus Gross
+in_vis_citations: 
+

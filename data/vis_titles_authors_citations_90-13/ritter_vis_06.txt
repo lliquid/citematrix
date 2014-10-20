@@ -1,0 +1,11 @@
+title: Real-Time Illustration of Vascular Structures
+authors: Felix Ritter, Christian Hansen, Volker Dicken, Olaf Konrad, Bernhard Preim, Heinz-Otto Peitgen
+in_vis_citations: 
+house_vis_05
+stoll_vis_05
+stewart_vis_03
+weigle_vis_05
+hahn_vis_01
+kim_infovis_03
+fischer_vis_05
+

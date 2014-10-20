@@ -1,0 +1,11 @@
+title: On Histograms and Isosurface Statistics
+authors: Hamish Carr, Brian Duffyi, Barry Denby
+in_vis_citations: 
+itoh_vis_94
+kniss_vis_01
+marschner_vis_94
+nielson_vis_91
+pekar_vis_01
+tenginakai_vis_01
+bajaj_vis_97
+

@@ -1,0 +1,6 @@
+title: Feature Comparisons Of Vector Fields Using Earth Mover???s Distance
+authors: Yingmei Lavin, Rajesh Batra, Lambertus Hesselink
+in_vis_citations: 
+scheuerm_vis_97
+lavin_vis_97
+

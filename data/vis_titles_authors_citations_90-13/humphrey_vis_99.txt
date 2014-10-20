@@ -1,0 +1,4 @@
+title: A Distributed Graphics System for Large Tiled Displays
+authors: Greg Humphreys, Pat Hanrahan
+in_vis_citations: 
+

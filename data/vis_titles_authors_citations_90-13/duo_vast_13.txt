@@ -1,0 +1,9 @@
+title: HierarchicalTopics: Visually Exploring Large Text Collections Using Topic Hierarchies
+authors: Wenwen Dou, Li Yu, Xiaoyu Wang, Zhiqiang Ma, William Ribarsky
+in_vis_citations: 
+shi_vast_10
+chae_vast_12
+cui_infovis_11
+dou_vast_11
+dou_vast_12
+

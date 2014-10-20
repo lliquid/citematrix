@@ -1,0 +1,7 @@
+title: Iconic Techniques for Feature Visualization
+authors: Frits H. Post, Frank J. Post, Theo van Walsum, Deborah Silver
+in_vis_citations: 
+leeuw_vis_93
+smith_vis_91
+zabusky_vis_92
+

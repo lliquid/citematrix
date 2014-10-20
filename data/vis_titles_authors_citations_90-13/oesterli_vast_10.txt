@@ -1,0 +1,10 @@
+title: Two-stage Framework for a Topology-Based Projection and Visualization of Classified Document Collections
+authors: Patrick Oesterling, Gerik Scheuermann, Sven Teresniak, Gerhard Heyer, Steffen Koch, Thomas Ertl, Gunther H. Weber
+in_vis_citations: 
+koch_vast_09
+weber_vis_07
+inselberg_vis_90
+wise_infovis_95
+choo_vast_09
+takahash_vis_09
+

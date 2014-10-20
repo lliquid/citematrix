@@ -1,0 +1,6 @@
+title: Multi-User View-Dependent Rendering
+authors: Jihad El-Sana
+in_vis_citations: 
+elsana_vis_99
+gross_vis_95
+

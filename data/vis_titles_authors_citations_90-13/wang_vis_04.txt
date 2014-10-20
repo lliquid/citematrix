@@ -1,0 +1,4 @@
+title: Generating Sub-Resolution Detail in Images and Volumes Using Constrained Texture Synthesis
+authors: Lujin Wang, Klaus Mueller
+in_vis_citations: 
+

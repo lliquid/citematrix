@@ -1,0 +1,11 @@
+title: Local Affine Multidimensional Projection
+authors: Paulo Joia, Fernando V. Paulovich, Danilo Coimbra, Jos Alberto Cuminato, Luis Gustavo Nonato
+in_vis_citations: 
+chalmers_vis_96
+chenyanh_infovis_09
+frishman_infovis_07
+koren_infovis_02
+paulovic_vis_10
+daniels_vis_10
+morrison_infovis_02
+

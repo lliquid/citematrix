@@ -1,0 +1,4 @@
+title: Visualization of Oil Reservoirs Over a Large Range of Scales as a Catalyst for Multi-Disciplinary Integration
+authors: Stephen Tyson
+in_vis_citations: 
+

@@ -1,0 +1,8 @@
+title: An Object Oriented Design for the Visualization of Multi-Variable Data Objects
+authors: Jean M. Favre, James Hahn
+in_vis_citations: 
+foley_vis_91
+lucas1_vis_92
+kerlick_vis_90
+schroeder_vis_92
+

@@ -1,0 +1,7 @@
+title: Dynamic Hierarchy Specification and Visualization Draft
+authors: Richard M. Wilson, R. Daniel Bergeron
+in_vis_citations: 
+carriere_infovis_95
+jeong_infovis_98
+johnson_vis_91
+

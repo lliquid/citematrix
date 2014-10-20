@@ -1,0 +1,7 @@
+title: Fast Perspective Volume Rendering with Splatting by Utilizing a Ray-Driven Approach
+authors: Klaus Mueller, Roni Yagel
+in_vis_citations: 
+sobieraj_vis_95
+crawfis_vis_93
+yagel_vis_93
+

@@ -1,0 +1,6 @@
+title: Progressive Compression and Transmission of Arbitrary Triangular Meshes
+authors: Chandrajit L. Bajaj, Valerio Pascucci, Guozhong Zhuang
+in_vis_citations: 
+defloriani_vis_98
+schroede_vis_97
+

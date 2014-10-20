@@ -1,0 +1,5 @@
+title: Integrated Volume Compression and Visualization
+authors: Tzi-cker Chiueh, Chuan-kai Yang, Hanspeter Pfister, Arie Kaufman
+in_vis_citations: 
+ning_vis_93
+

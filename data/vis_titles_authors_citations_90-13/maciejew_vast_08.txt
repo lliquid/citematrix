@@ -1,0 +1,9 @@
+title: Understanding Syndromic Hotspots - A Visual Analytics Approach
+authors: Ross Maciejewski, Stephen Rudolph, Ryan Hafen, Ahmad Abusalah, Mourad Ouzzani, William S. Cleveland, Shaun J. Grannis, Michael Wade, David S. Ebert
+in_vis_citations: 
+edsall_infovis_01
+pan_vast_07
+maceache_infovis_98
+martin_vis_95
+maciejewski_vast_07
+

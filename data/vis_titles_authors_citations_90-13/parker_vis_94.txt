@@ -1,0 +1,4 @@
+title: Case Study: Tokamak Plasma Turbulence Visualization
+authors: Scott E. Parker, Ravi Samtaney
+in_vis_citations: 
+

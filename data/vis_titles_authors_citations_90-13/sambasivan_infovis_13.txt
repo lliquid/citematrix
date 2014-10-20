@@ -1,0 +1,8 @@
+title: Visualizing Request-Flow Comparison to Aid Performance Diagnosis in Distributed Systems
+authors: Raja R. Sambasivan, Ilari Shafer, Michelle L. Mazurek, Gregory R. Ganger
+in_vis_citations: 
+liu_vast_10
+robertso_infovis_08
+heer_infovis_07
+sharara_vast_11
+

@@ -1,0 +1,17 @@
+title: Hardware-Accelerated Volume And Isosurface Rendering Based On Cell-Projection
+authors: Stefan Roettger, Martin Kraus, Thomas Ertl
+in_vis_citations: 
+max_vis_93
+sramek_vis_94
+kreeger_vis_99
+montani_vis_94
+westerma_vis_00
+durkin_vis_94
+westerma_vis_97
+engel_vis_99
+shekhar_vis_96
+shen_vis_95
+livnat_vis_98
+shen_vis_96
+parker_vis_98
+

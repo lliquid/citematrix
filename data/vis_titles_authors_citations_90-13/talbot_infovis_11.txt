@@ -1,0 +1,5 @@
+title: Arc Length-Based Aspect Ratio Selection
+authors: Justin Talbot, John Gerth, Pat Hanrahan
+in_vis_citations: 
+heer1_infovis_06
+

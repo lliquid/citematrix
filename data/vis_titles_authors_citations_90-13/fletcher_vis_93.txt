@@ -1,0 +1,4 @@
+title: Interactive Shading for Surface and Volume Visualization on Graphics Workstations
+authors: Peter A. Fletcher, Philip K. Robertson
+in_vis_citations: 
+

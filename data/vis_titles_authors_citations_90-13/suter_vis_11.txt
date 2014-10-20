@@ -1,0 +1,10 @@
+title: Interactive Multiscale Tensor Reconstruction for Multiresolution Volume Visualization
+authors: Susanne K. Suter, Jose A. Iglesias Guitian, Fabio Marton, Marco Agus, Andreas Elsener, Christoph P. E. Zollikofer, M. Gopi, Enrico Gobbetti, Renato Pajarola
+in_vis_citations: 
+guthe_vis_02
+chiueh_vis_97
+fout_vis_07
+tiede_vis_98
+ljung_vis_06
+schneide_vis_03
+

@@ -1,0 +1,6 @@
+title: Comparing Clusterings Using Bertin's Idea
+authors: Alexander Pilhofer, Alexander Gribov, Antony Unwin
+in_vis_citations: 
+dasgupta_infovis_10
+lex_infovis_10
+

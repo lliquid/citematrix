@@ -1,0 +1,7 @@
+title: STEPS - an Application for Simulation of Transsphenoidal Endonasal Pituitary Surgery
+authors: Andre Neubauer, Stefan Wolfsberger, Marie-Therese Forster, Lukas Mroz, Rainer Wegenkittl, Katja Buhler
+in_vis_citations: 
+wegenkittl_vis_00
+qu_vis_00
+hietala_vis_00
+

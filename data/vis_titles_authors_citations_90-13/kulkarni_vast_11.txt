@@ -1,0 +1,6 @@
+title: A Visual Navigation System for Querying Neural Stem Cell Imaging Data
+authors: Ishwar Kulkarni, Shanaz Y. Mistry, Brian Cummings, M. Gopi
+in_vis_citations: 
+bruckner_vis_09
+kincaid_vast_09
+

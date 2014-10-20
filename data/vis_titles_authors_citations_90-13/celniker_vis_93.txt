@@ -1,0 +1,4 @@
+title: Visualization and Modeling of Geophysical Data
+authors: George Celniker, Jan Moorman
+in_vis_citations: 
+

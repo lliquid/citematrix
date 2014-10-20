@@ -1,0 +1,5 @@
+title: Fast Volume Rendering of Compressed Data
+authors: Paul Ning, Lambertus Hesselink
+in_vis_citations: 
+yoo_vis_91
+

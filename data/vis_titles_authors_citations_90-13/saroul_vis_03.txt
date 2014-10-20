@@ -1,0 +1,5 @@
+title: Exploring Curved Anatomic Structures with Surface Sections
+authors: Laurent Saroul, Sebastian Gerlach, Roger D. Hersch
+in_vis_citations: 
+kanitsar1_vis_02
+

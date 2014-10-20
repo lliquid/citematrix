@@ -1,0 +1,4 @@
+title: Three-Dimensional Visualization of Microstructures
+authors: Marco Lanzagorta, Milo V. Kraly, J. Edward Swan II, George Spanosy, Rob Rosenberg, Eddy Kuo
+in_vis_citations: 
+

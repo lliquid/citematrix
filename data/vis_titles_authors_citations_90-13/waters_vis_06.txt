@@ -1,0 +1,10 @@
+title: Using Difference Intervals for Time-Varying Isosurface Visualization
+authors: Kenneth W. Waters, Christopher S. Co, Kenneth I. Joy
+in_vis_citations: 
+shen_vis_96
+shenh_vis_98
+livnat_vis_04
+von-rymo_vis_04
+chiang_vis_97
+sutton_vis_99
+

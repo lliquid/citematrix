@@ -1,0 +1,6 @@
+title: BiblioMapper: A Cluster-based Information Visualization Technique
+authors: Min Song
+in_vis_citations: 
+rushall_infovis_96
+wise_infovis_95
+

@@ -1,0 +1,5 @@
+title: "Whole Field Modelling". Effective Real-time And Post-survey Visualization Of Underwater Pipelines
+authors: Paul Chapman, Derek Wills, Peter Stevens, Graham Brookes
+in_vis_citations: 
+chapman_vis_98
+

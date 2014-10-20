@@ -1,0 +1,9 @@
+title: Articulated Planar Reformation for Change Visualization in Small Animal Imaging
+authors: Peter Kok, Martin Baiker, Emile A. Hendriks, Frits H. Post, Jouke Dijkstra, Clemens W.G.M. L??wik, Boudewijn P.F. Lelieveldt, Charl P. Botha
+in_vis_citations: 
+ropinski_vis_09
+kanitsar1_vis_02
+mcguffin_vis_03
+bruckner_vis_06
+schneide_vis_08
+

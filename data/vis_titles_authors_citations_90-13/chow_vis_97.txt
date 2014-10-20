@@ -1,0 +1,5 @@
+title: Optimized Geometry Compression for Real-time Rendering
+authors: Mike M. Chow
+in_vis_citations: 
+evans_vis_96
+

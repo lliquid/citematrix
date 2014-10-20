@@ -1,0 +1,12 @@
+title: An Adaptive Parameter Space-Filling Algorithm for Highly Interactive Cluster Exploration
+authors: Zafar Ahmed, Chris Weaver
+in_vis_citations: 
+yi_infovis_07
+weaver_infovis_04
+choo_vast_09
+chan_vast_08
+cao_infovis_11
+ward_vis_94
+ankerst_infovis_98
+nam_vast_07
+

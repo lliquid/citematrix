@@ -1,0 +1,12 @@
+title: Semi-Automatic Vortex Extraction in 4D PC-MRI Cardiac Blood Flow Data Using Line Predicates
+authors: Benjamin Kohler, Rocco Gasteiger, Uta Preim, Holger Theisel, Matthias Gutberlet, Bernhard Preim
+in_vis_citations: 
+koehler_vis_11
+hoppe_vis_99
+vanpelt_vis_10
+peikert_vis_99
+gasteiger_vis_11
+weinkauf_vis_07
+theisel_vis_04
+hummel_vis_10
+

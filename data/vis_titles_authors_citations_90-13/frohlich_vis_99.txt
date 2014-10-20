@@ -1,0 +1,6 @@
+title: Exploring Geo-Scientific Data in Virtual Environments
+authors: Bernd Froehlich, Stephen Barrass, Bjoern Zehner, John Plate, Martin Goebel
+in_vis_citations: 
+fuhrmann_vis_98
+bryson_vis_91
+

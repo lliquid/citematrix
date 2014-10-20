@@ -1,0 +1,17 @@
+title: InterRing: An Interactive Tool for Visually Navigating and Manipulating Hierarchical Structures
+authors: Jing Yang, Matthew O. Ward, Elke A. Rundensteiner
+in_vis_citations: 
+barlow01_infovis_01
+vandewetering_infovis_01
+munzner_infovis_97
+fua_infovis_99
+carriere_infovis_95
+wattenberg_infovis_01
+johnson_vis_91
+stasko_infovis_00
+vanwijk_infovis_99
+dachselt_infovis_01
+fua_vis_99
+vanham_infovis_01
+chuah_infovis_98
+

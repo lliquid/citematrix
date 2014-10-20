@@ -1,0 +1,15 @@
+title: Hub-based Simulation and Graphics Hardware Accelerated Visualization for Nanotechnology Applications
+authors: Wei Qiao, Michael McLennan, Rick Kennell, David S. Ebert, Gerhard Klimeck
+in_vis_citations: 
+luke_vis_02
+telea_vis_03
+childs_vis_05
+hultquist1_vis_92
+qiao_vis_05
+weiskopf_vis_03
+roettger_vis_00
+gao_vis_05
+kaehler_vis_05
+brill_vis_94
+jobard_vis_00
+

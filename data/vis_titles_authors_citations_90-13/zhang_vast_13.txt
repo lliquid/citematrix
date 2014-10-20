@@ -1,0 +1,13 @@
+title: Vis4Heritage: Visual Analytics Approach on Grotto Wall Painting Degradations
+authors: Jiawan Zhang, Kai Kang, Dajian Liu, Ye Yuan, Yanli E
+in_vis_citations: 
+cui_infovis_11
+ghoniem_infovis_04
+sharko_vis_08
+johansso_infovis_05
+holten_infovis_06
+ma_infovis_12
+elmqvist_vast_07
+elmqvist_infovis_08
+havre_infovis_00
+

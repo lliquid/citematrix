@@ -1,0 +1,11 @@
+title: A Distributed Blackboard Architecture for Interactive Data Visualization
+authors: Robert van Liere, Jan Harkes, Wim de Leeuw
+in_vis_citations: 
+hultquist2_vis_92
+haber_vis_91
+jaswal_vis_97
+schroeder_vis_96
+mulder_vis_95
+williams_vis_92
+hibbard_vis_94
+

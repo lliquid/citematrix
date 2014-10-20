@@ -1,0 +1,12 @@
+title: Enterprise Data Analysis and Visualization: An Interview Study
+authors: Sean Kandel, Andreas Paepcke, Joseph M. Hellerstein, Jeffrey Heer
+in_vis_citations: 
+heer_infovis_08
+gotz_vast_08
+kang_vast_11
+amar_infovis_05
+isenberg_vast_10
+kang_vast_09
+heer_vast_07
+kwon_vast_11
+

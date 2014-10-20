@@ -1,0 +1,14 @@
+title: Conjunctive Visual Forms
+authors: Chris Weaver
+in_vis_citations: 
+proulx_vast_06
+havre_infovis_01
+chenh_infovis_03
+viegas_infovis_07
+martin_vis_95
+mackinlay_infovis_07
+wills_infovis_96
+stasko_vast_07
+weaver_vast_08
+elmqvist_infovis_08
+

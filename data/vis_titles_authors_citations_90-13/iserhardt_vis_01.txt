@@ -1,0 +1,5 @@
+title: Case Study: Medical Web Service for the Automatic 3D Documentation for Neuroradiological Diagnosis
+authors: S. Iserhardt-Bauer, P. Hastreiter, T. Ertl, K. Eberhardt, B. Tomandl
+in_vis_citations: 
+engel_vis_00
+

@@ -1,0 +1,8 @@
+title: An Empirical Study on Using Visual Embellishments in Visualization
+authors: Rita Borgo, Alfie Abdul-Rahman, Farhan Mohamed, Philip W. Grant, Irene Reppa, Luciano Floridi, Min Chen
+in_vis_citations: 
+chen_vis_10
+healey_vis_96
+ziemkiew_infovis_08
+hullman1_infovis_11
+

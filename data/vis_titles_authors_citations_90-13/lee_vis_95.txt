@@ -1,0 +1,10 @@
+title: An Architecture for Retaining and Analyzing Visual Explorations of Databases
+authors: John Peter Lee, Georges G. Grinstein
+in_vis_citations: 
+hibbard_vis_94
+favre_vis_94
+wehrend_vis_90
+springmeyer_vis_92
+rogowitz_vis_93
+brodlie_vis_93
+

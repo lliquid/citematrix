@@ -1,0 +1,9 @@
+title: Constructing Stream Surfaces in Steady 3D Vector Fields
+authors: J. P. M. Hultquist
+in_vis_citations: 
+helman_vis_90
+haimes_vis_91
+kerlick_vis_90
+hultquist2_vis_92
+schroederw_vis_91
+

@@ -1,0 +1,6 @@
+title: Interactive Visualization of Volumetric White Matter Connectivity in DT-MRI Using a Parallel-Hardware Hamilton-Jacobi Solver
+authors: Won-Ki Jeong, P. Thomas Fletcher, Ran Tao, Ross T. Whitaker
+in_vis_citations: 
+sigg_vis_03
+lefohn_vis_03
+

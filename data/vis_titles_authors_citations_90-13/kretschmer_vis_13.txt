@@ -1,0 +1,6 @@
+title: Interactive Patient-Specific Vascular Modeling with Sweep Surfaces
+authors: Jan Kretschmer, Christian Godenschwager, Bernhard Preim, Marc Stamminger
+in_vis_citations: 
+hahn_vis_01
+schroeder_vis_94
+

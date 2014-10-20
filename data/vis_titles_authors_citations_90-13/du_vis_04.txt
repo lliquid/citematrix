@@ -1,0 +1,6 @@
+title: Centroidal Voronoi tessellation based algorithms for vector fields visualization and segmentation
+authors: Qiang Du, Xiaoqiang Wang
+in_vis_citations: 
+telea_vis_99
+leeuw_vis_95
+

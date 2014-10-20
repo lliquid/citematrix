@@ -1,0 +1,6 @@
+title: Interval Volume: A Solid Fitting Technique for Volumetric Data Display and Analysis
+authors: Issei Fujishiro, Yuji Maeda, Hiroshi Sato
+in_vis_citations: 
+nielson_vis_91
+hansenc_vis_92
+

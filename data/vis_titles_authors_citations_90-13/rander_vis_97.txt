@@ -1,0 +1,4 @@
+title: Virtualized Reality: Constructing Time-Varying Virtual Worlds From Real World Events
+authors: Peter Rander, P. J. Narayanan, Takeo Kanade
+in_vis_citations: 
+

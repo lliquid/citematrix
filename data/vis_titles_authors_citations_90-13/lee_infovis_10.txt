@@ -1,0 +1,7 @@
+title: SparkClouds: Visualizing Trends in Tag Clouds
+authors: Bongshin Lee, Nathalie Henry Riche, Amy K. Karlson, Sheelagh Carpendale
+in_vis_citations: 
+viegas_infovis_09
+wattenba_infovis_05
+willett_infovis_07
+

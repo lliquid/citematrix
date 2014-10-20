@@ -1,0 +1,4 @@
+title: Clinical Evaluation Of Interactive Volume Visualization
+authors: Karel J. Zuiderveld, Peter M. A. van Ooijen, John W. C. Chin-A-Woeng, Pieter C. Buijs, Marco Olree, Frits H. Post
+in_vis_citations: 
+

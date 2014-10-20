@@ -1,0 +1,4 @@
+title: A Case Study on Visualization for Boundary Value Problems
+authors: Gabor Domokos, Randy Paffenroth
+in_vis_citations: 
+

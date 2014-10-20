@@ -1,0 +1,6 @@
+title: Exemplar-based Visualization of Large Document Corpus
+authors: Yanhua Chen, Lijun Wang, Ming Dong, Jing Hua
+in_vis_citations: 
+fua_vis_99
+paulovic_infovis_08
+

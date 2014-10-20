@@ -1,0 +1,6 @@
+title: SketchPadN-D: WYDIWYG Sculpting and Editing in High-Dimensional Space
+authors: Bing Wang, Puripant Ruchikachorn, Klaus Mueller
+in_vis_citations: 
+albuquerque_infovis_11
+portesdossantosamorim_vast_12
+

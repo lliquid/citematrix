@@ -1,0 +1,8 @@
+title: HyperLIC
+authors: Xiaoqiang Zheng, Alex Pang
+in_vis_citations: 
+sigfrids_vis_02
+zhukov_vis_02
+interran_vis_97
+kindlman_vis_99
+

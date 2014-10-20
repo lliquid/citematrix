@@ -1,0 +1,4 @@
+title: Volume Microscopy of Biological Specimens Based on Non-Confocal Imaging Techniques
+authors: Stephen L. Senft, Vincent J. Argiro, William L. VanZandt
+in_vis_citations: 
+

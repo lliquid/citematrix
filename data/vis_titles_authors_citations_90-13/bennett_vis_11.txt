@@ -1,0 +1,9 @@
+title: Feature-Based Statistical Analysis of Combustion Simulation Data
+authors: Janine C. Bennett, Vaidyanathan Krishnamoorthy, Shusen Liu, Ray W. Grout, Evatt R. Hawkes, Jacqueline H. Chen, Jason Shepherd, Valerio Pascucci, Peer-Timo Bremer
+in_vis_citations: 
+carr_vis_04
+hadwiger_vis_03
+gyulassy1_vis_07
+laney_vis_06
+bajaj_vis_97
+

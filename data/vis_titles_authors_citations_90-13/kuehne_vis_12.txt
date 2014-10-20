@@ -1,0 +1,9 @@
+title: A Data-Driven Approach to Hue-Preserving Color-Blending
+authors: Lars Kuhne, Joachim Giesen, Zhiyuan Zhang, Student Member, Sungsoo Ha, Klaus Mueller
+in_vis_citations: 
+chuang_vis_09
+wangluji_vis_08
+shenas_infovis_07
+ahmed_vis_12
+urness_vis_03
+

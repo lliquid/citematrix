@@ -1,0 +1,7 @@
+title: GPU-Based Interactive Cut-Surface Extraction From High-Order Finite Element Fields
+authors: Blake Nelson, Robert Haimes, Robert M. Kirby
+in_vis_citations: 
+schroede_vis_05
+brasher_vis_04
+zhou_vis_06
+

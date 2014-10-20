@@ -1,0 +1,8 @@
+title: Fast Generation of Virtual X-ray Images for Reconstruction of 3D Anatomy
+authors: Moritz Ehlke, Heiko Ramm, Hans Lamecker, Hans-Christian Hege, Stefan Zachow
+in_vis_citations: 
+sadowsky_vis_05
+laney_vis_05
+georgii_vis_06
+krueger_vis_03
+

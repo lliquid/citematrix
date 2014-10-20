@@ -1,0 +1,6 @@
+title: Hardware-Accelerated Texture Advection For Unsteady Flow Visualization
+authors: Bruno Jobard, Gordon Erlebacher, M. Yousuff Hussaini
+in_vis_citations: 
+leeuw_vis_95
+deleeuw_vis_98
+

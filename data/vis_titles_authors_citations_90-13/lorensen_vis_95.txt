@@ -1,0 +1,5 @@
+title: Marching Through the Visible Man
+authors: William E. Lorensen
+in_vis_citations: 
+schroeder_vis_92
+

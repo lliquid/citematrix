@@ -1,0 +1,6 @@
+title: CAVEvis: Distributed Real-Time Visualization of Time-Varying Scalar and Vector Fields Using the CAVE Virtual Reality Theater 
+authors: Vijendra Jaswaly
+in_vis_citations: 
+bryson2_vis_96
+bryson_vis_91
+

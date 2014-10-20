@@ -1,0 +1,12 @@
+title: Toward a Deeper Understanding of the Role of Interaction in Information Visualization
+authors: Ji Soo Yi, Youn ah Kang, John T. Stasko, Julie A. Jacko
+in_vis_citations: 
+ward_vis_94
+amar_infovis_05
+chuah_infovis_96
+buja_vis_91
+heer_infovis_05
+stasko_infovis_00
+vanwijk_infovis_99
+stolte_infovis_00
+

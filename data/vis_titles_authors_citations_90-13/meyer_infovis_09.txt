@@ -1,0 +1,6 @@
+title: MizBee: A Multiscale Synteny Browser
+authors: Miriah Meyer, Tamara Munzner, Hanspeter Pfister
+in_vis_citations: 
+livnat_infovis_05
+holten_infovis_06
+

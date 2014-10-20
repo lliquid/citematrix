@@ -1,0 +1,19 @@
+title: Who Votes For What? A Visual Query Language for Opinion Data
+authors: Geoffrey M. Draper, Richard F. Riesenfeld
+in_vis_citations: 
+schneidegger_vis_07
+roth_infovis_96
+livnat_infovis_05
+yee_infovis_01
+inselberg_vis_90
+cammarano_infovis_07
+keim_vast_06
+hetzler_infovis_98
+havre_infovis_01
+stolte_infovis_00
+heer_infovis_07
+elmqvist_vast_07
+stasko_infovis_00
+viegas_infovis_07
+holten_infovis_06
+

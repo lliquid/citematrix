@@ -1,0 +1,9 @@
+title: Visualizing Association Rules for Text Mining
+authors: Pak Chung Wong, Paul Whitney, Jim Thomas
+in_vis_citations: 
+becker_infovis_98
+miller_vis_98
+hetzler_infovis_98
+wise_infovis_95
+becker_infovis_97
+

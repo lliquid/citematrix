@@ -1,0 +1,8 @@
+title: Distributed Cognition as a Theoretical Framework for Information Visualization
+authors: Zhicheng Liu, Nancy J. Nersessian, John T. Stasko
+in_vis_citations: 
+yi_infovis_07
+viegas_infovis_07
+stasko_vast_07
+chi_infovis_00
+

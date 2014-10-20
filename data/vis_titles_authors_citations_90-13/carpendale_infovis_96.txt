@@ -1,0 +1,4 @@
+title: Distortion Viewing Techniques for 3-Dimensional Data
+authors: M. Sheelagh T. Carpendale, David J. Cowperthwaite, E. David Fracchia
+in_vis_citations: 
+

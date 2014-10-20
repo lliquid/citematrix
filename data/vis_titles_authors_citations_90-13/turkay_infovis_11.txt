@@ -1,0 +1,13 @@
+title: Brushing Dimensions - A Dual Visual Analysis Model for High-Dimensional Data
+authors: Cagatay Turkay, Peter Filzmoser, Helwig Hauser
+in_vis_citations: 
+stolte_infovis_00
+ward_vis_94
+janicke_vis_08
+fuchs_vis_09
+martin_vis_95
+correa_vast_09
+williams_infovis_04
+seo_infovis_04
+guo_vast_09
+

@@ -1,0 +1,9 @@
+title: Combining automated analysis and visualization techniques for effective exploration of high-dimensional data
+authors: Andrada Tatu, Georgia Albuquerque, Martin Eisemann, Joern Schneidewind, Holger Theisel, Marcus Magnor, Daniel Keim
+in_vis_citations: 
+wilkinso_infovis_05
+ankerst_infovis_98
+koren_infovis_03
+ward_vis_94
+schneidewind_vast_06
+

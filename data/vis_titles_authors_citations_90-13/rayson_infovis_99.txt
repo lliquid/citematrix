@@ -1,0 +1,6 @@
+title: Aggregate Towers: Scale Sensitive Visualization And Decluttering Of Geospatial Data
+authors: James K. Rayson
+in_vis_citations: 
+keim_vis_98
+chuah_infovis_95
+

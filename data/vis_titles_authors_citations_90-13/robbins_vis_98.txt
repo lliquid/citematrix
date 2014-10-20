@@ -1,0 +1,5 @@
+title: Visualizing Differences in Movies of Cortical Activity
+authors: Kay A. Robbins, David M. Senseman
+in_vis_citations: 
+jobard_vis_97
+

@@ -1,0 +1,17 @@
+title: Untangling Gene Regulatory Networks
+authors: Kasper Dinkla, Michel A. Westenberg, Jarke J. van Wijk
+in_vis_citations: 
+bae_infovis_11
+henry_infovis_06
+henry_infovis_07
+ghoniem_infovis_04
+heer_infovis_05
+abello_infovis_04
+holten_infovis_06
+henry_infovis_08
+graham_infovis_07
+saraiya_infovis_04
+dwyer_infovis_06
+bezerian_infovis_10
+vanham_infovis_03
+

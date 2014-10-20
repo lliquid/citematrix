@@ -1,0 +1,4 @@
+title: Displaying Voxel-Based Objects According to their Qualitative Shape Synthesis
+authors: Yaser Yacoob
+in_vis_citations: 
+

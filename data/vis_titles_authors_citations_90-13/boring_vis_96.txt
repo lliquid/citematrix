@@ -1,0 +1,5 @@
+title: Directional Flow Visualization of Vector Fields 
+authors: Ed Boring, Alex Pang
+in_vis_citations: 
+dovey_vis_95
+

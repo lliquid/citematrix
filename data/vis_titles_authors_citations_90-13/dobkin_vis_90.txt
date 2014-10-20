@@ -1,0 +1,4 @@
+title: A Numerical Method for Rendering Spherical Reflections
+authors: D. P. Dobkin, E. S. Panduranga, Ming Zhu
+in_vis_citations: 
+

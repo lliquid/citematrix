@@ -1,0 +1,4 @@
+title: Visualization of the Genus of Knots
+authors: Jarke J. van Wijk, Arjeh M. Cohen
+in_vis_citations: 
+

@@ -1,0 +1,7 @@
+title: GPU-Based Real-Time Approximation of the Ablation Zone for Radiofrequency Ablation
+authors: Christian Rieder, Tim Kr??ger, Christian Schumann, Horst K. Hahn
+in_vis_citations: 
+prassni_vis_10
+tiede_vis_98
+ebert_vis_00
+

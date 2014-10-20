@@ -1,0 +1,4 @@
+title: Multiresolution Compression And Reconstruction
+authors: Oliver G. Staadt, Markus H. Gross, Roger Weber
+in_vis_citations: 
+

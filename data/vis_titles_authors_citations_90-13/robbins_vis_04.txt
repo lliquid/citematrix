@@ -1,0 +1,7 @@
+title: Visualizing Cortical Waves and Timing from Data
+authors: Kay A. Robbins, Mark Robinson, David M. Senseman
+in_vis_citations: 
+jobard_vis_01
+inselberg_vis_90
+lawrence_vis_00
+

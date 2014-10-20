@@ -1,0 +1,8 @@
+title: Distributed Shared Memory for Roaming Large Volumes
+authors: Christophe Mion, Xavier Cavin, Bruno Levy, Laurent Castanie
+in_vis_citations: 
+gao_vis_05
+cox_vis_97
+cavin_vis_05
+castanie_vis_05
+

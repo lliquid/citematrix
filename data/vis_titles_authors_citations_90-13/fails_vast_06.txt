@@ -1,0 +1,5 @@
+title: A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events across Multiple Histories
+authors: Jerry Alan Fails, Amy Karlson, Layla Shahamat, Ben Shneiderman
+in_vis_citations: 
+alexa_infovis_01
+

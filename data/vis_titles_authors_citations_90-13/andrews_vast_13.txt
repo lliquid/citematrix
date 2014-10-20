@@ -1,0 +1,7 @@
+title: The Impact of Physical Navigation on Spatial Organization for Sensemaking
+authors: Christopher Andrews, Chris North
+in_vis_citations: 
+andrews_vast_12
+robinson_vast_08
+kang_vast_09
+

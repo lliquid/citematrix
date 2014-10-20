@@ -1,0 +1,8 @@
+title: Improving Hybrid MDS with Pivot-Based Searching
+authors: Alistair Morrison, Matthew Chalmers
+in_vis_citations: 
+amenta_infovis_02
+koren_infovis_02
+chalmers_vis_96
+morrison_infovis_02
+

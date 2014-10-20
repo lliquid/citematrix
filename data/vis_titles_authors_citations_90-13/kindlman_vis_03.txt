@@ -1,0 +1,10 @@
+title: Curvature-Based Transfer Functions for Direct Volume Rendering: Methods and Applications
+authors: Gordon Kindlmann, Ross Whitaker, Tolga Tasdizen, Torsten Moeller
+in_vis_citations: 
+treavett_vis_00
+tasdizen_vis_02
+interrante_vis_95
+ebert_vis_00
+marschner_vis_94
+lu_vis_02
+

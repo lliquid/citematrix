@@ -1,0 +1,5 @@
+title: Anisotropic Geometric Diffusion in Surface Processing
+authors: U. Clarenz, U. Diewald, M. Rumpf
+in_vis_citations: 
+preusser_vis_99
+

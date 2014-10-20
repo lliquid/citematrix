@@ -1,0 +1,14 @@
+title: Visualization of Large Terrains Made Easy
+authors: Peter Lindstrom, Valerio Pascucci
+in_vis_citations: 
+duchaine_vis_97
+chiang_vis_97
+pajarola_vis_98
+rabinovich_vis_97
+gross_vis_95
+clark_vis_97
+doellner_vis_00
+davis_vis_98
+evans_vis_96
+hoppe_vis_98
+

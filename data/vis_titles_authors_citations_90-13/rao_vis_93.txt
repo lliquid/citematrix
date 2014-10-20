@@ -1,0 +1,5 @@
+title: Towards a Texture Naming System: Identifying Relevant Dimensions of Texture
+authors: A. Ravishankar Rao, Gerald L. Lohse
+in_vis_citations: 
+lohse_vis_90
+

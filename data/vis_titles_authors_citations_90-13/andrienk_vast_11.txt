@@ -1,0 +1,6 @@
+title: From Movement Tracks through Events to Places: Extracting and Characterizing Significant Places from Mobility Data
+authors: Gennady Andrienko, Natalia Andrienko, Christophe Hurter, Salvatore Rinzivillo, Stefan Wrobel
+in_vis_citations: 
+crnovrsa_vast_09
+hurter_infovis_09
+

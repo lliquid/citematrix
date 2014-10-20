@@ -1,0 +1,12 @@
+title: Radial Sets: Interactive Visual Analysis of Large Overlapping Sets
+authors: Bilal Alsallakh, Wolfgang Aigner, Silvia Miksch, Helwig Hauser
+in_vis_citations: 
+henry_infovis_06
+collins_infovis_09
+freiler_infovis_08
+alper_infovis_11
+ghoniem_infovis_04
+riche_infovis_10
+alsallakh_vast_12
+hauser_infovis_02
+

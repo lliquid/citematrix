@@ -1,0 +1,8 @@
+title: The Design and Implementation Of An Object-Oriented Toolkit For 3D Graphics And Visualization
+authors: William J. Schroeder, Kenneth M. Martin, William E. Lorensen
+in_vis_citations: 
+lorensen1_vis_93
+favre_vis_94
+schroeder_vis_92
+abram_vis_95
+

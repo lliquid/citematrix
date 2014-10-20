@@ -1,0 +1,19 @@
+title: FacetAtlas: Multifaceted Visualization for Rich Text Corpora
+authors: Nan Cao, Jimeng Sun, Yu-Ru Lin, David Gotz, Shixia Liu, Huamin Qu
+in_vis_citations: 
+perer_infovis_06
+collins_vast_09
+havre_infovis_00
+chenyanh_infovis_09
+cui_infovis_08
+wattenbe_infovis_08
+strobelt_infovis_09
+viegas_infovis_09
+heer_infovis_05
+smith_infovis_06
+holten_infovis_06
+miller_vis_98
+vanham2_infovis_09
+wise_infovis_95
+cortese_infovis_06
+

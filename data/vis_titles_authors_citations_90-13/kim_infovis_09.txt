@@ -1,0 +1,4 @@
+title: GeneShelf: A Web-based Visual Interface for Large Gene Expression Time-Series Data Repositories
+authors: Bohyoung Kim, Bongshin Lee, Susan Knoblach, Eric Hoffman, Jinwook Seo
+in_vis_citations: 
+

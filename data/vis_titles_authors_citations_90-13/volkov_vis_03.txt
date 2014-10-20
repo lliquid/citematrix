@@ -1,0 +1,10 @@
+title: Real-Time Refinement and Simplification of Adaptive Triangular Meshes
+authors: Vasily Volkov, Ling Li
+in_vis_citations: 
+decoro_vis_02
+wood_vis_00
+duchaine_vis_97
+lindstrom02_vis_01
+xia_vis_96
+hoppe_vis_98
+

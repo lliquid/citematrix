@@ -1,0 +1,5 @@
+title: A Visual Exploration Process for the Analysis of Internet Routing Data
+authors: Soon Tee Teoh, Kwan-Liu Ma, S. Felix Wu
+in_vis_citations: 
+teoh_vis_02
+

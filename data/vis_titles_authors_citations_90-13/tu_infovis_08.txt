@@ -1,0 +1,13 @@
+title: Balloon Focus: a Seamless Multi-Focus+Context Method for Treemaps
+authors: Ying Tu, Han-Wei Shen
+in_vis_citations: 
+stasko_infovis_00
+keahey_infovis_01
+hao_infovis_05
+fekete_infovis_02
+keahey_infovis_96
+keahey_infovis_98
+shi_infovis_05
+gansner_infovis_04
+yang_infovis_02
+

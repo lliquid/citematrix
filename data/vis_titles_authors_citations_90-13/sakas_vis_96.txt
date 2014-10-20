@@ -1,0 +1,5 @@
+title: Case Study: Visualization of Laser Confocal Microscopy Datasets
+authors: G. Sakas, M. G. Vicker, J. Plath
+in_vis_citations: 
+sakas_vis_92
+

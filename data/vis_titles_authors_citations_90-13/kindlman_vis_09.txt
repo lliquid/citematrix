@@ -1,0 +1,11 @@
+title: Sampling and Visualizing Creases with Scale-Space Particles
+authors: Gordon L. Kindlmann, Raul San Jose Estepar, Stephen M. Smith, Carl-Fredrik Westin
+in_vis_citations: 
+meyer_vis_08
+pang_vis_93
+meyer_vis_07
+tricoche_vis_08
+crossno_vis_97
+linsen_vis_08
+peikert_vis_99
+

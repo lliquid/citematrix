@@ -1,0 +1,9 @@
+title: Sequential Document Visualization
+authors: Yi Mao, Joshua V. Dillon, Guy Lebanon
+in_vis_citations: 
+spoerri_vis_93
+miller_vis_98
+havre_infovis_01
+alexa_infovis_01
+wong_infovis_00
+

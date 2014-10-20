@@ -1,0 +1,6 @@
+title: Describing Story Evolution from Dynamic Information Streams
+authors: Stuart Rose, Scott Butner, Wendy Cowley, Michelle Gregory, Julia Walker
+in_vis_citations: 
+havre_infovis_00
+hetzler_infovis_05
+

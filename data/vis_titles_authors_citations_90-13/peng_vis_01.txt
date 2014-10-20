@@ -1,0 +1,5 @@
+title: A Simple Algorithm for Surface Denoising
+authors: Jianbo Peng, Vasily Strela, Denis Zorin
+in_vis_citations: 
+clarenz_vis_00
+

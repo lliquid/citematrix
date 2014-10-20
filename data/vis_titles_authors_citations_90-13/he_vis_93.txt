@@ -1,0 +1,5 @@
+title: Virtual Input Devices for 3D Systems
+authors: Taosong He, Arie E. Kaufman
+in_vis_citations: 
+avila_vis_92
+

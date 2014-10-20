@@ -1,0 +1,5 @@
+title: Contour Blending Using Warp-Guided Distance Field Interpolation
+authors: Daniel Cohen-Or, David Levin, Amira Solomovici
+in_vis_citations: 
+he_vis_94
+

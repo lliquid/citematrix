@@ -1,0 +1,8 @@
+title: Case Study: Hardware-Accelerated Selective LIC Volume Rendering
+authors: Yasuko Suzuki, Issei Fujishiro, Li Chen, Hiroko Nakamura
+in_vis_citations: 
+zoeckler_vis_96
+verma_vis_99
+interran_vis_97
+rezk_vis_99
+

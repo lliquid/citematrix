@@ -1,0 +1,5 @@
+title: Avian Flu Case Study with nSpace and GeoTime
+authors: Pascale Proulx, Sumeet Tandon, Adam Bodnar, David Schroh, Robert Harper, William Wright
+in_vis_citations: 
+kapler_infovis_04
+

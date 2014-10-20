@@ -1,0 +1,13 @@
+title: Exploiting Frame-to-Frame Coherence for Accelerating High-Quality Volume Raycasting on Graphics Hardware
+authors: Thomas Klein, Magnus Strengert, Simon Stegmaier, Thomas Ertl
+in_vis_citations: 
+kniss_vis_02
+yagel_vis_93
+westermann_vis_01
+liw_vis_03
+wan_vis_02
+weiler_vis_03
+mora_vis_02
+krueger_vis_03
+lakare_vis_04
+

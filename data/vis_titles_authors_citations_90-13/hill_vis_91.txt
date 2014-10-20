@@ -1,0 +1,4 @@
+title: Deixis and the Future of Visualization Excellence
+authors: William C. Hill, James D. Hollan
+in_vis_citations: 
+

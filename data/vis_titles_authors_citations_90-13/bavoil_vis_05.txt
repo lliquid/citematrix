@@ -1,0 +1,8 @@
+title: VisTrails: Enabling Interactive Multiple-View Visualizations
+authors: Louis Bavoil, Steven P. Callahan, Carlos Eduardo Scheidegger, Huy T. Vo, Patricia Crossno, Claudio T. Silva, Juliana Freire
+in_vis_citations: 
+chiang_vis_98
+kreusele_infovis_04
+brodlie_vis_04
+jankun-k_vis_02
+

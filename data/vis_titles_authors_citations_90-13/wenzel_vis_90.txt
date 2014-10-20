@@ -1,0 +1,4 @@
+title: A System for Three-Dimensional Acoustic "Visualization" in a Virtual Environment Workstation
+authors: Elizabeth M. Wenzel, Philip K. Stone, Scott S. Fisher, Scott H. Foster
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Producing High-Quality Visualizations of Large-Scale Simulations
+authors: Voicu Popescu, Chris Hoffmann, Sami Kilic, Mete Sozen, Scott Meador
+in_vis_citations: 
+

@@ -1,0 +1,6 @@
+title: Detection and Visualization of Anomalous Structures in Molecular Dynamics Simulation Data
+authors: Sameep Mehta, Kaden Hazzard, Raghu Machiraju, Srinivasan
+in_vis_citations: 
+varshney_vis_95
+prohaska_vis_02
+

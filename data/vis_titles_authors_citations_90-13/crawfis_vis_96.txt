@@ -1,0 +1,13 @@
+title: Real-time Slicing of Data Space
+authors: Roger A. Crawfis
+in_vis_citations: 
+yagel_vis_93
+mao_vis_95
+shen_vis_95
+max_vis_93
+crawfis_vis_93
+nielson_vis_91
+fujishiro_vis_95
+ihm_vis_95
+guo_vis_95
+

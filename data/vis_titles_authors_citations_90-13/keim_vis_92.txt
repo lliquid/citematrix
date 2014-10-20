@@ -1,0 +1,4 @@
+title: Visual Query Specification in a Multimedia Database System
+authors: Daniel A. Keim, Vincent Lum
+in_vis_citations: 
+

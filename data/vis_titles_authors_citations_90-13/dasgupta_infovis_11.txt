@@ -1,0 +1,9 @@
+title: Adaptive Privacy-Preserving Visualization Using Parallel Coordinates
+authors: Aritra Dasgupta, Robert Kosara
+in_vis_citations: 
+inselberg_vis_90
+johansso_infovis_05
+dasgupta_infovis_10
+fua_vis_99
+novotny_vis_06
+

@@ -1,0 +1,17 @@
+title: RelEx: Visualization for Actively Changing Overlay Network Specifications
+authors: Michael Sedlmair, Annika Frank, Tamara Munzner, Andreas Butz
+in_vis_citations: 
+henry_infovis_06
+weaver_infovis_04
+perer_vast_11
+henry_infovis_07
+munzner_infovis_09
+nielsen_infovis_09
+munzner_infovis_99
+henry_infovis_08
+barsky_infovis_08
+heer_infovis_05
+sedlmair_infovis_12
+vanham_infovis_03
+kang_vast_06
+

@@ -1,0 +1,6 @@
+title: Smooth Surface Extraction from Unstructured Point-based Volume Data Using PDEs
+authors: Paul Rosenthal, Lars Linsen
+in_vis_citations: 
+museth_vis_02
+lefohn_vis_03
+

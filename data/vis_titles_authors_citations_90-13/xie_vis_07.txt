@@ -1,0 +1,10 @@
+title: An Effective Illustrative Visualization Framework Based on Photic Extremum Lines (PELs)
+authors: Xuexiang Xie, Ying He, Feng Tian, Hock-Soon Seah, Xianfeng Gu, Hong Qin
+in_vis_citations: 
+kindlman_vis_03
+ebert_vis_00
+lu_vis_02
+born_vis_10
+bruckner_vis_05
+interrante_vis_95
+

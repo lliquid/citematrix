@@ -1,0 +1,5 @@
+title: Fast Surface Rendering from Raster Data by Voxel Traversal Using Chessboard Distance
+authors: Milos Sramek
+in_vis_citations: 
+yagel_vis_93
+

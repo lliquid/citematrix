@@ -1,0 +1,5 @@
+title: An Interactive Cerebral Blood Vessel Exploration System
+authors: Anna Puig, Dani Tost, Isabel Navazo
+in_vis_citations: 
+heidrich_vis_95
+

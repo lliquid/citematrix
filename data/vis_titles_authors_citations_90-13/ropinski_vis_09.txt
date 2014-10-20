@@ -1,0 +1,13 @@
+title: Multimodal Vessel Visualization of Mouse Aorta PET/CT Scans
+authors: Timo Ropinski, Sven Hermann, Rainer Reich, Michael Schaefers, Klaus Hinrichs
+in_vis_citations: 
+kanitsar_vis_03
+springmeyer_vis_92
+kohlmann_vis_07
+straka_vis_04
+krueger_vis_03
+hahn_vis_01
+beyer_vis_07
+kanitsar1_vis_02
+tory_vis_03
+

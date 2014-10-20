@@ -1,0 +1,8 @@
+title: Exploration and Visualization of Segmentation Uncertainty Using Shape and Appearance Prior Information
+authors: Ahmed Saad, Ghassan Hamarneh, Torsten Moeller
+in_vis_citations: 
+correa_vis_09
+kniss_vis_05
+kindlman_vis_03
+lundstroem_vis_07
+

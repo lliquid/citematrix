@@ -1,0 +1,5 @@
+title: Towards Rich Information Landscapes for Visualising Structured Web Spaces
+authors: Keith Andrews, Michael Pichler, Peter Wolf
+in_vis_citations: 
+andrews_infovis_95
+

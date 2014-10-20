@@ -1,0 +1,5 @@
+title: Multimodal Exploration of the Fourth Dimension
+authors: Andrew J. Hanson, Hui Zhang
+in_vis_citations: 
+hanson_vis_95
+

@@ -1,0 +1,5 @@
+title: Geovisual Analytics for Self-Organizing Network Data
+authors: Ho Van Quan, Tobias ??strom, Mikael Jern
+in_vis_citations: 
+koutsofios_vis_99
+

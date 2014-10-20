@@ -1,0 +1,4 @@
+title: Spatial Analysis of News Sources
+authors: Andrew Mehler, Yunfan Bao, Xin Li, Yue Wang, Steven Skiena
+in_vis_citations: 
+

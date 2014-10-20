@@ -1,0 +1,6 @@
+title: Exploration of 4D MRI Blood-Flow Using Stylistic Visualization
+authors: Roy van Pelt, Javier Olivan Bescos, Marcel Breeuwer, Rachel E. Clough, Eduard Groeller, Bart ter Haar Romeny, Anna Vilanova
+in_vis_citations: 
+bruckner_vis_06
+everts_vis_09
+

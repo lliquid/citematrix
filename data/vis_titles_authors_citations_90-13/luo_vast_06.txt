@@ -1,0 +1,7 @@
+title: Exploring Large-Scale Video News via Interactive Visualization
+authors: Hangzai Luo, Jianping Fan, Jing Yang, William Ribarsky, Shinichi Satoh
+in_vis_citations: 
+hetzler_infovis_98
+derthick_infovis_03
+johnson_vis_91
+

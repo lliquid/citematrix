@@ -1,0 +1,11 @@
+title: Interactive Decision making using Dissimilarity to visually represented Prototypes
+authors: M.A. Migut, J.C. van Gemert, M. Worring
+in_vis_citations: 
+yi_infovis_07
+bostock_infovis_09
+fuchs_vis_09
+migut_vast_10
+ward_vis_94
+ankerst_infovis_98
+stolte_infovis_00
+

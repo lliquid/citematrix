@@ -1,0 +1,18 @@
+title: Interactive Volume Rendering of Functional Representations in Quantum Chemistry
+authors: Yun Jang, Member, Ugo Varetto
+in_vis_citations: 
+grottel_vis_07
+lampe_vis_07
+krueger_vis_03
+schmidte_vis_02
+mehta_vis_06
+qiao_vis_05
+ebert_vis_00
+mehta_vis_04
+cipriano_vis_07
+qiao_vis_06
+cheng_vis_04
+tarini_vis_06
+svakhine_vis_05
+bajaj_vis_04
+

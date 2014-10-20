@@ -1,0 +1,4 @@
+title: Developing Modular Application Builders to Exploit MIMD Parallel Resources
+authors: C. Thornborrow, A. J. S. Wilson, C. Faigle
+in_vis_citations: 
+

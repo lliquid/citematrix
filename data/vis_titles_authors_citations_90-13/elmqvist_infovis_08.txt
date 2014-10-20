@@ -1,0 +1,19 @@
+title: Rolling the Dice: Multidimensional Visual Exploration using Scatterplot Matrix Navigation
+authors: Niklas Elmqvist, Pierre Dragicevic, Jean-Daniel Fekete
+in_vis_citations: 
+yi_infovis_07
+elmqvist_vast_07
+viegas_infovis_07
+leblanc_vis_90
+theron_vast_06
+amar_infovis_05
+ward_vis_94
+ankerst_infovis_98
+martin_vis_95
+rosario_infovis_03
+stolte_infovis_00
+seo_infovis_04
+fekete_infovis_04
+heer_infovis_07
+peng_infovis_04
+

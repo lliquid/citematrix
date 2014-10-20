@@ -1,0 +1,4 @@
+title: Spatio-temporal Aggregation for Visual Analysis of Movements
+authors: Gennady Andrienko, Natalia Andrienko
+in_vis_citations: 
+

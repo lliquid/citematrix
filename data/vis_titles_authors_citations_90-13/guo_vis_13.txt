@@ -1,0 +1,12 @@
+title: Coupled Ensemble Flow Line Advection and Analysis
+authors: Hanqi Guo, Xiaoru Yuan, Jian Huang, Xiaomin Zhu
+in_vis_citations: 
+botchen_vis_05
+nouanesengsy_vis_11
+hlawatsch_vis_11
+liuzhanp_vis_06
+bruckner_vis_10
+sanyal_vis_10
+lodha2_vis_96
+garth_vis_07
+

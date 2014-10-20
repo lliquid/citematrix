@@ -1,0 +1,9 @@
+title: A Novel Interface for Higher-Dimensional Classification of Volume Data
+authors: Fan-Yin Tzeng, Eric B. Lum, Kwan-Liu Ma
+in_vis_citations: 
+fang_vis_98
+kniss_vis_01
+fujishiro_vis_99
+bajaj_vis_97
+he1_vis_96
+

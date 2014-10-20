@@ -1,0 +1,6 @@
+title: Dual Marching Cubes
+authors: Gregory M. Nielson
+in_vis_citations: 
+taubin_vis_02
+nielson_vis_91
+

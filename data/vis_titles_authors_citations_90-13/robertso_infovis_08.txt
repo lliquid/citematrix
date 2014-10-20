@@ -1,0 +1,6 @@
+title: Effectiveness of Animation in Trend Visualization
+authors: George Robertson, Roland Fernandez, Danyel Fisher, Bongshin Lee, John Stasko
+in_vis_citations: 
+bederson_infovis_99
+heer_infovis_07
+

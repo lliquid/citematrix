@@ -1,0 +1,8 @@
+title: A Multiphase Approach to Efficient Surface Simplification
+authors: Michael Garland, Eric Shaffer
+in_vis_citations: 
+lindstrom01_vis_01
+shaffer_vis_01
+hoppe_vis_98
+lindstrom_vis_98
+

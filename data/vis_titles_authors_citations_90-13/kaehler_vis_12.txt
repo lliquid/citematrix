@@ -1,0 +1,13 @@
+title: A Novel Approach to Visualizing Dark Matter Simulations
+authors: Ralf Kaehler, Oliver Hahn, Tom Abel
+in_vis_citations: 
+fraedric_vis_10
+weiler_vis_03
+kraus_vis_04
+zhou_vis_06
+hopf_vis_03
+muigg_vis_11
+fraedric_vis_09
+weiler_vis_01
+hopf_vis_03
+

@@ -1,0 +1,13 @@
+title: Evaluation of Multivariate Visualization on a Multivariate Task
+authors: Mark A. Livingston, Jonathan W. Decker, Zhuming Ai
+in_vis_citations: 
+livingston_vis_11
+forsberg_vis_09
+healey_vis_98
+beddow_vis_90
+shenas_infovis_07
+leblanc_vis_90
+levkowitz_vis_91
+laidlaw_vis_98
+urness_vis_03
+

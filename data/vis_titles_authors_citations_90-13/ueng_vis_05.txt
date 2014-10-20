@@ -1,0 +1,8 @@
+title: Interpolation And Visualization For Advected Scalar Fields
+authors: Shyh-Kuang Ueng, Sheng-Chuan Wang
+in_vis_citations: 
+ueng_vis_04
+zwicker_vis_01
+djurcilov_vis_99
+gerstner_vis_02
+

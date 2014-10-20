@@ -1,0 +1,4 @@
+title: Topographical Mapping of Brain Electrical Activity
+authors: S. K. Law, P. L. Nunez, A. F. Westdorp, A. V. Nelson, K. L. Pilgreen
+in_vis_citations: 
+

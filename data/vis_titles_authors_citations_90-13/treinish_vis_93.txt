@@ -1,0 +1,5 @@
+title: Visualization of Stratospheric Ozone Depletion and the Polar Vortex
+authors: Lloyd A. Treinish
+in_vis_citations: 
+lucas1_vis_92
+

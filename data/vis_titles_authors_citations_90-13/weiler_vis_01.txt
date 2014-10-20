@@ -1,0 +1,5 @@
+title: Hardware-Software-Balanced Resampling for the Interactive Visualization of Unstructured Grids
+authors: Manfred Weiler, Thomas Ertl
+in_vis_citations: 
+wilhelms_vis_96
+

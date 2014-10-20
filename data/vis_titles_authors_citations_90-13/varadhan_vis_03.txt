@@ -1,0 +1,6 @@
+title: Feature-Sensitive Subdivision and Isosurface Reconstruction
+authors: Gokul Varadhan, Shankar Krishnan, Young J. Kim, Dinesh Manocha
+in_vis_citations: 
+huang_vis_01
+shekhar_vis_96
+

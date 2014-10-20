@@ -1,0 +1,18 @@
+title: Ambient Volume Scattering
+authors: Member Ament, Filip Sadlo, Daniel Weiskopf
+in_vis_citations: 
+sunden_vis_11
+bruckner_vis_07
+stewart_vis_03
+roettger_vis_00
+guetat_vis_10
+lum_vis_04
+csebfalv_vis_03
+ament_vis_10
+joensson_vis_12
+lindemann_vis_11
+schlegel_vis_11
+kniss_vis_02
+magnor_vis_05
+knoll_vis_09
+

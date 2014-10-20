@@ -1,0 +1,9 @@
+title: WEAVE: A System for Visually Linking 3-D and Statistical Visualizations, Applied to Cardiac Simulation and Measurement Data
+authors: D. L. Gresh, B. E. Rogowitz, R. L. Winslow, D. F. Scollan, C. K. Yung
+in_vis_citations: 
+lucas1_vis_92
+weinstei_vis_99
+ahlberg_infovis_95
+buja_vis_91
+roth_infovis_96
+

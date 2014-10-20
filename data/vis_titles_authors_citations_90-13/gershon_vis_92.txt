@@ -1,0 +1,4 @@
+title: Visualization of Fuzzy Data Using Generalized Animation
+authors: Nahum D. Gershon
+in_vis_citations: 
+

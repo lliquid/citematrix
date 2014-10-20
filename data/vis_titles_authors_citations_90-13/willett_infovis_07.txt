@@ -1,0 +1,5 @@
+title: Scented Widgets: Improving Navigation Cues with Embedded Visualizations
+authors: Wesley Willett, Jeffrey Heer, Maneesh Agrawala
+in_vis_citations: 
+derthick_infovis_99
+

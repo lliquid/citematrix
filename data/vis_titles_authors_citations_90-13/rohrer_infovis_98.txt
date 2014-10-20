@@ -1,0 +1,10 @@
+title: The Shape Of Shakespeare: Visualizing Text Using Implicit Surfaces
+authors: Randall M. Rohrer, David S. Ebert, John L. Sibert
+in_vis_citations: 
+chi_infovis_97
+ebert_infovis_96
+gross_infovis_97
+wise_infovis_95
+interrante_vis_96
+rushall_infovis_96
+

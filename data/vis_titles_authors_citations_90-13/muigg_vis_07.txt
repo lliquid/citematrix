@@ -1,0 +1,15 @@
+title: Scalable Hybrid Unstructured and Structured Grid Raycasting
+authors: Philipp Muigg, Markus Hadwiger, Helmut Doleisch, Helwig Hauser
+in_vis_citations: 
+bavoil_vis_06
+weiler_vis_03
+krueger_vis_06
+kraus_vis_01
+viola_vis_06
+georgii_vis_06
+zhou_vis_06
+roettger_vis_00
+krueger_vis_03
+weiler_vis_01
+lamar_vis_99
+

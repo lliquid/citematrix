@@ -1,0 +1,7 @@
+title: Compressing Large Polygonal Models
+authors: Jeffrey Ho, Kuang-Chih Lee, David Kriegman
+in_vis_citations: 
+chow_vis_97
+gueziec_vis_98
+guezvis_vis_99
+

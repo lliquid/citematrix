@@ -1,0 +1,6 @@
+title: Applying Observations of Work Activity in Designing Prototype Data Analysis Tools
+authors: Rebecca R. Springmeyer
+in_vis_citations: 
+springmeyer_vis_92
+bancroft_vis_90
+

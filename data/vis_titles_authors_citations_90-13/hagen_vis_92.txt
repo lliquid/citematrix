@@ -1,0 +1,4 @@
+title: Generalized Focal Surfaces : A New Method for Surface Interrogation
+authors: Hans Hagen, Stefanie Hahmann
+in_vis_citations: 
+

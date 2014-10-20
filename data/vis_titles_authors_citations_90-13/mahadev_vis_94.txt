@@ -1,0 +1,4 @@
+title: Case Study: Visualization of an Electric Power Transmission System
+authors: Pramod M. Mahadev, Richard D. Christie
+in_vis_citations: 
+

@@ -1,0 +1,6 @@
+title: Exploring High-D Spaces with Multiform Matrices and Small Multiples
+authors: Alan MacEachren, Xiping Dai, Frank Hardisty, Diansheng Guo, Gene Lengerich
+in_vis_citations: 
+johnson_vis_91
+ankerst_infovis_98
+

@@ -1,0 +1,13 @@
+title: Subspace Search and Visualization to Make Sense of Alternative Clusterings in High-Dimensional Data
+authors: Andrada Tatu, Fabian Maass, Ines Faerber, Enrico Bertini, Tobias Schreck, Thomas Seidl, Daniel Keim
+in_vis_citations: 
+wilkinso_infovis_05
+lex_infovis_10
+ingram_vast_10
+yang_infovis_04
+ferdosi_vast_10
+bremm_vast_11
+cao_infovis_11
+seo_infovis_04
+johansso_infovis_09
+

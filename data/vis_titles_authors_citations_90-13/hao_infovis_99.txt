@@ -1,0 +1,6 @@
+title: A Java-based Visual Mining Infrastructure and Applications
+authors: Ming C. Hao, Umesh Dayal, Meichun Hsu, Jim Baker, Robert D'Eletto
+in_vis_citations: 
+keim_vis_98
+eick_vis_93
+

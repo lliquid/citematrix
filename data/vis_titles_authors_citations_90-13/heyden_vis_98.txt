@@ -1,0 +1,5 @@
+title: Visual Presentation of Magnetic Resonance Images
+authors: J. E. van der Heyden, M. S. T. Carpendale, K. Inkpen, M. S. Atkins
+in_vis_citations: 
+keahey_infovis_96
+

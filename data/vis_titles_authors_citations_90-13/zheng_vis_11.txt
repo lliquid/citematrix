@@ -1,0 +1,17 @@
+title: iView: A Feature Clustering Framework for Suggesting Informative Views in Volume Visualization
+authors: Ziyi Zheng, Nafees Ahmed, Klaus Mueller
+in_vis_citations: 
+wu_vis_09
+kohlmann_vis_07
+correa_vis_08
+chan_vis_08
+amirkhan_vis_10
+chan_vis_09
+bordoloi_vis_05
+wangl_vis_05
+krueger_vis_06
+maciejew_vis_09
+correa_vis_09
+kindlman_vis_03
+takahash_vis_05
+

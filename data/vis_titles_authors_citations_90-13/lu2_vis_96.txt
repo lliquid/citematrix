@@ -1,0 +1,4 @@
+title: A 3-D Contextual Shading Method for Visualization of Diecasting Defects
+authors: S. C. Lu, A. B. Rebello, D. H. Cui, R. Yagel, R. A. Miller, G. L. Kinzel
+in_vis_citations: 
+

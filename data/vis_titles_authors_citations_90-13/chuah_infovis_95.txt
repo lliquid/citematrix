@@ -1,0 +1,4 @@
+title: SDM: Malleable Information Graphics
+authors: Mei C. Chuah, Steven F. Roth, Joe Mattis, John Kolojejchick
+in_vis_citations: 
+

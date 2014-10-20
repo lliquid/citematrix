@@ -1,0 +1,7 @@
+title: The Design and Implementation of the Cortex Visualization System
+authors: Deb Banerjee, Chris Morley, Wayne Smith
+in_vis_citations: 
+hansenc_vis_92
+legensky_vis_91
+bancroft_vis_90
+

@@ -1,0 +1,11 @@
+title: Supporting Awareness through Collaborative Brushing and Linking of Tabular Data
+authors: Amir Hossein Hajizadeh, Melanie Tory, Rock Leung
+in_vis_citations: 
+rodgers_infovis_11
+pousman_infovis_07
+bostock_infovis_11
+isenberg_vast_10
+li_infovis_03
+heer_vast_07
+chen_vast_11
+

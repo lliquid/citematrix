@@ -1,0 +1,8 @@
+title: Colon Flattening Using Heat Diffusion Riemannian Metric
+authors: Krishna Chaitanya Gurijala, Rui Shi, Wei Zeng, Xianfeng Gu, Arie Kaufman
+in_vis_citations: 
+bartoli_vis_01
+hong_vis_06
+bartoli_vis_01
+zeng_vis_10
+

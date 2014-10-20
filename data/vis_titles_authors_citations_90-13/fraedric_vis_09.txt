@@ -1,0 +1,15 @@
+title: Exploring the Millennium Run Scalable Rendering of Large-Scale Cosmological Datasets
+authors: Roland Fraedrich, Jens Schneider, Ruediger Westermann
+in_vis_citations: 
+hopf_vis_03
+kaehler_vis_02
+hopf_vis_03
+childs_vis_05
+schneide_vis_03
+liyingga_vis_06
+li_vis_07
+cox_vis_97
+navratil_vis_07
+brodlie_vis_04
+millerja_vis_06
+

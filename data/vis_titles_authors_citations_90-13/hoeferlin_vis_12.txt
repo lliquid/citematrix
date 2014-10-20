@@ -1,0 +1,9 @@
+title: Evaluation of Fast-Forward Video Visualization
+authors: Markus Hoeferlin, Kuno Kurzhals, Benjamin Hoeferlin, Gunther Heidemann, Daniel Weiskopf
+in_vis_citations: 
+giesen_vis_07
+cammarano_infovis_07
+robertso_infovis_08
+heer_infovis_07
+chen_vis_06
+

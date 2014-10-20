@@ -1,0 +1,9 @@
+title: Visual Social Network Analytics for Relationship Discovery in the Enterprise
+authors: Adam Perer, Ido Guy, Erel Uziel, Inbal Ronen, Michal Jacovi
+in_vis_citations: 
+perer_infovis_06
+henry_infovis_07
+kang_vast_06
+heer_infovis_05
+shneiderman_infovis_06
+

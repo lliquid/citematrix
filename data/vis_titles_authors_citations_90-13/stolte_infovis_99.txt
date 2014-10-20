@@ -1,0 +1,4 @@
+title: Visualizing Application Behavior on Superscalar Processors
+authors: Chris Stolte, Robert Bosch, Pat Hanrahan, Mendel Rosenblum
+in_vis_citations: 
+

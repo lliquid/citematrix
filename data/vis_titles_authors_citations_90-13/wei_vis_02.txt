@@ -1,0 +1,5 @@
+title: Simulating Fire With Texture Splats
+authors: Xiaoming Wei, Wei Li, Klaus Mueller, Arie Kaufman
+in_vis_citations: 
+crawfis_vis_93
+

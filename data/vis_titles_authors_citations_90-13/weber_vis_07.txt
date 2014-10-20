@@ -1,0 +1,15 @@
+title: Topological Landscapes: A Terrain Metaphor for Scientific Data
+authors: Gunther H. Weber, Peer-Timo Bremer, Valerio Pascucci
+in_vis_citations: 
+carr_vis_04
+house_vis_98
+hibbard_vis_92
+fujishiro_vis_99
+heilmann_infovis_04
+duchaine_vis_97
+bajaj_vis_97
+koren_infovis_02
+weber_vis_02
+gyulassy_vis_05
+theisel_vis_03
+

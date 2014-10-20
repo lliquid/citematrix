@@ -1,0 +1,6 @@
+title: Techniques for the Visualization of Topological Defect Behavior in Nematic Liquid Crystals
+authors: Vadim A. Slavin, Robert A. Pelcovits, George Loriot, Andrew Callan-Jones, David H. Laidlaw
+in_vis_citations: 
+laidlaw_vis_98
+mehta_vis_04
+

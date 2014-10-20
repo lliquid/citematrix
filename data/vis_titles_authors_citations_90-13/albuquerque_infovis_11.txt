@@ -1,0 +1,10 @@
+title: Synthetic Generation of High-Dimensional Datasets
+authors: Georgia Albuquerque, Thomas Loewe, Marcus Magnor
+in_vis_citations: 
+wilkinso_infovis_05
+ward_vis_94
+albuquer_vast_10
+tatu_vast_09
+peng_infovis_04
+elmqvist_infovis_08
+

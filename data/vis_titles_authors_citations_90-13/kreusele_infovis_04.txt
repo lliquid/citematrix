@@ -1,0 +1,9 @@
+title: A History Mechanism for Visual Data Mining
+authors: M. Kreuseler, T. Nocke, H. Schumann
+in_vis_citations: 
+chi_infovis_98
+jankun-k_vis_02
+humphrey_vis_00
+jankunk_infovis_03
+ma_vis_99
+

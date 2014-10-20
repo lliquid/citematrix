@@ -1,0 +1,4 @@
+title: Visualizing Social Photos on a Hasse Diagram for Eliciting Relations and Indexing New Photos
+authors: Michel Crampes, Jeremy de Oliveira-Kumar, Sylvie Ranwez, Jean Villerd
+in_vis_citations: 
+

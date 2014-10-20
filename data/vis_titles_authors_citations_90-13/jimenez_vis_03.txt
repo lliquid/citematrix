@@ -1,0 +1,6 @@
+title: Visualizing Spatial and Temporal Variability in Coastal Observatories
+authors: Walter H Jimenez, Wagner T. Correa, Claudio T. Silva, Antonio M. Baptista
+in_vis_citations: 
+telea_vis_99
+lamar_vis_99
+

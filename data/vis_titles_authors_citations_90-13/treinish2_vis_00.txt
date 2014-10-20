@@ -1,0 +1,8 @@
+title: Multi-Resolution Visualization Techniques for Nested Weather Models
+authors: Lloyd A. Treinish
+in_vis_citations: 
+schulz_vis_99
+helman_vis_90
+abram_vis_95
+scheuer2_vis_99
+

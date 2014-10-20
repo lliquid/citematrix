@@ -1,0 +1,7 @@
+title: Parallel Performance Measures for Volume Ray Casting
+authors: Claudio T. Silva, Arie E. Kaufman
+in_vis_citations: 
+avila_vis_92
+schroederp_vis_91
+avila_vis_94
+

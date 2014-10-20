@@ -1,0 +1,8 @@
+title: MulteeSum: A Tool for Comparative Spatial and Temporal Gene Expression Data
+authors: Miriah Meyer, Tamara Munzner, Angela DePace, Hanspeter Pfister
+in_vis_citations: 
+heer2_infovis_06
+lam_infovis_07
+willett_infovis_07
+meyer_infovis_09
+

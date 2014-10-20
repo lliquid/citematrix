@@ -1,0 +1,20 @@
+title: SocialNetSense: Supporting Sensemaking of Social and Structural Features in Networks with Interactive Visualization
+authors: Liang Gou, Xiaolong Zhang, Airong Luo, Patricia F. Anderson
+in_vis_citations: 
+chi_infovis_99
+gou_infovis_11
+heer_infovis_05
+bavoil_vis_05
+henry_infovis_07
+pretorius_infovis_06
+kadivar_vast_09
+liu_vast_11
+kang_vast_06
+kreusele_infovis_04
+heer_infovis_08
+shneiderman_infovis_06
+henry_infovis_06
+gotz_vast_08
+holten_infovis_06
+stasko_vast_07
+

@@ -1,0 +1,8 @@
+title: Visual Feedback in Querying Large Databases
+authors: Daniel A. Keim, Hans-Peter Kriegel, Thomas Seidl
+in_vis_citations: 
+beddow_vis_90
+leblanc_vis_90
+mihalisin_vis_90
+inselberg_vis_90
+

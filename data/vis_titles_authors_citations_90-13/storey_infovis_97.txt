@@ -1,0 +1,5 @@
+title: On Integrating Visualization Techniques for Effective Software Exploration
+authors: M.-A. D. Storeyyz, K. Wongz, F. D. Fracchia, H. A. Mueller
+in_vis_citations: 
+johnson_vis_91
+

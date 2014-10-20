@@ -1,0 +1,5 @@
+title: Visualization Requirements in the Atmospheric and Environmental Sciences (Five Case Study Reports)
+authors: Theresa Rhynel, Mark Bolstad, Penny Rheingans, Lynne Pettenon, Theresa Rhyne, Michael E. Botts, Eric Pepke, Kenneth W. Johnson, William Hibbard, Charles R. Dyer, Brian Paul, Lloyd A. Treinish
+in_vis_citations: 
+hibbard_vis_92
+

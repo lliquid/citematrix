@@ -1,0 +1,12 @@
+title: Adaptive 4-8 Texture Hierarchies
+authors: Lok M. Hwa, Mark A. Duchaineau, Kenneth I. Joy
+in_vis_citations: 
+lindstrom02_vis_01
+duchaine_vis_97
+levenber_vis_02
+hoppe_vis_98
+pajarola_vis_98
+doellner_vis_00
+silva_vis_95
+cignoni_vis_03
+

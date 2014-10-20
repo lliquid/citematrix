@@ -1,0 +1,8 @@
+title: Hue-Balls and Lit-Tensors for Direct Volume Rendering of Diffusion Tensor Fields
+authors: Gordon Kindlmann, David Weinstein
+in_vis_citations: 
+kerlick_vis_90
+delmarcelle_vis_92
+zoeckler_vis_96
+laidlaw_vis_98
+

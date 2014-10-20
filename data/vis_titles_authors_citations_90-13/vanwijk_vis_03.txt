@@ -1,0 +1,11 @@
+title: Image Based Flow Visualization for Curved Surfaces
+authors: Jarke J. van Wijk
+in_vis_citations: 
+lum_vis_02
+leeuw_vis_95
+telea_vis_03
+jobard_vis_00
+peikert_vis_99
+jobard_vis_01
+interrante_vis_95
+

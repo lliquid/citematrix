@@ -1,0 +1,6 @@
+title: Flow Map Layout
+authors: Doantam Phan, Ling Xiao, Ron Yeh, Pat Hanrahan, Terry Winograd
+in_vis_citations: 
+cox_infovis_95
+munzner_infovis_96
+

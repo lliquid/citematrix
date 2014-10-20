@@ -1,0 +1,6 @@
+title: FoamVis: Visualization of 2D Foam Simulation Data
+authors: Dan R. Lipsa, Robert S. Laramee, Simon J. Cox, I. Tudur Davies
+in_vis_citations: 
+hadwiger_vis_08
+kehrer_vis_08
+

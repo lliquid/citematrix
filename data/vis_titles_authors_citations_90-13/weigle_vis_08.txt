@@ -1,0 +1,6 @@
+title: A Comparison of the Perceptual Benefits of Linear Perspective and Physically-Based Illumination for Display of Dense 3D Streamtubes
+authors: Chris Weigle, David C. Banks
+in_vis_citations: 
+melek_vis_06
+halle_vis_03
+

@@ -1,0 +1,5 @@
+title: Progressive Compression of Arbitrary Triangular Meshes
+authors: Daniel Cohen-Or, David Levin, Offir Remez
+in_vis_citations: 
+evans_vis_96
+

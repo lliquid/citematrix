@@ -1,0 +1,6 @@
+title: Rendering Tetrahedral Meshes with Higher-Order Attenuation Functions for Digital Radiograph Reconstruction
+authors: Ofri Sadowsky, Jonathan D. Cohen, Russell H. Taylor
+in_vis_citations: 
+roettger_vis_00
+kraus_vis_04
+

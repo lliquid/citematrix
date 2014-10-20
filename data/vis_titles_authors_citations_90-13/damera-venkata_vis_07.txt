@@ -1,0 +1,5 @@
+title: A Unified Paradigm for Scalable Multi-Projector Displays
+authors: Niranjan Damera-Venkata, Nelson L. Chang, Jeffrey M. DiCarlo
+in_vis_citations: 
+raskar_vis_99
+

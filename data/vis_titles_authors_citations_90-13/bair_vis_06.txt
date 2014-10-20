@@ -1,0 +1,6 @@
+title: Texturing of Layered Surfaces for Optimal Viewing
+authors: Alethea S. Bair, Donald H. House, Colin Ware
+in_vis_citations: 
+house_vis_05
+kim_infovis_03
+

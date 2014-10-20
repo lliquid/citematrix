@@ -1,0 +1,11 @@
+title: An Atmospheric Visual Analysis and Exploration System
+authors: Yuyan Song, Jing Ye, Nikolai Svakhine, Sonia Lasher-Trapp, Mike Baldwin, David S. Ebert
+in_vis_citations: 
+treinish2_vis_00
+weiler_vis_03
+treinish_vis_98
+hibbard_vis_92
+he1_vis_96
+riley_vis_03
+hibbard_vis_90
+

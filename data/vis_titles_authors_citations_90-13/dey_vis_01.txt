@@ -1,0 +1,6 @@
+title: Undersampling and Oversampling in Sample Based Shape Modeling
+authors: Tamal K. Dey, Joachim Giesen, Samrat Goswami, James Hudson, Rephael Wegner, Wulue Zhao
+in_vis_citations: 
+elsana_vis_97
+adam_vis_00
+

@@ -1,0 +1,5 @@
+title: Massively Parallel Isosurface Extraction
+authors: Charles D. Hansen, Paul Hinker
+in_vis_citations: 
+nielson_vis_91
+

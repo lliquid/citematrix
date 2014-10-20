@@ -1,0 +1,9 @@
+title: Optimized View-Dependent Rendering for Large Polygonal Datasets
+authors: Jihad El-Sana, Eitan Bachmat
+in_vis_citations: 
+elsana_vis_99
+duchaine_vis_97
+shamir_vis_00
+defloriani_vis_98
+gross_vis_95
+

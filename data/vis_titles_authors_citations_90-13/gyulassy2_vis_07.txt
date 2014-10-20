@@ -1,0 +1,10 @@
+title: Efficient Computation of Morse-Smale Complexes for Three-dimensional Scalar Functions
+authors: Attila Gyulassy, Vijay Natarajan, Valerio Pascucci, Bernd Hamann
+in_vis_citations: 
+carr_vis_04
+cignoni_vis_00
+staadt_vis_98
+garland_vis_98
+gyulassy_vis_05
+gerstner_vis_00
+

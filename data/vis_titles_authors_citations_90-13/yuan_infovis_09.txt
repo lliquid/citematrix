@@ -1,0 +1,25 @@
+title: Scattering Points in Parallel Coordinates
+authors: Xiaoru Yuan, Peihong Guo, He Xiao, Hong Zhou, Huamin Qu
+in_vis_citations: 
+bachthal_vis_08
+bendix_infovis_05
+wegenkit_vis_97
+inselberg_vis_90
+fanea_infovis_05
+hoffman_vis_97
+ellis_infovis_06
+wong1_vis_97
+wong_vis_96
+johansso_infovis_05
+yang_infovis_03
+chalmers_vis_96
+ankerst_infovis_98
+wongn_infovis_03
+hauser_infovis_02
+fua_vis_99
+craig_infovis_03
+novotny_vis_06
+artero_infovis_04
+peng_infovis_04
+elmqvist_infovis_08
+

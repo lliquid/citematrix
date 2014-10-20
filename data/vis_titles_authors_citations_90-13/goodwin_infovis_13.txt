@@ -1,0 +1,10 @@
+title: Creative User-Centered Visualization Design for Energy Analysts and Modelers
+authors: Sarah Goodwin, Jason Dykes, Sara Jones, Iain Dillingham, Graham Dove, Alison Duffy, Alexander Kachkaev, Aidan Slingsby, Jo Wood
+in_vis_citations: 
+dykes_infovis_10
+sedlmair_infovis_12
+rodgers_infovis_11
+heer_infovis_07
+vanwijk2_infovis_99
+lloyd_infovis_11
+

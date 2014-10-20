@@ -1,0 +1,6 @@
+title: Intent, Perception, and Out-of-Core Visualization Applied to Terrain
+authors: Douglass Davis, T. Y. Jiang, William Ribarsky, Nickolas Faust
+in_vis_citations: 
+lane_vis_94
+cox_vis_97
+

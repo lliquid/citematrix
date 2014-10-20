@@ -1,0 +1,9 @@
+title: IVORY - An Object-Oriented Framework for Physics-Based Information Visualization in Java
+authors: T. C. Sprenger, M. H. Gross, D. Bielser, T. Strasser
+in_vis_citations: 
+hendley_infovis_95
+schroeder_vis_96
+gross_infovis_97
+ahlberg_infovis_95
+munzner_infovis_96
+

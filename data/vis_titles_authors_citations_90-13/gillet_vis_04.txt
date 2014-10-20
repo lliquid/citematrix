@@ -1,0 +1,4 @@
+title: Augmented Reality with Tangible Auto-Fabricated Models for Molecular Biology Applications
+authors: Alexandre Gillet, Michel Sanner, Daniel Stoffler, David Goodsell, Arthur Olson
+in_vis_citations: 
+

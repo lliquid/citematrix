@@ -1,0 +1,9 @@
+title: Applying Manifold Learning to Plotting Approximate Contour Trees
+authors: Shigeo Takahashi, Issei Fujishiro, Masato Okada
+in_vis_citations: 
+weber_vis_02
+weber_vis_07
+carr_vis_04
+pascucci_vis_02
+bajaj_vis_97
+

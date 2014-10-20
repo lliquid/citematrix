@@ -1,0 +1,7 @@
+title: 3D Computational Steering with Parametrized Geometric Objects
+authors: Jurriaan D. Mulder, Jarke J. van Wijk
+in_vis_citations: 
+lang_vis_91
+kerlick_vis_93
+yen_vis_90
+

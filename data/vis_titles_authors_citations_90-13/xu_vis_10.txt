@@ -1,0 +1,16 @@
+title: An Information-Theoretic Framework for Flow Visualization
+authors: Lijie Xu, Teng-Yok Lee, Han-Wei Shen
+in_vis_citations: 
+bachthal_vis_08
+chen_vis_07
+jaenicke_vis_07
+viola_vis_06
+liuzhanp_vis_06
+mebarki_vis_05
+ye_vis_05
+wangchao_vis_08
+verma_vis_00
+bordoloi_vis_05
+schlemmer_vis_07
+gumhold_vis_02
+

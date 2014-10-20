@@ -1,0 +1,8 @@
+title: Fast and Efficient Compression of Floating-Point Data
+authors: Peter Lindstrom, Martin Isenburg
+in_vis_citations: 
+gumhold_vis_99
+deviller_vis_00
+isenburg_vis_02
+trott_vis_96
+

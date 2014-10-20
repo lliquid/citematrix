@@ -1,0 +1,9 @@
+title: A Multi-Threaded Streaming Pipeline Architecture for Large Structured Data Sets
+authors: C. Charles Law, Kenneth M. Martin, William J. Schroeder, Joshua Temkin
+in_vis_citations: 
+chiang_vis_97
+cox_vis_97
+chiang_vis_98
+kenwright_vis_98
+kenwrigh_vis_97
+

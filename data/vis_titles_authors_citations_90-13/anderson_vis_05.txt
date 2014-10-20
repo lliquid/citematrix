@@ -1,0 +1,6 @@
+title: Marching Diamonds for Unstructured Meshes
+authors: John C. Anderson, Janine C. Bennett, Kenneth I. Joy
+in_vis_citations: 
+marschner_vis_94
+nielson_vis_91
+

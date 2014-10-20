@@ -1,0 +1,6 @@
+title: EdgeLens: An Interactive Method for Managing Edge Congestion in Graphs
+authors: Nelson Wong, Sheelagh Carpendale, Saul Greenberg
+in_vis_citations: 
+keahey_infovis_97
+keahey_infovis_96
+

@@ -1,0 +1,5 @@
+title: Quality Mesh Generation for Molecular Skin Surfaces Using Restricted Union of Balls
+authors: Ho-Lun Cheng, Xinwei Shi
+in_vis_citations: 
+cheng_vis_04
+

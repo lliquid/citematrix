@@ -1,0 +1,4 @@
+title: The Stream Polygon: A Technique for 3D Vector Field Visualization
+authors: W. J. Schroeder, C. R. Volpe, W. E. Lorensen
+in_vis_citations: 
+

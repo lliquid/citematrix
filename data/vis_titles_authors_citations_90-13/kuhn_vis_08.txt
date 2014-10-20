@@ -1,0 +1,4 @@
+title: An Efficient Naturalness-Preserving Image-Recoloring Method for Dichromats
+authors: Giovane R. Kuhn, Manuel M. Oliveira, Leandro A. F. Fernandes
+in_vis_citations: 
+

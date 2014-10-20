@@ -1,0 +1,9 @@
+title: Two-Dimensional Time-Dependent Vortex Regions Based on the Acceleration Magnitude
+authors: Jens Kasten, Jan Reininghaus, Ingrid Hotz, Hans-Christian Hege
+in_vis_citations: 
+stegmaie_vis_05
+garth_vis_04
+schneide_vis_08
+bauer_vis_02
+jankunke_vis_06
+

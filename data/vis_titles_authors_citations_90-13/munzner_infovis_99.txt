@@ -1,0 +1,4 @@
+title: Constellation: A Visualization Tool for Linguistic Queries from MindNet
+authors: Tamara Munzner, Francois Guimbretiere
+in_vis_citations: 
+

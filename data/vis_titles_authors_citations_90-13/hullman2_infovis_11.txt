@@ -1,0 +1,8 @@
+title: Visualization Rhetoric: Framing Effects in Narrative Visualization
+authors: Jessica Hullman, Nicholas Diakopoulos
+in_vis_citations: 
+segal_infovis_10
+viegas_infovis_07
+liu_infovis_10
+munzner_infovis_09
+

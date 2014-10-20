@@ -1,0 +1,4 @@
+title: Graphical Strategies to Convey Functional Relationships in the Human Brain: A Case Study
+authors: Tomihisa Welsh, Klaus Mueller, Wei Zhu, Nora Volkow, Jeffrey Meade
+in_vis_citations: 
+

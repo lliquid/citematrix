@@ -1,0 +1,8 @@
+title: PMR: Point to Mesh Rendering, A Feature-Based Approach
+authors: Tamal K. Dey, James Hudson
+in_vis_citations: 
+alexa_vis_01
+chen_vis_01
+cohen_vis_01
+elsana_vis_97
+

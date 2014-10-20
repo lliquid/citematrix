@@ -1,0 +1,14 @@
+title: MObjects - A Novel Method for the Visualization and Interactive Exploration of Defects in Industrial XCT Data
+authors: Andreas Reh, Christian Gusenbauer, Johann Kastner, Eduard Groeller, Christoph Heinzl
+in_vis_citations: 
+ip_vis_12
+ma_vis_99
+bruckner_vis_09
+fout2_vis_12
+torsneyweir_vis_11
+kniss_vis_05
+bruckner_vis_10
+amirkhan_vis_10
+vanwijk1_vis_93
+bajaj_vis_97
+

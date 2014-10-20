@@ -1,0 +1,9 @@
+title: Determination of Unknown Particle Charges in a Thunder Cloud Based Upon Detected Electric Field Vectors
+authors: Dan Drake, Thomas Simpson, Larry Smithmier, Penny Rheingans
+in_vis_citations: 
+zoeckler_vis_96
+forssell_vis_94
+hin_vis_93
+boring_vis_96
+schroeder_vis_96
+

@@ -1,0 +1,5 @@
+title: DNA Visual And Analytic Data Mining
+authors: Patrick Hoffman, Georges Grinstein, Kenneth Marx
+in_vis_citations: 
+martin_vis_95
+

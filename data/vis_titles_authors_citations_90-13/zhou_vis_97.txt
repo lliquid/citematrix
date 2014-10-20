@@ -1,0 +1,5 @@
+title: Multiresolution Tetrahedral Framework for Visualizing Regular Volume Data
+authors: Yong Zhou, Baoquan Chen, Arie Kaufman
+in_vis_citations: 
+shekhar_vis_96
+

@@ -1,0 +1,8 @@
+title: SpicyNodes: Radial Layout Authoring for the General Public
+authors: Michael Douma, Grzegorz Ligierko, Ovidiu Ancuta, Pavel Gritsai, Sean Liu
+in_vis_citations: 
+yee_infovis_01
+ziemkiew_infovis_08
+jankunk_infovis_03
+fekete_infovis_04
+

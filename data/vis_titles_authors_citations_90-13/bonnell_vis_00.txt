@@ -1,0 +1,7 @@
+title: Constructing Material Interfaces From Data Sets With Volume-Fraction Information
+authors: Kathleen S. Bonnell, Daniel R. Schikore, Kenneth I. Joy, Mark Duchaineau, Bernd Hamann
+in_vis_citations: 
+nielson_vis_91
+nielson3_vis_97
+zhou_vis_97
+

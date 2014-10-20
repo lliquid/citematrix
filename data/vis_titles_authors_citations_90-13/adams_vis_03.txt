@@ -1,0 +1,8 @@
+title: Visualization of Steep Breaking Waves and Thin Spray Sheets Around a Ship
+authors: Paul Adams, Douglas Dommermuth
+in_vis_citations: 
+law_vis_99
+bhanira_vis_00
+bauer_vis_02
+zhou_vis_97
+

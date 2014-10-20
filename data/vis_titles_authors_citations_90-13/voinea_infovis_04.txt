@@ -1,0 +1,10 @@
+title: EZEL: a Visual Tool for Performance Assessment of Peer-to-Peer File-Sharing Networks
+authors: Lucian Voinea, Alex Telea, Jarke J. van Wijk
+in_vis_citations: 
+chi_infovis_99
+vanwijk_infovis_99
+stolte_infovis_99
+yee_infovis_01
+wilson_infovis_99
+matkovic_infovis_02
+

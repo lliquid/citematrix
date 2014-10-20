@@ -1,0 +1,15 @@
+title: Product Plots
+authors: Hadley Wickham, Heike Hofmann
+in_vis_citations: 
+mackinlay_infovis_07
+vliegen_infovis_06
+stolte_infovis_02
+stasko_infovis_00
+leblanc_vis_90
+kong_infovis_10
+balzer_infovis_05
+wilkinso_infovis_05
+diehl_infovis_10
+slingsby_infovis_09
+wattensp_infovis_05
+

@@ -1,0 +1,5 @@
+title: A Perceptual-Statistics Shading Model
+authors: Veronika Solt, Mark C. Price, Ivan Viola, Veronika Solt
+in_vis_citations: 
+lindemann_vis_11
+

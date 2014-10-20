@@ -1,0 +1,13 @@
+title: Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty
+authors: Nadia Boukhelifa, Anastasia Bezerianos, Tobias Isenberg, Jean-Daniel Fekete
+in_vis_citations: 
+botchen_vis_05
+gershon_vis_92
+li_vis_07
+sanyal_vis_09
+correa_vast_09
+xie_vast_06
+wood_infovis_12
+willett_infovis_07
+cedilnik_vis_00
+

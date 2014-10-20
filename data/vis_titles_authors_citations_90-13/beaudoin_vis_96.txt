@@ -1,0 +1,5 @@
+title: Cheops: A Compact Explorer For Complex Hierarchies
+authors: Luc Beaudoin, Marc-Antoine Parent, Louis C. Vroomen
+in_vis_citations: 
+carriere_infovis_95
+

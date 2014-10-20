@@ -1,0 +1,13 @@
+title: Interactive Visualization Of 3D-Vector Fields Using Illuminated Stream Lines
+authors: Malte Zoeckler, Detlev Stalling, Hans-Christian Hege
+in_vis_citations: 
+hin_vis_93
+leeuw_vis_93
+max_vis_94
+wijk_vis_92
+post_vis_95
+ma_vis_92
+forssell_vis_94
+leeuw_vis_95
+crawfis_vis_93
+

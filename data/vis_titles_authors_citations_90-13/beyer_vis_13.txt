@@ -1,0 +1,13 @@
+title: ConnectomeExplorer: Query-Guided Visual Analysis of Large Volumetric Neuroscience Data
+authors: Johanna Beyer, Ali Al-Awami, Narayanan Kasthuri, Jeff W. Lichtman, Hanspeter Pfister, Markus Hadwiger
+in_vis_citations: 
+stolte_infovis_00
+stocking_vis_05
+jeong_vis_09
+hadwiger_vis_12
+leeuw_vis_06
+martin_vis_95
+beyer_vis_07
+wan_vis_09
+bruckner_vis_09
+

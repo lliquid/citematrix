@@ -1,0 +1,5 @@
+title: An Evaluation of Reconstruction Filters for Volume Rendering
+authors: Stephen R. Marschner, Richard J. Lobbt
+in_vis_citations: 
+carlbom_vis_93
+

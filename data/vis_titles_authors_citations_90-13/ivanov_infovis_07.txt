@@ -1,0 +1,6 @@
+title: Visualizing the History of Living Spaces
+authors: Yuri A. Ivanov, Christopher R. Wren, Alexander Sorokin, Ishwinder Kaur
+in_vis_citations: 
+kapler_infovis_04
+wattenba_infovis_05
+

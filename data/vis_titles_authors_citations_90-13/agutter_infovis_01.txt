@@ -1,0 +1,4 @@
+title: Graphic Data Display for Cardiovascular System
+authors: James Agutter, March Noah Syroid, Frank Drews, Dwayne Westenskow, Julio Bermudez, David Strayer
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Integration of Measurement Tools in Medical 3d Visualizations
+authors: Bernhard Preim, Christian Tietjen, Wolf Spindler, Heinz-Otto Peitgen 
+in_vis_citations: 
+

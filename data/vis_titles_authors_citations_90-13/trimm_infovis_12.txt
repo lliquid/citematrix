@@ -1,0 +1,7 @@
+title: Visualizing Student Histories Using Clustering and Composition
+authors: David Trimm, Penny Rheingans, Marie desJardins
+in_vis_citations: 
+chlan_infovis_05
+shenas_infovis_07
+heinrich_vis_09
+

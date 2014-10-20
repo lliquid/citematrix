@@ -1,0 +1,10 @@
+title: SpRay: A Visual Analytics Approach for Gene Expression Data
+authors: Janko Dietzsch, Julian Heinrich, Kay Nieselt, Dirk Bartz
+in_vis_citations: 
+linsen_vis_05
+artero_infovis_04
+havre_vis_04
+ellis_infovis_06
+novotny_vis_06
+johansso_infovis_05
+

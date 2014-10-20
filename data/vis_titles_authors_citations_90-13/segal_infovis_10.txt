@@ -1,0 +1,8 @@
+title: Narrative Visualization: Telling Stories with Data
+authors: Edward Segel, Jeffrey Heer
+in_vis_citations: 
+viegas_infovis_07
+heer_infovis_07
+heer_infovis_08
+eccles_vast_07
+

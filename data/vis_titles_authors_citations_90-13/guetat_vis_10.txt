@@ -1,0 +1,8 @@
+title: Pre-Integrated Volume Rendering with Non-Linear Gradient Interpolation
+authors: Amel Guetat, Alexandre Ancel, Stephane Marchesin, Jean-Michel Dischler
+in_vis_citations: 
+roettger_vis_00
+ebert_vis_00
+krueger_vis_90
+marchesi_vis_09
+

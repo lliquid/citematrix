@@ -1,0 +1,7 @@
+title: An Annotation System for 3D Fluid Flow Visualization
+authors: Maria M. Loughlin, John F. Hughes
+in_vis_citations: 
+bancroft_vis_90
+haimes_vis_91
+springmeyer_vis_92
+

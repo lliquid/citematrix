@@ -1,0 +1,6 @@
+title: Interactive Visualization Methods for Four Dimensions
+authors: Andrew J. Hanson, Robert A. Cross
+in_vis_citations: 
+hanson_vis_91
+hansena_vis_92
+

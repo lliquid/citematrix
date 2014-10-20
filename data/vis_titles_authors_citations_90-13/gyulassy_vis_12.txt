@@ -1,0 +1,10 @@
+title: Computing Morse-Smale Complexes with Accurate Geometry
+authors: Attila Gyulassy, Peer-Timo Bremer, Valerio Pascucci, J. Bennett, V. Krishnamurthy, S. Liu, V. Pascucci, R. Grout, J. Chen
+in_vis_citations: 
+kasten_vis_11
+gyulassy_vis_08
+gyulassy1_vis_07
+bennett_vis_11
+gyulassy_vis_05
+laney_vis_06
+

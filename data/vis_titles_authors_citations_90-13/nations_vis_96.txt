@@ -1,0 +1,4 @@
+title: Interactive Visualization Of Ocean Circulation Models
+authors: Scott Nations, Robert Moorhead, Kelly Gaither, Steve Aukstakalnis, Rhonda Vickery, Warren Carl Couvillion Jr.
+in_vis_citations: 
+

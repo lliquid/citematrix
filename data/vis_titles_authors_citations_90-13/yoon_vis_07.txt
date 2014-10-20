@@ -1,0 +1,9 @@
+title: Random-Accessible Compressed Triangle Meshes
+authors: Sung-Eui Yoon, Peter Lindstrom
+in_vis_citations: 
+decoro_vis_02
+lindstro_vis_06
+isenburg_vis_05
+yoon_vis_06
+ho_vis_01
+

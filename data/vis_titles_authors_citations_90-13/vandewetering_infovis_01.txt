@@ -1,0 +1,6 @@
+title: Botanical Visualization of Huge Hierarchies
+authors: Ernst Kleiberg, Huub van de Wetering, Jarke J. van Wijk
+in_vis_citations: 
+carriere_infovis_95
+vanwijk_infovis_99
+

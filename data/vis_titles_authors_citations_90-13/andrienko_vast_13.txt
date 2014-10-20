@@ -1,0 +1,6 @@
+title: Space Transformation for Understanding Group Movement
+authors: Natalia Andrienko, Gennady Andrienko, Louise Barrett, Marcus Dostie, Peter Henzi
+in_vis_citations: 
+wilkinso_infovis_05
+kapler_infovis_04
+

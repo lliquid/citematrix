@@ -1,0 +1,5 @@
+title: Crepuscular Rays for Tumor Accessibility Planning
+authors: Rostislav Khlebnikov, Bernhard Kainz, Judith Muehl, Dieter Schmalstieg
+in_vis_citations: 
+beyer_vis_07
+

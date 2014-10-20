@@ -1,0 +1,6 @@
+title: Interval Volume Tetrahedrization
+authors: Gregory M. Nielson, Junwon Sung
+in_vis_citations: 
+nielson_vis_91
+guo_vis_95
+

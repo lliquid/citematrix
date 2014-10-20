@@ -1,0 +1,4 @@
+title: Collaborative Geographic Visualization: Enabling shared understanding of environmental processes
+authors: Isaac Brewer, Alan M. MacEachren, Hadi Abdo, Jack Gundrum, George Otto
+in_vis_citations: 
+

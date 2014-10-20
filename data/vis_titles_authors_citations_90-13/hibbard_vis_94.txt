@@ -1,0 +1,8 @@
+title: A Lattice Model for Data Display
+authors: William L. Hibbard, Charles R. Dyer, E. Brian
+in_vis_citations: 
+schroeder_vis_92
+hultquist2_vis_92
+haber_vis_91
+hibbard_vis_92
+

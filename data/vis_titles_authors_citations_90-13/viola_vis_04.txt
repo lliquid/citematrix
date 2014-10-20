@@ -1,0 +1,11 @@
+title: Importance-Driven Volume Rendering
+authors: Ivan Viola, Armin Kanitsar, Eduard Groeller
+in_vis_citations: 
+csebfalv_vis_03
+carpendale_infovis_96
+interrante_vis_96
+ebert_vis_00
+kniss_vis_01
+hauser_vis_00
+treavett_vis_00
+

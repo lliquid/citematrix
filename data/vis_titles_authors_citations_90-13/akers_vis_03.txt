@@ -1,0 +1,4 @@
+title: Conveying Shape and Features with Image-Based Relighting
+authors: David Akers, Frank Losasso, Jeff Klingner, Maneesh Agrawala, John Rock, Pat Hanrahan
+in_vis_citations: 
+

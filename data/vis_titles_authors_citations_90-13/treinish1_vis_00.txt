@@ -1,0 +1,6 @@
+title: Visual Data Fusion for Applications of High-Resolution Numerical Weather Prediction
+authors: Lloyd A. Treinish
+in_vis_citations: 
+abram_vis_95
+keely_vis_98
+

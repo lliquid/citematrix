@@ -1,0 +1,4 @@
+title: Collaborative Visual Analytics: Inferring from the Spatial Organization and Collaborative Use of Information
+authors: Paul E. Keel
+in_vis_citations: 
+

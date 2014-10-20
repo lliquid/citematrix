@@ -1,0 +1,11 @@
+title: Towards Utilizing GPUs in Information Visualization: A Model and Implementation of Image-Space Operations
+authors: Bryan McDonnel, Niklas Elmqvist
+in_vis_citations: 
+weaver_infovis_04
+mccormic_vis_04
+fekete_infovis_02
+elmqvist_vast_07
+frishman_infovis_07
+chi_infovis_98
+card_infovis_97
+

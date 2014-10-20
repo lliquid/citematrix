@@ -1,0 +1,5 @@
+title: ABySS-Explorer: Visualizing Genome Sequence Assemblies
+authors: Cydney B. Nielsen, Shaun D. Jackman, Inanc Birol, Steven J.M. Jones
+in_vis_citations: 
+holten_infovis_06
+

@@ -1,0 +1,9 @@
+title: Analysis Guided Visual Exploration of Multivariate Data
+authors: Di Yang, Elke A. Rundensteiner, Matthew O. Ward
+in_vis_citations: 
+ward_vis_94
+keel_vast_06
+yang_infovis_04
+inselber_infovis_97
+gotz_vast_06
+

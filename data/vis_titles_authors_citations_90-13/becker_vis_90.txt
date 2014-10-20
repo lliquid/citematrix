@@ -1,0 +1,4 @@
+title: Dynamic Graphics for Network Visualization
+authors: Richard A. Becker, Stephen G. Eick, Eileen O. Miller, Allan R. Wilks
+in_vis_citations: 
+

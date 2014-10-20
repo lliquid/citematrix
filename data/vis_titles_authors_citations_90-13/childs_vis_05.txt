@@ -1,0 +1,9 @@
+title: A Contract Based System For Large Data Visualization
+authors: Hank Childs, Eric Brugger, Kathleen Bonnell, Jeremy Meredith, Mark Miller, Brad Whitlock, Nelson Max
+in_vis_citations: 
+schroeder_vis_96
+legensky_vis_90
+abram_vis_95
+buja_vis_91
+chiang_vis_97
+

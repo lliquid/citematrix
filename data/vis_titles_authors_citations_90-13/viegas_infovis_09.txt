@@ -1,0 +1,6 @@
+title: Participatory Visualization with Wordle
+authors: Fernanda B. Viegas, Martin Wattenberg, Jonathan Feinberg
+in_vis_citations: 
+wattenba_infovis_05
+viegas_infovis_07
+

@@ -1,0 +1,11 @@
+title: Getting Along: Composition of Visualization Paradigms
+authors: T. Alan Keahey
+in_vis_citations: 
+keahey_infovis_97
+turo_vis_92
+johnson_vis_91
+munzner_infovis_97
+storey_infovis_97
+keahey_infovis_96
+keahey_infovis_98
+

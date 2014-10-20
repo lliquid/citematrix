@@ -1,0 +1,8 @@
+title: Edge Compression Techniques for Visualization of Dense Directed Graphs
+authors: Tim Dwyer, Nathalie Henry Riche, Kim Marriott, Christopher Mears
+in_vis_citations: 
+vanham2_infovis_09
+ersoy_infovis_11
+abello_infovis_06
+gansner_infovis_04
+

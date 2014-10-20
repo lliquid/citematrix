@@ -1,0 +1,5 @@
+title: Sweeping Simplices: A fast iso-surface extraction algorithm for unstructured grids
+authors: Han-Wei Shen, Christopher R. Johnson
+in_vis_citations: 
+gallagher_vis_91
+

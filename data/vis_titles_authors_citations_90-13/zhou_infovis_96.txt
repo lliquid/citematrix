@@ -1,0 +1,5 @@
+title: Data Characterization For Automatically Visualizing Heterogeneous Information
+authors: Michelle X. Zhou, Steven K. Feiner
+in_vis_citations: 
+wehrend_vis_90
+

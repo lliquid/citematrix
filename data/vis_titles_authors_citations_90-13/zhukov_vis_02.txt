@@ -1,0 +1,9 @@
+title: Oriented Tensor Reconstruction: Tracing Neural Pathways from Diffusion Tensor MRI
+authors: Leonid Zhukov, Alan H. Barr, Gordon Kindlmann
+in_vis_citations: 
+kindlman_vis_99
+delmarcelle_vis_92
+weinstei_vis_99
+laidlaw_vis_98
+bryson_vis_91
+

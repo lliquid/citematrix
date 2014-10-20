@@ -1,0 +1,10 @@
+title: Navigating High-dimensional Spaces to Support Design Steering
+authors: Helen Wright, Ken Brodlie, Tim David
+in_vis_citations: 
+goel_vis_99
+jean_vis_95
+shaffer_vis_98
+kerlick_vis_93
+brodlie_vis_93
+mulder_vis_95
+

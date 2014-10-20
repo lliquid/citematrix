@@ -1,0 +1,10 @@
+title: Vortex Visualization for Practical Engineering Applications
+authors: Monika Jankun-Kelly, Ming Jiang, David Thompson, Raghu Machiraju
+in_vis_citations: 
+ma_vis_97
+jiang_vis_02
+stegmaie_vis_05
+roth_vis_98
+silver_vis_98
+peikert_vis_99
+

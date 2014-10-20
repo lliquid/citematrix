@@ -1,0 +1,8 @@
+title: Interactive Visualization of Small World Graphs
+authors: Frank van Ham, Jarke J. van Wijk
+in_vis_citations: 
+munzner_infovis_97
+wise_infovis_95
+sprenger_vis_00
+auber_infovis_03
+

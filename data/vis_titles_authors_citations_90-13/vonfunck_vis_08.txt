@@ -1,0 +1,9 @@
+title: Smoke Surfaces: An Interactive Flow Visualization Technique Inspired by Real-World Flow Experiments
+authors: Wolfram von Funck, Tino Weinkauf, Holger Theisel, Hans-Peter Seidel
+in_vis_citations: 
+post_vis_95
+max_vis_93
+hultquist1_vis_92
+scheuermann_vis_01
+crawfis_vis_93
+

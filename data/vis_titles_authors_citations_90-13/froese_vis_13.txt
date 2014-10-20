@@ -1,0 +1,6 @@
+title: Evaluation of Static and Dynamic Visualization Training Approaches for Users with Different Spatial Abilities
+authors: Maria-Elena Froese, Melanie Tory, Guy-Warwick Evans, Kedar Shrikhande
+in_vis_citations: 
+velez_vis_05
+tory_vis_03
+

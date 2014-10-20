@@ -1,0 +1,11 @@
+title: Volume MLS Ray Casting
+authors: Christian Ledergerber, Gael Guennebaud, Miriah Meyer, Moritz Baecher, Hanspeter Pfister
+in_vis_citations: 
+gelder_vis_93
+roettger_vis_00
+entezari_vis_06
+zwicker_vis_01
+kindlman_vis_03
+marschner_vis_94
+weiler_vis_03
+

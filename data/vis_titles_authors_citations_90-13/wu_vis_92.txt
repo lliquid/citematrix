@@ -1,0 +1,4 @@
+title: An Efficient Range Search Algorithm for Visualizing Extrema of Volume Data
+authors: Xiaolin Wu, Yonggang Fang
+in_vis_citations: 
+

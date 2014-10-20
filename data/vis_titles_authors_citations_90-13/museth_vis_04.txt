@@ -1,0 +1,8 @@
+title: TetSplat: Real-time Rendering and Volume Clipping of Large Unstructured Tetrahedral Meshes
+authors: Ken Museth, Santiago Lombeyda
+in_vis_citations: 
+gerstner_vis_00
+staadt_vis_98
+cignoni_vis_00
+zhou_vis_97
+

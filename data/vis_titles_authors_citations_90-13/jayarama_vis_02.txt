@@ -1,0 +1,8 @@
+title: A Radial Focus+Context Visualization for Multi-Dimensional Functions
+authors: Sanjini Jayaraman, Chris North
+in_vis_citations: 
+inselber_infovis_97
+ahlberg_infovis_95
+vanwijk1_vis_93
+keahey_infovis_98
+

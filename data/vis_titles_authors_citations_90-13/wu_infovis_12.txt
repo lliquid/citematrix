@@ -1,0 +1,14 @@
+title: Visualizing Flow of Uncertainty through Analytical Processes
+authors: Yingcai Wu, Guo-Xun Yuan, Kwan-Liu Ma
+in_vis_citations: 
+heer_infovis_08
+turkay_infovis_11
+kreusele_infovis_04
+olston_infovis_02
+brodlie_vis_93
+correa_vast_09
+wu_infovis_10
+sanyal_vis_09
+slingsby_infovis_11
+feng_infovis_10
+

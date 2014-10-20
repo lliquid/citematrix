@@ -1,0 +1,6 @@
+title: Visual Mining of Multimedia Data for Social and Behavioral Studies
+authors: Chen Yu, Yiwen Zhong, Thomas Smith, Ikhyun Park, Weixia Huang
+in_vis_citations: 
+alexa_infovis_01
+vanwijk2_infovis_99
+

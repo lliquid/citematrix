@@ -1,0 +1,6 @@
+title: Mental Registration of 2D and 3D Visualizations (An Empirical Study)
+authors: Melanie Tory
+in_vis_citations: 
+springmeyer_vis_92
+wong2_vis_97
+

@@ -1,0 +1,10 @@
+title: Fine-grained Visualization Pipelines and Lazy Functional Languages
+authors: David Duke, Malcolm Wallace, Rita Borgo, Colin Runciman
+in_vis_citations: 
+lane_vis_94
+moran_vis_99
+pang_vis_93
+law_vis_99
+isenburg_vis_05
+cox_vis_97
+

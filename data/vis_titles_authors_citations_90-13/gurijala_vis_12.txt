@@ -1,0 +1,6 @@
+title: Cumulative Heat Diffusion Using Volume Gradient Operator for Volume Analysis
+authors: Krishna Chaitanya Gurijala, Lei Wang, Arie Kaufman
+in_vis_citations: 
+haidacher_vis_11
+correa_vis_05
+

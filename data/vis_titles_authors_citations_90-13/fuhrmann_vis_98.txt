@@ -1,0 +1,10 @@
+title: Real-Time Techniques For 3D Flow Visualization
+authors: Anton Fuhrmann, Eduard Groeller
+in_vis_citations: 
+max_vis_94
+groeller_vis_97
+fuhrmann_vis_97
+bryson_vis_91
+interran_vis_97
+crawfis_vis_93
+

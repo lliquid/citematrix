@@ -1,0 +1,6 @@
+title: Listener-based Analysis of Surface Importance for Acoustic Metrics
+authors: Frank Michel, Eduard Deines, Martin Hering-Bertram, Christoph Garth, Hans Hagen
+in_vis_citations: 
+deines_vis_06
+bertram_vis_05
+

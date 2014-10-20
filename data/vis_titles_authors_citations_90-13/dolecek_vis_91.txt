@@ -1,0 +1,4 @@
+title: Multidimensional Real Time Visualization on Personal Computers
+authors: Quentin E. Dolecek
+in_vis_citations: 
+

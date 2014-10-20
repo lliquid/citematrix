@@ -1,0 +1,4 @@
+title: LSAView: A Tool for Visual Exploration of Latent Semantic Modeling
+authors: Patricia J. Crossno, Daniel M. Dunlavy, Timothy M. Shead
+in_vis_citations: 
+

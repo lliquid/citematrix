@@ -1,0 +1,6 @@
+title: Implant Sprays: Compression of Progressive Tetrahedral Mesh Connectivity
+authors: Renato Pajarola, Jarek Rossignac, Andrzej Szymczak 
+in_vis_citations: 
+trotts_vis_98
+staadt_vis_98
+

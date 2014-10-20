@@ -1,0 +1,10 @@
+title: Visual Analysis of Higher-Order Conjunctive Relationships in Multidimensional Data Using a Hypergraph Query System
+authors: Rachel Shadoan, Chris Weaver
+in_vis_citations: 
+henry_infovis_06
+weaver_infovis_04
+liu_vast_11
+stasko_vast_07
+shneiderman_infovis_06
+weaver_vast_10
+

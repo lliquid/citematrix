@@ -1,0 +1,5 @@
+title: Vizster: Visualizing Online Social Networks
+authors: Jeffrey Heer, Danah Boyd
+in_vis_citations: 
+ghoniem_infovis_04
+

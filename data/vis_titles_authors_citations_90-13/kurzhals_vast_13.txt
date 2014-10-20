@@ -1,0 +1,8 @@
+title: Space-Time Visual Analytics of Eye-Tracking Data for Dynamic Stimuli
+authors: Kuno Kurzhals, Daniel Weiskopf
+in_vis_citations: 
+tsang_infovis_10
+burch2_infovis_11
+andrienko_vast_12
+chen_vis_06
+

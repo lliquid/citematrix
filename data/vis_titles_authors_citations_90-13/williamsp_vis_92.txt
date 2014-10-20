@@ -1,0 +1,5 @@
+title: Interactive Splatting of Nonrectilinear Volumes
+authors: Peter L. Williams
+in_vis_citations: 
+haber_vis_91
+

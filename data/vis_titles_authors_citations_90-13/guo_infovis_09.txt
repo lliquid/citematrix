@@ -1,0 +1,8 @@
+title: Flow Mapping and Multivariate Visualization of Large Spatial Interaction Data
+authors: Diansheng Guo
+in_vis_citations: 
+cui_infovis_08
+holten_infovis_06
+ellis_infovis_06
+phan_infovis_05
+

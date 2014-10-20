@@ -1,0 +1,7 @@
+title: Gaussian Transfer Functions for Multi-Field Volume Visualization
+authors: Joe Kniss, Simon Premoze, Milan Ikits, Aaron Lefohn, Charles Hansen, Emil Praun
+in_vis_citations: 
+meissner_vis_99
+roettger_vis_00
+westermann_vis_01
+

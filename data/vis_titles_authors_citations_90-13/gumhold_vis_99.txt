@@ -1,0 +1,6 @@
+title: Tetrahedral Mesh Compression with the Cut-Border Machine
+authors: Stefan Gumhold, Stefan Guthe, Wolfgang Strasser
+in_vis_citations: 
+staadt_vis_98
+zhou_vis_97
+

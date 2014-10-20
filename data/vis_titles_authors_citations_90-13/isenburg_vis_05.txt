@@ -1,0 +1,8 @@
+title: Streaming Meshes
+authors: Martin Isenburg, Peter Lindstrom, Lawrence Livermore
+in_vis_citations: 
+koren_infovis_02
+chiang_vis_97
+ho_vis_01
+isenburg_vis_03
+

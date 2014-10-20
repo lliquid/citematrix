@@ -1,0 +1,10 @@
+title: Simplicial Subdivisions and Sampling Artifacts
+authors: Hamish Carr, Torsten Moeller, Jack Snoeyink
+in_vis_citations: 
+nielson3_vis_97
+weigle_vis_96
+nielson_vis_91
+zhou_vis_97
+albertelli_vis_97
+nielson2_vis_97
+

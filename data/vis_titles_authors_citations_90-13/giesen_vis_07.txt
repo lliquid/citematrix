@@ -1,0 +1,10 @@
+title: Conjoint Analysis to Measure the Perceived Quality in Volume Rendering
+authors: Joachim Giesen, Eva Schuberth, Lujin Wang, Peter Zolliker
+in_vis_citations: 
+jiguangf_vis_06
+takahash_vis_05
+kimyoung_vis_06
+kniss_vis_03
+shanbhag_infovis_05
+bergner_vis_06
+

@@ -1,0 +1,4 @@
+title: Experiments With Interdisciplinary Projects and Scientific Visualization Applications at the Undergraduate Level
+authors: Nan C. Schaller
+in_vis_citations: 
+

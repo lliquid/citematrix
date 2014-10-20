@@ -1,0 +1,4 @@
+title: Case Study: The "Office of Real Soon Now" for Visualization
+authors: Samuel P. Uselton
+in_vis_citations: 
+

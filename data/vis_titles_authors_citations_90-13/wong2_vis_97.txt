@@ -1,0 +1,6 @@
+title: Brushing Techniques for Exploring Volume Datasets
+authors: Pak Chung Wong, R. Daniel Bergerony
+in_vis_citations: 
+wong_vis_95
+wong_vis_96
+

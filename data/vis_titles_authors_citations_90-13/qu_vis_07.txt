@@ -1,0 +1,9 @@
+title: Visual Analysis of the Air Pollution Problem in Hong Kong
+authors: Huamin Qu, Wing-Yi Chan, Anbang Xu, Kai-Lun Chung, Kai-Hon Lau, Ping Guo
+in_vis_citations: 
+treinish2_vis_00
+inselberg_vis_90
+treinish1_vis_00
+yang_infovis_03
+sauber_vis_06
+

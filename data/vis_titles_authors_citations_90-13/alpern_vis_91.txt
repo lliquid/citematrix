@@ -1,0 +1,8 @@
+title: The Hyperbox
+authors: Bowen Alpern, Larry Carter
+in_vis_citations: 
+leblanc_vis_90
+inselberg_vis_90
+beddow_vis_90
+mihalisin_vis_90
+

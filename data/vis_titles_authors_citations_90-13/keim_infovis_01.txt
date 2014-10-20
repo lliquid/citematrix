@@ -1,0 +1,12 @@
+title: Pixel Bar Charts: A New Technique for Visualizing Large Multi-Attribute Data Sets without Aggregation
+authors: Daniel Keim, Ming C. Hao, Julian Ladisch, Meichun Hsu, Umeshwar Dayal
+in_vis_citations: 
+keim_vis_95
+eick_vis_93
+hao_infovis_99
+buja_vis_91
+beddow_vis_90
+inselberg_vis_90
+anupam_infovis_95
+leblanc_vis_90
+

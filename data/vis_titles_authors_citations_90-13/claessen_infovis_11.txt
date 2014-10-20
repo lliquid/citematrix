@@ -1,0 +1,13 @@
+title: Flexible Linked Axes for Multivariate Data Visualization
+authors: Jarry H. T. Claessen, Jarke J. van Wijk
+in_vis_citations: 
+wilkinso_infovis_05
+amar_infovis_05
+hauser_infovis_02
+ellis_infovis_06
+viau_infovis_10
+novotny_vis_06
+collins_infovis_07
+alpern_vis_91
+elmqvist_infovis_08
+

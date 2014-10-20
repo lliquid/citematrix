@@ -1,0 +1,14 @@
+title: Visual Steering and Verification of Mass Spectrometry Data Factorization in Air Quality Research
+authors: Daniel Engel, Klaus Greff, Christoph Garth, Keith Bein, Anthony Wexler, Bernd Hamann, Hans Hagen
+in_vis_citations: 
+artero_infovis_04
+peng_infovis_04
+johansso_infovis_05
+janicke_vis_08
+ljung_vis_00
+yang_infovis_03
+waser_vis_10
+laramee_vis_05
+hauser_infovis_02
+elmqvist_infovis_08
+

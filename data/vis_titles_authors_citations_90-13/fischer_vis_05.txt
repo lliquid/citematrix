@@ -1,0 +1,9 @@
+title: Illustrative Display of Hidden Iso-Surface Structures
+authors: Jan Fischer, Dirk Bartz, Wolfgang Strasser
+in_vis_citations: 
+lu_vis_02
+ebert_vis_00
+viola_vis_03
+nooruddi_vis_00
+viola_vis_04
+

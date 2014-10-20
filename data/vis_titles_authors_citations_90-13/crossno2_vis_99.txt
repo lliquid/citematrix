@@ -1,0 +1,6 @@
+title: Visual Debugging of Visualization Software: A Case Study for Particle Systems
+authors: Patricia Crossno, Edward Angel
+in_vis_citations: 
+huang_vis_96
+crossno_vis_97
+

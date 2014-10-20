@@ -1,0 +1,10 @@
+title: Sketchy Rendering for Information Visualization
+authors: Jo Wood, Petra Isenberg, Tobias Isenberg, Jason Dykes, Nadia Boukhelifa, Aidan Slingsby
+in_vis_citations: 
+kong_infovis_10
+hullman1_infovis_11
+boukhelifa_infovis_12
+walny_infovis_11
+lloyd_infovis_11
+hullman2_infovis_11
+

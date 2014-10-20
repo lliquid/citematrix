@@ -1,0 +1,4 @@
+title: Tree-Maps: A Space-Filling Approach to the Visualization of Hierarchical Information Structures
+authors: Brian Johnson, Ben Shneiderman
+in_vis_citations: 
+

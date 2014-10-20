@@ -1,0 +1,6 @@
+title: Gremlin: An Interactive Visualization Model for Analyzing Genomic Rearrangements
+authors: Trevor M. O???Brien, Anna M. Ritz, Benjamin J. Raphael, David H. Laidlaw
+in_vis_citations: 
+bostock_infovis_09
+meyer_infovis_09
+

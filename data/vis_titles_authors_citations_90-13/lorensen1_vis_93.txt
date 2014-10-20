@@ -1,0 +1,6 @@
+title: Geometric Clipping Using Boolean Textures
+authors: William E. Lorensen
+in_vis_citations: 
+schroeder_vis_92
+lucas2_vis_92
+

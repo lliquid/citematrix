@@ -1,0 +1,5 @@
+title: Accelerated Volume Rendering Using Homogeneous Region Encoding
+authors: Jason Freund, Kenneth Sloan
+in_vis_citations: 
+subramanian_vis_90
+

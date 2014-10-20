@@ -1,0 +1,14 @@
+title: Supporting the Visual Analysis of Dynamic Networks by Clustering associated Temporal Attributes
+authors: Steffen Hadlak, Heidrun Schumann, Clemens H. Cap, Till Wollenberg
+in_vis_citations: 
+saraiya_infovis_05
+ziegler_vast_10
+frishman_infovis_04
+burch_infovis_11
+hadlak_infovis_11
+kumar_infovis_06
+ahmed_vast_12
+vanwijk2_infovis_99
+tu_infovis_07
+brandes_infovis_02
+

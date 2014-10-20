@@ -1,0 +1,4 @@
+title: BLaC-Wavelets: A Multiresolution Analysis With Non-Nested Spaces
+authors: Georges-Pierre Bonneau, Stefanie Hahmann, Gregory M. Nielson
+in_vis_citations: 
+

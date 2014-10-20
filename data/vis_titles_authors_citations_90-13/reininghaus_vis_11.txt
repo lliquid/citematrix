@@ -1,0 +1,9 @@
+title: A Scale Space Based Persistence Measure for Critical Points in 2D Scalar Fields
+authors: Jan Reininghaus, Natallia Kotava, David G??nther, Jens Kasten, Hans Hagen, Ingrid Hotz
+in_vis_citations: 
+gyulassy_vis_08
+correa_vis_08
+gyulassy1_vis_07
+kindlman_vis_09
+laney_vis_06
+

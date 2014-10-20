@@ -1,0 +1,17 @@
+title: Visual Analytics for Multimodal Social Network Analysis: A Design Study with Social Scientists
+authors: Sohaib Ghani, Bum Chul Kwon, Seungyoon Lee, Ji Soo Yi, Niklas Elmqvist
+in_vis_citations: 
+gou_infovis_11
+liu_vast_11
+sedlmair_infovis_12
+claessen_infovis_11
+stasko_vast_07
+collins_infovis_07
+wilkinso_infovis_05
+inselberg_vis_90
+ellis_infovis_07
+wattenbe_infovis_02
+gotz_vast_06
+shneiderman_infovis_06
+lloyd_infovis_11
+

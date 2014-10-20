@@ -1,0 +1,4 @@
+title: Fitting Subdivision Surfaces
+authors: Nathan Litke, Adi Levin, Peter Schroeder
+in_vis_citations: 
+

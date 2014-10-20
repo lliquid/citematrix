@@ -1,0 +1,9 @@
+title: Angular Brushing of Extended Parallel Coordinates
+authors: Helwig Hauser, Florian Ledermann, Helmut Doleisch
+in_vis_citations: 
+wills_infovis_96
+gresh_vis_00
+ward_vis_94
+martin_vis_95
+inselberg_vis_90
+

@@ -1,0 +1,4 @@
+title: Visualiaztion for the Information Age
+authors: Laurin Herr
+in_vis_citations: 
+

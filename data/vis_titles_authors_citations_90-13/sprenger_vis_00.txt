@@ -1,0 +1,7 @@
+title: H-BLOB: A Hierarchical Visual Clustering Method Using Implicit Surfaces
+authors: T. C. Sprenger, R. Brunella, M. H. Gross
+in_vis_citations: 
+gross_infovis_97
+hendley_infovis_95
+sprenger_infovis_98
+

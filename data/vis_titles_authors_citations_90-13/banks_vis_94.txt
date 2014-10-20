@@ -1,0 +1,5 @@
+title: Vortex Tubes in Turbulent Flows: Identification, Representation, Reconstruction
+authors: David C. Banks, Bart A. Singer
+in_vis_citations: 
+globus_vis_91
+

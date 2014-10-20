@@ -1,0 +1,5 @@
+title: Visibility-driven Mesh Analysis and Visualization through Graph Cuts
+authors: Kaichi Zhou, Eugene Zhang, Jir Bittner, Peter Wonka
+in_vis_citations: 
+zhang9-3_vis_02
+

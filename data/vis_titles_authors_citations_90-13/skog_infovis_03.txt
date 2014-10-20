@@ -1,0 +1,4 @@
+title: Between Aesthetics and Utility: Designing Ambient Information Visualizations
+authors: Tobias Skog, Sara Ljungblad, Lars Erik Holmquist
+in_vis_citations: 
+

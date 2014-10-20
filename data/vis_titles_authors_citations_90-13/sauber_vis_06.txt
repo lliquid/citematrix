@@ -1,0 +1,9 @@
+title: Multifield-Graphs: An Approach to Visualizing Correlations in Multifield Scalar Data
+authors: Natascha Sauber, Holger Theisel, Hans-Peter Seidel
+in_vis_citations: 
+telea_vis_99
+edelsbru_vis_04
+jen_vis_04
+kirby_vis_99
+urness_vis_03
+

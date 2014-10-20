@@ -1,0 +1,5 @@
+title: Using Concrete Scales: A Practical Framework for Effective Visual Depiction of Complex Measures
+authors: Fanny Chevalier, Romain Vuillemot, Guia Gali
+in_vis_citations: 
+micallef_infovis_12
+

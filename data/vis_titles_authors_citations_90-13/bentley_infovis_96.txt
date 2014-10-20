@@ -1,0 +1,6 @@
+title: Animating Multidimensional Scaling to Visualize N-Dimensional Data Sets
+authors: Chris L. Bentley, Matthew O. Ward
+in_vis_citations: 
+wise_infovis_95
+ward_vis_94
+

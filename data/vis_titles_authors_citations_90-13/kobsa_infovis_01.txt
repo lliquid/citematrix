@@ -1,0 +1,5 @@
+title: An Empirical Comparison of Three Commercial Information Visualization Systems
+authors: Alfred Kobsa
+in_vis_citations: 
+ahlberg_infovis_95
+

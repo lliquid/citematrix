@@ -1,0 +1,10 @@
+title: Benefitting InfoVis with Visual Difficulties
+authors: Jessica Hullman, Eytan Adar, Priti Shah
+in_vis_citations: 
+ahlberg_infovis_95
+robertso_infovis_08
+heer_infovis_07
+liu_infovis_10
+yee_infovis_01
+munzner_infovis_09
+

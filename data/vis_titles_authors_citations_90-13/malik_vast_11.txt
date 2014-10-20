@@ -1,0 +1,11 @@
+title: A Visual Analytics Process for Maritime Resource Allocation and Risk Assessment
+authors: Abish Malik, Ross Maciejewski, Ben Maule, David S. Ebert
+in_vis_citations: 
+eick_vis_93
+migut_vast_10
+rudolph_vast_09
+savikhin_vast_08
+vanwijk2_infovis_99
+stasko_vast_07
+correa_vast_09
+

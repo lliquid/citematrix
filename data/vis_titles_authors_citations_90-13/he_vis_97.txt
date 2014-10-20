@@ -1,0 +1,6 @@
+title: Collision Detection for Volumetric Objects
+authors: Taosong He, Arie Kaufman
+in_vis_citations: 
+avila_vis_96
+avila_vis_94
+

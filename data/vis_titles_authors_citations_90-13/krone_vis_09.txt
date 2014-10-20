@@ -1,0 +1,6 @@
+title: Interactive Visualization of Molecular Surface Dynamics
+authors: Michael Krone, Katrin Bidmon, Thomas Ertl
+in_vis_citations: 
+bajaj_vis_04
+tarini_vis_06
+

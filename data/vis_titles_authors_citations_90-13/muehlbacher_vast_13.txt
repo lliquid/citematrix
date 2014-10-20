@@ -1,0 +1,24 @@
+title: A Partition-Based Framework for Building and Validating Regression Models
+authors: Thomas Muehlbacher, Harald Piringer
+in_vis_citations: 
+kandel_vast_12
+slingsby_infovis_09
+vanwijk1_vis_93
+brown_vast_12
+elzen_vast_11
+guo_vast_09
+gerber_vis_10
+baudel_infovis_12
+tatu_vast_09
+inselberg_vis_90
+guo_vast_11
+barlowe_vast_08
+chan_vast_10
+torsneyweir_vis_11
+wilkinso_infovis_05
+nam_vast_07
+amar_infovis_04
+piringer_infovis_09
+may_vast_11
+seo_infovis_04
+

@@ -1,0 +1,9 @@
+title: Composite Rectilinear Deformation for Stretch and Squish Navigation
+authors: James Slack, Tamara Munzner
+in_vis_citations: 
+keahey_infovis_97
+slack_infovis_05
+fekete_infovis_02
+slack_infovis_05
+jankun-k_vis_02
+

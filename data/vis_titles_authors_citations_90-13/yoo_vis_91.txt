@@ -1,0 +1,4 @@
+title: Achieving Direct Volume Visualization with Interactive Semantic Region Selection
+authors: Terry S. Yoo, Ulrich Neumann, Henry Fuchs, Stephen M. Pizer, Tim J. Cullip, John Rhoades, Ross T. Whitaker
+in_vis_citations: 
+

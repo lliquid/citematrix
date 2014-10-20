@@ -1,0 +1,7 @@
+title: Image Based Rendering With Stable Frame Rates
+authors: Huamin Qu, Ming Wan, Jiafa Qin, Arie Kaufman
+in_vis_citations: 
+wright_vis_92
+popescu_vis_98
+chen2_vis_99
+

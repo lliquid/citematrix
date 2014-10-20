@@ -1,0 +1,7 @@
+title: Constructing Overview + Detail Dendrogram-Matrix Views
+authors: Jin Chen, Alan M. MacEachren, Donna J. Peuquet
+in_vis_citations: 
+cui_infovis_06
+ellis_infovis_07
+abello_infovis_04
+

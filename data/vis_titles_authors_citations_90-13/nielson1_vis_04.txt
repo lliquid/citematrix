@@ -1,0 +1,12 @@
+title: Radial Hermite Operators for Scattered Point Cloud Data with Normal Vectors and Applications to Implicitizing Polygon Mesh Surfaces for Generalized CSG Operations and Smoothing
+authors: Gregory M. Nielson
+in_vis_citations: 
+tasdizen_vis_02
+sigg_vis_03
+nielson2_vis_04
+hotz_vis_02
+bonneau_vis_96
+nielson_vis_02
+bertram_vis_03
+xie_vis_03
+

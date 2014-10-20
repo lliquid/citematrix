@@ -1,0 +1,8 @@
+title: How Capacity Limits of Attention Influence Information Visualization Effectiveness
+authors: Steve Haroz, David Whitney
+in_vis_citations: 
+nowell_infovis_01
+healey_vis_96
+kong_infovis_10
+healey_vis_05
+

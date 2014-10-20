@@ -1,0 +1,5 @@
+title: Collaborative Visualization
+authors: Jason Wood, Helen Wright, Ken Brodlie
+in_vis_citations: 
+abram_vis_95
+

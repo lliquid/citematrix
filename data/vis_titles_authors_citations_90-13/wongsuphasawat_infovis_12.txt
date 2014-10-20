@@ -1,0 +1,12 @@
+title: Exploring Flow, Factors, and Outcomes of Temporal Event Sequences with the Outflow Visualization
+authors: Krist Wongsuphasawat, David Gotz
+in_vis_citations: 
+blaas_infovis_09
+elzen_vast_11
+pretorius_infovis_06
+phan_infovis_05
+wongsuph_vast_09
+vrotsou_infovis_09
+riehmann_infovis_05
+fails_vast_06
+

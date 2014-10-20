@@ -1,0 +1,5 @@
+title: Visualizing Diffusion Tensor Images of the Mouse Spinal Cord
+authors: David H. Laidlaw, Eric T. Ahrens, David Kremers, Carol Readhead, Matthew J. Avalos, Russell E. Jacobs
+in_vis_citations: 
+rheingans_vis_92
+

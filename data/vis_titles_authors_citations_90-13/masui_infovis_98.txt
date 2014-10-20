@@ -1,0 +1,4 @@
+title: LensBar - Visualization for Browsing and Filtering Large Lists of Data
+authors: Toshiyuki Masui
+in_vis_citations: 
+

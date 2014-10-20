@@ -1,0 +1,5 @@
+title: VAST Contest Dataset Use in Education
+authors: Mark A. Whiting, Chris North, Alex Endert, Jean Scholtz, Jereme Haack, Carrie Varley, Jim Thomas
+in_vis_citations: 
+scholtz_vast_06
+

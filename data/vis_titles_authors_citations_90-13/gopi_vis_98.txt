@@ -1,0 +1,7 @@
+title: A Unified Approach for Simplifying Polygonal and Spline Models 
+authors: M. Gopi, D. Manocha
+in_vis_citations: 
+elsana_vis_97
+cohen_vis_97
+schroede_vis_97
+

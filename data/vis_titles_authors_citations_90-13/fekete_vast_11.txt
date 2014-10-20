@@ -1,0 +1,12 @@
+title: Obvious: A Meta-Toolkit to Encapsulate Information Visualization Toolkits
+authors: Jean-Daniel Fekete, Pierre-Luc Hemery, Thomas Baudel, Jo Wood
+in_vis_citations: 
+weaver_infovis_04
+keefe_vis_09
+bostock_infovis_09
+heer2_infovis_06
+bezerian_infovis_10
+fekete_infovis_04
+chi_infovis_98
+plaisant_infovis_02
+

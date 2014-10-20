@@ -1,0 +1,10 @@
+title: Batched Multi Triangulation
+authors: Paolo Cignoni, Fabio Ganovelli, Enrico Gobbetti, Fabio Marton
+in_vis_citations: 
+duchaine_vis_97
+levenber_vis_02
+hoppe_vis_98
+cohenor1_vis_96
+decoro_vis_02
+yoon_vis_04
+

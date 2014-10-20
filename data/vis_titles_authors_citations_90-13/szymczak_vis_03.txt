@@ -1,0 +1,7 @@
+title: Extraction of Topologically Simple Isosurfaces from Volume Datasets
+authors: Andrzej Szymczak, James Vanderhyde
+in_vis_citations: 
+pascucci_vis_02
+gerstner_vis_00
+bhanira_vis_00
+

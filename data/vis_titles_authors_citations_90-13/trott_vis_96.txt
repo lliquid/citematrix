@@ -1,0 +1,5 @@
+title: Wavelets Applied to Lossless Compression and Progressive Transmission of Floating Point Data in 3-D Curvilinear Grids
+authors: Aaron Trott, Robert Moorhead, John McGinley
+in_vis_citations: 
+tao_vis_94
+

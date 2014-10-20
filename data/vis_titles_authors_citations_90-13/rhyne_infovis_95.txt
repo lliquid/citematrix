@@ -1,0 +1,5 @@
+title: Case Study A WWW Viewpoint on Scientific Visualization: An EPA Case Study for TechnoIogy Transfer
+authors: Theresa Marie Rhyne
+in_vis_citations: 
+rogowitz_vis_93
+

@@ -1,0 +1,13 @@
+title: Interactive Blood Damage Analysis for Ventricular Assist Devices
+authors: Bernd Hentschel, Irene Tedjo, Markus Probst, Marc Wolter, Marek Behr, Christian Bischof, Torsten Kuhlen
+in_vis_citations: 
+ellswort_vis_04
+bryson_vis_91
+hotz_vis_04
+zheng_vis_02
+leeuw_vis_93
+kindlman_vis_06
+jankun_vis_06
+watson_vis_91
+zoeckler_vis_96
+

@@ -1,0 +1,5 @@
+title: Research Report: Visualizing Decision Table Classifiers
+authors: Barry G. Becker
+in_vis_citations: 
+leblanc_vis_90
+

@@ -1,0 +1,4 @@
+title: Toward a Multi-Analyst, Collaborative Framework for Visual Analytics
+authors: Susan E. Brennan, Klaus Mueller, Greg Zelinsky, Iv Ramakrishnan, David S. Warren, Arie Kaufman
+in_vis_citations: 
+

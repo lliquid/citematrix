@@ -1,0 +1,6 @@
+title: Smooth Hierarchical Surface Triangulations
+authors: Tran S. Gieng, Bernd Hamann, Kenneth I. Joy, Gregory L. Schussman, Issac J. Trotts
+in_vis_citations: 
+xia_vis_96
+klein_vis_96
+

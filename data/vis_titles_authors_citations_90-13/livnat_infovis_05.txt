@@ -1,0 +1,5 @@
+title: Visual Correlation for Situational Awareness
+authors: Yarden Livnat, Jim Agutter, Shaun Moon, Stefano Foresti
+in_vis_citations: 
+teoh_vis_03
+

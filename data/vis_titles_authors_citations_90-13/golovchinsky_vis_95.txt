@@ -1,0 +1,5 @@
+title: Subverting Structure: Data-driven Diagram Generation
+authors: Gene Golovchinsky, Thomas Kamps, Klaus Reichenberger
+in_vis_citations: 
+reichen_infovis_95
+

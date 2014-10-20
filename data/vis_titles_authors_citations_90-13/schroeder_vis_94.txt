@@ -1,0 +1,4 @@
+title: Implicit Modeling of Swept Surfaces and Volumes
+authors: William J. Schroeder, William E. Lorensen, Steve Linthicum
+in_vis_citations: 
+

@@ -1,0 +1,17 @@
+title: TransGraph: Hierarchical Exploration of Transition Relationships in Time-Varying Volumetric Data
+authors: Yi Gu, Chaoli Wang
+in_vis_citations: 
+bachthal_vis_08
+shen_vis_94
+mehta_vast_06
+ma_vis_99
+sauber_vis_06
+daniel_vis_03
+janicke_vis_08
+bruckner_vis_10
+woodring_vis_03
+westermann_vis_95
+wangchao_vis_08
+guthe_vis_01
+lee_vis_09
+

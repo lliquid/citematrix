@@ -1,0 +1,5 @@
+title: Enhancing Visual Analysis of Network Traffic Using a Knowledge Representation
+authors: Ling Xiao, John Gerth, Pat Hanrahan
+in_vis_citations: 
+munzner_infovis_96
+

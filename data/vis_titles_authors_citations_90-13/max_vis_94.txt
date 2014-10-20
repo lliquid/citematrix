@@ -1,0 +1,6 @@
+title: Visualizing 3D Velocity Fields Near Contour Surfaces
+authors: Nelson Max, Roger Crawfis, Charles Grant
+in_vis_citations: 
+crawfis_vis_93
+forssell_vis_94
+

@@ -1,0 +1,4 @@
+title: IFS Fractal Interpolation for 2D and 3D Visualization&apos;
+authors: Craig M. Wittenbrink
+in_vis_citations: 
+

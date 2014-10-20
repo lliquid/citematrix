@@ -1,0 +1,4 @@
+title: Scalable WIM: Effective Exploration in Large-scale Astrophysical Environments
+authors: Yinggang Li, Chi-Wing Fu, Andrew J. Hanson
+in_vis_citations: 
+

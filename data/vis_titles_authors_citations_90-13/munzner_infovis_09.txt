@@ -1,0 +1,20 @@
+title: A Nested Model for Visualization Design and Validation
+authors: Tamara Munzner
+in_vis_citations: 
+lam_vast_07
+amar_infovis_05
+barsky_infovis_08
+henry_infovis_06
+henze_vis_98
+yi_infovis_07
+lam_infovis_08
+springmeyer_vis_92
+tory_infovis_04
+mcguffin_infovis_05
+chi_infovis_98
+amar_infovis_04
+robertso_infovis_08
+card_infovis_97
+phan_infovis_05
+wehrend_vis_90
+

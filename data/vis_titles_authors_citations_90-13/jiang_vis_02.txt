@@ -1,0 +1,8 @@
+title: Geometric Verification of Swirling Features in Flow Fields
+authors: Ming Jiang, Raghu Machiraju, David Thompson
+in_vis_citations: 
+peikert_vis_99
+sadarjoen_vis_98
+roth_vis_98
+crawfis_vis_93
+

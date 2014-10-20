@@ -1,0 +1,4 @@
+title: Geo-Spatial Visualization for Situational Awareness
+authors: Eliot Feibush, Nikhil Gagvani, Daniel Williams
+in_vis_citations: 
+

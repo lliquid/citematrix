@@ -1,0 +1,10 @@
+title: LISTEN: Sounding Uncertainty Visualization 
+authors: Suresh K. Lodha, Catherine M. Wilson, Robert E. Sheehan
+in_vis_citations: 
+gershon_vis_92
+minghim_vis_95
+lodha2_vis_96
+brill_vis_94
+leeuw_vis_93
+post_vis_95
+

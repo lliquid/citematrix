@@ -1,0 +1,10 @@
+title: Graphical Perception of Multiple Time Series
+authors: Member Javed, Bryan McDonnel, Niklas Elmqvist
+in_vis_citations: 
+byron_infovis_08
+lam_infovis_07
+ellis_infovis_07
+vanwijk2_infovis_99
+robertso_infovis_08
+saito_infovis_05
+

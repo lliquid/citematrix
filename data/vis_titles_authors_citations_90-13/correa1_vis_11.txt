@@ -1,0 +1,13 @@
+title: Topological Spines: A Structure-Preserving Visual Representation of Scalar Fields
+authors: Carlos D. Correa, Peter Lindstrom, Peer-Timo Bremer
+in_vis_citations: 
+weber_vis_02
+gyulassy2_vis_07
+weber_vis_07
+theisel_vis_03
+tierny_vis_09
+gyulassy_vis_08
+gerber_vis_10
+gyulassy_vis_05
+laney_vis_06
+

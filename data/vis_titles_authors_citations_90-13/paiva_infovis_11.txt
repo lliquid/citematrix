@@ -1,0 +1,12 @@
+title: Improved Similarity Trees and their Application to Visual Data Classification
+authors: Jose Gustavo S. Paiva, Laura Florian-Cruz, Helio Pedrini, Guilherme P. Telles, Rosane Minghim
+in_vis_citations: 
+rodden_infovis_99
+chenyanh_infovis_09
+cuadros_vast_07
+paulovic_infovis_08
+chalmers_vis_96
+paulovic_vis_10
+daniels_vis_10
+plaisant_infovis_02
+

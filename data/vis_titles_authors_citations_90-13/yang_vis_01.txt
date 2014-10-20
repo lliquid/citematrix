@@ -1,0 +1,8 @@
+title: PixelFlex: A Reconfigurable Multi-Projector Display System
+authors: Ruigang Yang, David Gotz, Justin Hensley, Herman Towles, Michael S. Brown
+in_vis_citations: 
+cheny_vis_00
+humphrey_vis_99
+raskar_vis_99
+chenw_vis_00
+

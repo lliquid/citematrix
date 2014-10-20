@@ -1,0 +1,8 @@
+title: Visual Human+Machine Learning
+authors: Raphael Fuchs, Juergen Waser, Eduard Groeller
+in_vis_citations: 
+jaenicke_vis_07
+kehrer_vis_08
+hao_vast_07
+yang_vast_07
+

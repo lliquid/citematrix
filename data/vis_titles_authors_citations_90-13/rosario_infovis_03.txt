@@ -1,0 +1,8 @@
+title: Mapping Nominal Values to Numbers for Effective Visualization
+authors: Geraldine E. Rosario, Elke A. Rundensteiner, David C. Brown, Matthew O. Ward
+in_vis_citations: 
+leblanc_vis_90
+inselberg_vis_90
+ankerst_infovis_98
+ward_vis_94
+

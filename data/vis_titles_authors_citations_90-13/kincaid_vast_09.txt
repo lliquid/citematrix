@@ -1,0 +1,7 @@
+title: MassVis: Visual Analysis of Protein Complexes Using Mass Spectrometry
+authors: Robert Kincaid
+in_vis_citations: 
+decorral_vis_05
+linsen_vis_05
+stasko_vast_07
+

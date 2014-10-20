@@ -1,0 +1,6 @@
+title: Surface Extraction from Multi-Material Components for Metrology using Dual Energy CT
+authors: Christoph Heinzl, Johann Kastner, Eduard Groeller
+in_vis_citations: 
+huang_vis_03
+kniss_vis_01
+

@@ -1,0 +1,4 @@
+title: Interactive Visualization of Quaternion Julia Sets
+authors: John C. Hart, Louis H. Kauffman, Daniel J. Sandin
+in_vis_citations: 
+

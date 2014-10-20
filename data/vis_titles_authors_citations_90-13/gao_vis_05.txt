@@ -1,0 +1,11 @@
+title: Distributed Data Management for Large Volume Visualization
+authors: Jinzhu Gao, Jian Huang, C. Ryan Johnson, Scott Atchley
+in_vis_citations: 
+luke_vis_02
+guthe_vis_02
+shen_vis_99
+livnat_vis_98
+gao_vis_04
+brodlie_vis_04
+sutton_vis_99
+

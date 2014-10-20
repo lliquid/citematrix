@@ -1,0 +1,7 @@
+title: Real-Time Visualization of Scalably Large Collections of Heterogeneous Objects
+authors: Douglass Davis, William Ribarsky, T. Y. Jiang, Nickolas Faust, Sean Ho
+in_vis_citations: 
+davis_vis_98
+cox_vis_97
+chiang_vis_98
+

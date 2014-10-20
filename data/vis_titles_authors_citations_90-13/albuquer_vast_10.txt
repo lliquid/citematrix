@@ -1,0 +1,10 @@
+title: Improving the Visual Analysis of High-dimensional Datasets Using Quality Measures
+authors: [Georgia Albuquerque, Martin Eisemann, Dirk J. Lehmann, Holger Theisel, Marcus Magnor
+in_vis_citations: 
+wattensp_infovis_05
+wilkinso_infovis_05
+hoffman_vis_97
+schneidewind_vast_06
+tatu_vast_09
+sharko_vis_08
+

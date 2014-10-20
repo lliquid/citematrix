@@ -1,0 +1,10 @@
+title: Metric-Based Network Exploration and Multiscale Scatterplot
+authors: Yves Chiricota, Fabien Jourdan, Guy Melancon
+in_vis_citations: 
+martin_vis_95
+fua_infovis_99
+becker_infovis_97
+wattenbe_infovis_03
+auber_infovis_03
+herman_infovis_00
+

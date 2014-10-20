@@ -1,0 +1,10 @@
+title: Effects of Stereo and Screen Size on the Legibility of Three-Dimensional Streamtube Visualization
+authors: Jian Chen, Haipeng Cai, Alexander P. Auchus, David H. Laidlaw
+in_vis_citations: 
+forsberg_vis_09
+ebert_vis_00
+kindlman_vis_03
+munzner_infovis_09
+everts_vis_09
+bair_vis_06
+

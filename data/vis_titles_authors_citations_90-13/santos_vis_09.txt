@@ -1,0 +1,7 @@
+title: VisMashup: Streamlining the Creation of Custom Visualization Applications
+authors: Emanuele Santos, Lauro Lins, James P. Ahrens, Juliana Freire, Claudio T. Silva
+in_vis_citations: 
+schneidegger_vis_07
+childs_vis_05
+viegas_infovis_07
+

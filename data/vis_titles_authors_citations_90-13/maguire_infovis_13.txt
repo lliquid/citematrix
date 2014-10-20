@@ -1,0 +1,12 @@
+title: Visual Compression of Workflow Visualizations with Automated Detection of Macro Motifs
+authors: Eamonn Maguire, Philippe Rocca-Serra, Susanna-Assunta Sansone, Jim Davies
+in_vis_citations: 
+schneidegger_vis_07
+weaver_infovis_04
+holten_infovis_06
+santos_vis_09
+maguire_infovis_12
+schroeder_vis_96
+koop_vis_08
+shneiderman_infovis_06
+

@@ -1,0 +1,12 @@
+title: Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City Taxi Trips
+authors: Nivan Ferreira, Jorge Poco, Huy T. Vo, Juliana Freire, Claudio T. Silva
+in_vis_citations: 
+weaver_infovis_04
+andrienk_vast_08
+andrienk_vast_11
+ellis_infovis_07
+liao_vast_10
+phan_infovis_05
+weaver_vast_08
+stolte_infovis_00
+

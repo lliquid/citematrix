@@ -1,0 +1,7 @@
+title: Visualization of AMR Data With Multi-Level Dual-Mesh Interpolation
+authors: Patrick J. Moran, David Ellsworth
+in_vis_citations: 
+nielson_vis_91
+marchesi_vis_09
+park_vis_02
+

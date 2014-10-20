@@ -1,0 +1,7 @@
+title: Four-Dimensional Views of 3D Scalar Fields
+authors: Andrew J. Hanson, Pheng A. Heng
+in_vis_citations: 
+nielson_vis_90
+hanson_vis_91
+krueger_vis_90
+

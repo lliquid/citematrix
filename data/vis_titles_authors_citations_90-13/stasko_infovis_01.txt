@@ -1,0 +1,4 @@
+title: Technical Note: Visually Encoding Program Test Information to Find Faults in Software
+authors: James Eagan, Mary Jean Harrold, James A. Jones, John Stasko
+in_vis_citations: 
+

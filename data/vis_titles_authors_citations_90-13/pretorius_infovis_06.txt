@@ -1,0 +1,9 @@
+title: Visual Analysis of Multivariate State Transition Graphs
+authors: A. Johannes Pretorius, Jarke J. van Wijk
+in_vis_citations: 
+vanham_infovis_02
+wattenbe_infovis_02
+mihalisin_vis_91
+deussen_vis_02
+kerr_infovis_03
+

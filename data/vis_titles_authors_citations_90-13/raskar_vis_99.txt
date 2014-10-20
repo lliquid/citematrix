@@ -1,0 +1,4 @@
+title: Multi-Projector Displays Using Camera-Based Registration
+authors: Ramesh Raskar, Michael S. Brown, Ruigang Yang, Wei-Chao Chen, Greg Welch, Herman Towles, Brent Seales, Henry Fuchs
+in_vis_citations: 
+

@@ -1,0 +1,5 @@
+title: FINESSE: A Financial Information Spreadsheet
+authors: Amitabh Varshney, Arie Kaufman
+in_vis_citations: 
+wright_infovis_95
+

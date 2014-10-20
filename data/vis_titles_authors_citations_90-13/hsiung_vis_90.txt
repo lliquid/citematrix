@@ -1,0 +1,4 @@
+title: Wide-band Relativistic Doppler Effect Visualization
+authors: Ping-Kang Hsiung, Robert H. Thibadeaut, Christopher B. Cox, Robert H. P. Dunns, Michael Wun, Paul Andrew Olbrichl
+in_vis_citations: 
+

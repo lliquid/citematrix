@@ -1,0 +1,18 @@
+title: A Design Space of Visualization Tasks
+authors: Thomas Nocke Schulz, Magnus Heitzler, Heidrun Schumann
+in_vis_citations: 
+chuah_infovis_96
+amar_infovis_05
+yi_infovis_07
+robertson_vis_90
+baudel_infovis_12
+springmeyer_vis_92
+tory_infovis_04
+gotz_vast_08
+zhou_infovis_96
+amar_infovis_04
+card_infovis_97
+fujishir_infovis_00
+chi_infovis_00
+wehrend_vis_90
+

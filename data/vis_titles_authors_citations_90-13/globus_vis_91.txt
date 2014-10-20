@@ -1,0 +1,6 @@
+title: A Tool for Visualizing the Topology of Three-Dimensional Vector Fields
+authors: A. Globus, C. Levit, T. Lasinski
+in_vis_citations: 
+bancroft_vis_90
+helman_vis_90
+

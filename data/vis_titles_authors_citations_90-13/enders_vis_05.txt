@@ -1,0 +1,11 @@
+title: Visualization of White Matter Tracts with Wrapped Streamlines
+authors: Frank Enders, Natascha Sauber, Christopher Nimsky, Dorit Merhof, Marc Stamminger
+in_vis_citations: 
+gavriliu_vis_01
+weinstei_vis_99
+kindlman_vis_99
+ding_vis_01
+akers_vis_04
+kniss_vis_01
+bryson_vis_91
+

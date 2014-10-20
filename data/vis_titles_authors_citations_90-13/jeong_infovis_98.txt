@@ -1,0 +1,8 @@
+title: Reconfigurable Disc Trees for Visualizing Large Hierarchical Information Space
+authors: Chang-Sung Jeong, Alex Pang
+in_vis_citations: 
+carriere_infovis_95
+card_infovis_97
+johnson_vis_91
+beaudoin_vis_96
+

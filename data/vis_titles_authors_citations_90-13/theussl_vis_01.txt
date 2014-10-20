@@ -1,0 +1,5 @@
+title: Optimal Regular Volume Sampling
+authors: Thomas Theussl, Torsten Moellert, Eduard Groeller
+in_vis_citations: 
+marschner_vis_94
+

@@ -1,0 +1,4 @@
+title: Computer Assisted Sphere Packing in Higher Dimensions
+authors: Nelson Max
+in_vis_citations: 
+

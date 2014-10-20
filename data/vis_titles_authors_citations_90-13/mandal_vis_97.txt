@@ -1,0 +1,4 @@
+title: Dynamic Smooth Subdivision Surfaces for Data Visualization
+authors: Chhandomay Mandal, Hong Qin, Baba C. Vemuri
+in_vis_citations: 
+

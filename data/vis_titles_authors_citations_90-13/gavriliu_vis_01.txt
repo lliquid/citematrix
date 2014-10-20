@@ -1,0 +1,5 @@
+title: Fast Extraction of Adaptive Multiresolution Meshes with Guaranteed Properties from Volumetric Data
+authors: Marcel Gavriliu, Joel Carranza, David E. Breen, Alan H. Barr
+in_vis_citations: 
+wood_vis_00
+

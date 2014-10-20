@@ -1,0 +1,4 @@
+title: Semi-Immersive Space Mission Design and Visualization: Case Study of the "Terrestrial Planet Finder" Mission
+authors: Ken Museth, Alan Barr, Martin W. Lo
+in_vis_citations: 
+

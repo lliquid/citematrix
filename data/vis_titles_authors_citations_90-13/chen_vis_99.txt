@@ -1,0 +1,5 @@
+title: Visualizing the Evolution of a Subject Domain: A Case Study
+authors: Chaomei Chen, Leslie Carr
+in_vis_citations: 
+eick_vis_93
+

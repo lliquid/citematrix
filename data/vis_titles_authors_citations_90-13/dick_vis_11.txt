@@ -1,0 +1,6 @@
+title: Distance Visualization for Interactive 3D Implant Planning
+authors: Christian Dick, Rainer Burgkart, Ruediger Westermann
+in_vis_citations: 
+preim_vis_02
+dick_vis_09
+

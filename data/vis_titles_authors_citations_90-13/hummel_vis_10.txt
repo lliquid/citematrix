@@ -1,0 +1,14 @@
+title: IRIS: Illustrative Rendering of Integral Surfaces
+authors: Mathias Hummel, Christoph Garth, Bernd Hamann, Hans Hagen, Kenneth I. Joy
+in_vis_citations: 
+krueger_vis_06
+kindlman_vis_03
+garth_vis_08
+hultquist1_vis_92
+krishnan_vis_09
+vanwijk2_vis_93
+scheuermann_vis_01
+ebert_vis_00
+vonfunck_vis_08
+burger_vis_09
+

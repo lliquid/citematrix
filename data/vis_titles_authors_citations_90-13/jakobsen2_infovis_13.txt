@@ -1,0 +1,9 @@
+title: Information Visualization and Proxemics: Design Opportunities and Empirical Findings
+authors: Mikkel R. Jakobsen, Yonas Sahlemariam Haile, Soren Knudsen, Kasper Hornbeek
+in_vis_citations: 
+yost_infovis_06
+lee_infovis_12
+bezerianos_infovis_12
+viegas_infovis_07
+amar_infovis_05
+

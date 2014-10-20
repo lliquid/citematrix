@@ -1,0 +1,4 @@
+title: Simple 3D Glyphs for Spatial Multivariate Data
+authors: Camilla Forsell, Stefan Seipel, Mats Linda
+in_vis_citations: 
+

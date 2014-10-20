@@ -1,0 +1,8 @@
+title: Spatially Ordered Treemaps
+authors: Jo Wood, Jason Dykes
+in_vis_citations: 
+wattenberg_infovis_01
+barlow01_infovis_01
+mansmann_infovis_07
+tu_infovis_07
+

@@ -1,0 +1,5 @@
+title: Representing Medical Images with Partitioning Trees
+authors: K. R. Subramanian, Bruce Naylor
+in_vis_citations: 
+subramanian_vis_90
+

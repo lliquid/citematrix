@@ -1,0 +1,4 @@
+title: A System for Measuring Surface Facet Orientation from Atomic Force Microscope Data
+authors: John Hagedorn, Holly Rushmeier, John Blendell, Mark Vaudin
+in_vis_citations: 
+

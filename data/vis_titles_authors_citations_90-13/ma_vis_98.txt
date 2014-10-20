@@ -1,0 +1,4 @@
+title: Scientific Visualization and Data Modeling of Scattered Sediment Contaminant Data in New York/New Jersey Estuaries
+authors: Hong Ma, Keith W. Jones, Eric A. Stern
+in_vis_citations: 
+

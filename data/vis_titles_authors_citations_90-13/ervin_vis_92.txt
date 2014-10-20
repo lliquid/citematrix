@@ -1,0 +1,4 @@
+title: Visualizing n-Dimensional Implications of Two-Dimensional Design Decisions
+authors: Stephen M. Ervin
+in_vis_citations: 
+

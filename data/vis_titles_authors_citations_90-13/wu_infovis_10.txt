@@ -1,0 +1,10 @@
+title: OpinionSeer: Interactive Visualization of Hotel Customer Feedback
+authors: Yingcai Wu, Furu Wei, Shixia Liu, Norman Au, Weiwei Cui, Hong Zhou, Huamin Qu
+in_vis_citations: 
+chen_vast_06
+viegas_infovis_09
+correa_vast_09
+draper_infovis_08
+oelke_vast_09
+yang_infovis_02
+

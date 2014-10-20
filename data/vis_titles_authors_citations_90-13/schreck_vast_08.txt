@@ -1,0 +1,5 @@
+title: Visual Cluster Analysis of Trajectory Data With Interactive Kohonen Maps
+authors: Tobias Schreck, Juergen Bernard, Tatiana Tekusova, Joern Kohlhammer
+in_vis_citations: 
+ivanov_infovis_07
+

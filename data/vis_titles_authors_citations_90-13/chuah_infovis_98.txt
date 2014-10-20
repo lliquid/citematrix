@@ -1,0 +1,6 @@
+title: Dynamic Aggregation with Circular Visual Designs
+authors: Mei Chuah
+in_vis_citations: 
+tenev_infovis_97
+eick_vis_92
+

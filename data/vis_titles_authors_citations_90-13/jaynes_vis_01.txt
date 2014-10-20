@@ -1,0 +1,9 @@
+title: Dynamic Shadow Removal from Front Projection Displays
+authors: Christopher Jaynes, Stephen Webb, R. Matt Steele, Michael Brown, W. Brent Seales
+in_vis_citations: 
+raskar_vis_99
+humphrey_vis_99
+majumder_vis_00
+cheny_vis_00
+chenw_vis_00
+

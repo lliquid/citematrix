@@ -1,0 +1,8 @@
+title: NetV: An Experimental Network-based Volume Visualization System
+authors: T. Todd Elvins, David R. Nadeau
+in_vis_citations: 
+montine_vis_90
+brittain_vis_90
+yen_vis_90
+nadeau_vis_91
+

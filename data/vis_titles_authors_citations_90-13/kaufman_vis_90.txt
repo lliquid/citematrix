@@ -1,0 +1,4 @@
+title: Volume Visualization in Cell Biology
+authors: A. Kaufman, R. Yagel, R. Bakalash, I. Spector
+in_vis_citations: 
+

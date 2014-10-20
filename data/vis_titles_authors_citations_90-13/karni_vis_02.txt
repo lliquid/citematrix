@@ -1,0 +1,7 @@
+title: Efficient Compression and Rendering of Multi-Resolution Meshes
+authors: Zachi Karni, Alexander Bogomjakov, Craig Gotsman
+in_vis_citations: 
+cohenor_vis_99
+deviller_vis_00
+bajaj_vis_99
+

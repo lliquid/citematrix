@@ -1,0 +1,10 @@
+title: Click2Annotate: Automated Insight Externalization with Rich Semantics
+authors: Yang Chen, Scott Barlowe, Jing Yang
+in_vis_citations: 
+wehrend_vis_90
+amar_infovis_05
+pousman_infovis_07
+gotz_vast_08
+viegas_infovis_07
+strobelt_infovis_09
+

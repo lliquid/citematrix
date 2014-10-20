@@ -1,0 +1,4 @@
+title: Extracting Geometric Models Through Constraint Minimization
+authors: James V. Miller, David E. Breen, Michael J. Wozny
+in_vis_citations: 
+

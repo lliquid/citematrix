@@ -1,0 +1,9 @@
+title: HOT???Lines: Tracking Lines in Higher Order Tensor Fields
+authors: Mario Hlawitschka, Gerik Scheuermann
+in_vis_citations: 
+zheng_vis_04
+delmarcelle_vis_92
+tricoche_vis_00
+sigfrids_vis_02
+delmarcelle_vis_94
+

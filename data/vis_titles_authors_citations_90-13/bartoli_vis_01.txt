@@ -1,0 +1,6 @@
+title: Nonlinear Virtual Colon Unfolding
+authors: Anna Vilanova Bartroli, Rainer Wegenkittl, Andreas Koenig, Eduard Groeller
+in_vis_citations: 
+keahey_infovis_97
+wan2_vis_99
+

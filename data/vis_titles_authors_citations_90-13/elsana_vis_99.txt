@@ -1,0 +1,9 @@
+title: Skip Strips: Maintaining Triangle Strips for View-dependent Rendering
+authors: Jihad El-Sana, Elvir Azanli, Amitabh Varshney
+in_vis_citations: 
+evans_vis_96
+lindstrom_vis_98
+chow_vis_97
+defloriani_vis_98
+gross_vis_95
+

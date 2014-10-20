@@ -1,0 +1,6 @@
+title: Interactive Visualization of Multiway Tables
+authors: Kenneth C. Cox, Dianne Hackborn
+in_vis_citations: 
+buja_vis_91
+mihalisin_vis_90
+

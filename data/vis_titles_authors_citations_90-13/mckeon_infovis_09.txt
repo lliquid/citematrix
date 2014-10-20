@@ -1,0 +1,12 @@
+title: Harnessing the Web Information Ecosystem with Wiki-based Visualization Dashboards
+authors: Matt McKeon
+in_vis_citations: 
+viegas_infovis_07
+chi_infovis_98
+wattenbe_infovis_08
+heer2_infovis_06
+pike_vast_08
+doerk_infovis_08
+heer_vast_07
+ward_vis_94
+

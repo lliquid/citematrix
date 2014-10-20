@@ -1,0 +1,7 @@
+title: GADGET: Goal-Oriented Application Design Guidance for Modular Visualization Environments
+authors: Issei Fujishiro, Yuriko Takeshima, Yoshihiko Ichikawa, Kyoko Nakamura
+in_vis_citations: 
+wehrend_vis_90
+brodlie_vis_93
+roth_infovis_96
+

@@ -1,0 +1,4 @@
+title: Interactive Volume Rendering for Virtual Colonoscopy
+authors: Suya You, Lichan Hong, Ming Wan, Kittiboon Junyaprasert, Arie Kaufman
+in_vis_citations: 
+

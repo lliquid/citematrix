@@ -1,0 +1,4 @@
+title: Interval Set: A Volume Rendering Technique Generalizing Isosurface Extraction
+authors: Baining Guo
+in_vis_citations: 
+

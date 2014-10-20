@@ -1,0 +1,8 @@
+title: Uncovering Strengths and Weaknesses of Radial Visualizations: an Empirical Approach
+authors: Stephan Diehl, Fabian Beck, Michael Burch
+in_vis_citations: 
+kobsa_infovis_04
+tavanti_infovis_01
+hoffman_vis_97
+tavanti_infovis_01
+

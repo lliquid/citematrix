@@ -1,0 +1,11 @@
+title: Volume Analysis Using Multimodal Surface Similarity
+authors: Martin Haidacher, Stefan Bruckner, Eduard Groeller
+in_vis_citations: 
+chen_vis_10
+carr_vis_06
+xu_vis_10
+viola_vis_06
+heinzl_vis_07
+scheideg_vis_08
+khoury_vis_10
+

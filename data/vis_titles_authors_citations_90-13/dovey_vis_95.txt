@@ -1,0 +1,7 @@
+title: Vector Plots for Irregular Grids
+authors: Don Dovey
+in_vis_citations: 
+crawfis_vis_93
+forssell_vis_94
+max_vis_94
+

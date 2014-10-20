@@ -1,0 +1,9 @@
+title: LineUp: Visual Analysis of Multi-Attribute Rankings
+authors: Samuel Gratzl, Alexander Lex, Nils Gehlenborg, Hanspeter Pfister, Marc Streit
+in_vis_citations: 
+shi_infovis_12
+byron_infovis_08
+healey_vis_96
+kidwell_infovis_08
+heer_infovis_07
+

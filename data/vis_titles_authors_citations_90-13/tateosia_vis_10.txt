@@ -1,0 +1,5 @@
+title: TanGeoMS: Tangible Geospatial Modeling System
+authors: Laura G. Tateosian, Helena Mitasova, Brendan A. Harmon, Brent Fogleman, Katherine Weaver, Russel S. Harmon
+in_vis_citations: 
+humphrey_vis_99
+

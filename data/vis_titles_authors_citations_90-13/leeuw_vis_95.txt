@@ -1,0 +1,7 @@
+title: Enhanced Spot Noise for Vector Field Visualization
+authors: Willem C. de Leeuw, Jarke J. van Wijk
+in_vis_citations: 
+max_vis_94
+forssell_vis_94
+crawfis_vis_93
+

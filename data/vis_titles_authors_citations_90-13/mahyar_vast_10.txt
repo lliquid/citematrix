@@ -1,0 +1,11 @@
+title: A Closer Look at Note Taking in the Co-located Collaborative Visual Analytics Process
+authors: Narges Mahyar, Ali Sarvghad, Melanie Tory
+in_vis_citations: 
+heer_infovis_08
+robinson_vast_08
+isenberg_infovis_07
+kadivar_vast_09
+gotz_vast_08
+shriniva_vast_09
+viegas_infovis_07
+

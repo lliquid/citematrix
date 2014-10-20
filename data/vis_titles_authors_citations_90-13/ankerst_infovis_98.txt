@@ -1,0 +1,7 @@
+title: Similarity Clustering of Dimensions for an Enhanced Visualization of Multidimensional Data
+authors: Mihael Ankerst, Stefan Berchtold, Daniel A. Keim
+in_vis_citations: 
+inselberg_vis_90
+ward_vis_94
+keim_vis_95
+

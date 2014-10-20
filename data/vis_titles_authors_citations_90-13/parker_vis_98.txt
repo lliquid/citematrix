@@ -1,0 +1,9 @@
+title: Interactive Ray Tracing for Isosurface Rendering
+authors: Steven Parker, Peter Shirley, Yarden Livnat, Charles Hansen, Peter-Pike Sloan
+in_vis_citations: 
+cox_vis_97
+marschner_vis_94
+sramek_vis_94
+lorensen_vis_95
+livnat_vis_98
+

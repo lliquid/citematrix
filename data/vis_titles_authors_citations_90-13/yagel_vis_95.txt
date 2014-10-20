@@ -1,0 +1,4 @@
+title: Volume-Based Reasoning and Visualization of Diecastability
+authors: R. Yagel, S. C. Lus, A. B. Rebello, R. A. Miller
+in_vis_citations: 
+

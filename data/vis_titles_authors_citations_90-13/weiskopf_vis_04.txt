@@ -1,0 +1,8 @@
+title: On the Role of Color in the Perception of Motion in Animated Visualizations
+authors: Daniel Weiskopf
+in_vis_citations: 
+kindlman_vis_02
+urness_vis_03
+weiskopf_vis_03
+rheingan_vis_97
+

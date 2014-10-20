@@ -1,0 +1,4 @@
+title: The MetVR Case Study: Meteorological Visualization in an Immersive Virtual Environment
+authors: Sean Ziegeler, Robert J. Moorhead, Paul J. Croft, Duanjun Lu
+in_vis_citations: 
+

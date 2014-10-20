@@ -1,0 +1,12 @@
+title: A Model for the Visualization Exploration Process
+authors: T. J. Jankun-Kelly, Kwan-Liu Ma, Michael Gertz
+in_vis_citations: 
+teoh_vis_02
+chi_infovis_98
+ma_vis_99
+abram_vis_95
+brodlie_vis_93
+springmeyer_vis_92
+lee_vis_95
+hibbard_vis_94
+

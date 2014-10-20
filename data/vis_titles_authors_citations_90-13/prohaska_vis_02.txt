@@ -1,0 +1,4 @@
+title: Fast Visualization of Plane-Like Structures in Voxel Data
+authors: Steffen Prohaska, Hans-Christian Hege
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Computer Visualization of Long Genomic Sequences
+authors: Dachywan Wu, James Roberg, Douglas J. Cork
+in_vis_citations: 
+

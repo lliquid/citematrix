@@ -1,0 +1,11 @@
+title: Smooth Graphs for Visual Exploration of Higher-Order State Transitions
+authors: Jorik Blaas, Charl P. Botha, Edward Grundy, Mark W. Jones, Robert S. Laramee, Frits H. Post
+in_vis_citations: 
+jerding_infovis_95
+vanham_infovis_08
+cui_infovis_08
+pretorius_infovis_06
+vanham_infovis_01
+vanham_infovis_01
+holten_infovis_06
+

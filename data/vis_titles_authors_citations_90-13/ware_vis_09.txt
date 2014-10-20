@@ -1,0 +1,10 @@
+title: Quantitative Texton Sequences for Legible Bivariate Maps
+authors: Colin Ware
+in_vis_citations: 
+bergman_vis_95
+healey_vis_98
+shenas_infovis_07
+cedilnik_vis_00
+rheingan_vis_97
+pham_vis_90
+

@@ -1,0 +1,5 @@
+title: Singularities in Nonuniform Tensor Fields
+authors: Yingmei Lavin, Yuval Levy, Lambertus Hesselink
+in_vis_citations: 
+delmarcelle_vis_92
+

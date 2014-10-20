@@ -1,0 +1,11 @@
+title: Visualizing Fuzzy Overlapping Communities in Networks
+authors: Corinna Vehlow, Thomas Reinhardt, Daniel Weiskopf
+in_vis_citations: 
+rao_vis_93
+heer_infovis_05
+alper_infovis_11
+riche_infovis_10
+collins_infovis_09
+vanham_infovis_04
+machado_vis_09
+

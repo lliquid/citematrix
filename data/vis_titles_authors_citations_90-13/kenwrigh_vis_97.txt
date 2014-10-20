@@ -1,0 +1,7 @@
+title: Vortex Identification - Applications In Aerodynamics: A Case Study
+authors: David Kenwright, Robert Haimes
+in_vis_citations: 
+roth_vis_96
+banks_vis_94
+globus_vis_91
+

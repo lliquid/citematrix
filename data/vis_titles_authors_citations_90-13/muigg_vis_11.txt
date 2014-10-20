@@ -1,0 +1,13 @@
+title: Interactive Volume Visualization of General Polyhedral Grids
+authors: Philipp Muigg, Markus Hadwiger
+in_vis_citations: 
+callahan_vis_05
+bavoil_vis_06
+muigg_vis_07
+weiler_vis_03
+kraus_vis_01
+zhou_vis_06
+laramee_vis_05
+levy_vis_01
+lamar_vis_99
+

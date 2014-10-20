@@ -1,0 +1,4 @@
+title: Visualization of Noisy and Biased Volume Data Using First and Second Order Derivative Techniques
+authors: M. P. Persoon, I. W. O. Serlie, F. H. Post, R. Truyen, F. M. Vos
+in_vis_citations: 
+

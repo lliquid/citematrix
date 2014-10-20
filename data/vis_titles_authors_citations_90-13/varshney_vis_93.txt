@@ -1,0 +1,4 @@
+title: Fast Analytical Computation of Richards's Smooth Molecular Surface
+authors: Amitabh Varshney, Frederick P. Brooks
+in_vis_citations: 
+

@@ -1,0 +1,9 @@
+title: A tetrahedra-based stream surface algorithm
+authors: Gerik Scheuermann, Kenneth I. Joy, Hans Hagen, Karim Mahrous, Bernd Hamann
+in_vis_citations: 
+vanwijk2_vis_93
+hultquist1_vis_92
+kenwright_vis_95
+peikert_vis_99
+kenwrigh_vis_97
+

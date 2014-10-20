@@ -1,0 +1,4 @@
+title: Case Study in Scientific Visualization: Factors Inducing Periodic Breathing in Humans with Blunted Hypoxic Sensitivity
+authors: Wayne E. Fordyce, Jeffrey J. Ventrella
+in_vis_citations: 
+

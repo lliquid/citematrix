@@ -1,0 +1,8 @@
+title: The Word Tree, an Interactive Visual Concordance
+authors: Martin Wattenberg, Fernanda B. Viegas
+in_vis_citations: 
+wattenbe_infovis_02
+stasko_vast_07
+viegas_infovis_07
+plaisant_infovis_02
+

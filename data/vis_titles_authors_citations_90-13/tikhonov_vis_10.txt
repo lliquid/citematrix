@@ -1,0 +1,7 @@
+title: Visualization by Proxy: A Novel Framework for Deferred Interaction with Volume Data
+authors: Anna Tikhonova, Carlos D. Correa, Kwan-Liu Ma
+in_vis_citations: 
+rautek_vis_07
+he1_vis_96
+luke_vis_02
+

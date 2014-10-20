@@ -1,0 +1,8 @@
+title: Graphical Overlays: Using Layered Elements to Aid Chart Reading
+authors: Nicholas Kong, Maneesh Agrawala
+in_vis_citations: 
+bartram_vis_11
+hill_vis_91
+collins_infovis_09
+steinberger_infovis_11
+

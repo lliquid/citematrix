@@ -1,0 +1,7 @@
+title: VISAGE: An Object-Oriented Scientific Visualization System
+authors: W. J. Schroeder, W. E. Lorensen, G. D. Montanaro, C. R. Volpe
+in_vis_citations: 
+lorensen_vis_91
+schroederw_vis_91
+bancroft_vis_90
+

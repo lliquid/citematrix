@@ -1,0 +1,8 @@
+title: Texture-based feature tracking for effective time-varying data visualization
+authors: Jesus J. Caban, Alark Joshi, Penny Rheingans
+in_vis_citations: 
+ji_vis_03
+ebert_vis_00
+silver_vis_98
+silver_vis_96
+

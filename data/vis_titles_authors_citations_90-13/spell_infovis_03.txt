@@ -1,0 +1,5 @@
+title: BARD: A visualization tool for biological sequence analysis
+authors: Rhazes Spell, Rachael Brady, Fred Dietrich
+in_vis_citations: 
+wattenbe_infovis_02
+

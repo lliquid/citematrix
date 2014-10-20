@@ -1,0 +1,8 @@
+title: Out-of-Core Rendering of Massive Geometric Environments
+authors: Gokul Varadhan, Dinesh Manocha
+in_vis_citations: 
+lindstrom01_vis_01
+avila_vis_97
+cox_vis_97
+shaffer_vis_01
+

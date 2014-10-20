@@ -1,0 +1,7 @@
+title: A Topology Modifying Progressive Decimation Algorithm
+authors: William J. Schroeder
+in_vis_citations: 
+he_vis_95
+hinker_vis_93
+klein_vis_96
+

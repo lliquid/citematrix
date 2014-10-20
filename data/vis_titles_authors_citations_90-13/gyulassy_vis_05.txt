@@ -1,0 +1,8 @@
+title: Topology-based Simplification for Feature Extraction from 3D Scalar Fields
+authors: Attila Gyulassy, Vijay Natarajan, Valerio Pascucci, Peer-Timo Bremer, Bernd Hamann
+in_vis_citations: 
+deleeuw_vis_99
+cignoni_vis_00
+carr_vis_04
+tricoche_vis_01
+

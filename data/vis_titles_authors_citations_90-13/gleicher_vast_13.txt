@@ -1,0 +1,16 @@
+title: Explainers: Expert Explorations with Crafted Projections
+authors: Michael Gleicher
+in_vis_citations: 
+kandogan_vast_12
+brown_vast_12
+heimerl_vast_12
+wilkinso_infovis_05
+yang_infovis_04
+turkay_infovis_12
+ingram_vast_10
+anand_vast_12
+joia_infovis_11
+ankerst_infovis_98
+may_vast_11
+johansso_infovis_09
+

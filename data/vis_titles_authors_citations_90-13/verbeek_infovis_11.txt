@@ -1,0 +1,9 @@
+title: Flow Map Layout via Spiral Trees
+authors: Kevin Verbeek, Kevin Buchin, Bettina Speckmann
+in_vis_citations: 
+guo_infovis_09
+cui_infovis_08
+phan_infovis_05
+munzner_infovis_96
+holten_infovis_06
+

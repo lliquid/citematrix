@@ -1,0 +1,11 @@
+title: Visualizing Whole-Brain DTI Tractography with GPU-based Tuboids and LoD Management
+authors: Vid Petrovic, James Fallon, Falko Kuester
+in_vis_citations: 
+zhukov_vis_02
+stoll_vis_05
+akers_vis_04
+merhof_vis_06
+yoon_vis_03
+melek_vis_06
+zoeckler_vis_96
+

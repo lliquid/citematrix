@@ -1,0 +1,6 @@
+title: Cracking the Cracking Problem with Coons Patches
+authors: Gregory M. Nielson, Dave Holliday, Tom Roxborough
+in_vis_citations: 
+friedrich_vis_98
+duchaine_vis_97
+

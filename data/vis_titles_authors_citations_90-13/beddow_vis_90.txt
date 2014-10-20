@@ -1,0 +1,4 @@
+title: Shape Coding of Multidimensional Data on a Microcomputer Display
+authors: Jeff Ekddow
+in_vis_citations: 
+

@@ -1,0 +1,8 @@
+title: Comparing 3D Vector Field Visualization Methods: A User Study
+authors: Andrew S. Forsberg, Jian Chen, David H. Laidlaw
+in_vis_citations: 
+zoeckler_vis_96
+ye_vis_05
+laramee_vis_04
+mallo_vis_05
+

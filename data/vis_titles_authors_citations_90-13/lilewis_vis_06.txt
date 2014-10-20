@@ -1,0 +1,6 @@
+title: A Trajectory-Preserving Synchronization Method for Collaborative Visualization
+authors: Lewis W. F. Li, Frederick W. B. Li, Rynson W. H. Lau
+in_vis_citations: 
+wood_vis_97
+jaswal_vis_97
+

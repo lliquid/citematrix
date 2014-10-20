@@ -1,0 +1,7 @@
+title: Monte Carlo Volume Rendering
+authors: Balazs Csebfalvi, Laszlo Szirmay-Kalos
+in_vis_citations: 
+guthe_vis_02
+zwicker_vis_01
+lu_vis_02
+

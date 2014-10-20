@@ -1,0 +1,10 @@
+title: Pointwise Local Pattern Exploration for Sensitivity Analysis
+authors: Zhenyu Guo, Matthew O. Ward, Elke A. Rundensteiner, Carolina Ruiz
+in_vis_citations: 
+matkovic_vis_05
+barlowe_vast_08
+chan_vast_10
+correa_vast_09
+yang_infovis_04
+guo_vast_09
+

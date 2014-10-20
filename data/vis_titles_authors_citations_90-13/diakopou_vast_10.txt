@@ -1,0 +1,8 @@
+title: Diamonds in the Rough: Social Media Visual Analytics for Journalistic Inquiry
+authors: Nicholas Diakopoulos, Mor Naaman, Funda Kivran-Swaine
+in_vis_citations: 
+rose_vast_09
+collins_vast_09
+kang_vast_09
+fisher_vast_08
+

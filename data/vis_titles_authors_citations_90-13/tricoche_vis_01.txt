@@ -1,0 +1,8 @@
+title: Continuous Topology Simplification of Planar Vector Fields
+authors: Xavier Tricoche, Gerik Scheuermann, Hans Hagen
+in_vis_citations: 
+tricoche_vis_00
+nielson_vis_98
+globus_vis_91
+deleeuw_vis_99
+

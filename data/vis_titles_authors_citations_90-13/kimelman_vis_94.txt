@@ -1,0 +1,4 @@
+title: Strata-Various: Multi-Layer Visualization of Dynamics in Software System Behavior
+authors: Doug Kimelman, Bryan Rosenburg, Tova Roth
+in_vis_citations: 
+

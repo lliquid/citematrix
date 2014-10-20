@@ -1,0 +1,12 @@
+title: Steerable, Progressive Multidimensional Scaling
+authors: Matt Williams, Tamara Munzner
+in_vis_citations: 
+amenta_infovis_02
+ross_infovis_03
+wylie_infovis_01
+koren_infovis_02
+morrison_infovis_02
+chalmers_vis_96
+wise_infovis_95
+morrison_infovis_03
+

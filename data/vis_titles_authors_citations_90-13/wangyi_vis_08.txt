@@ -1,0 +1,7 @@
+title: Effects of Video Placement and Spatial Context Presentation on Path Reconstruction Tasks with Contextualized Videos
+authors: Yi Wang, Doug Bowman, David Krum, Enylton Coelho, Tonya Smith-Jackson, David Bailey, Sarah Peck, Swethan Anand, Trevor Kennedy, Yernar Abdrazakov
+in_vis_citations: 
+ivanov_infovis_07
+wang_vis_07
+mcguffin_vis_03
+

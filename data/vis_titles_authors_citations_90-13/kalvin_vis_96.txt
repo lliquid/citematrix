@@ -1,0 +1,4 @@
+title: Using Visualization in the Archaeological Excavations of a Pre-Inca Temple in Peru
+authors: Alan D Kalvin, Alfredo Remy, Orlando Ardito, Kim Morla, Eduardo Nolasco, Jorge Prado, Regulo Franco, Antonio Murga, Guillermo Wiese
+in_vis_citations: 
+

@@ -1,0 +1,12 @@
+title: Volume Illustration: Non-Photorealistic Rendering of Volume Models
+authors: David Ebert, Penny Rheingans
+in_vis_citations: 
+rheingans_vis_96
+laidlaw_vis_98
+interrante_vis_95
+treavett_vis_00
+fang_vis_98
+kirby_vis_99
+fujishiro_vis_99
+krueger_vis_90
+

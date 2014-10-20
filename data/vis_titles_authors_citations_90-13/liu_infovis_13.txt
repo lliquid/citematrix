@@ -1,0 +1,15 @@
+title: StoryFlow: Tracking the Evolution of Stories
+authors: Shixia Liu, Senior Member, Yingcai Wu, Enxun Wei, Mengchen Liu, Yang Liu
+in_vis_citations: 
+shi_infovis_12
+hullman2_infovis_11
+segal_infovis_10
+burch_infovis_11
+fisher_vast_08
+tanahashi_infovis_12
+xu_vast_13
+wongsuphasawat_infovis_12
+fails_vast_06
+rose_vast_09
+cui_infovis_11
+

@@ -1,0 +1,5 @@
+title: Defining, Computing, and Visualizing Molecular Interfaces
+authors: Amitabh Varshney, Frederick P. Brooks Jr., David C. Richardson, William V. Wrightt, Dinesh Manochat
+in_vis_citations: 
+lorensen1_vis_93
+

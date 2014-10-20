@@ -1,0 +1,9 @@
+title: ClusterSculptor: A Visual Analytics Tool for High-Dimensional Data
+authors: Eun Ju Nam, Yiping Han, Klaus Mueller, Alla Zelenyuk, Dan Imre
+in_vis_citations: 
+hoffman_vis_97
+peng_infovis_04
+wilson_infovis_99
+artero_infovis_04
+inselberg_vis_90
+

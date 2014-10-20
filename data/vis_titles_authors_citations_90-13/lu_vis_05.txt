@@ -1,0 +1,8 @@
+title: Example-based Volume Illustrations
+authors: Aidong Lu, David S. Ebert
+in_vis_citations: 
+wang_vis_04
+ebert_vis_00
+hadwiger_vis_03
+kirby_vis_99
+

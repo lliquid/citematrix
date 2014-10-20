@@ -1,0 +1,5 @@
+title: Discretized Marching Cubes
+authors: C. Montani, R. Scateni, R. Scopignot
+in_vis_citations: 
+hansenc_vis_92
+

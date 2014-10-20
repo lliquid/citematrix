@@ -1,0 +1,9 @@
+title: NetClinic: Interactive Visualization to Enhance Automated Fault Diagnosis in Enterprise Networks
+authors: Zhicheng Liu, Bongshin Lee, Srikanth Kandula, Ratul Mahajan
+in_vis_citations: 
+perer_infovis_06
+mansmann_infovis_07
+kang_vast_09
+stasko_vast_07
+bilgic_vast_06
+

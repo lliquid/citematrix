@@ -1,0 +1,5 @@
+title: Evaluating the Relationship Between User Interaction and Financial Visual Analysis
+authors: Dong Hyun Jeong, Wenwen Dou, Heather Richter Lipford, Felesia Stukes, Remco Chang, William Ribarsky
+in_vis_citations: 
+chang_vast_07
+

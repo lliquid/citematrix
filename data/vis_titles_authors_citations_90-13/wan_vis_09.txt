@@ -1,0 +1,6 @@
+title: An Interactive Visualization Tool for Multi-channel Confocal Microscopy Data in Neurobiology Research
+authors: Yong Wan, Hideo Otsuna, Chi-Bin Chien, Charles Hansen
+in_vis_citations: 
+kreeger_vis_99
+salama_vis_06
+

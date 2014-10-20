@@ -1,0 +1,5 @@
+title: Mixing Translucent Polygons with Volumes
+authors: Kevin Kreeger, Arie Kaufman
+in_vis_citations: 
+westerma_vis_97
+

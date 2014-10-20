@@ -1,0 +1,9 @@
+title: Empty Space Skipping and Occlusion Clipping for Texture-based Volume Rendering
+authors: Wei Li, Klaus Mueller, Arie Kaufman
+in_vis_citations: 
+avila_vis_92
+kniss_vis_01
+krueger_vis_03
+lamar_vis_99
+mora_vis_02
+

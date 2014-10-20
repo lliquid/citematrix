@@ -1,0 +1,6 @@
+title: Noodles: A Tool for Visualization of Numerical Weather Model Ensemble Uncertainty
+authors: Jibonananda Sanyal, Song Zhang, Jamie Dyer, Andrew Mercer, Philip Amburn, Robert J. Moorhead
+in_vis_citations: 
+sanyal_vis_09
+olston_infovis_02
+

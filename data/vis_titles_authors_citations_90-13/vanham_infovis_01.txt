@@ -1,0 +1,6 @@
+title: Visualization of State Transition Graphs
+authors: Frank van Ham, Huub van de Wetering, Jarke J. van Wijk
+in_vis_citations: 
+hendley_infovis_95
+carriere_infovis_95
+

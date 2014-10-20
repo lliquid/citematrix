@@ -1,0 +1,4 @@
+title: Generation of Transfer Functions with Stochastic Search Techniques
+authors: Taosong He, Lichan Hong, Arie Kaufman, Hanspeter Pfister
+in_vis_citations: 
+

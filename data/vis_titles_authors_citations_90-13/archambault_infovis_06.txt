@@ -1,0 +1,5 @@
+title: Smashing Peacocks Further: Drawing Quasi-Trees from Biconnected Components
+authors: Daniel Archambault, Tamara Munzner, David Auber
+in_vis_citations: 
+munzner_infovis_97
+

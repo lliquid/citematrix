@@ -1,0 +1,5 @@
+title: Visualizing Data with Motion
+authors: Daniel E. Huber, Christopher G. Healey
+in_vis_citations: 
+kerlick_vis_90
+

@@ -1,0 +1,10 @@
+title: Tensorlines: Advection-Diffusion based Propagation through Diffusion Tensor Fields
+authors: David Weinstein, Gordon Kindlmann, Eric Lundberg
+in_vis_citations: 
+leeuw_vis_93
+schroederw_vis_91
+delmarcelle_vis_92
+post_vis_95
+laidlaw_vis_98
+kindlman_vis_99
+

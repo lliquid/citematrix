@@ -1,0 +1,6 @@
+title: Efficient Multi-Object Dynamic Query Histograms
+authors: Mark Derthick, James Harrison, Andrew Moore, Steven F. Roth
+in_vis_citations: 
+kapler_infovis_04
+tanin_infovis_97
+

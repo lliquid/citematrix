@@ -1,0 +1,10 @@
+title: Large Mesh Simplification using Processing Sequences
+authors: Martin Isenburg, Peter Lindstrom, Stefan Gumhold, Jack Snoeyink, Lawrence Livermore
+in_vis_citations: 
+lindstrom01_vis_01
+shaffer_vis_01
+evans_vis_96
+hoppe_vis_98
+ho_vis_01
+garland_vis_02
+

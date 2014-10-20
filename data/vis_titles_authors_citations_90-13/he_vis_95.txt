@@ -1,0 +1,5 @@
+title: Voxel Based Object Simplification
+authors: Taosong He, Lichan Hong, Arie Kaufman, Amitabh Varshney, Sidney Wang
+in_vis_citations: 
+sakas_vis_92
+

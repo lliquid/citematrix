@@ -1,0 +1,5 @@
+title: Octree-Based Decimation of Marching Cubes Surfaces
+authors: Raj Shekhar, Elias Fayyad, Roni Yagel, Fredrick Cornhill
+in_vis_citations: 
+montani_vis_94
+

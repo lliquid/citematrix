@@ -1,0 +1,21 @@
+title: How Information Visualization Novices Construct Visualizations
+authors: Lars Grammel, Melanie Tory, Margaret-Anne Storey
+in_vis_citations: 
+yi_infovis_07
+heer1_infovis_06
+pousman_infovis_07
+kang_vast_09
+lam_infovis_08
+weaver_vast_06
+viegas_infovis_07
+robinson_vast_08
+gotz_vast_08
+ellis_infovis_07
+amar_infovis_05
+chi_infovis_98
+mackinlay_infovis_07
+stolte_infovis_00
+kobsa_infovis_01
+chi_infovis_00
+heer_infovis_08
+

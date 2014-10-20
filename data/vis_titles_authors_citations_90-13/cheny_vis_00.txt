@@ -1,0 +1,5 @@
+title: Automatic Alignment Of High-Resolution Multi-Projector Displays Using An Un-Calibrated Camera
+authors: Yuqun Chen, Douglas W. Clark, Adam Finkelstein, Timothy C. Housel, Kai Li
+in_vis_citations: 
+raskar_vis_99
+

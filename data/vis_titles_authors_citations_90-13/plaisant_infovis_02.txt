@@ -1,0 +1,5 @@
+title: SpaceTree: Supporting Exploration in Large Node Link Tree, Design Evolution and Empirical Evaluation
+authors: Catherine Plaisant, Jesse Grosjean, Benjamin B. Bederson
+in_vis_citations: 
+beaudoin_vis_96
+

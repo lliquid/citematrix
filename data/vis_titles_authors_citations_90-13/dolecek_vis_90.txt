@@ -1,0 +1,4 @@
+title: Personal Visualization System: Applications in Research and Engineering
+authors: Q. E. Dolecek, K. Moorjani, B. F. Kim, D. G. Tilley, T. S. Denney Jr.
+in_vis_citations: 
+

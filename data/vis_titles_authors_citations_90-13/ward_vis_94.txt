@@ -1,0 +1,7 @@
+title: XmdvTool: Integrating Multiple Methods for Visualizing Multivariate Data
+authors: Matthew O. Ward
+in_vis_citations: 
+leblanc_vis_90
+beddow_vis_90
+inselberg_vis_90
+

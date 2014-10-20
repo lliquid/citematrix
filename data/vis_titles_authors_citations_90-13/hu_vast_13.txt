@@ -1,0 +1,9 @@
+title: Semantics of Directly Manipulating Spatializations
+authors: Xinran Hu, Lauren Bradel, Dipayan Maiti, Leanna House, Chris North, Scotland Leman
+in_vis_citations: 
+endert_vast_11
+wise_infovis_95
+endert_vast_12
+brown_vast_12
+robinson_vast_08
+

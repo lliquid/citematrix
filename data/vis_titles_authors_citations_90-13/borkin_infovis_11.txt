@@ -1,0 +1,19 @@
+title: Evaluation of Artery Visualizations for Heart Disease Diagnosis
+authors: Michelle A. Borkin, Krzysztof Z. Gajos, Amanda Peters, Dimitrios Mitsouras, Simone Melchionna, Frank J. Rybicki, Charles L. Feldman, Hanspeter Pfister
+in_vis_citations: 
+ropinski_vis_09
+kindlman_vis_02
+kanitsar1_vis_02
+rogowitz_vis_01
+straka_vis_04
+ritter_vis_06
+amar_infovis_05
+forsberg_vis_09
+hahn_vis_01
+forsberg_vis_09
+rheingans_vis_92
+healey_vis_96
+forsberg_vis_00
+termeer_vis_07
+tory_infovis_07
+

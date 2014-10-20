@@ -1,0 +1,9 @@
+title: Importance-Driven Visualization Layouts for Large Time Series Data
+authors: Ming C. Hao, Umeshwar Dayal, Daniel A. Keim, Tobias Schreck
+in_vis_citations: 
+hao_infovis_99
+vanwijk2_infovis_99
+keim_vis_95
+vanwijk_infovis_99
+stolte_infovis_00
+

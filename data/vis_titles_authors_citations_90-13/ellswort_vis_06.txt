@@ -1,0 +1,5 @@
+title: Concurrent Visualization in a Production Supercomputing Environment
+authors: David Ellsworth, Bran Green, Chris Henze, Patrick Moran, Timothy Sandstrom
+in_vis_citations: 
+childs_vis_05
+

@@ -1,0 +1,11 @@
+title: Interactive Visual Analysis of Set-Typed Data
+authors: Wolfgang Freiler, Kresimir Matkovic, Helwig Hauser
+in_vis_citations: 
+vanwijk_infovis_99
+inselberg_vis_90
+keim_infovis_01
+rosario_infovis_03
+stasko_vast_07
+bendix_infovis_05
+johnson_vis_91
+

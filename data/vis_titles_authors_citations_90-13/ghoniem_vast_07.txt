@@ -1,0 +1,10 @@
+title: NewsLab: Exploratory Broadcast News Video Analysis
+authors: Mohammad Ghoniem, Dongning Luo, Jing Yang, William Ribarsky
+in_vis_citations: 
+luo_vast_06
+yang_vast_06
+healey_vis_96
+ankerst_infovis_98
+fua_infovis_99
+wattenba_infovis_05
+

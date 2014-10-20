@@ -1,0 +1,7 @@
+title: Exploded View Diagrams of Mathematical Surfaces
+authors: Olga Karpenko, Wilmot Li, Niloy J. Mitra, Maneesh Agrawala
+in_vis_citations: 
+bruckner_vis_06
+mcguffin_vis_03
+bruckner_vis_05
+

@@ -1,0 +1,11 @@
+title: Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations
+authors: Christopher Collins, Gerald Penn, Sheelagh Carpendale
+in_vis_citations: 
+perer_infovis_06
+phan_infovis_05
+dwyer_infovis_08
+freiler_infovis_08
+heer_infovis_05
+collins_infovis_07
+elmqvist_infovis_08
+

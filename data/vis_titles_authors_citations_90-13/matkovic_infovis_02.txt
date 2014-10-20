@@ -1,0 +1,6 @@
+title: Process Visualization with Levels of Detail
+authors: Kresimir Matkovic, Helwig Hauser, Reinhard Sainitzer, Eduard Groeller
+in_vis_citations: 
+keahey_infovis_98
+miksch_infovis_01
+

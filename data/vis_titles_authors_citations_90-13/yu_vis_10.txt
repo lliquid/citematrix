@@ -1,0 +1,7 @@
+title: FI3D: Direct-Touch Interaction for the Exploration of 3D Scientific Visualization Spaces
+authors: Lingyun Yu, Pjotr Svetachov, Petra Isenberg, Maarten H. Everts, Tobias Isenberg
+in_vis_citations: 
+blaas_vis_05
+yi_infovis_07
+akers_vis_04
+

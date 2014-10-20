@@ -1,0 +1,8 @@
+title: Tensor Field Visualisation using Adaptive Filtering of Noise Fields combined with Glyph Rendering
+authors: Andreas Sigfridsson, Tino Ebbers, Einar Heiberg, Lars Wigstroem
+in_vis_citations: 
+delmarcelle_vis_92
+kirby_vis_99
+laidlaw_vis_98
+leeuw_vis_95
+

@@ -1,0 +1,8 @@
+title: Visualizing Changes of Hierarchical Data using Treemaps
+authors: Ying Tu, Han-Wei Shen
+in_vis_citations: 
+vanwijk_infovis_99
+wattensp_infovis_05
+vliegen_infovis_06
+johnson_vis_91
+

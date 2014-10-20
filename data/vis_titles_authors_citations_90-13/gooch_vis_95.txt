@@ -1,0 +1,4 @@
+title: Astronomers and their Shady Algorithms
+authors: Richard E. Gooch
+in_vis_citations: 
+

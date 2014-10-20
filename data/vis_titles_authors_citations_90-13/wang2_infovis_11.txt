@@ -1,0 +1,9 @@
+title: Focus+Context Metro Maps
+authors: Yu-Shuen Wang, Ming-Te Chi
+in_vis_citations: 
+keahey_infovis_97
+keahey_infovis_96
+wang_vis_08
+keahey_infovis_98
+wangl_vis_05
+

@@ -1,0 +1,4 @@
+title: Exploring N-Dimensional Databases
+authors: Jeffrey LeBlanc, Matthew O. Ward, Norman Wittels
+in_vis_citations: 
+

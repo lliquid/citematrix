@@ -1,0 +1,12 @@
+title: Detecting Symmetry in Scalar Fields Using Augmented Extremum Graphs
+authors: Dilip Mathew Thomas, Vijay Natarajan
+in_vis_citations: 
+edelsbru_vis_04
+zhou_vis_09
+thomas_vis_11
+schneide_vis_08
+correa1_vis_11
+gyulassy1_vis_07
+ushizima_vis_12
+laney_vis_06
+

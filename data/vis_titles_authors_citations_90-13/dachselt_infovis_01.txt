@@ -1,0 +1,7 @@
+title: Collapsible Cylindrical Trees: A Fast Hierarchical Navigation Technique
+authors: Raimund Dachselt, Juergen Ebert
+in_vis_citations: 
+munzner_infovis_97
+andrews_infovis_95
+johnson_vis_91
+

@@ -1,0 +1,7 @@
+title: Network Visualization by Semantic Substrates
+authors: Ben Shneiderman, Aleks Aris
+in_vis_citations: 
+ghoniem_infovis_04
+mcguffin_infovis_05
+heer_infovis_05
+

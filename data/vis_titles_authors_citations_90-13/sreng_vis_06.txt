@@ -1,0 +1,6 @@
+title: Using Visual Cues of Contact to Improve Interactive Manipulation of Virtual Objects in Industrial Assembly/Maintenance Simulations
+authors: Jean Sreng, Anatole Lecuyer, Christine Megard, Claude Andriot
+in_vis_citations: 
+otaduy_vis_01
+hu_vis_00
+

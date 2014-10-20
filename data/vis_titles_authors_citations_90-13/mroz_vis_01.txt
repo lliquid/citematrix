@@ -1,0 +1,12 @@
+title: RTVR - a flexible Java library for interactive volume rendering
+authors: Lukas Mroz, Helwig Hauser
+in_vis_citations: 
+mroz_vis_00
+tiede_vis_98
+ebert_vis_00
+engel_vis_00
+muigg_vis_11
+avila_vis_94
+engel_vis_99
+hauser_vis_00
+

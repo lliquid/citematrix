@@ -1,0 +1,9 @@
+title: Topological Structures of 3D Tensor Fields
+authors: Xiaoqiang Zheng, Beresford Parlett, Alex Pang
+in_vis_citations: 
+zheng_vis_04
+weinstei_vis_99
+delmarcelle_vis_94
+tricoche_vis_04
+theisel_vis_03
+

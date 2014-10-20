@@ -1,0 +1,14 @@
+title: Structuring Feature Space: A Non-Parametric Method for Volumetric Transfer Function Generation
+authors: Ross Maciejewski, Insoo Woo, Wei Chen, David S. Ebert
+in_vis_citations: 
+bachthal_vis_08
+fang_vis_98
+kindlman_vis_03
+shamir_vis_03
+kniss_vis_05
+correa_vis_08
+kniss_vis_01
+tzeng_vis_03
+svakhine_vis_05
+salama_vis_06
+

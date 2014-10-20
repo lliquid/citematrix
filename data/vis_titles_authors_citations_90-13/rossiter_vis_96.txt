@@ -1,0 +1,6 @@
+title: A System for the Complementary Visualization of 3D Volume Images using 2D and 3D Binaurally Processed Sonification Representations
+authors: David Rossiter, Wai-Yin Ng
+in_vis_citations: 
+wenzel_vis_90
+minghim_vis_95
+

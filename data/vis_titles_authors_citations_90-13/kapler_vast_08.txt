@@ -1,0 +1,8 @@
+title: Configurable Spaces: Temporal Analysis in Diagrammatic Contexts
+authors: Thomas Kapler, Ryan Eccles, Robert Harper, William Wright
+in_vis_citations: 
+card_vast_06
+vanham_infovis_01
+kapler_infovis_04
+brandes_infovis_02
+

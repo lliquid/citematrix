@@ -1,0 +1,4 @@
+title: Visualizing Usability Log Data
+authors: Mark Gray, Albert Badre, Mark Guzdial
+in_vis_citations: 
+

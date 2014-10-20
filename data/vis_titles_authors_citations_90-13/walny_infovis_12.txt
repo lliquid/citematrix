@@ -1,0 +1,9 @@
+title: Understanding Pen and Touch Interaction for Data Exploration on Interactive Whiteboards
+authors: Jagoda Walny, Bongshin Lee, Paul Johns, Nathalie Henry Riche, Sheelagh Carpendale
+in_vis_citations: 
+wood_infovis_12
+bostock_infovis_09
+walny_infovis_11
+isenberg_infovis_07
+grammel_infovis_10
+

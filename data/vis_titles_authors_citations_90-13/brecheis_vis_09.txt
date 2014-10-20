@@ -1,0 +1,13 @@
+title: Parameter Sensitivity Visualization in DTI Fiber Tracking
+authors: Ralph Brecheisen, Bram Platel, Anna Vilanova, Bart ter Haar Romeny
+in_vis_citations: 
+hadwiger_vis_08
+botchen_vis_05
+lundstroem_vis_07
+blaas_vis_05
+moberts_vis_05
+lodha2_vis_96
+weinstei_vis_99
+akers_vis_04
+wei_vis_01
+

@@ -1,0 +1,13 @@
+title: Capturing the Design Space of Sequential Space-Filling Layouts
+authors: Thomas Baudel, Bertjan Broeksema
+in_vis_citations: 
+johnson_vis_91
+heer2_infovis_06
+leblanc_vis_90
+vliegen_infovis_06
+wickham_infovis_11
+chi_infovis_98
+kong_infovis_10
+wood_infovis_08
+slingsby_infovis_09
+

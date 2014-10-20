@@ -1,0 +1,5 @@
+title: An Experimental Evaluation of Continuous Semantic Zooming in Program Visualization
+authors: Kenneth L. Summers, Timothy E. Goldsmith, Steve Kubica, Thomas P. Caudell
+in_vis_citations: 
+storey_infovis_97
+

@@ -1,0 +1,9 @@
+title: Taxonomy-Based Glyph Design - with a Case Study on Visualizing Workflows of Biological Experiments
+authors: Eamonn Maguire, Philippe Rocca-Serra, Susanna-Assunta Sansone, Jim Davies, Min Chen
+in_vis_citations: 
+kindlman_vis_06
+borgo_infovis_12
+chen_vis_10
+post_vis_95
+rohrer_infovis_98
+

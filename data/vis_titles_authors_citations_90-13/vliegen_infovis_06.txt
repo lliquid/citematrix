@@ -1,0 +1,9 @@
+title: Visualizing Business Data with Generalized Treemaps
+authors: Roel Vliegen, Jarke J. van Wijk, Erik-Jan van der Linden
+in_vis_citations: 
+wijk_vis_05
+barlow01_infovis_01
+johnson_vis_91
+lommerse_infovis_05
+wilson_infovis_99
+

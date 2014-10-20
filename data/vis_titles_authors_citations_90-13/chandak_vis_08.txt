@@ -1,0 +1,7 @@
+title: AD-Frustum: Adaptive Frustum Tracing for Interactive Sound Propagation
+authors: Anish Chandak, Christian Lauterbach, Micah Taylor, Zhimin Ren, Dinesh Manocha
+in_vis_citations: 
+michel_vis_07
+deines_vis_06
+bertram_vis_05
+

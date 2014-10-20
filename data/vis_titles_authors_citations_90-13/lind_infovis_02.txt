@@ -1,0 +1,5 @@
+title: The Illusion of Perceived Metric 3D Structure
+authors: Mats Lind, Geoffrey P. Bingham, Camilla Forsell
+in_vis_citations: 
+tavanti_infovis_01
+

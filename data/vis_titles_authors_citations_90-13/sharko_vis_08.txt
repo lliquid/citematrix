@@ -1,0 +1,7 @@
+title: Vectorized Radviz and Its Application to Multiple Cluster Datasets
+authors: John Sharko, Georges Grinstein, Kenneth A. Marx
+in_vis_citations: 
+peng_infovis_04
+hoffman_vis_97
+ankerst_infovis_98
+

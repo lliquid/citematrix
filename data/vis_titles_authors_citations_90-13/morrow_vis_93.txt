@@ -1,0 +1,4 @@
+title: DIVIDE: Distributed Visual Display of the Execution of Asynchronous, Distributed Algorithms on Loosely-Coupled Parallel Processors
+authors: Tom M. Morrow, Sumit Ghosh
+in_vis_citations: 
+

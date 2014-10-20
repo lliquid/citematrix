@@ -1,0 +1,12 @@
+title: Visualization and Exploration of Temporal Trend Relationships in Multivariate Time-Varying Data
+authors: Teng-Yok Lee, Han-Wei Shen
+in_vis_citations: 
+blaas_vis_08
+moran_vis_99
+mccormic_vis_04
+woodring_vis_03
+gosink_vis_07
+inselber_infovis_97
+wangchao_vis_08
+fails_vast_06
+

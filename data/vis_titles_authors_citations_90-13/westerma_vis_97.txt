@@ -1,0 +1,7 @@
+title: The VSBUFFER: Visibility Ordering of Unstructured Volume Primitives by Polygon Drawing
+authors: Ruediger Westermann, Thomas Ertl
+in_vis_citations: 
+wilhelms_vis_96
+gelder_vis_93
+krueger_vis_90
+

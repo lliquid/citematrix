@@ -1,0 +1,9 @@
+title: Space Efficient Fast Isosurface Extraction for Large Datasets
+authors: Udeepta D. Bordoloi, Han-Wei Shen
+in_vis_citations: 
+chiang_vis_98
+chiang_vis_97
+shen_vis_96
+gallagher_vis_91
+shen_vis_95
+

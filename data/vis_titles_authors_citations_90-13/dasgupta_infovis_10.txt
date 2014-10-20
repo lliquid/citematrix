@@ -1,0 +1,12 @@
+title: Pargnostics: Screen-Space Metrics for Parallel Coordinates
+authors: Aritra Dasgupta, Robert Kosara
+in_vis_citations: 
+wilkinso_infovis_05
+ellis_infovis_06
+inselberg_vis_90
+schneidewind_vast_06
+tatu_vast_09
+amar_infovis_05
+ankerst_infovis_98
+inselber_infovis_97
+

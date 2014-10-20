@@ -1,0 +1,5 @@
+title: Interactive Exploration and Modeling of Large Data Sets: A Case Study with Venus Light Scattering Data
+authors: Jarke J. van Wijk, Hans J. W. Spoelder, Willem-Jan Knibbe, Kamran Eftekhari Shahroudi
+in_vis_citations: 
+mulder_vis_95
+

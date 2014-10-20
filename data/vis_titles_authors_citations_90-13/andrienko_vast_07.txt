@@ -1,0 +1,4 @@
+title: Visual Analytics Approach to User-Controlled Evacuation Scheduling
+authors: Gennady Andrienko, Natalia Andrienko, Ulrich Bartling
+in_vis_citations: 
+

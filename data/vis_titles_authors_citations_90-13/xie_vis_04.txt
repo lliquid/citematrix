@@ -1,0 +1,5 @@
+title: Surface Reconstruction of Noisy and Defective Data Sets
+authors: Hui Xie, Kevin T. McDonnell, Hong Qin
+in_vis_citations: 
+xie_vis_03
+

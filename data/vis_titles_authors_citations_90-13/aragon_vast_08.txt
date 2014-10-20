@@ -1,0 +1,14 @@
+title: Using Visual Analytics to Maintain Situation Awareness in Astrophysics
+authors: Cecilia R. Aragon, Sarah S. Poon, Gregory S. Aldering, Rollin C. Thomas, Robert Quimby
+in_vis_citations: 
+shaw_vast_07
+tesone_vast_07
+maciejewski_vast_07
+scholtz_vast_06
+pan_vast_07
+eick_vast_07
+kim_vast_07
+pattath_vast_06
+liyingga_vis_06
+kapler_infovis_04
+

@@ -1,0 +1,16 @@
+title: Depth-Dependent Halos: Illustrative Rendering of Dense Line Data
+authors: Maarten H. Everts, Henk Bekker, Jos B.T.M. Roerdink, Senior Member, Tobias Isenberg
+in_vis_citations: 
+ebert_vis_00
+petrovic_vis_07
+ritter_vis_06
+treavett_vis_00
+blaas_vis_05
+tarini_vis_06
+stoll_vis_05
+melek_vis_06
+svakhine_vis_05
+bruckner_vis_07
+zoeckler_vis_96
+viola_vis_04
+

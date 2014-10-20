@@ -1,0 +1,4 @@
+title: Visual Analytics of Paleoceanographic Conditions
+authors: Roberto Theron
+in_vis_citations: 
+

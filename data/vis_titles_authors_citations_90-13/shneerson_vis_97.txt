@@ -1,0 +1,4 @@
+title: Visualization of Geometric Algorithms in an Electronic Classroom 
+authors: Maria Shneerson, Ayellet Tal
+in_vis_citations: 
+

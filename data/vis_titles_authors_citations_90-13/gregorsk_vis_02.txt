@@ -1,0 +1,14 @@
+title: Interactive View-Dependent Rendering Of Large Isosurfaces
+authors: Benjamin Gregorski, Mark Duchaineau, Peter Lindstrom, Valerio Pascucci, Kenneth I. Joy
+in_vis_citations: 
+roxborou_vis_00
+lindstrom02_vis_01
+engel_vis_99
+lindstrom01_vis_01
+zhou_vis_97
+wood_vis_00
+livnat_vis_98
+duchaine_vis_97
+gavriliu_vis_01
+gerstner_vis_00
+

@@ -1,0 +1,11 @@
+title: Transform Coding for Hardware-accelerated Volume Rendering
+authors: Nathaniel Fout, Kwan-Liu Ma
+in_vis_citations: 
+guthe_vis_02
+lum_vis_01
+mccormic_vis_04
+ning_vis_93
+lefohn_vis_03
+ghavamnia_vis_95
+schneide_vis_03
+

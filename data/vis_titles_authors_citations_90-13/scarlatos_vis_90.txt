@@ -1,0 +1,4 @@
+title: Hierarchical Triangulation Using Terrain Features
+authors: Lori Scarlatos
+in_vis_citations: 
+

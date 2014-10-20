@@ -1,0 +1,7 @@
+title: Face-based Luminance Matching for Perceptual Colormap Generation
+authors: Gordon Kindlmann, Erik Reinhard, Sarah Creem
+in_vis_citations: 
+bergman_vis_95
+rheingans_vis_92
+rogowitz_vis_01
+

@@ -1,0 +1,8 @@
+title: A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections
+authors: Jinwook Seo, Ben Shneiderman
+in_vis_citations: 
+ward_vis_94
+inselberg_vis_90
+yang_infovis_03
+ankerst_infovis_98
+

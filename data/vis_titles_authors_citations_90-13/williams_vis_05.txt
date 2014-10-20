@@ -1,0 +1,4 @@
+title: Sort-Middle Multi-Projector Immediate-Mode Rendering in Chromium
+authors: Jorge Luis Williams, Robert E. Hiromoto
+in_vis_citations: 
+

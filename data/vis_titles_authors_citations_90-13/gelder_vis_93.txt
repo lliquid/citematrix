@@ -1,0 +1,6 @@
+title: Rapid Exploration of Curvilinear Grids Using Direct Volume Rendering (Extended Abstract)
+authors: Allen Van Gelder, Jane Wilhelms
+in_vis_citations: 
+lucas2_vis_92
+williamsp_vis_92
+

@@ -1,0 +1,11 @@
+title: Multiresolution Multidimensional Wavelet Brushing
+authors: Pak Chung Wong, R. Daniel Bergerony
+in_vis_citations: 
+leblanc_vis_90
+keim_vis_93
+wong_vis_95
+ward_vis_94
+martin_vis_95
+wong_infovis_96
+inselberg_vis_90
+

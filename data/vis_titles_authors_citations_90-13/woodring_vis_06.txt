@@ -1,0 +1,10 @@
+title: Multi-variate, Time-varying, and Comparative Visualization with Contextual Cues
+authors: Jonathan Woodring, Han-Wei Shen
+in_vis_citations: 
+hanson_vis_93
+bruckner_vis_05
+mccormic_vis_04
+ebert_vis_00
+woodring_vis_03
+hansena_vis_92
+

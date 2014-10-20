@@ -1,0 +1,7 @@
+title: ThemeRiver: Visualizing Theme Changes over Time
+authors: Susan Havre, Beth Hetzler, Lucy Nowell
+in_vis_citations: 
+wise_infovis_95
+brodbeck_infovis_97
+hetzler_infovis_98
+

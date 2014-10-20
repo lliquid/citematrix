@@ -1,0 +1,7 @@
+title: Interactive Coordinated Multiple-View Visualization of Biomechanical Motion Data
+authors: Daniel F. Keefe, Marcus Ewert, William Ribarsky, Remco Chang
+in_vis_citations: 
+robertso_infovis_08
+oeltze_vis_07
+lam_infovis_08
+

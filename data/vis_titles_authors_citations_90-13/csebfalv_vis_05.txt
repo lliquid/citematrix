@@ -1,0 +1,10 @@
+title: Prefiltered Gaussian Reconstruction for High-Quality Rendering of Volumetric Data sampled on a Body-Centered Cubic Grid
+authors: Balazs Csebfalvii
+in_vis_citations: 
+li_vis_04
+entezari_vis_04
+theussl_vis_01
+moeller_vis_97
+marschner_vis_94
+carr_vis_01
+

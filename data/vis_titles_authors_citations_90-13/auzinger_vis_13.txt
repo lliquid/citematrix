@@ -1,0 +1,15 @@
+title: Vessel Visualization using Curved Surface Reformation
+authors: Thomas Auzinger, Gabriel Mistelbauer, Ivan Baclija, Ruediger Schernthaner, Arnold Koechl, Michael Wimmer, Eduard Groeller
+in_vis_citations: 
+everts_vis_09
+straka_vis_04
+kanitsar_vis_03
+mcguffin_vis_03
+viola_vis_06
+lampe_vis_09
+kanitsar1_vis_02
+correa1_vis_11
+saroul_vis_03
+jankunke_vis_06
+kanitsar_vis_01
+

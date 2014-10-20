@@ -1,0 +1,5 @@
+title: Scientific Visualization of Water Quality in the Chesapeake Bay
+authors: Robert Stein, Alan M. Shih, M. Pauline Baker, Carl F. Cerco, Mark R. Noel
+in_vis_citations: 
+schroeder_vis_96
+

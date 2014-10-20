@@ -1,0 +1,7 @@
+title: Compatible Triangulations of Spatial Decompositions
+authors: William J. Schroeder, Berk Geveci, Mathieu Malaterre
+in_vis_citations: 
+shekhar_vis_96
+zhou_vis_97
+nielson2_vis_97
+

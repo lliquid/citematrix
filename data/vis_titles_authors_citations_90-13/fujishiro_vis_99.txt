@@ -1,0 +1,5 @@
+title: Automating Transfer Function Design for Comprehensible Volume Rendering Based on 3D Field Topology Analysis
+authors: Issei Fujishiro, Taeko Azumat, Yuriko Takeshimat
+in_vis_citations: 
+he1_vis_96
+

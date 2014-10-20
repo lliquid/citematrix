@@ -1,0 +1,11 @@
+title: Time Dependent Processing in a Parallel Pipeline Architecture
+authors: John Biddiscombe, Berk Geveci, Ken Martin, Kenneth Moreland, David Thompson
+in_vis_citations: 
+kaehler_vis_05
+lucas1_vis_92
+childs_vis_05
+buja_vis_91
+ellswort_vis_04
+chi_infovis_00
+abram_vis_95
+

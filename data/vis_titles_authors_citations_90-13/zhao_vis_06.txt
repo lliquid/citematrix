@@ -1,0 +1,8 @@
+title: Lines of Curvature for Polyp Detection in Virtual Colonoscopy
+authors: Lingxiao Zhao, Charl P. Botha, Javier O. Bescos, Roel Truyen, Frans M. Vos, Frits H. Post
+in_vis_citations: 
+mebarki_vis_05
+verma_vis_00
+jiang_vis_02
+interrante_vis_95
+

@@ -1,0 +1,5 @@
+title: Deformable Volume Rendering by 3D Texture Mapping and Octree Encoding
+authors: Shiaofen Fang, Rajagopalan Srinivasan, Su Huang, Raghu Raghavan
+in_vis_citations: 
+he_vis_94
+

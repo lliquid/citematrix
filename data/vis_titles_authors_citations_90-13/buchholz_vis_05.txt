@@ -1,0 +1,7 @@
+title: View-Dependent Rendering of Multiresolution Texture-Atlases
+authors: Henrik Buchholz, Juergen Doellner
+in_vis_citations: 
+cline_vis_98
+hwa_vis_04
+doellner_vis_00
+

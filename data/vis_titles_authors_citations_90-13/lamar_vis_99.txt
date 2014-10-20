@@ -1,0 +1,4 @@
+title: Multiresolution Techniques for Interactive Texture-Based Volume Visualization
+authors: Eric LaMar, Bernd Hamann, Kenneth I. Joy
+in_vis_citations: 
+

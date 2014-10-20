@@ -1,0 +1,8 @@
+title: Visualizing intersecting surfaces with nested-surface techniques
+authors: Chris Weigle, Russell M. Taylor
+in_vis_citations: 
+healey_vis_96
+rheingans_vis_96
+kim_infovis_03
+nooruddi_vis_00
+

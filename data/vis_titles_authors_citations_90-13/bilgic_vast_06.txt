@@ -1,0 +1,4 @@
+title: D-Dupe: An Interactive Tool for Entity Resolution in Social Networks
+authors: Mustafa Bilgic, Louis Licamele, Lise Getoor, Ben Shneiderman
+in_vis_citations: 
+

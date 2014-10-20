@@ -1,0 +1,12 @@
+title: Hierarchical Parallel Coordinates for Exploration of Large Datasets
+authors: Ying-Huey Fua, Matthew O. Ward, Elke A. Rundensteiner
+in_vis_citations: 
+ward_vis_94
+fua_infovis_99
+wong_vis_96
+keim_vis_95
+leblanc_vis_90
+inselberg_vis_90
+wills_infovis_98
+martin_vis_95
+

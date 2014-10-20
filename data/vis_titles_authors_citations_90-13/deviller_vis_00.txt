@@ -1,0 +1,7 @@
+title: Geometric Compression For Interactive Transmission
+authors: Olivier Devillers, Pierre-Marie Gandoin
+in_vis_citations: 
+chow_vis_97
+bajaj_vis_99
+cohenor_vis_99
+

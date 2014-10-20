@@ -1,0 +1,5 @@
+title: SignalLens: Focus+Context Applied to Electronic Time Series
+authors: Robert Kincaid
+in_vis_citations: 
+kincaid_vast_09
+

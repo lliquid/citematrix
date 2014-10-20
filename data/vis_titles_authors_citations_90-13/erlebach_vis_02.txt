@@ -1,0 +1,5 @@
+title: Case Study: Visualization and Analysis of High Rayleigh number - 3D convection in the Earth's Mantle
+authors: Gordon Erlebacher, David A. Yuen, Fabien Dubuffet
+in_vis_citations: 
+helman_vis_90
+

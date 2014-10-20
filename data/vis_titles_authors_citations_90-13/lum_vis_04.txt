@@ -1,0 +1,8 @@
+title: Lighting Transfer Functions Using Gradient Aligned Sampling
+authors: Eric B. Lum, Kwan-Liu Ma
+in_vis_citations: 
+kniss_vis_01
+hauser_vis_00
+krueger_vis_90
+kindlman_vis_99
+

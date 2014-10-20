@@ -1,0 +1,5 @@
+title: Color, Change, and Control for Quantitative Data Display
+authors: Penny Rheingans
+in_vis_citations: 
+pham_vis_90
+

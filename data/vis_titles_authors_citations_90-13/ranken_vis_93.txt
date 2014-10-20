@@ -1,0 +1,4 @@
+title: MRIVIEW: An Interactive Computational Tool for Investigation of Brain Structure and Function
+authors: Doug Ranken, John George
+in_vis_citations: 
+

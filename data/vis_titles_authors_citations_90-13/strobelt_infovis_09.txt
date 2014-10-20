@@ -1,0 +1,4 @@
+title: Document Cards: A Top Trumps Visualization for Documents
+authors: Hendrik Strobelt, Daniela Oelke, Christian Rohrdantz, Andreas Stoffel, Daniel A. Keim, Oliver Deussen
+in_vis_citations: 
+

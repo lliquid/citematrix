@@ -1,0 +1,8 @@
+title: Dynamic Color Mapping of Bivariate Qualitative Data
+authors: Penny Rheingans
+in_vis_citations: 
+rheingans_vis_92
+bergman_vis_95
+levkowitz_vis_91
+lucas1_vis_92
+

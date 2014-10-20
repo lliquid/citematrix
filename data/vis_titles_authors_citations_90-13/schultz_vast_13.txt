@@ -1,0 +1,15 @@
+title: Open-Box Spectral Clustering: Applications to Medical Image Analysis
+authors: Thomas Schultz, Gordon L. Kindlmann
+in_vis_citations: 
+tzeng_vis_05
+oelke_vast_10
+rheingans_vis_00
+tatu_vast_12
+jianu_vis_09
+chenwei2_vis_09
+kindlman_vis_09
+schultz_vis_10
+fuchs_vis_09
+torsneyweir_vis_11
+pretorius_infovis_11
+

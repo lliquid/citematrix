@@ -1,0 +1,8 @@
+title: Turning the Bucket of Text into a Pipe
+authors: Elizabeth G. Hetzler, Vernon L. Crow, Deborah A. Payne, Alan E. Turner
+in_vis_citations: 
+nowell_infovis_01
+brandes_infovis_02
+wongp_infovis_03
+chi_infovis_99
+

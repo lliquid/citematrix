@@ -1,0 +1,10 @@
+title: Semantic Image Browser: Bridging Information Visualization with Automated Intelligent Image Analysis
+authors: Jing Yang, Jianping Fan, Daniel Hubball, Yuli Gao, Hangzai Luo, William Ribarsky, Matthew Ward
+in_vis_citations: 
+rodden_infovis_99
+wise_infovis_95
+jankunk_infovis_03
+keim_vis_95
+yang_infovis_04
+bentley_infovis_96
+

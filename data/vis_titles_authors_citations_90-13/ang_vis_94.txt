@@ -1,0 +1,5 @@
+title: Integrated Control of Distributed Volume Visualization Through the World-Wide-Web
+authors: Cheong S. Ang, M. S. David, C. Martin, M. S. Michael, D. Doyle
+in_vis_citations: 
+avila_vis_92
+

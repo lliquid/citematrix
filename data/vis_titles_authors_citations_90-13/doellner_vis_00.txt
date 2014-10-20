@@ -1,0 +1,12 @@
+title: Texturing Techniques for Terrain Visualization
+authors: Juergen Doellner, Konstantin Baumann, Klaus Hinrichs
+in_vis_citations: 
+cline_vis_98
+cignoni_vis_98
+hoppe_vis_99
+defloriani_vis_98
+davis_vis_98
+gross_vis_95
+chen2_vis_99
+pajarola_vis_98
+

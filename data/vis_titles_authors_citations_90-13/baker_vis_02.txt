@@ -1,0 +1,4 @@
+title: GeneVis: Visualization Tools for Genetic Regulatory Network Dynamics
+authors: C. A. H. Baker, M. S. T. Carpendale, P. Prusinkiewicz, M. G. Surette
+in_vis_citations: 
+

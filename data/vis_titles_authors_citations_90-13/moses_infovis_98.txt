@@ -1,0 +1,5 @@
+title: Algorithm Visualization For Distributed Environments 
+authors: Yoram Moses, Zvi Polunsky, Ayellet Tall
+in_vis_citations: 
+shneerson_vis_97
+

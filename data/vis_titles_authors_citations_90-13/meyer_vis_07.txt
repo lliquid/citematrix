@@ -1,0 +1,10 @@
+title: Topology, Accuracy, and Quality of Isosurface Meshes Using Dynamic Particles
+authors: Miriah Meyer, Robert M. Kirby, Ross Whitaker
+in_vis_citations: 
+tasdizen_vis_02
+kindlman_vis_03
+vanwijk_vis_03
+schreine_vis_06
+nielson_vis_02
+wood_vis_00
+

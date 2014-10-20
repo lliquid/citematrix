@@ -1,0 +1,6 @@
+title: Building Perceptual Textures to Visualize Multidimensional Datasets
+authors: Christopher G. Healey, James T. Enns
+in_vis_citations: 
+healey_vis_96
+rao_vis_93
+

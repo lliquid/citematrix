@@ -1,0 +1,4 @@
+title: Archaeological Data Visualization in VR: Analysis of Lamp Finds at the Great Temple of Petra, a Case Study
+authors: Daniel Acevedo, Eileen Vote, David H. Laidlaw, Martha S. Joukowsky
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Dichromatic Color Representations for Complex Display Systems
+authors: Mark S. Peercy, Lambertus Hesselink
+in_vis_citations: 
+

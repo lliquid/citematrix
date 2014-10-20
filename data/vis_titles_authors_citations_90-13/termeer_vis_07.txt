@@ -1,0 +1,8 @@
+title: CoViCAD: Comprehensive Visualization of Coronary Artery Disease
+authors: Maurice Termeer, Javier Olivan Bescos, Marcel Breeuwer, Anna Vilanova, Frans Gerritsen, Eduard Groeller
+in_vis_citations: 
+hadwiger_vis_03
+kanitsar1_vis_02
+viola_vis_06
+straka_vis_04
+

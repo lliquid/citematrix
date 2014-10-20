@@ -1,0 +1,6 @@
+title: Ambient occlusion and edge cueing to enhance real time molecular visualization
+authors: Marco Tarini, Paolo Cignoni, Claudio Montani
+in_vis_citations: 
+ebert_vis_00
+stewart_vis_03
+

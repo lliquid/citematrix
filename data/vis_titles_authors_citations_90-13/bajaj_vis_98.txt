@@ -1,0 +1,12 @@
+title: Visualization of Scalar Topology for Structural Enhancement
+authors: C. L. Bajaj, V. Pascucci, D. R. Schikore
+in_vis_citations: 
+gershon_vis_92
+bergman_vis_95
+nielson_vis_91
+lorensen_vis_95
+globus_vis_91
+bajaj_vis_97
+itoh_vis_94
+interrante_vis_95
+

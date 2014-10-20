@@ -1,0 +1,7 @@
+title: Efficient Co-Triangulation of Large Data Sets
+authors: Henrik Weimer, Joe Warren, Jane Troutner, Wendell Wiggins, John Shrout
+in_vis_citations: 
+margaliot_vis_94
+klein_vis_96
+han_vis_96
+

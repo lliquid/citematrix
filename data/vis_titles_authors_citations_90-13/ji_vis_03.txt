@@ -1,0 +1,12 @@
+title: Volume Tracking Using Higher Dimensional Isosurfacing
+authors: Guangfeng Ji, Han-Wei Shen, Rephael Wenger
+in_vis_citations: 
+bhanira_vis_00
+silver_vis_98
+weigle_vis_96
+pascucci_vis_02
+silver_vis_96
+gerstner_vis_00
+guo_vis_95
+nielson2_vis_97
+

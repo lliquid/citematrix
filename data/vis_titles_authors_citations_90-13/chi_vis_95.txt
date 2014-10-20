@@ -1,0 +1,5 @@
+title: Visualization of Biological Sequence Similarity Search Results
+authors: Ed Huai-hsin Chi, Phillip Barry, Elizabeth Shoop, John V. Carlis, Ernest Retzel, John Riedl
+in_vis_citations: 
+wu_vis_93
+

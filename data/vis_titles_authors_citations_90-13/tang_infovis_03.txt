@@ -1,0 +1,11 @@
+title: Design Choices when Architecting Visualizations
+authors: Diane Tang, Chris Stolte, Robert Bosch
+in_vis_citations: 
+chuah_infovis_96
+fekete_infovis_02
+lee_vis_95
+chi_infovis_98
+stolte_infovis_02
+stolte_infovis_00
+lucas1_vis_92
+

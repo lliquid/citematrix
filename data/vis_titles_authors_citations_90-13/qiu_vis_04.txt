@@ -1,0 +1,8 @@
+title: Dispersion Simulation and Visualization for Urban Security
+authors: Feng Qiu, Ye Zhao, Zhe Fan, Xiaoming Wei, Haik Lorenz, Jianning Wang, Suzanne Yoakum-Stover, Arie Kaufman, Klaus Mueller
+in_vis_citations: 
+zhao_vis_03
+kniss_vis_02
+wei_vis_02
+crawfis_vis_93
+

@@ -1,0 +1,4 @@
+title: Visualization of Plant Growth
+authors: Jeremy J. Loomis, Michael L. Evans
+in_vis_citations: 
+

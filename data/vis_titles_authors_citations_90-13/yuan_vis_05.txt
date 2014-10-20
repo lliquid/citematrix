@@ -1,0 +1,6 @@
+title: High Dynamic Range Volume Visualization
+authors: Xiaoru Yuan, Minh X. Nguyen, Baoquan Chen, David H. Porter
+in_vis_citations: 
+munzner_infovis_97
+lamar_vis_99
+

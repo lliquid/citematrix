@@ -1,0 +1,4 @@
+title: Surface Reconstruction with Anisotropic Density-Scaled Alpha Shapes
+authors: Marek Teichmann, Michael Capps
+in_vis_citations: 
+

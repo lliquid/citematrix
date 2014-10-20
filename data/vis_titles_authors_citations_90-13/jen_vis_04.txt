@@ -1,0 +1,7 @@
+title: ImageSurfer: A Tool for Visualizing Correlations between Two Volume Scalar Fields
+authors: Dennis Jen, Peter Parente, Jonathan Robbins, Christopher Weigle, Russell M. Taylor, Richard Weinberg
+in_vis_citations: 
+kniss_vis_01
+monks_vis_96
+deleeuw_vis_00
+

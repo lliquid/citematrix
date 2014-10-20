@@ -1,0 +1,4 @@
+title: ScentIndex: Conceptually Reorganizing Subject Indexes for Reading
+authors: Ed H. Chi, Lichan Hong, Julie Heiser, Stuart K. Card
+in_vis_citations: 
+

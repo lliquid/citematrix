@@ -1,0 +1,4 @@
+title: Developing Architectural Lighting Representations
+authors: Daniel C. Glaser, Roger Tan, John Canny, Ellen Yi-Luen Do
+in_vis_citations: 
+

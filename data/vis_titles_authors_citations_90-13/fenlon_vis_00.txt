@@ -1,0 +1,4 @@
+title: An Integrated Visualization And Design Toolkit For Flexible Prosthetic Heart Valves
+authors: A. J. Fenlon, T. David, J. P. R. B. Walton
+in_vis_citations: 
+

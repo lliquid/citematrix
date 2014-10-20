@@ -1,0 +1,4 @@
+title: A Three-Dimensional/Stereoscopic Display and Model Control System for Great Lakes Forecasts
+authors: Chieh-Cheng J. Yen, Keith W. Bedford, Jill L. Kempf
+in_vis_citations: 
+

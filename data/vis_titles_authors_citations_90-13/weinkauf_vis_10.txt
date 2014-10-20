@@ -1,0 +1,17 @@
+title: Streak Lines as Tangent Curves of a Derived Vector Field
+authors: Tino Weinkauf, Holger Theisel
+in_vis_citations: 
+wiebel_vis_07
+theisel_vis_05
+weinkauf_vis_07
+burger_vis_09
+sadlo_vis_07
+theisel_vis_04
+garth_vis_08
+krishnan_vis_09
+mebarki_vis_05
+peikert_vis_99
+hultquist1_vis_92
+vonfunck_vis_08
+garth_vis_07
+

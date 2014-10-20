@@ -1,0 +1,7 @@
+title: Balancing Interactive Data Management of Massive Data with Situational Awareness through Smart Aggregation
+authors: Daniel R. Tesone, John R. Goodall
+in_vis_citations: 
+bethel_vast_06
+stocking_vis_05
+amar_infovis_04
+

@@ -1,0 +1,4 @@
+title: Multi-Scale Banking to 45 degrees
+authors: Jeffrey Heer, Maneesh Agrawala
+in_vis_citations: 
+

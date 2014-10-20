@@ -1,0 +1,8 @@
+title: Fast, Memory-Efficient Cell Location in Unstructured Grids for Visualization
+authors: Christoph Garth, Kenneth I. Joy
+in_vis_citations: 
+vonfunck_vis_08
+garth_vis_08
+childs_vis_05
+burger_vis_09
+

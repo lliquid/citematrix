@@ -1,0 +1,5 @@
+title: Case Study: Interactive Rendering of Adaptive Mesh Refinement Data
+authors: Sanghun Park, Chandrajit L. Bajaj, Vinay Siddavanahalli
+in_vis_citations: 
+crawfis_vis_93
+

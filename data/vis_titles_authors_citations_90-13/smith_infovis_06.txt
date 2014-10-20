@@ -1,0 +1,9 @@
+title: FacetMap: A Scalable Search and Browse Visualization
+authors: Greg Smith, Mary Czerwinski, Brian Meyers, Daniel Robbins, George Robertson, Desney S. Tan
+in_vis_citations: 
+hetzler_infovis_98
+stolte_infovis_00
+fekete_infovis_02
+jerding_infovis_95
+johnson_vis_91
+

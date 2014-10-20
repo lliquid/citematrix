@@ -1,0 +1,4 @@
+title: Shape Simplification Based on the Medial Axis Transform
+authors: Roger Tam, Wolfgang Heidrich
+in_vis_citations: 
+

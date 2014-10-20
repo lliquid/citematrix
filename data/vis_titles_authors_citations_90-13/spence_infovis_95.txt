@@ -1,0 +1,4 @@
+title: Visualisation For Functional Design
+authors: Bob Spence, Lisa Tweedie, Huw Dawkes, Hua Su
+in_vis_citations: 
+

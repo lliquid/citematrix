@@ -1,0 +1,13 @@
+title: A Correlative Analysis Process in a Visual Analytics Environment
+authors: Abish Malik, Ross Maciejewski, Yun Jang, Whitney Huang, Niklas Elmqvist, David S. Ebert
+in_vis_citations: 
+hao_infovis_05
+krstajic_infovis_11
+kincaid_infovis_10
+vanwijk2_infovis_99
+vanwijk2_infovis_99
+stasko_vast_07
+heer_infovis_07
+javed_infovis_10
+zhao_infovis_11
+

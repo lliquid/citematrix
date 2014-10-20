@@ -1,0 +1,5 @@
+title: Generating Hypotheses of Trends in High-Dimensional Data Skeletons
+authors: Chandan K. Reddy, Snehal Pokharkar, Tin Kam Ho
+in_vis_citations: 
+nam_vast_07
+

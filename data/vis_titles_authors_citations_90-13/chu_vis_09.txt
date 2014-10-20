@@ -1,0 +1,11 @@
+title: GL4D: A GPU-based Architecture for Interactive 4D Visualization
+authors: Alan Chu, Chi-Wing Fu, Andrew J. Hanson, Pheng-Ann Heng
+in_vis_citations: 
+duffin_vis_94
+bhanira_vis_00
+hansena_vis_92
+hanson_vis_05
+zhang_vis_07
+cross_vis_94
+hanson_vis_93
+

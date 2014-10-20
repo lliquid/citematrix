@@ -1,0 +1,4 @@
+title: Traversal-based Visualization of Data Structures
+authors: Jeffrey L. Korn, Andrew W. Appel
+in_vis_citations: 
+

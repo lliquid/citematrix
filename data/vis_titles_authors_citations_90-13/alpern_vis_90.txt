@@ -1,0 +1,4 @@
+title: Visualizing Computer Memory Architectures
+authors: Bowen Alpern, Larry Carter, Ted Selker
+in_vis_citations: 
+

@@ -1,0 +1,8 @@
+title: An Architecture for a Scientific Visualization System
+authors: Bruce Lucas, Gregory D. Abram, Nancy S. Collins, David A. Epstein, Donna L. Gresh, Kevin P. McAuliffe
+in_vis_citations: 
+brittain_vis_90
+lucas2_vis_92
+haber_vis_91
+legensky_vis_91
+

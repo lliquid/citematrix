@@ -1,0 +1,11 @@
+title: Balancing Systematic and Flexible Exploration of Social Networks
+authors: Adam Perer, Ben Shneiderman
+in_vis_citations: 
+auber_infovis_03
+vanham_infovis_04
+ghoniem_infovis_04
+kang_vast_06
+munzner_infovis_97
+gansner_infovis_04
+heer_infovis_05
+

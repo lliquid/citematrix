@@ -1,0 +1,9 @@
+title: Helping Users Recall Their Reasoning Process
+authors: Heather Richter Lipford, Felesia Stukes, Wenwen Dou, Matthew E. Hawkins, Remco Chang
+in_vis_citations: 
+heer_infovis_08
+eccles_vast_07
+gotz_vast_08
+jeong_vast_08
+chang_vast_07
+

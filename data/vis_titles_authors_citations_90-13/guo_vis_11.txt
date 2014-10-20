@@ -1,0 +1,18 @@
+title: WYSIWYG (What You See is What You Get) Volume Visualization
+authors: Hanqi Guo, Ningyu Mao, Xiaoru Yuan
+in_vis_citations: 
+ament_vis_10
+fang_vis_98
+buorger_vis_08
+kindlman_vis_03
+rautek_vis_07
+he1_vis_96
+correa_vis_09
+correa_vis_08
+hadwiger_vis_03
+tzeng_vis_03
+ebert_vis_00
+bruckner_vis_05
+bajaj_vis_97
+salama_vis_06
+

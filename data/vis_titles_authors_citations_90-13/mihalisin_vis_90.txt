@@ -1,0 +1,4 @@
+title: Visualizing a Scalar Field on an N-dimensional Lattice
+authors: Ted Mihalisin, E. Grawlinksi, John Timlin, J. Schwegler
+in_vis_citations: 
+

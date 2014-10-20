@@ -1,0 +1,10 @@
+title: Contextualized Videos: Combining Videos with Environment Models to Support Situational Understanding
+authors: Yi Wang, David M. Krum, Enylton M. Coelho, Doug A. Bowman
+in_vis_citations: 
+tory_vis_03
+chen_vis_06
+daniel_vis_03
+mcguffin_vis_03
+velez_vis_05
+house_vis_05
+

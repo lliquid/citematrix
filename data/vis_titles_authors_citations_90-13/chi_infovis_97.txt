@@ -1,0 +1,10 @@
+title: A Spreadsheet Approach to Information Visualization
+authors: Ed Huai-hsin Chi, Phillip Barry, John Riedl, Joseph Konstan
+in_vis_citations: 
+chi_vis_96
+schroeder_vis_96
+varshney_infovis_96
+anupam_infovis_95
+chi_vis_95
+vanwijk1_vis_93
+

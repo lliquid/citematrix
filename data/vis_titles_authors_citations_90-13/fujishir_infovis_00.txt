@@ -1,0 +1,8 @@
+title: GADGET/IV: A Taxonomic Approach to Semi-Automatic Design of Information Visualization Applications Using Modular Visualization Environment
+authors: Issei Fujishiro, Rika Furuhata, Yoshihiko Ichikawa, Yuriko Takeshima
+in_vis_citations: 
+derthick_infovis_97
+fujishir_vis_97
+card_infovis_97
+wehrend_vis_90
+

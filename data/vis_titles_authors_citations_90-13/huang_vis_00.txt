@@ -1,0 +1,7 @@
+title: FastSplats: Optimized Splatting on Rectilinear Grids
+authors: Jian Huang, Klaus Mueller, Naeem Shareef, Roger Crawfis
+in_vis_citations: 
+mueller_vis_99
+crawfis_vis_93
+chen1_vis_99
+

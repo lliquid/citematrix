@@ -1,0 +1,4 @@
+title: WORLDMAPPER: the world as you've never seen it before
+authors: Danny Dorling, Anna Barford, Mark Newman
+in_vis_citations: 
+

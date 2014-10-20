@@ -1,0 +1,7 @@
+title: The Software Interface to the 3D-Force Microscope
+authors: David Marshburn, Chris Weigle, Benjamin G. Wilde, Russell M. Taylor, Kalpit Desai, J. K. Fisher, Jeremy Cribb, E. Timothy O'Brien, R. Superfine
+in_vis_citations: 
+taylor_vis_97
+interrante_vis_96
+sakas_vis_96
+

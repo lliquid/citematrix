@@ -1,0 +1,7 @@
+title: Visualizing Gyrokinetic Simulations
+authors: David Crawford, Kwan-Liu Ma, Min-Yu Huang, Scott Klasky, Stephane Ethier
+in_vis_citations: 
+lum_vis_01
+woodring_vis_03
+schneide_vis_03
+

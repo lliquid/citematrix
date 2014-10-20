@@ -1,0 +1,6 @@
+title: Stories in GeoTime
+authors: Ryan Eccles, Thomas Kapler, Robert Harper, William Wright
+in_vis_citations: 
+kapler_infovis_04
+xiao_vast_06
+

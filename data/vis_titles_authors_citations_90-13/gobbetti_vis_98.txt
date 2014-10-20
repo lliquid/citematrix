@@ -1,0 +1,5 @@
+title: Interactive Virtual Angioscopy
+authors: Enrico Gobbetti, Piero Pili, Antonio Zorcolo, Massimiliano Tuveri
+in_vis_citations: 
+you_vis_97
+

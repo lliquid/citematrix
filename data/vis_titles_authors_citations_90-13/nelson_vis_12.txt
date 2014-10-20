@@ -1,0 +1,9 @@
+title: ElVis: A System for the Accurate and Interactive Visualization of High-Order Finite Element Solutions
+authors: Blake Nelson, Eric Liu, Robert Haimes, Robert M. Kirby
+in_vis_citations: 
+schroede_vis_05
+haimes_vis_91
+brasher_vis_04
+zhou_vis_06
+nelson_vis_11
+

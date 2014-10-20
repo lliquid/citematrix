@@ -1,0 +1,5 @@
+title: Case Study: Flow Visualization for Turbomachinery Design
+authors: Martin Roth, Ronald Peikert
+in_vis_citations: 
+globus_vis_91
+

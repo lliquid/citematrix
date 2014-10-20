@@ -1,0 +1,4 @@
+title: Case Study: Visualizing Customer Segmentations Produced by Self Organizing Maps
+authors: Holly Rushmeier, Richard Lawrence, George Almasi
+in_vis_citations: 
+

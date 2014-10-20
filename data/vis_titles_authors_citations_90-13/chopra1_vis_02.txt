@@ -1,0 +1,10 @@
+title: TetFusion: An Algorithm For Rapid Tetrahedral Mesh Simplification
+authors: Prashant Chopra, Joerg Meyer
+in_vis_citations: 
+staadt_vis_98
+schroede_vis_97
+gumhold_vis_99
+cignoni_vis_00
+trotts_vis_98
+pajarola_vis_99
+

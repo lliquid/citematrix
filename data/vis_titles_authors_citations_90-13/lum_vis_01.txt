@@ -1,0 +1,9 @@
+title: Texture Hardware Assisted Rendering of Time-Varying Volume Data
+authors: Eric B. Lum, Kwan-Liu Ma, John Clynet
+in_vis_citations: 
+shen_vis_99
+shen_vis_94
+westermann_vis_95
+rowlan_vis_94
+sutton_vis_99
+

@@ -1,0 +1,5 @@
+title: Collapsing Flow Topology Using Area Metrics
+authors: Wim de Leeuw, Robert van Liere
+in_vis_citations: 
+globus_vis_91
+

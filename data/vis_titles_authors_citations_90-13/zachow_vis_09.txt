@@ -1,0 +1,11 @@
+title: Visual Exploration of Nasal Airflow
+authors: Stefan Zachow, Philipp Muigg, Thomas Hildebrandt, Helmut Doleisch, Hans-Christian Hege
+in_vis_citations: 
+kehrer_vis_08
+muigg_vis_07
+weiler_vis_03
+gresh_vis_00
+inselberg_vis_90
+bavoil_vis_05
+novotny_vis_06
+

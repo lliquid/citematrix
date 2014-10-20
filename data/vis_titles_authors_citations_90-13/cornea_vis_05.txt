@@ -1,0 +1,11 @@
+title: Curve-Skeleton Applications
+authors: Nicu D. Cornea, Deborah Silver, Patrick Min
+in_vis_citations: 
+santilli_vis_04
+straka_vis_04
+kanitsar1_vis_02
+banks_vis_94
+bartz_vis_99
+kanitsar_vis_03
+wan_vis_01
+

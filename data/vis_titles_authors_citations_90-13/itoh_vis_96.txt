@@ -1,0 +1,5 @@
+title: Volume Thinning for Automatic Isosurface Propagation
+authors: Takayuki Itoh, Yasushi Yamaguchi, Koji Koyamada
+in_vis_citations: 
+gallagher_vis_91
+

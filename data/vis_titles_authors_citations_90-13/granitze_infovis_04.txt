@@ -1,0 +1,6 @@
+title: Evaluating a System for Interactive Exploration of Large, Hierarchically Structured Document Repositories
+authors: Michael Granitzer, Wolfgang Kienreich, Vedran Sabol, Keith Andrews, Werner Klieber
+in_vis_citations: 
+chalmers_vis_96
+munzner_infovis_97
+

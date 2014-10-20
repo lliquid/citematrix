@@ -1,0 +1,6 @@
+title: GRASPARC - A Problem Solving Environment Integrating Computation and Visualization
+authors: Ken Brodlie, Andrew Poon, Helen Wright
+in_vis_citations: 
+lucas1_vis_92
+haber_vis_91
+

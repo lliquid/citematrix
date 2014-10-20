@@ -1,0 +1,7 @@
+title: Hue-Preserving Color Blending
+authors: Johnson Chuang, Daniel Weiskopf, Torsten Moeller
+in_vis_citations: 
+healey_vis_96
+wangluji_vis_08
+bair_vis_06
+

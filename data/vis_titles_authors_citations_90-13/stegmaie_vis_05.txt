@@ -1,0 +1,10 @@
+title: Opening the Can of Worms: An Exploration Tool for Vortical Flows
+authors: Simon Stegmaier, Ulrich Rist, Thomas Ertl
+in_vis_citations: 
+helman_vis_90
+kenwright_vis_98
+banks_vis_94
+stegmaie_vis_04
+silver_vis_98
+roth_vis_98
+

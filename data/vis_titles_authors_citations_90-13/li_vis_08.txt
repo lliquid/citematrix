@@ -1,0 +1,15 @@
+title: Visualizing Multiwavelength Astrophysical Data
+authors: Hongwei Li, Chi-Wing Fu, Andrew J. Hanson
+in_vis_citations: 
+hopf_vis_03
+millerja_vis_06
+gooch_vis_95
+liyingga_vis_06
+hansena_vis_92
+kaehler_vis_02
+li_vis_07
+daniel_vis_03
+magnor_vis_05
+magnor_vis_04
+navratil_vis_07
+

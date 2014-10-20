@@ -1,0 +1,5 @@
+title: Multiscale Visualization Using Data Cubes
+authors: Chris Stolte, Diane Tang, Pat Hanrahan
+in_vis_citations: 
+stolte_infovis_00
+

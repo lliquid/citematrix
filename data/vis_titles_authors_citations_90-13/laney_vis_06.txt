@@ -1,0 +1,14 @@
+title: Understanding the Structure of the Turbulent Mixing Layer in Hydrodynamic Instabilities
+authors: D. Laney, P.-T. Bremer, A. Mascarenhas, P. Miller, V. Pascucci
+in_vis_citations: 
+theisel_vis_03
+weber_vis_02
+weinkauf_vis_05
+tricoche_vis_00
+carr_vis_04
+isenburg_vis_03
+garth_vis_04
+deleeuw_vis_99
+silver_vis_98
+gyulassy_vis_05
+

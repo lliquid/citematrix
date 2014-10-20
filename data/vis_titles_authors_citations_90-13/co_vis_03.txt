@@ -1,0 +1,9 @@
+title: Hierarchical Clustering for Unstructured Volumetric Scalar Fields
+authors: Christopher S. Co, Bjoern Heckel, Hans Hagen, Bernd Hamann, Kenneth I. Joy
+in_vis_citations: 
+shaffer_vis_01
+staadt_vis_98
+heckel_vis_99
+shekhar_vis_96
+pauly_vis_02
+

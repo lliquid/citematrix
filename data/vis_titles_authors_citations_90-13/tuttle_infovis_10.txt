@@ -1,0 +1,12 @@
+title: PedVis: A Structured, Space-Efficient Technique for Pedigree Visualization
+authors: Claurissa Tuttle, Luis Gustavo Nonato, Claudio T. Silva
+in_vis_citations: 
+muelder_infovis_08
+henry_infovis_08
+mcguffin_infovis_05
+vanwijk_infovis_03
+johnson_vis_91
+nguyen_infovis_02
+plaisant_infovis_02
+munzner_infovis_97
+

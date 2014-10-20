@@ -1,0 +1,6 @@
+title: Case Study: Visual Debugging Of Finite Element Codes
+authors: Patricia Crossno, David H. Rogers, Christopher J. Garasi
+in_vis_citations: 
+crossno2_vis_99
+crossno_vis_01
+

@@ -1,0 +1,9 @@
+title: Characterizing and Visualizing Predictive Uncertainty in Numerical Ensembles Through Bayesian Model Averaging
+authors: Luke Gosink, Kevin Bensema, Trenton Pulsipher, Harald Obermaier, Michael Henry, Hank Childs, Kenneth Joy
+in_vis_citations: 
+grigorya_vis_02
+botchen_vis_05
+lodha2_vis_96
+prassni_vis_10
+sanyal_vis_10
+

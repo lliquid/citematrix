@@ -1,0 +1,11 @@
+title: Volume Rendering of Fine Details Within Medical Data
+authors: Feng Dong, Gordon J. Clapworthy, Mel Krokos
+in_vis_citations: 
+swan_vis_97
+avila_vis_94
+wan1_vis_99
+mueller_vis_98
+mueller_vis_99
+tiede_vis_98
+moeller_vis_97
+

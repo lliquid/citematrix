@@ -1,0 +1,11 @@
+title: Exploring 2D Tensor Fields Using Stress Nets
+authors: Andrew Wilson, Rebecca Brannon
+in_vis_citations: 
+boring_vis_98
+delmarcelle_vis_92
+zhukov_vis_02
+delmarcelle_vis_94
+weinstei_vis_99
+verma_vis_00
+leeuw_vis_93
+

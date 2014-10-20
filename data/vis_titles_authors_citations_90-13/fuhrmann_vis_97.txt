@@ -1,0 +1,5 @@
+title: Collaborative Augmented Reality: Exploring Dynamical Systems
+authors: Anton Fuhrmann, Helwig Loeffelmann, Dieter Schmalstieg
+in_vis_citations: 
+obeysekare_vis_96
+

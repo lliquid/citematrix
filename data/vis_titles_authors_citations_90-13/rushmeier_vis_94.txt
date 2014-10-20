@@ -1,0 +1,4 @@
+title: Case Study: Volume Rendering of Pool Fire Data
+authors: H. E. Rushmeier, A. Hamins, M.-Y. Choi
+in_vis_citations: 
+

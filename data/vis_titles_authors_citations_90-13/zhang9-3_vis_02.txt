@@ -1,0 +1,6 @@
+title: Visibility-Guided Simplification
+authors: Eugene Zhang, Greg Turk
+in_vis_citations: 
+hoppe_vis_99
+nooruddi_vis_00
+

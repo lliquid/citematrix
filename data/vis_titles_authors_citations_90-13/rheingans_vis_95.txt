@@ -1,0 +1,4 @@
+title: Interactive 3D Visualization of Actual Anatomy and Simulated Chemical Time-course Data for Fish
+authors: Penny Rheingans, Martin Marietta, John Nichols
+in_vis_citations: 
+

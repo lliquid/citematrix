@@ -1,0 +1,9 @@
+title: ASK-GraphView : A Large Scale Graph Visualization System
+authors: James Abello, Frank van Ham, Neeraj Krishnan
+in_vis_citations: 
+abello_infovis_04
+slack_infovis_05
+gansner_infovis_04
+munzner_infovis_97
+vanham_infovis_04
+

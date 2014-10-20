@@ -1,0 +1,10 @@
+title: A Knowledge Task-Based Framework for Design and Evaluation of Information Visualizations
+authors: Robert Amar, John Stasko
+in_vis_citations: 
+wise_infovis_95
+glaser_infovis_03
+vanham_infovis_03
+kobsa_infovis_01
+spell_infovis_03
+wehrend_vis_90
+

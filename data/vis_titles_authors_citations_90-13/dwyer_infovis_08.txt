@@ -1,0 +1,13 @@
+title: Exploration of Networks Using Overview+Detail with Constraint-based Cooperative Layout
+authors: Tim Dwyer, Kim Marriott, Falk Schreiber, Peter J. Stuckey, Michael Woodward, Michael Wybrow
+in_vis_citations: 
+koren_infovis_02
+perer_infovis_06
+dwyer_infovis_06
+heer_infovis_05
+vanham_infovis_04
+archambault_infovis_06
+plaisant_infovis_02
+gansner_infovis_04
+bederson_infovis_99
+

@@ -1,0 +1,5 @@
+title: Non-linear Model Fitting to Parameterize Diseased Blood Vessels
+authors: Alexandra La Cruz, Matus Straka, Arnold Koechl, Milos Sramek, Eduard Groeller, Dominik Fleischmann
+in_vis_citations: 
+kanitsar_vis_01
+

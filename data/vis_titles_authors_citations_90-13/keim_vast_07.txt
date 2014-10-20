@@ -1,0 +1,4 @@
+title: Literature Fingerprinting: A New Method for Visual Literary Analysis
+authors: Daniel A. Keim, Daniela Oelke
+in_vis_citations: 
+

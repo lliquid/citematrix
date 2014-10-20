@@ -1,0 +1,8 @@
+title: Automatic Detection of Open and Closed Separation and Attachment Lines
+authors: David N. Kenwright
+in_vis_citations: 
+pagendarm_vis_94
+globus_vis_91
+helman_vis_90
+leeuw_vis_95
+

@@ -1,0 +1,16 @@
+title: Visual Analysis and Exploration of Fluid Flow in a Cooling Jacket
+authors: Robert S. Laramee, Christoph Garth, Helmut Doleisch, Juergen Schneider
+in_vis_citations: 
+scheuer1_vis_99
+hultquist1_vis_92
+kenwrigh_vis_97
+roth_vis_96
+garth_vis_04
+tricoche_vis_04
+sadarjoen_vis_98
+bauer_vis_02
+theisel_vis_03
+grant_vis_02
+laramee_vis_04
+sadlo_vis_04
+

@@ -1,0 +1,4 @@
+title: Visualizing the Results of Multimedia Web Search Engines
+authors: Sougata Mukherjea, Kyoji Hirata, Yoshinori Hara
+in_vis_citations: 
+

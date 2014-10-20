@@ -1,0 +1,7 @@
+title: Subjective Quantification of Perceptual Interactions among some 2D Scientific Visualization Methods
+authors: Daniel Acevedo, David H. Laidlaw
+in_vis_citations: 
+forsberg_vis_09
+card_infovis_97
+chi_infovis_00
+

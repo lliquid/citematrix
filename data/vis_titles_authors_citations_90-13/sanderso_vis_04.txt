@@ -1,0 +1,18 @@
+title: Display of Vector Fields Using a Reaction-Diffusion Model
+authors: Allen R. Sanderson, Chris R. Johnson, Robert M. Kirby
+in_vis_citations: 
+telea_vis_99
+leeuw_vis_95
+post_vis_95
+westerma_vis_00
+kiu_vis_96
+hultquist1_vis_92
+kenwright_vis_92
+forsberg_vis_09
+zoeckler_vis_96
+lefohn_vis_03
+preusser_vis_99
+kirby_vis_99
+schroederw_vis_91
+groeller_vis_97
+

@@ -1,0 +1,6 @@
+title: Assessing the Effect of Visualizations on Bayesian Reasoning through Crowdsourcing
+authors: Luana Micallef, Pierre Dragicevic, Jean-Daniel Fekete
+in_vis_citations: 
+riche_infovis_10
+collins_infovis_09
+

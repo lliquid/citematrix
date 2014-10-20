@@ -1,0 +1,11 @@
+title: Cloud Tracing in Convection-Diffusion Systems
+authors: Kwan-Liu Ma, Philip J. Smith
+in_vis_citations: 
+max_vis_92
+silver_vis_91
+globus_vis_91
+hultquist1_vis_92
+ma_vis_92
+zabusky_vis_92
+schroederw_vis_91
+

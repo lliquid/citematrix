@@ -1,0 +1,5 @@
+title: Uncovering Clusters in Crowded Parallel Coordinates Visualizations
+authors: Almir Olivette Artero, Maria Cristina Ferreira de Oliveira, Haim Levkowitz
+in_vis_citations: 
+ward_vis_94
+

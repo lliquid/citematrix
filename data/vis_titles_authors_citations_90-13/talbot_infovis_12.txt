@@ -1,0 +1,6 @@
+title: An Empirical Model of Slope Ratio Comparisons
+authors: Justin Talbot, John Gerth, Pat Hanrahan
+in_vis_citations: 
+heer1_infovis_06
+talbot_infovis_11
+

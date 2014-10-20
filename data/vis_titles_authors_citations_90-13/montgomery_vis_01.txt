@@ -1,0 +1,4 @@
+title: Surgical Simulator for Hysteroscopy: A Case Study of Visualization in Surgical Training
+authors: Kevin Montgomery, LeRoy Heinrichs, Cynthia Bruyns, Simon Wildermuth, Christopher Hasser, Stephanie Ozenne, David Bailey
+in_vis_citations: 
+

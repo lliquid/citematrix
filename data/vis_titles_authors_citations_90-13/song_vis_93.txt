@@ -1,0 +1,5 @@
+title: Fine-Grain Visualization Algorithms in Dataflow Environments
+authors: Deyang Song, Eric Golin
+in_vis_citations: 
+lucas1_vis_92
+

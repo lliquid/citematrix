@@ -1,0 +1,8 @@
+title: An Advanced Evenly-Spaced Streamline Placement Algorithm
+authors: Zhanping Liu, Robert J. Moorhead, Joe Groner
+in_vis_citations: 
+verma_vis_00
+mao_vis_98
+ye_vis_05
+mebarki_vis_05
+

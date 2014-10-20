@@ -1,0 +1,4 @@
+title: Anatomy-Based Facial Tissue Modeling Using the Finite Element Method
+authors: Erwin Keeve, Sabine Girod, Paula Pfeifle, Bernd Girod
+in_vis_citations: 
+

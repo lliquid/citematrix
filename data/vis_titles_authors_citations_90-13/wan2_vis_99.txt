@@ -1,0 +1,8 @@
+title: Volume Rendering Based Interactive Navigation within the Human Colon
+authors: Ming Wan, Qingyu Tang, Arie Kaufman
+in_vis_citations: 
+wan1_vis_99
+you_vis_97
+parker_vis_98
+yagel_vis_93
+

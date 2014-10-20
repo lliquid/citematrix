@@ -1,0 +1,6 @@
+title: Novel Interaction Techniques for Neurosurgical Planning and Stereotactic Navigation
+authors: Alark Joshi, Dustin Scheinost, Kenneth P. Vives, Dennis D. Spencer, Lawrence H. Staib, Xenophon Papademetris
+in_vis_citations: 
+ebert_vis_00
+weiskopf_vis_02
+

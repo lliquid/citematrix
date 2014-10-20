@@ -1,0 +1,5 @@
+title: Virtual Rheoscopic Fluids for Flow Visualization
+authors: William L. Barth, Christopher A. Burns
+in_vis_citations: 
+schussma_vis_04
+

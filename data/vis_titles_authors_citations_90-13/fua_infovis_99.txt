@@ -1,0 +1,12 @@
+title: Navigating Hierarchies with Structure-Based Brushes
+authors: Ying-Huey Fua, Matthew O. Ward, Elke A. Rundensteiner
+in_vis_citations: 
+inselberg_vis_90
+wills_infovis_96
+martin_vis_95
+ward_vis_94
+fua_vis_99
+wong_vis_96
+johnson_vis_91
+jeong_infovis_98
+

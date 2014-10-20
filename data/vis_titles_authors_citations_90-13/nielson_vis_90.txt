@@ -1,0 +1,5 @@
+title: Techniques for the Interactive Visualization of Volumetric Data
+authors: Gregory M. Nielson, Bernd Hamann
+in_vis_citations: 
+foley_vis_90
+

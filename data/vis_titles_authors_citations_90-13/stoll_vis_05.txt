@@ -1,0 +1,7 @@
+title: Visualization with stylized line primitives
+authors: Carsten Stoll, Stefan Gumhold, Hans-Peter Seidel
+in_vis_citations: 
+schussma_vis_04
+zoeckler_vis_96
+fuhrmann_vis_98
+

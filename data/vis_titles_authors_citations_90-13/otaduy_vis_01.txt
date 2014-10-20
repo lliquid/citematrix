@@ -1,0 +1,6 @@
+title: User-Centric Viewpoint Computation for Haptic Exploration and Manipulation
+authors: Miguel A. Otaduy, Ming C. Lin
+in_vis_citations: 
+lawrence_vis_00
+avila_vis_96
+

@@ -1,0 +1,13 @@
+title: Interactive Exploration of Volume Line Integral Convolution Based on 3D???Texture Mapping
+authors: C. Rezk???Salama, P. Hastreiter, C. Teitzel, T. Ertl
+in_vis_citations: 
+crawfis_vis_93
+max_vis_93
+post_vis_95
+forssell_vis_94
+ebert_vis_94
+krueger_vis_90
+shen_vis_97
+groeller_vis_97
+jobard_vis_97
+

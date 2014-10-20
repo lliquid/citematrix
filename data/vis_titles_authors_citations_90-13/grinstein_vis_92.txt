@@ -1,0 +1,4 @@
+title: Flow Visualization as a Basic Tool to Investigate Dynamics and Topology of Jets
+authors: F. F. Grinstein, U. R. Obeysekare, G. Patnaik
+in_vis_citations: 
+

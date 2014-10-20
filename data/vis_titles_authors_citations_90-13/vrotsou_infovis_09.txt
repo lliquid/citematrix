@@ -1,0 +1,6 @@
+title: ActiviTree: Interactive Visual Exploration of Sequences in Event-Based Data Using Graph Similarity
+authors: Katerina Vrotsou, Jimmy Johansson, Matthew Cooper
+in_vis_citations: 
+pretorius_infovis_06
+fails_vast_06
+

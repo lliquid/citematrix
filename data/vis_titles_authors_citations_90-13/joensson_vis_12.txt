@@ -1,0 +1,5 @@
+title: Historygrams: Enabling Interactive Global Illumination in Direct Volume Rendering using Photon Mapping
+authors: Daniel Jonsson, Joel Kronander, Timo Ropinski, Anders Ynnerman
+in_vis_citations: 
+sunden_vis_11
+

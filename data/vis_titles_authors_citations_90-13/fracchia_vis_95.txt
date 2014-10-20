@@ -1,0 +1,4 @@
+title: A Visualization Tool for Studying the Development of the Moss Physcomitrella patens
+authors: F. David Fracchia, Neil W. Ashton
+in_vis_citations: 
+

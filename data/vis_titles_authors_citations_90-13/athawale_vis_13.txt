@@ -1,0 +1,13 @@
+title: Uncertainty Quantification in Linear Interpolation for Isosurface Extraction
+authors: Tushar Athawale, Alireza Entezari
+in_vis_citations: 
+botchen_vis_05
+schultz_vis_07
+nielson_vis_91
+lundstroem_vis_07
+schlegel_vis_12
+marschner_vis_94
+lodha2_vis_96
+etiene_vis_09
+hlawatsch_vis_11
+

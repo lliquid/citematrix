@@ -1,0 +1,4 @@
+title: Dynamic Visualization of Graphs with Extended Labels
+authors: Pak Chung Wong, Patrick Mackey, Ken Perrine, James Eagan, Harlan Foote, Jim Thomas
+in_vis_citations: 
+

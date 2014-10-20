@@ -1,0 +1,6 @@
+title: Automatic Generation of Triangular Irregular Networks using Greedy Cuts
+authors: Claudio T. Silva, Joseph S. B. Mitchell, Arie E. Kaufman
+in_vis_citations: 
+scarlatos_vis_92
+scarlatos_vis_90
+

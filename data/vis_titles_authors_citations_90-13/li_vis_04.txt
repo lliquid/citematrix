@@ -1,0 +1,5 @@
+title: Methods for Efficient, High Quality Volume Resampling in the Frequency Domain
+authors: Aili Li, Klaus Mueller, Thomas Ernst
+in_vis_citations: 
+marschner_vis_94
+

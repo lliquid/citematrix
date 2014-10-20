@@ -1,0 +1,16 @@
+title: Visibility Culling for Time-Varying Volume Rendering Using Temporal Occlusion Coherence
+authors: Jinzhu Gao, Han-Wei Shen, Jian Huang, James Arthur Kohl
+in_vis_citations: 
+shen_vis_94
+parker_vis_98
+lum_vis_01
+shen_vis_99
+sutton_vis_99
+hanson_vis_93
+guthe_vis_01
+guthe_vis_02
+ji_vis_03
+livnat_vis_98
+huang_vis_00
+woodring_vis_03
+

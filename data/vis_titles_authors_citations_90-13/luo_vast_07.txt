@@ -1,0 +1,9 @@
+title: Analyzing Large-Scale News Video Databases to Support Knowledge Visualization and Intuitive Retrieval
+authors: Hangzai Luo, Jianping Fan, Jing Yang, William Ribarsky, Shinichi Satoh
+in_vis_citations: 
+hetzler_infovis_98
+mehler_infovis_06
+wise_infovis_95
+havre_infovis_00
+luo_vast_06
+

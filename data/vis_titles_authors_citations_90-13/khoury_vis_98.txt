@@ -1,0 +1,5 @@
+title: Volumetric Modeling of Acoustic Fields in CNMAT's Sound Spatialization Theatre
+authors: Sami Khoury, Adrian Freed, David Wessel
+in_vis_citations: 
+schroeder_vis_96
+

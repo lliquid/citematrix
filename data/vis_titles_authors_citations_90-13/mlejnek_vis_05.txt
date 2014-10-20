@@ -1,0 +1,8 @@
+title: Profile Flags: a Novel Metaphor for Probing of T2 Maps
+authors: Matej Mlejnek, Pierre Ermes, Anna Vilanova, Rob van der Rijt, Harrie van den Bosch, Frans Gerritsen, Eduard Groeller
+in_vis_citations: 
+huitema_vis_00
+leeuw_vis_93
+preim_vis_02
+mlejnek_vis_04
+

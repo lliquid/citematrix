@@ -1,0 +1,11 @@
+title: Saliency-Assisted Navigation of Very Large Landscape Images
+authors: Cheuk Yiu Ip, Amitabh Varshney
+in_vis_citations: 
+chen_vis_10
+wiebel_vis_07
+jaenicke_vis_07
+viola_vis_06
+daniel_vis_03
+kimyoung_vis_06
+bordoloi_vis_05
+

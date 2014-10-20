@@ -1,0 +1,13 @@
+title: Visualization of Rotation Fields
+authors: Mark A. Livingston
+in_vis_citations: 
+hultquist1_vis_92
+hanson_vis_94
+delmarcelle_vis_92
+ma_vis_92
+brill_vis_94
+schroederw_vis_91
+alpern_vis_93
+yamrom_vis_94
+max_vis_93
+

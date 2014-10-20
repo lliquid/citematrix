@@ -1,0 +1,10 @@
+title: Full Body Virtual Autopsies using a State-of-the-art Volume Rendering Pipeline
+authors: Patric Ljung, Calle Winskog, Anders Persson, Claes Lundstr??m, Anders Ynnerman
+in_vis_citations: 
+guthe_vis_02
+krueger_vis_03
+gao_vis_05
+gao_vis_03
+klein_vis_05
+lamar_vis_99
+

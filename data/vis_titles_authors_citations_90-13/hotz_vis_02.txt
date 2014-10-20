@@ -1,0 +1,6 @@
+title: Isometric embedding by surface reconstruction from distances
+authors: Ingrid Hotz
+in_vis_citations: 
+delmarcelle_vis_92
+boring_vis_98
+

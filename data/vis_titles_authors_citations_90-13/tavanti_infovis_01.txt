@@ -1,0 +1,4 @@
+title: 2D vs 3D, Implications on Spatial Memory
+authors: Monica Tavanti
+in_vis_citations: 
+

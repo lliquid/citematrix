@@ -1,0 +1,12 @@
+title: Edge Groups: An Approach to Understanding the Mesh Quality of Marching Methods
+authors: Carlos A. Dietrich, Carlos E. Scheidegger, Joao L. D. Comba, Luciana, P. Nedel, Claudio T. Silva
+in_vis_citations: 
+carr_vis_06
+bhanira_vis_00
+montani_vis_94
+nielson2_vis_04
+nielson_vis_03
+schreine_vis_06
+nielson_vis_02
+meyer_vis_07
+

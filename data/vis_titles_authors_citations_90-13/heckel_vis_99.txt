@@ -1,0 +1,6 @@
+title: Construction of Vector Field Hierarchies
+authors: Bjoern Heckel, Gunther Weber???, Bernd Hamann, Kenneth I. Joy
+in_vis_citations: 
+nielson1_vis_97
+nielson_vis_98
+

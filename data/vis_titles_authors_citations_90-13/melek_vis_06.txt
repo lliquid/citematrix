@@ -1,0 +1,7 @@
+title: Visualization of Fibrous and Thread-like Data
+authors: Zeki Melek, David Mayerich, Cem Yuksel, John Keyser
+in_vis_citations: 
+stoll_vis_05
+roessl_vis_03
+kondrati_vis_05
+

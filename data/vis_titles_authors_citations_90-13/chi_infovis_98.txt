@@ -1,0 +1,13 @@
+title: An Operator Interaction Framework for Visualization Systems
+authors: Ed Huai-hsin Chi, John T. Riedl
+in_vis_citations: 
+chi_vis_96
+chuah_infovis_96
+varshney_infovis_96
+wise_infovis_95
+inselber_infovis_97
+card_infovis_97
+johnson_vis_91
+lee_vis_95
+chi_infovis_97
+

@@ -1,0 +1,12 @@
+title: Invariant Crease Lines for Topological and Structural Analysis of Tensor Fields
+authors: Xavier Tricoche, Gordon Kindlmann, Carl-Fredrik Westin
+in_vis_citations: 
+zheng_vis_04
+schultz_vis_07
+peikert_vis_99
+globus_vis_91
+delmarcelle_vis_94
+delmarcelle_vis_94
+helman_vis_90
+sadlo_vis_07
+

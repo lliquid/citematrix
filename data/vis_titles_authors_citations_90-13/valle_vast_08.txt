@@ -1,0 +1,4 @@
+title: Crystal Structures Classifier for an Evolutionary Algorithm Structure Predictor
+authors: Mario Valle, Artem R. Oganov
+in_vis_citations: 
+

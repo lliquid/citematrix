@@ -1,0 +1,4 @@
+title: A Scientific Visualization Synthesizer
+authors: Roger A. Crawfis, Michael J. Allison
+in_vis_citations: 
+

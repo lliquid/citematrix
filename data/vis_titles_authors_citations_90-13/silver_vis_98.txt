@@ -1,0 +1,8 @@
+title: Tracking Scalar Features in Unstructured Datasets
+authors: Deborah Silver, Xin Wang
+in_vis_citations: 
+silver_vis_96
+westermann_vis_95
+guo_vis_95
+nielson2_vis_97
+

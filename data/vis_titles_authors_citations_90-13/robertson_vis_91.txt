@@ -1,0 +1,4 @@
+title: Distributed Visualization Using Workstations, Supercomputers, and High Speed Networks
+authors: David W. Robertson, Van L. Jacobson, William E. Johnston, Stewart C. Loken, Edward H. Theil, Brian L. Tiemey
+in_vis_citations: 
+

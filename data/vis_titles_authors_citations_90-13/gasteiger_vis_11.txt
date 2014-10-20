@@ -1,0 +1,10 @@
+title: The FLOWLENS: A Focus-and-Context Visualization Approach for Exploration of Blood Flow in Cerebral Aneurysms
+authors: Rocco Gasteiger, Mathias Neugebauer, Oliver Beuing, Bernhard Preim
+in_vis_citations: 
+born_vis_10
+everts_vis_09
+vanpelt_vis_10
+krueger_vis_06
+forsberg_vis_09
+wangl_vis_05
+

@@ -1,0 +1,6 @@
+title: Topological Fisheye Views for Visualizing Large Graphs
+authors: Emden Gansner, Yehuda Koren, Stephen North
+in_vis_citations: 
+munzner_infovis_97
+auber_infovis_03
+

@@ -1,0 +1,4 @@
+title: Texture Splats for 3D Scalar and Vector Field Visualization
+authors: Roger A. Crawfis, Nelson Max
+in_vis_citations: 
+

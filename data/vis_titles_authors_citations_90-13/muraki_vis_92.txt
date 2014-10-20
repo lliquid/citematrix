@@ -1,0 +1,4 @@
+title: Approximation and Rendering of Volume Data Using Wavelet Transforms
+authors: Shigeru Muraki
+in_vis_citations: 
+

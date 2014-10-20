@@ -1,0 +1,14 @@
+title: Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets
+authors: Jian Zhao, Christopher Collins, Fanny Chevalier, Ravin Balakrishnan
+in_vis_citations: 
+heer_infovis_08
+liu_vast_11
+hadlak_infovis_11
+cao_infovis_10
+kang_vast_06
+amar_infovis_05
+viau_infovis_10
+doerk_infovis_12
+shneiderman_infovis_06
+stolte_infovis_00
+

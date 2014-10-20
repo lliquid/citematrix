@@ -1,0 +1,5 @@
+title: Chromatin a Case Study of Tracking Features in Confocal Data
+authors: Wim C. de Leeuw, Robert van Liere
+in_vis_citations: 
+deleeuw_vis_00
+

@@ -1,0 +1,7 @@
+title: Isosurfacing in Span Space with Utmost Efficiency (ISSUE)
+authors: Han-Wei Shen, Charles D Hansen, Yarden Livnat, Christopher R. Johnson
+in_vis_citations: 
+gallagher_vis_91
+shen_vis_95
+itoh_vis_94
+

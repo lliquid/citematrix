@@ -1,0 +1,19 @@
+title: A Two-Stage Framework for Designing Visual Analytics System in Organizational Environments
+authors: Xiaoyu Wang, Wenwen Dou, Thomas Butkiewicz, Eric A. Bier, William Ribarsky
+in_vis_citations: 
+bier_vast_08
+kadivar_vast_09
+heer_infovis_08
+scholtz_vast_06
+chang_vast_07
+strobelt_infovis_09
+green_vast_08
+munzner_infovis_09
+wijk_vis_05
+garg_vast_08
+lam_infovis_08
+yi_infovis_07
+jeong_vast_08
+gotz_vast_08
+koch_vast_09
+

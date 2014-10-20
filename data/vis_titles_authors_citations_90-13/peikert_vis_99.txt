@@ -1,0 +1,12 @@
+title: The "Parallel Vectors" Operator - A Vector Field Visualization Primitive
+authors: Ronald Peikert, Martin Roth
+in_vis_citations: 
+tang_vis_98
+roth_vis_96
+roth_vis_98
+interrante_vis_95
+banks_vis_94
+ma_vis_97
+kenwright_vis_98
+silver_vis_96
+

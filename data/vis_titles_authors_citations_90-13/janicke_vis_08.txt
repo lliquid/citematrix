@@ -1,0 +1,11 @@
+title: Brushing of Attribute Clouds for the Visualization of Multivariate Data
+authors: Heike Jaenicke, Michael B??ttinger, Gerik Scheuermann
+in_vis_citations: 
+chenh_infovis_03
+hauser_infovis_02
+martin_vis_95
+fua_infovis_99
+wong_vis_96
+tricoche_vis_04
+henze_vis_98
+

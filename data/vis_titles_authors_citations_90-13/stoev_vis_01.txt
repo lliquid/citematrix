@@ -1,0 +1,5 @@
+title: A Case Study on Interactive Exploration and Guidance Aids for Visualizing Historical Data
+authors: Stanislav L. Stoev, Wolfgang Strasser
+in_vis_citations: 
+ehricke_vis_93
+

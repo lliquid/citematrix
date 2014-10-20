@@ -1,0 +1,5 @@
+title: Architectural Walkthroughs Using Portal Textures
+authors: Daniel G. Aliaga, Anselmo A. Lastra
+in_vis_citations: 
+aliaga_vis_96
+

@@ -1,0 +1,8 @@
+title: Visualizing High-Dimensional Predictive Model Quality
+authors: Penny Rheingans, Marie desJardins
+in_vis_citations: 
+rushmeie_vis_97
+becker_infovis_98
+inselberg_vis_90
+assa_vis_97
+

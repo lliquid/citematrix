@@ -1,0 +1,9 @@
+title: Light Weight Space Leaping using Ray Coherence
+authors: Sarang Lakare, Arie Kaufman
+in_vis_citations: 
+yagel_vis_93
+wan2_vis_99
+subramanian_vis_90
+parker_vis_98
+wan_vis_02
+

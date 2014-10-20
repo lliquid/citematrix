@@ -1,0 +1,4 @@
+title: A Visualization Tool For Mechanical Design
+authors: S. C. Lu, A. B. Rebello., D. H. Cui, R. Yagel, R. A. Miller, G. L. Kinzel
+in_vis_citations: 
+

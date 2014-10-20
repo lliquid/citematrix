@@ -1,0 +1,4 @@
+title: Applied Visual Analytics for Economic Decision-Making
+authors: Anya Savikhin, Ross Maciejewski, David S. Ebert
+in_vis_citations: 
+

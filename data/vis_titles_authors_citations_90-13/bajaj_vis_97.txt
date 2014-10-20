@@ -1,0 +1,8 @@
+title: The Contour Spectrum
+authors: Chandrajit L. Bajaj, Valerio Pascucci, Daniel R. Schikore
+in_vis_citations: 
+itoh_vis_96
+bergman_vis_95
+bajaj_vis_98
+he1_vis_96
+

@@ -1,0 +1,6 @@
+title: Bridging the Gap Between Visualization and Data Management: A Simple Visualization Management System
+authors: Peter Kochevar, Zahid Ahmed, Jonathan Shade, Colin Sharp
+in_vis_citations: 
+lucas1_vis_92
+beshers_vis_92
+

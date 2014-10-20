@@ -1,0 +1,5 @@
+title: Simplifying Surfaces with Color and Texture using Quadric Error Metrics
+authors: Michael Garland, Paul S. Heckbert
+in_vis_citations: 
+cohen_vis_97
+

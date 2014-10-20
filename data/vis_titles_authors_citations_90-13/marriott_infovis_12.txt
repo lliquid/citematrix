@@ -1,0 +1,6 @@
+title: Memorability of Visual Features in Network Diagrams
+authors: Kim Marriott, Helen Purchase, Michael Wybrow, Cagatay Goncu
+in_vis_citations: 
+vanham_infovis_08
+dwyer_infovis_09
+

@@ -1,0 +1,7 @@
+title: Complex Logarithmic Views for Small Details in Large Contexts
+authors: Joachim Bottger, Michael Balzer, Oliver Deussen
+in_vis_citations: 
+keahey_infovis_97
+balzer_infovis_05
+keahey_infovis_96
+

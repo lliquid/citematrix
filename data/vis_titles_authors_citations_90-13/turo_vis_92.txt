@@ -1,0 +1,8 @@
+title: Improving the Visualization of Hierarchies with Treemaps: Design Issues and Experimentation
+authors: David Turo, Brian Johnson
+in_vis_citations: 
+mihalisin_vis_91
+feeney_vis_91
+johnson_vis_91
+buja_vis_91
+

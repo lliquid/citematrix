@@ -1,0 +1,8 @@
+title: Overview Use in Multiple Visual Information Resolution Interfaces
+authors: Heidi Lam, Tamara Munzner, Robert Kincaid
+in_vis_citations: 
+amar_infovis_05
+healey_vis_05
+tory_infovis_04
+wehrend_vis_90
+

@@ -1,0 +1,5 @@
+title: Image Handling in a Multi-vendor Environment
+authors: David R. Nadeau, T. Todd Elvins, Michael J. Bailey
+in_vis_citations: 
+elvins_vis_91
+

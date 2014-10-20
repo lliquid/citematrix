@@ -1,0 +1,11 @@
+title: Visualizing the Behavior of Higher Dimensional Dynamical Systems
+authors: Rainer Wegenkittl, Helwig Loeffelmann, Eduard Groeller
+in_vis_citations: 
+kerlick_vis_90
+mihalisin_vis_91
+hanson_vis_93
+levkowitz_vis_91
+leblanc_vis_90
+inselberg_vis_90
+leeuw_vis_93
+

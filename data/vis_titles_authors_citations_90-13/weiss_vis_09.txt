@@ -1,0 +1,9 @@
+title: Supercubes: A High-Level Primitive for Diamond Hierarchies
+authors: Kenneth Weiss, Leila De Floriani
+in_vis_citations: 
+gregorsk_vis_02
+roxborou_vis_00
+gerstner_vis_00
+duchaine_vis_97
+zhou_vis_97
+

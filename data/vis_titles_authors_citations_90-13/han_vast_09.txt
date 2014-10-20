@@ -1,0 +1,5 @@
+title: A Visual Analytics System for Radio Frequency Fingerprinting-based Localization
+authors: Yi Han, Erich P. Stuntebeck, John T. Stasko, Gregory D. Abowd
+in_vis_citations: 
+inselber_infovis_97
+

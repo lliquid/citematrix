@@ -1,0 +1,10 @@
+title: Recursive Pattern: A Technique for Visualizing Very Large Amounts of Data
+authors: Daniel A. Keim, Hans-Peter Kriegel, Mihael Ankerst
+in_vis_citations: 
+inselberg_vis_90
+ahlberg_infovis_95
+smith_vis_91
+leblanc_vis_90
+beddow_vis_90
+mihalisin_vis_90
+

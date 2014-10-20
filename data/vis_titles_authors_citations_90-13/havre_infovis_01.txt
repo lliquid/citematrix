@@ -1,0 +1,7 @@
+title: Interactive Visualization of Multiple Query Results
+authors: Susan Havre, Elizabeth Hetzler, Ken Perrine, Elizabeth Jurrus, Nancy Miller
+in_vis_citations: 
+hetzler_infovis_98
+miller_vis_98
+spoerri_vis_93
+

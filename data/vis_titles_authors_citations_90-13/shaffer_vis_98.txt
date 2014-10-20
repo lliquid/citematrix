@@ -1,0 +1,7 @@
+title: Visualization for Multiparameter Aircraft Designs
+authors: Clifford A. Shaffer, Duane L. Knill, Layne T. Watson
+in_vis_citations: 
+wong1_vis_97
+assa_vis_97
+inselberg_vis_90
+

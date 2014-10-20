@@ -1,0 +1,13 @@
+title: Visual Sedimentation
+authors: Samuel Huron, Romain Vuillemot, Jean-Daniel Fekete
+in_vis_citations: 
+cottam_vast_12
+cao_infovis_12
+krstajic_infovis_11
+wongp_infovis_03
+bostock_infovis_11
+byron_infovis_08
+ziemkiew_infovis_08
+moere_infovis_04
+heer_infovis_07
+

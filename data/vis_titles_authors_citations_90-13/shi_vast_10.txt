@@ -1,0 +1,15 @@
+title: Understanding Text Corpora with Multiple Facets
+authors: Lei Shi, Furu Wei, Shixia Liu, Li Tan, Xiaoxiao Lian, Michelle X. Zhou
+in_vis_citations: 
+collins_vast_09
+ghoniem_vast_07
+wattenbe_infovis_08
+viegas_infovis_09
+byron_infovis_08
+vanham2_infovis_09
+wattenbe_infovis_02
+wong_infovis_99
+stasko_vast_07
+wattenba_infovis_05
+wong_infovis_00
+

@@ -1,0 +1,6 @@
+title: Point Set Surfaces
+authors: Marc Alexa, Johannes Behr, Daniel Cohen-Or, Shachar Fleishman, David Levin, Claudio T. Silva
+in_vis_citations: 
+crossno_vis_97
+gueziec_vis_98
+

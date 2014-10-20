@@ -1,0 +1,7 @@
+title: Loop Surgery for Volumetric Meshes: Reeb Graphs Reduced to Contour Trees
+authors: Julien Tierny, Attila Gyulassy, Eddie Simon, Valerio Pascucci
+in_vis_citations: 
+carr_vis_04
+weber_vis_07
+bajaj_vis_97
+

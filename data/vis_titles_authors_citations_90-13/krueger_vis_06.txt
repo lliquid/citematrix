@@ -1,0 +1,15 @@
+title: ClearView: An Interactive Context Preserving Hotspot Visualization Technique
+authors: Jens Kr??ger, Jens Schneider, Ruediger Westermann
+in_vis_citations: 
+ebert_vis_00
+mcguffin_vis_03
+interrante_vis_96
+weiskopf_vis_02
+lu_vis_02
+shaw_vis_99
+ebert_vis_00
+viola_vis_04
+krueger_vis_03
+bruckner_vis_05
+wangl_vis_05
+

@@ -1,0 +1,9 @@
+title: Visualizing Information on a Sphere
+authors: M. H. Gross, T. C. Sprenger, J. Finger
+in_vis_citations: 
+bentley_infovis_96
+carriere_infovis_95
+hendley_infovis_95
+wise_infovis_95
+chalmers_vis_96
+

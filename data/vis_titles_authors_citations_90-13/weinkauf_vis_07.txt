@@ -1,0 +1,7 @@
+title: Cores of Swirling Particle Motion in Unsteady Flows
+authors: Tino Weinkauf, Jan Sahner, Holger Theisel, Hans-Christian Hege
+in_vis_citations: 
+peikert_vis_99
+theisel_vis_05
+roth_vis_98
+

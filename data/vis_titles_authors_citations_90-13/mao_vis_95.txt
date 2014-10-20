@@ -1,0 +1,8 @@
+title: Splatting of Curvilinear Volumes
+authors: Xiaoyang Mao, Lichan Hong, Arie Kaufman
+in_vis_citations: 
+treavett_vis_00
+williamsp_vis_92
+gelder_vis_93
+avila_vis_94
+

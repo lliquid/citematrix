@@ -1,0 +1,4 @@
+title: Case Study on Real-Time Visualization of Virtual Tubingen on Commodity PC Hardware
+authors: Michael Meissner, Jasmina Orman, Stephan J. Braunt
+in_vis_citations: 
+

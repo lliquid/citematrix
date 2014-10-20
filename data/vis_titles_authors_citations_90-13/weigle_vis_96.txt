@@ -1,0 +1,6 @@
+title: Complex-Valued Contour Meshing
+authors: Chris Weigle, David C. Banks
+in_vis_citations: 
+hanson_vis_93
+nielson_vis_91
+

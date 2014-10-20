@@ -1,0 +1,7 @@
+title: Compressing Polygon Mesh Geometry with Parallelogram Prediction
+authors: Martin Isenburg, Pierre Alliez
+in_vis_citations: 
+cohenor_vis_99
+deviller_vis_00
+bajaj_vis_99
+

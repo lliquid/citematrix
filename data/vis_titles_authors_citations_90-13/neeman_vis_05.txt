@@ -1,0 +1,6 @@
+title: Visualizing Tensor Fields in Geomechanics
+authors: Alisa Neeman, Boris Jeremic, Alex Pang
+in_vis_citations: 
+laidlaw_vis_98
+kindlman_vis_99
+

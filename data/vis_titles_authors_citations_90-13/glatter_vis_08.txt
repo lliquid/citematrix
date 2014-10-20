@@ -1,0 +1,11 @@
+title: Visualizing Temporal Patterns in Large Multivariate Data using Textual Pattern Matching
+authors: Markus Glatter, Jian Huang, Sean Ahern, Jamison Daniel, Aidong Lu
+in_vis_citations: 
+woodring_vis_03
+biddiscombe_vis_07
+glatter_vis_06
+mccormic_vis_04
+gosink_vis_07
+kniss_vis_01
+stocking_vis_05
+

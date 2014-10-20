@@ -1,0 +1,11 @@
+title: Particle-based Sampling and Meshing of Surfaces in Multimaterial Volumes
+authors: Miriah Meyer, Ross Whitaker, Robert M. Kirby, Christian Ledergerber, Hanspeter Pfister
+in_vis_citations: 
+nielson_vis_02
+meyer_vis_07
+crossno_vis_97
+kniss_vis_07
+dillard_vis_07
+schreine_vis_06
+nielson3_vis_97
+

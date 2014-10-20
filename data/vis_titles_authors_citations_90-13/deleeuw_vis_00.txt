@@ -1,0 +1,6 @@
+title: Visualization of Time Dependent Confocal Microscopy Data
+authors: Wim C. de Leeuw, Robert van Liere, Pernette J. Verschure, Astrid E. Visser, Erik M. M. Mandersz
+in_vis_citations: 
+kaufman_vis_90
+sakas_vis_96
+

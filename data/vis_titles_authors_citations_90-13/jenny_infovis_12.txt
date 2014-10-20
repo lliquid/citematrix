@@ -1,0 +1,7 @@
+title: Adaptive Composite Map Projections
+authors: Bernhard Jenny, Lambert Azimuthal
+in_vis_citations: 
+haunert_infovis_11
+dykes_infovis_10
+skupin_infovis_00
+

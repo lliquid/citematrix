@@ -1,0 +1,8 @@
+title: Visualization of Morse Connection Graphs for Topologically Rich 2D Vector Fields
+authors: Andrzej Szymczak, Levente Sipeki
+in_vis_citations: 
+ersoy_infovis_11
+cui_infovis_08
+gyulassy_vis_12
+tricoche_vis_00
+

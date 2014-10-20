@@ -1,0 +1,8 @@
+title: Extremal Feature Extraction from 3-D Vector and Noisy Scalar Fields
+authors: Chi-Keung Tang, Gerard Medioni
+in_vis_citations: 
+nielson_vis_91
+banks_vis_94
+pagendarm_vis_94
+ma_vis_94
+

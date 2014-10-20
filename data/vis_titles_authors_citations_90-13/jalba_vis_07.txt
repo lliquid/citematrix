@@ -1,0 +1,4 @@
+title: Efficient Surface Reconstruction using Generalized Coulomb Potentials
+authors: Andrei C. Jalba, Jos B. T. M. Roerdink
+in_vis_citations: 
+

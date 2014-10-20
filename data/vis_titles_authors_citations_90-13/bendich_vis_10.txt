@@ -1,0 +1,5 @@
+title: Computing Robustness and Persistence for Images
+authors: Paul Bendich, Herbert Edelsbrunner, Michael Kerber
+in_vis_citations: 
+bajaj_vis_97
+

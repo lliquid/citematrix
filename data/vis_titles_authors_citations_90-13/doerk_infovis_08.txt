@@ -1,0 +1,10 @@
+title: VisGets: Coordinated Visualizations for Web-based Information Exploration and Discovery
+authors: Marian Doerk, Sheelagh Carpendale, Christopher Collins, Carey Williamson
+in_vis_citations: 
+wood_infovis_07
+willett_infovis_07
+viegas_infovis_07
+spoerri_vis_93
+wattenba_infovis_05
+wood_vis_96
+

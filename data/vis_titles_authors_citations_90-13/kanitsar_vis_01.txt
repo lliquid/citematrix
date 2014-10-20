@@ -1,0 +1,4 @@
+title: Computed Tomography Angiography: A Case Study of Peripheral Vessel Investigation
+authors: Armin Kanitsar, Rainer Wegenkittl, Petr Felkel, Dominik Fleischmann, Dominique Sandner, Eduard Groeller
+in_vis_citations: 
+

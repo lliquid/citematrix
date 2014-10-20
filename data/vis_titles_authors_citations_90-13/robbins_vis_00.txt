@@ -1,0 +1,7 @@
+title: Fast Visualization Methods for Comparing Dynamics: A Case Study in Combustion
+authors: Kay A. Robbins, Michael Gormant
+in_vis_citations: 
+shaw_vis_99
+bryson2_vis_96
+post_vis_95
+

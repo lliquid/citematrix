@@ -1,0 +1,14 @@
+title: Interactive Virtual Probing of 4D MRI Blood-Flow
+authors: Roy van Pelt, Javier Olivan Bescos, Marcel Breeuwer, Rachel E. Clough, Eduard Groeller, Bart ter Haar Romeny, Anna Vilanova
+in_vis_citations: 
+leeuw_vis_93
+burger_vis_09
+hummel_vis_10
+vanpelt_vis_10
+kohlmann_vis_07
+garth_vis_08
+everts_vis_09
+mlejnek_vis_05
+born_vis_10
+joshi_vis_05
+

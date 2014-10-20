@@ -1,0 +1,14 @@
+title: Surface-Based Structure Analysis and Visualization for Multifield Time-Varying Datasets
+authors: Samer S. Barakat, Markus Rutten, Xavier Tricoche
+in_vis_citations: 
+jaenicke_vis_07
+qu_vis_07
+sauber_vis_06
+gosink_vis_07
+janicke_vis_08
+gosink_vis_07
+wangchao_vis_08
+martin_vis_95
+kindlman_vis_09
+tricoche_vis_08
+

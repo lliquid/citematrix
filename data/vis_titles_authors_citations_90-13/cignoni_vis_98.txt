@@ -1,0 +1,5 @@
+title: A general method for preserving attribute values on simplified meshes
+authors: P. Cignoni, C. Montaniy, C. Rocchiniz, R. Scopigno
+in_vis_citations: 
+hinker_vis_93
+

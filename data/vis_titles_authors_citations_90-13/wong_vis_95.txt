@@ -1,0 +1,6 @@
+title: Authenticity Analysis of Wavelet Approximations in Visualization
+authors: Pak Chung Wong, R. Daniel Bergeron
+in_vis_citations: 
+he_vis_94
+tao_vis_94
+

@@ -1,0 +1,7 @@
+title: Simplification of Tetrahedral Meshes
+authors: Issac J. Trotts, Bernd Hamann, Kenneth I. Joy, David F. Wiley
+in_vis_citations: 
+xia_vis_96
+klein_vis_96
+gieng_vis_97
+

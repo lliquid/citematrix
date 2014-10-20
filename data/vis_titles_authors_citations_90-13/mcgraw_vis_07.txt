@@ -1,0 +1,13 @@
+title: Stochastic DT-MRI Connectivity Mapping on the GPU
+authors: Tim McGraw, Mariappan Nadar
+in_vis_citations: 
+kondrati_vis_05
+kindlman_vis_06
+krueger_vis_03
+laidlaw_vis_98
+kindlman_vis_99
+moberts_vis_05
+enders_vis_05
+preusser_vis_99
+merhof_vis_06
+

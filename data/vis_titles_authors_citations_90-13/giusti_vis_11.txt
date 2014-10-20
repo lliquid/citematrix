@@ -1,0 +1,6 @@
+title: Artificial Defocus for Displaying Markers in Microscopy Z-Stacks
+authors: Alessandro Giusti, Pierluigi Taddei, Cristina Magli, Giorgio Corani, Luca Gambardella, Luca Gianaroli
+in_vis_citations: 
+kaufman_vis_90
+sakas_vis_96
+

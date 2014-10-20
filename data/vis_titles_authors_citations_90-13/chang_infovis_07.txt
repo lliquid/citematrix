@@ -1,0 +1,7 @@
+title: Legible Cities: Focus-Dependent Multi-Resolution Visualization of Urban Relationships
+authors: Remco Chang, Ginette Wessel, Robert Kosara, Eric Sauda, William Ribarsky
+in_vis_citations: 
+weaver_infovis_04
+inselberg_vis_90
+shanbhag_infovis_05
+

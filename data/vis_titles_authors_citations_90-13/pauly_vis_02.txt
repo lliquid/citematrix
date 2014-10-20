@@ -1,0 +1,9 @@
+title: Efficient Simplification of Point-Sampled Surfaces
+authors: Mark Pauly, Markus Gross, Leif P. Kobbelt
+in_vis_citations: 
+shaffer_vis_01
+peikert_vis_99
+lindstrom01_vis_01
+alexa_vis_01
+hubeli_vis_00
+

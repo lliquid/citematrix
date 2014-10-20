@@ -1,0 +1,14 @@
+title: Saddle Connectors - An Approach to Visualizing the Topological Skeleton of Complex 3D Vector Fields
+authors: Holger Theisel, Tino Weinkauf, Hans-Christian Heget, Hans-Peter Seidel
+in_vis_citations: 
+lodha_vis_00
+batra_vis_99
+bajaj_vis_98
+lavin_vis_98
+deleeuw_vis_99
+hultquist1_vis_92
+vanwijk2_vis_93
+scheuermann_vis_01
+tricoche_vis_00
+tricoche_vis_01
+

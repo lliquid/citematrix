@@ -1,0 +1,5 @@
+title: The Asymptotic Decider: Resolving the Ambiguity in Marching Cubes
+authors: Gregory M. Nielson, Bernd Hamann
+in_vis_citations: 
+nielson_vis_90
+

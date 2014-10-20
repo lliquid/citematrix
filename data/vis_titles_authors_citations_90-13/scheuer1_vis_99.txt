@@ -1,0 +1,8 @@
+title: Visualizing Planar Vector Fields with Normal Component Using Line Integral Convolution
+authors: Gerik Scheuermann, Holger Burbach, Hans Hagen
+in_vis_citations: 
+max_vis_94
+forssell_vis_94
+bancroft_vis_90
+deleeuw_vis_98
+

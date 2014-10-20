@@ -1,0 +1,4 @@
+title: Immersive Design of DNA Molecules with a Tangible Interface
+authors: Steven Schkolne, Hiroshi Ishii, Peter Schroeder
+in_vis_citations: 
+

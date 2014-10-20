@@ -1,0 +1,4 @@
+title: Research Report: Information Animation Applications in the Capital Markets
+authors: William Wright
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: A Visualization of Music
+authors: Sean M. Smith, Glen N. Williams
+in_vis_citations: 
+

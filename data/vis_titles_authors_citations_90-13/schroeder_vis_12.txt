@@ -1,0 +1,5 @@
+title: Visualization of Flow Behavior in Earth Mantle Convection
+authors: Simon Schroeder, John A. Peterson, Harald Obermaier, Louise H. Kellogg, Kenneth I. Joy, Hans Hagen
+in_vis_citations: 
+garth_vis_10
+

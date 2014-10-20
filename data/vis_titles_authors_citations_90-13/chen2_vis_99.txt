@@ -1,0 +1,7 @@
+title: LOD-Sprite Technique for Accelerated Terrain Rendering
+authors: Baoquan Chen, J. Edward Swan II, Eddy Kuo, Arie E. Kaufman
+in_vis_citations: 
+durbin_vis_98
+aliaga_vis_96
+hoppe_vis_98
+

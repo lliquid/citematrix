@@ -1,0 +1,6 @@
+title: Flow Volumes for Interactive Vector Field Visualization
+authors: Nelson Max, Barry Becker, Roger Crawfis
+in_vis_citations: 
+max_vis_92
+hultquist1_vis_92
+

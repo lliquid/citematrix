@@ -1,0 +1,8 @@
+title: Visualization of Large-Scale Customer Satisfaction Surveys Using a Parallel Coordinate Tree
+authors: Dominique Brodbeck, Luc Girardin
+in_vis_citations: 
+johnson_vis_91
+inselberg_vis_90
+nowell_infovis_01
+vandewetering_infovis_01
+

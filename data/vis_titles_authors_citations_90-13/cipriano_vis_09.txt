@@ -1,0 +1,7 @@
+title: Multi-Scale Surface Descriptors
+authors: Gregory Cipriano, George N. Phillips Jr., Michael Gleicher
+in_vis_citations: 
+kindlman_vis_03
+sheffer_vis_02
+gumhold_vis_02
+

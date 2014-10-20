@@ -1,0 +1,5 @@
+title: The Microscopist's Workstation
+authors: Philip J. Mercurio, T. Todd Elvins, Stephen J. Young
+in_vis_citations: 
+elvins_vis_91
+

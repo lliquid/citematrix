@@ -1,0 +1,5 @@
+title: LightKit: A lighting system for effective visualization
+authors: Michael Halle, Jeanette Meng
+in_vis_citations: 
+gumhold_vis_02
+

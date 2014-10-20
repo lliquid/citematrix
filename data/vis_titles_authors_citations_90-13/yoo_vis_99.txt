@@ -1,0 +1,6 @@
+title: Digital Design of a Surgical Simulator for Interventional MR Imaging
+authors: Terry S. Yoo, Penny Rheingans
+in_vis_citations: 
+gobbetti_vis_98
+montgomery_vis_98
+

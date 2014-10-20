@@ -1,0 +1,8 @@
+title: Light Collages: Lighting Design for Effective Visualization
+authors: Chang Ha Lee, Xuejun Hao, Amitabh Varshney
+in_vis_citations: 
+stewart_vis_03
+akers_vis_03
+halle_vis_03
+gumhold_vis_02
+

@@ -1,0 +1,7 @@
+title: Visualization of Graphs with Associated Timeseries Data
+authors: Purvi Saraiya, Peter Lee, Chris North
+in_vis_citations: 
+ghoniem_infovis_04
+munzner_infovis_96
+jankunk_infovis_03
+

@@ -1,0 +1,6 @@
+title: Visualizing Particle/Flow Structure Interactions in the Small Bronchial Tubes
+authors: Bela Soni, David Thompson, Raghu Machiraju
+in_vis_citations: 
+garth_vis_07
+sadlo_vis_07
+

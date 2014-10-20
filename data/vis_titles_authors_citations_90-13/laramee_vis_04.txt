@@ -1,0 +1,11 @@
+title: Investigating Swirl and Tumble Flow with a Comparison of Visualization Techniques
+authors: Robert S. Laramee, Daniel Weiskopf, Juergen Schneider, Helwig Hauser
+in_vis_citations: 
+schulz_vis_99
+scheuer1_vis_99
+verma_vis_00
+vanwijk_vis_03
+telea_vis_03
+weiskopf_vis_03
+laramee_vis_03
+

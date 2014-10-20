@@ -1,0 +1,4 @@
+title: A Model of Multi-Scale Perceptual Organization in Information Graphics
+authors: Martin Wattenberg, Danyel Fisher
+in_vis_citations: 
+

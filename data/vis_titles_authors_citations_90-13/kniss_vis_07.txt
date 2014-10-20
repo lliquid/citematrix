@@ -1,0 +1,6 @@
+title: IStar: A Raster Representation for Scalable Image and Volume Data
+authors: Joe Kniss, Warren Hunt, Kristin Potter, Pradeep Sen
+in_vis_citations: 
+gyulassy_vis_05
+kniss_vis_05
+

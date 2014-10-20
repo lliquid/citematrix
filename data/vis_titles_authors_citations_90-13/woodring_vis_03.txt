@@ -1,0 +1,7 @@
+title: High Dimensional Direct Rendering of Time-Varying Volumetric Data
+authors: Jonathan Woodring, Chaoli Wang, Han-Wei Shen, Marcel Duchamp
+in_vis_citations: 
+kniss_vis_01
+hanson_vis_93
+hansena_vis_92
+

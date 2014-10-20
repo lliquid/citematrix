@@ -1,0 +1,8 @@
+title: Tracking of Vector Field Singularities in Unstructured 3D Time-Dependent Datasets
+authors: Christoph Garth, Xavier Tricoche, Gerik Scheuermann
+in_vis_citations: 
+theisel_vis_03
+mann_vis_02
+globus_vis_91
+kenwrigh_vis_97
+

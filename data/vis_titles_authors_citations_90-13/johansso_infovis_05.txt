@@ -1,0 +1,7 @@
+title: Revealing Structure within Clustered Parallel Coordinates Displays
+authors: Jimmy Johansson, Patric Ljung, Mikael Jern, Matthew Cooper
+in_vis_citations: 
+inselberg_vis_90
+fua_vis_99
+artero_infovis_04
+

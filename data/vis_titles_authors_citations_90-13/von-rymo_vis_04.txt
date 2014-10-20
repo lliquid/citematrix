@@ -1,0 +1,8 @@
+title: Efficient Point-Based Isosurface Exploration Using the Span-Triangle
+authors: Bartosz von Rymon-Lipinski, Nils Hanssen, Thomas Jansen, Lutz Ritter, Erwin Keeve
+in_vis_citations: 
+gallagher_vis_91
+alexa_vis_01
+shen_vis_96
+shen_vis_95
+

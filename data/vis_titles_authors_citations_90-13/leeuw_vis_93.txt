@@ -1,0 +1,7 @@
+title: A Probe for Local Flow Field Visualization
+authors: Willem C. de Leeuw, Jarke J. van Wijk
+in_vis_citations: 
+delmarcelle_vis_92
+schroederw_vis_91
+max_vis_92
+

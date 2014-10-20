@@ -1,0 +1,6 @@
+title: Case Study: Visualizing Sets of Evolutionary Trees
+authors: Nina Amenta, Jeff Klingner
+in_vis_citations: 
+chalmers_vis_96
+eick_vis_93
+

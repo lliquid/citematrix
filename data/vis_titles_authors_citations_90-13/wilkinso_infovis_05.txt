@@ -1,0 +1,7 @@
+title: Graph-Theoretic Scagnostics
+authors: Leland Wilkinson, Anushka Anand, Robert Grossman
+in_vis_citations: 
+maceachr_infovis_03
+seo_infovis_04
+peng_infovis_04
+

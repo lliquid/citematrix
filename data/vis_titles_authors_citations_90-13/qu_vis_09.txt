@@ -1,0 +1,9 @@
+title: Focus+Context Route Zooming and Information Overlay in 3D Urban Environments
+authors: Huamin Qu, Haomian Wang, Weiwei Cui, Yingcai Wu, Ming-Yuen Chan
+in_vis_citations: 
+degener_vis_08
+heer1_infovis_06
+takahash_vis_06
+keahey_infovis_98
+wang_vis_08
+

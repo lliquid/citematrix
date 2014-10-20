@@ -1,0 +1,21 @@
+title: A Framework of Interaction Costs in Information Visualization
+authors: Heidi Lam
+in_vis_citations: 
+kobsa_infovis_01
+li_infovis_03
+saraiya_infovis_05
+mcguffin_infovis_04
+buering_infovis_06
+saraiya_infovis_04
+yi_infovis_07
+abello_infovis_06
+hetzler_infovis_05
+granitze_infovis_04
+heer_infovis_05
+kang_vast_06
+ward_vis_94
+willett_infovis_07
+shi_infovis_05
+chi_infovis_98
+lam_infovis_07
+

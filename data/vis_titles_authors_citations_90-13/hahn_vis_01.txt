@@ -1,0 +1,5 @@
+title: Visualization and Interaction Techniques for the Exploration of Vascular Structures
+authors: Horst K. Hahn, Bernhard Preim, Dirk Selle, Heinz-Otto Peitgen
+in_vis_citations: 
+puig_vis_97
+

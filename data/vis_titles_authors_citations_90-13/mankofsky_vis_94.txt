@@ -1,0 +1,4 @@
+title: Case Study: Visualization and Data Analysis in Space and Atmospheric Science
+authors: A. Mankofsky, E. P. Szuszczewicz, P. Blanchard, C. Goodrich, D. McNabb, R. Kulkarni
+in_vis_citations: 
+

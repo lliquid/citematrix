@@ -1,0 +1,4 @@
+title: History Consideration in Reconstructing Polyhedral Surfaces from Parallel Slices
+authors: Gill Barequet, Daniel Shapiro, Ayellet Tal
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: DELTA's Virtual Physics Laboratory: A Comprehensive Learning Platform on Physics & Astronomy
+authors: Sepideh Chakaveh, Udo Zlender, Detlef Skaley, Konstantinos Fostiropoulos, Dieter Breitschwerdt
+in_vis_citations: 
+

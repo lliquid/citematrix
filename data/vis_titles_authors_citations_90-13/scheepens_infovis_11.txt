@@ -1,0 +1,11 @@
+title: Composite Density Maps for Multivariate Trajectories
+authors: Roeland Scheepens, Niels Willems, Huub van de Wetering, Gennady Andrienko, Natalia Andrienko, Jarke J. van Wijk
+in_vis_citations: 
+heer2_infovis_06
+andrienk_vast_08
+wood_infovis_07
+andrienk_vast_10
+eccles_vast_07
+liao_vast_10
+crnovrsa_vast_09
+

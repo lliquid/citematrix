@@ -1,0 +1,5 @@
+title: Getting Portals to Behave
+authors: Chris Olston, Allison Woodruff
+in_vis_citations: 
+ahlberg_infovis_95
+

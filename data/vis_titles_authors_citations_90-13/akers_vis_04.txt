@@ -1,0 +1,7 @@
+title: Exploration of the Brain???s White Matter Pathways with Dynamic Queries
+authors: David Akers, Anthony Sherbondy, Rachel Mackenzie, Robert Dougherty, Brian Wandell
+in_vis_citations: 
+weinstei_vis_99
+kindlman_vis_99
+zhukov_vis_02
+

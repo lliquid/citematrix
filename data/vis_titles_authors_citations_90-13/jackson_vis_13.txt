@@ -1,0 +1,8 @@
+title: A Lightweight Tangible 3D Interface for Interactive Visualization of Thin Fiber Structures
+authors: Bret Jackson, Tung Yuen Lau, David Schroeder, Kimani C. Toussaint, Daniel F. Keefe
+in_vis_citations: 
+everts_vis_09
+konieczn_vis_05
+prohaska_vis_02
+interran_vis_97
+

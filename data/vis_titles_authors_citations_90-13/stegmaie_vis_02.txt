@@ -1,0 +1,5 @@
+title: A Case Study On The Applications Of A Generic Library For Low-Cost Polychromatic Passive Stereo
+authors: Simon Stegmaier, Dirc Rose, Thomas Ertl
+in_vis_citations: 
+schulz_vis_99
+

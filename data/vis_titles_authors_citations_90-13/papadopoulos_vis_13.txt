@@ -1,0 +1,6 @@
+title: Acuity-Driven Gigapixel Visualization
+authors: Charilaos Papadopoulos, Arie E. Kaufman
+in_vis_citations: 
+ip_vis_11
+gansner_infovis_04
+

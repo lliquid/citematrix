@@ -1,0 +1,6 @@
+title: Human-Centered Approaches in Geovisualization Design: Investigating Multiple Methods Through a Long-Term Case Study
+authors: David Lloyd, Jason Dykes
+in_vis_citations: 
+dykes_infovis_10
+bostock_infovis_09
+

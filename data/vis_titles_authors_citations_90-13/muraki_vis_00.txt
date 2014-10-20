@@ -1,0 +1,5 @@
+title: Basic Research for Coloring Multichannel MRI Data
+authors: Shigeru Muraki, Toshiharu Nakai, Yasuyo Kita
+in_vis_citations: 
+he1_vis_96
+

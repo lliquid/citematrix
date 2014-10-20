@@ -1,0 +1,5 @@
+title: Coordinated Graph and Scatter-Plot Views for the Visual Exploration of Microarray Time-Series Data
+authors: Paul Craig, Jessie Kennedy
+in_vis_citations: 
+hauser_infovis_02
+

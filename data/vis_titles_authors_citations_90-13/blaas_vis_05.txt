@@ -1,0 +1,6 @@
+title: Fast and Reproducible Fiber Bundle Selection in DTI Visualization
+authors: Jorik Blaas, Charl P. Botha, Bart Peters, Frans M. Vos, Frits H. Post
+in_vis_citations: 
+weinstei_vis_99
+akers_vis_04
+

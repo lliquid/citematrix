@@ -1,0 +1,10 @@
+title: Stream-Processing Points
+authors: Renato Pajarola
+in_vis_citations: 
+alexa_vis_01
+clarenz_vis_00
+dey_vis_02
+isenburg_vis_03
+isenburg_vis_05
+pauly_vis_02
+

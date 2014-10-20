@@ -1,0 +1,7 @@
+title: Visual Evaluation of Text Features for Document Summarization and Analysis
+authors: Daniela Oelke, Peter Bak, Daniel A. Keim, Mark Last, Guy Danon
+in_vis_citations: 
+spoerri_vis_93
+wise_infovis_95
+keim_vast_07
+

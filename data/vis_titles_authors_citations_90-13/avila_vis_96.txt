@@ -1,0 +1,5 @@
+title: A Haptic Interaction Method for Volume Visualization
+authors: Ricardo S. Avila, Lisa M. Sobierajski
+in_vis_citations: 
+sobieraj_vis_95
+

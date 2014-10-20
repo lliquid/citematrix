@@ -1,0 +1,6 @@
+title: A Handheld Flexible Display System
+authors: Jonathan Konieczny, Clement Shimizu, Gary Meyer, Dnardo Colucci
+in_vis_citations: 
+yang_vis_01
+saroul_vis_03
+

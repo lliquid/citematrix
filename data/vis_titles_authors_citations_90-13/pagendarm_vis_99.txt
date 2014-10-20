@@ -1,0 +1,8 @@
+title: Detecting Vortical Phenomena in Vector Data by Medium-Scale Correlation
+authors: H.-G. Pagendarm, B. Henne, M. Ruetten
+in_vis_citations: 
+leeuw_vis_93
+kenwrigh_vis_97
+banks_vis_94
+roth_vis_96
+

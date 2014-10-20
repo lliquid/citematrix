@@ -1,0 +1,6 @@
+title: Interactive Visual Exploration of a Large Spatio-Temporal Dataset: Reflections on a Geovisualization Mashup
+authors: Jo Wood, Jason Dykes, Aidan Slingsby, Keith Clarke
+in_vis_citations: 
+wise_infovis_95
+weaver_infovis_04
+

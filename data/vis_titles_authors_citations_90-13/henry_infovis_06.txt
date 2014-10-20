@@ -1,0 +1,5 @@
+title: MatrixExplorer: a Dual-Representation System to Explore Social Networks
+authors: Nathalie Henry, Jean-Daniel Fekete
+in_vis_citations: 
+fekete_infovis_04
+

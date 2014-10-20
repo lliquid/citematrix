@@ -1,0 +1,12 @@
+title: Physically Based Methods for Tensor Field Visualization
+authors: Ingrid Hotz, Louis Feng, Hans Hagen, Bernd Hamann, Kenneth Joy, Boris Jeremic
+in_vis_citations: 
+boring_vis_98
+weinstei_vis_99
+leeuw_vis_93
+zheng_vis_02
+delmarcelle_vis_94
+hotz_vis_02
+zhukov_vis_02
+zheng_vis_03
+

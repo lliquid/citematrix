@@ -1,0 +1,6 @@
+title: CPR - Curved Planar Reformation
+authors: Armin Kanitsar, Dominik Fleischmann, Rainer Wegenkittl, Petr Felkel, Eduard Groeller
+in_vis_citations: 
+kanitsar_vis_01
+hahn_vis_01
+

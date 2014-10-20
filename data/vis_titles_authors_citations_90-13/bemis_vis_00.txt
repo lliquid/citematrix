@@ -1,0 +1,9 @@
+title: Case Study: A Methodology for Plume Visualization with Application to Real-Time Acquisition and Navigation
+authors: Karen G. Bemis, Deborah Silver, Peter A. Rona, Chengwei Feng
+in_vis_citations: 
+rona_vis_98
+guo_vis_95
+johannsen_vis_94
+moorhead_vis_93
+silver_vis_96
+

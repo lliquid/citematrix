@@ -1,0 +1,7 @@
+title: Hardware-Accelerated 3D Visualization of Mass Spectrometry Data
+authors: Jose de Corral, Hanspeter Pfister
+in_vis_citations: 
+cohenor1_vis_96
+hoppe_vis_98
+duchaine_vis_97
+

@@ -1,0 +1,13 @@
+title: Interactive Point-Based Isosurface Extraction
+authors: Yarden Livnat, Xavier Tricoche
+in_vis_citations: 
+parker_vis_98
+chiang_vis_98
+chiang_vis_97
+shen_vis_95
+itoh_vis_96
+gregorsk_vis_02
+gallagher_vis_91
+livnat_vis_98
+itoh_vis_94
+

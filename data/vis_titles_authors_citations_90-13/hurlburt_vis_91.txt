@@ -1,0 +1,4 @@
+title: Visualizing Chemical Kinetics in Fractal Domains
+authors: Neal E. Hurlburt, Lola W. Anacker, Raoul Kopelman
+in_vis_citations: 
+

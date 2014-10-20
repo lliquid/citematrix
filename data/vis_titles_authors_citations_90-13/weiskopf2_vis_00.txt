@@ -1,0 +1,5 @@
+title: Four-Dimensional Non-Linear Ray Tracing as a Visualization Tool for Gravitational Physics
+authors: Daniel Weiskopf
+in_vis_citations: 
+bryson_vis_92
+

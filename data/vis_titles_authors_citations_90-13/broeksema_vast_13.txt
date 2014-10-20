@@ -1,0 +1,11 @@
+title: Decision Exploration Lab: A Visual Analytics Solution for Decision Management
+authors: Bertjan Broeksema, Thomas Baudel, Alex Telea, Paolo Crisafulli
+in_vis_citations: 
+johnson_vis_91
+wang_vast_11
+migut_vast_10
+green_vast_08
+savikhin_vast_08
+bostock_infovis_11
+afzal_vast_11
+

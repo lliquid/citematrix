@@ -1,0 +1,9 @@
+title: Asymmetric Relations in Longitudinal Social Networks
+authors: Ulrik Brandes, Bobo Nick
+in_vis_citations: 
+heer1_infovis_06
+henry_infovis_07
+nielsen_infovis_09
+perer_infovis_06
+tikhonov_vis_10
+

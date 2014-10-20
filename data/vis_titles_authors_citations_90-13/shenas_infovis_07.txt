@@ -1,0 +1,8 @@
+title: Weaving Versus Blending: a quantitative assessment of the information carrying capacities of two alternative methods for conveying multivariate data with color
+authors: Haleh Hagh-Shenas, Sunghee Kim, Victoria Interrante, Christopher Healey
+in_vis_citations: 
+chlan_infovis_05
+urness_vis_03
+kirby_vis_99
+forsell_infovis_05
+

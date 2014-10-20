@@ -1,0 +1,7 @@
+title: ResultMaps: Visualization for Search Interfaces
+authors: Edward C. Clarkson, Krishna Desai, James D. Foley
+in_vis_citations: 
+johnson_vis_91
+smith_infovis_06
+wise_infovis_95
+

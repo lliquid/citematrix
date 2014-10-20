@@ -1,0 +1,4 @@
+title: Visualizing 2D Probability Distributions from EOS Satellite Image-Derived Data Sets: A Case Study
+authors: David Kao, Jennifer L. Dungan, Alex Pang
+in_vis_citations: 
+

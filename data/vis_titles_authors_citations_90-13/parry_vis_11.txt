@@ -1,0 +1,9 @@
+title: Hierarchical Event Selection for Video Storyboards with a Case Study on Snooker Video Visualization
+authors: Matthew L. Parry, Philip A. Legg, David H.S. Chung, Iwan W. Griffiths, Min Chen
+in_vis_citations: 
+romero_infovis_08
+kapler_infovis_04
+daniel_vis_03
+wang_vis_07
+chen_vis_06
+

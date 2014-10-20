@@ -1,0 +1,7 @@
+title: Visual Analysis of Historic Hotel Visitation Patterns
+authors: Chris Weaver, David Fyfe, Anthony Robinson, Deryck Holdsworth, Donna Peuquet, Alan M. MacEachrenll
+in_vis_citations: 
+weaver_infovis_04
+wattenbe_infovis_02
+fekete_infovis_04
+

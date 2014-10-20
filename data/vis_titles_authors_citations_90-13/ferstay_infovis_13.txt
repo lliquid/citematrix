@@ -1,0 +1,12 @@
+title: Variant View: Visualizing Sequence Variants in their Gene Context
+authors: Joel A. Ferstay, Cydney B. Nielsen, Tamara Munzner
+in_vis_citations: 
+munzner_infovis_09
+lam_infovis_08
+sedlmair_infovis_12
+bostock_infovis_11
+craig_infovis_03
+nielsen_infovis_09
+meyer_infovis_09
+lloyd_infovis_11
+

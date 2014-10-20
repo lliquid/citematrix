@@ -1,0 +1,8 @@
+title: Importance-Driven Focus of Attention
+authors: Ivan Viola, Mateu Sbert, Eduard Groeller
+in_vis_citations: 
+bruckner_vis_05
+takahash_vis_05
+miksch_infovis_01
+bordoloi_vis_05
+

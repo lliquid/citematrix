@@ -1,0 +1,14 @@
+title: Capturing and Supporting the Analysis Process
+authors: Nazanin Kadivar, Victor Chen, Dustin Dunsmuir, Eric Lee, Cheryl Qian, John Dill, Christopher Shaw, Robert Woodbury
+in_vis_citations: 
+amar_infovis_05
+bier_vast_08
+eccles_vast_07
+heer_infovis_08
+stasko_vast_07
+gotz_vast_08
+kreusele_infovis_04
+cuadros_vast_07
+yi_infovis_07
+hao_vast_07
+

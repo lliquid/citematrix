@@ -1,0 +1,11 @@
+title: Splatting Without The Blur
+authors: Klaus Mueller, Torsten Moeller, Roger Crawfis
+in_vis_citations: 
+parker_vis_98
+tiede_vis_98
+mueller_vis_96
+moeller_vis_97
+mueller_vis_98
+crawfis_vis_93
+avila_vis_94
+

@@ -1,0 +1,4 @@
+title: DIG-COLA: Directed Graph Layout through Constrained Energy Minimization
+authors: Tim Dwyer, Yehuda Koren
+in_vis_citations: 
+

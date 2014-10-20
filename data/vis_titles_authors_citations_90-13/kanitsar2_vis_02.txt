@@ -1,0 +1,8 @@
+title: Christmas Tree Case Study: Computed Tomography as a Tool for Mastering Complex Real World Objects with Applications in Computer Graphics
+authors: Armin Kanitsar, Thomas Theussl, Lukas Mroz, Milos Sramek, Anna Vilanova Bartroli, Balazs Csebfalvi, Jiri Hladuvka, Dominik Fleischmann, Michael Knapp, Rainer Wegenkittl, Petr Felkel, Stefan Guthe, Werner Purgathofer, Eduard Groeller
+in_vis_citations: 
+mroz_vis_01
+kanitsar_vis_01
+guthe_vis_01
+sramek_vis_94
+

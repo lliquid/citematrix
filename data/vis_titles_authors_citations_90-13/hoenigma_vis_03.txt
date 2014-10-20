@@ -1,0 +1,6 @@
+title: Adaptive Design of a Global Opacity Transfer Function for Direct Volume Rendering of Ultrasound Data
+authors: Dieter Hoenigmann, Johannes Ruisz, Christoph Haider
+in_vis_citations: 
+bajaj_vis_97
+he1_vis_96
+

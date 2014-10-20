@@ -1,0 +1,7 @@
+title: Implicit Stream Surfaces
+authors: Jarke J. van Wijk
+in_vis_citations: 
+hultquist1_vis_92
+kenwright_vis_92
+helman_vis_90
+

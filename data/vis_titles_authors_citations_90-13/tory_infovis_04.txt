@@ -1,0 +1,8 @@
+title: Rethinking Visualization: A High-Level Taxonomy
+authors: Melanie Tory, Torsten Moeller
+in_vis_citations: 
+wehrend_vis_90
+chi_infovis_00
+card_infovis_97
+espinosa_infovis_99
+

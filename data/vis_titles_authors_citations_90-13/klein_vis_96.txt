@@ -1,0 +1,5 @@
+title: Mesh Reduction with Error Control
+authors: Reinhard Klein, Gunther Liebich, W. Strasser
+in_vis_citations: 
+montani_vis_94
+

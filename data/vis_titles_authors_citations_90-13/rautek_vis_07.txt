@@ -1,0 +1,12 @@
+title: Semantic Layers for Illustrative Volume Rendering
+authors: Peter Rautek, Stefan Bruckner, Eduard Groeller
+in_vis_citations: 
+mccormic_vis_04
+stocking_vis_05
+kniss_vis_05
+kindlman_vis_03
+lum_vis_04
+bruckner_vis_05
+woodring_vis_06
+salama_vis_06
+

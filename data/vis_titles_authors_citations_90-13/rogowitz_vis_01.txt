@@ -1,0 +1,5 @@
+title: The "Which Blair Project": A Quick Visual Method for Evaluating Perceptual Color Maps
+authors: Bernice E. Rogowitz, Alan D. Kalvin
+in_vis_citations: 
+bergman_vis_95
+

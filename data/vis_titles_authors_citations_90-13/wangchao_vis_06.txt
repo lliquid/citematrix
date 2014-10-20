@@ -1,0 +1,17 @@
+title: LOD Map - A Visual Interface for Navigating Multiresolution Volume Visualization
+authors: Chaoli Wang, Han-Wei Shen
+in_vis_citations: 
+ma_vis_99
+lamar_vis_99
+kniss_vis_01
+ghavamnia_vis_95
+wijk_vis_05
+bordoloi_vis_05
+wattenberg_infovis_01
+takahash_vis_05
+guthe_vis_02
+zhou_vis_97
+jankun-k_vis_02
+muraki_vis_92
+bajaj_vis_97
+

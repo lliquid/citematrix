@@ -1,0 +1,5 @@
+title: Tile-based Level of Detail for the Parallel Age
+authors: Krzysztof Niski, Jonathan D. Cohen
+in_vis_citations: 
+bhaniram_vis_05
+

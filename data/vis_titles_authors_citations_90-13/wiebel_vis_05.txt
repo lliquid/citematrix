@@ -1,0 +1,14 @@
+title: Eyelet Particle Tracing Steady Visualization of Unsteady Flow
+authors: Alexander Wiebel, Gerik Scheuermann
+in_vis_citations: 
+jobard_vis_01
+becker_vis_95
+garth_vis_04
+hultquist1_vis_92
+lane_vis_93
+tricoche_vis_04
+hin_vis_93
+ebling_vis_03
+shen_vis_96
+theisel_vis_04
+

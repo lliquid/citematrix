@@ -1,0 +1,7 @@
+title: Developing and Evaluating Quilts for the Depiction of Large Layered Graphs
+authors: Juhee Bae, Ben Watson
+in_vis_citations: 
+bezerian_infovis_10
+ghoniem_infovis_04
+henry_infovis_07
+

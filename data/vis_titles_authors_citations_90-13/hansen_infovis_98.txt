@@ -1,0 +1,7 @@
+title: Comparative Visualization of Protein Structure-Sequence Alignments
+authors: Marc Hansen, Doanna Meads, Alex Pang
+in_vis_citations: 
+chi_vis_96
+lodha2_vis_96
+chi_vis_95
+

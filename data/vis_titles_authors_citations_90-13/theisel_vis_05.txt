@@ -1,0 +1,12 @@
+title: Extraction of Parallel Vector Surfaces in 3D Time-Dependent Fields and Application to Vortex Core Line Tracking
+authors: Holger Theisel, Jan Sahner, Tino Weinkauf, Hans-Christian Hege, Hans-Peter Seidel
+in_vis_citations: 
+theisel_vis_04
+banks_vis_94
+peikert_vis_99
+hultquist1_vis_92
+vanwijk2_vis_93
+scheuermann_vis_01
+tang_vis_98
+roth_vis_98
+

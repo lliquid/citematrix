@@ -1,0 +1,8 @@
+title: Multivariate Glyphs for Multi-Object Clusters
+authors: Eleanor Boyle Chlan, Penny Rheingans
+in_vis_citations: 
+hendley_infovis_95
+rheingans_vis_96
+fua_vis_99
+sprenger_vis_00
+

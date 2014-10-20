@@ -1,0 +1,7 @@
+title: Visualizing Massive Multi-Digraphs
+authors: James Abello, Jeffrey Korn
+in_vis_citations: 
+chuah_infovis_98
+bergman_vis_95
+eick_vis_93
+

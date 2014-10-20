@@ -1,0 +1,9 @@
+title: Appearance-Preserving View-Dependent Visualization
+authors: Justin Jang, William Ribarsky, Christopher Shaw, Peter Wonka
+in_vis_citations: 
+davis_vis_98
+hoppe_vis_99
+garland_vis_98
+davis_vis_99
+elsana_vis_02
+

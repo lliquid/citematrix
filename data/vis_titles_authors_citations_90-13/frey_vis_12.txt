@@ -1,0 +1,16 @@
+title: Visualization of Temporal Similarity in Field Data
+authors: Steffen Frey, Filip Sadlo, Thomas Ertl
+in_vis_citations: 
+kehrer_vis_08
+sadlo_vis_06
+sauber_vis_06
+gerber_vis_10
+sanderson_vis_10
+waser_vis_10
+fuchs_vis_09
+wangchao_vis_08
+pham_infovis_10
+lee_vis_09
+reininghaus_vis_11
+janicke_vis_09
+

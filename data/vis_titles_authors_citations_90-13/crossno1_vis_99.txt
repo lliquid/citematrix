@@ -1,0 +1,6 @@
+title: Spiraling Edge: Fast Surface Reconstruction from Partially Organized Sample Points
+authors: Patricia Crossno, Edward Angel
+in_vis_citations: 
+crossno_vis_97
+teichman_vis_98
+

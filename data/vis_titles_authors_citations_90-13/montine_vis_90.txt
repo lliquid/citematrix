@@ -1,0 +1,4 @@
+title: A Procedural Interface for Volume Rendering
+authors: James L. Montine
+in_vis_citations: 
+

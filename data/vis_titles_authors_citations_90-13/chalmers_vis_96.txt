@@ -1,0 +1,6 @@
+title: A Linear Iteration Time Layout Algorithm for Visualising High-Dimensional Data
+authors: Matthew Chalmers
+in_vis_citations: 
+wise_infovis_95
+ingram_vis_95
+

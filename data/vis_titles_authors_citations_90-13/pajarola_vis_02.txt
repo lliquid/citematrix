@@ -1,0 +1,8 @@
+title: QuadTIN: Quadtree based Triangulated Irregular Networks
+authors: Renato Pajarola, Marc Antonijuan, Roberto Lario
+in_vis_citations: 
+duchaine_vis_97
+lindstrom02_vis_01
+hoppe_vis_98
+pajarola_vis_98
+

@@ -1,0 +1,4 @@
+title: Visualization in Anthropology: Reconstruction of Human Fossils from Multiple Pieces
+authors: Alan D. Kalvin, David Dean, Jean-Jacques Hublin, Marc Braun
+in_vis_citations: 
+

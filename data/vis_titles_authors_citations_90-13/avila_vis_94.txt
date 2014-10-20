@@ -1,0 +1,8 @@
+title: VolVis: A Diversified Volume Visualization System
+authors: Ricardo S. Avila, Taosong He, Lichan Hong, Arie E. Kaufman, Hanspeter Pfister, Claudio T. Silva, Lisa M. Sobierajski, Sidney W. Wang
+in_vis_citations: 
+avila_vis_92
+he_vis_93
+wang_vis_93
+krueger_vis_90
+

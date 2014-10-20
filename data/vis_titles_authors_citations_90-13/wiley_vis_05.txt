@@ -1,0 +1,4 @@
+title: Evolutionary Morphing
+authors: David F. Wiley, Nina Amenta, Dan A. Alcantara, Deboshmita Ghosh, Yong Joo Kil, Eric Delson, Will Harcourt-Smith, Katherine St. John, F. James Rohlf, Bernd Hamann
+in_vis_citations: 
+

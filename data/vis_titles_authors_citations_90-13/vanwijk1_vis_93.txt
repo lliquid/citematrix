@@ -1,0 +1,6 @@
+title: HyperSlice Visualization of scalar functions of many variables
+authors: Jarke J van Wijk, Robert van Liere
+in_vis_citations: 
+beddow_vis_90
+smith_vis_91
+

@@ -1,0 +1,10 @@
+title: A Framework for Sample-Based Rendering with O-Buffers
+authors: Huamin Qu, Arie Kaufman, Ran Shao, Ankush Kumar
+in_vis_citations: 
+chen_vis_01
+hoppe_vis_99
+garland_vis_98
+cignoni_vis_00
+cohen_vis_01
+qu_vis_00
+

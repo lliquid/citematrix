@@ -1,0 +1,11 @@
+title: Automatic Layout of Structured Hierarchical Reports
+authors: Eirik Bakke, David R. Karger, Robert C. Miller
+in_vis_citations: 
+ziemkiew_vast_11
+ghoniem_infovis_04
+mitchell_infovis_95
+mackinlay_infovis_07
+johnson_vis_91
+zhao_infovis_05
+chi_infovis_97
+

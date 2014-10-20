@@ -1,0 +1,5 @@
+title: Topology Visualization of the Optical Power Flow through a Novel C-Shaped Nano-Aperture
+authors: Liying Sun, Rajesh K. Batra, Xiaolei Shi, Lambertus Hesselink
+in_vis_citations: 
+batra_vis_99
+

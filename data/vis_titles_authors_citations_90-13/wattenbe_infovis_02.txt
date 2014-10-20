@@ -1,0 +1,6 @@
+title: Arc Diagrams: Visualizing Structure in Strings
+authors: Martin Wattenberg
+in_vis_citations: 
+jerding_infovis_95
+wu_vis_93
+

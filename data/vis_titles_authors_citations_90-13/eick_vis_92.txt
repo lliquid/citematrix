@@ -1,0 +1,4 @@
+title: Visualizing Code Profiling Line Oriented Statistics
+authors: Stephen G. Eick, Joseph L. Steffen
+in_vis_citations: 
+

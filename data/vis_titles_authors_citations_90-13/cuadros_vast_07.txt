@@ -1,0 +1,6 @@
+title: Point Placement by Phylogenetic Trees and its Application to Visual Analysis of Document Collections
+authors: Ana M. Cuadros, Fernando V. Paulovich, Rosane Minghim, Guilherme P. Telles
+in_vis_citations: 
+wise_infovis_95
+chalmers_vis_96
+

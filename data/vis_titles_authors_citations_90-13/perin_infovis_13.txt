@@ -1,0 +1,8 @@
+title: SoccerStories: A Kick-off for Visual Soccer Analysis
+authors: Charles Perin, Romain Vuillemot, Jean-Daniel Fekete
+in_vis_citations: 
+henry_infovis_07
+brandes_infovis_11
+bostock_infovis_11
+pileggi_infovis_12
+

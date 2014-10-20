@@ -1,0 +1,12 @@
+title: Multivariate Visualization Using Metric Scaling
+authors: Pak Chung Wong, R. Daniel Bergerony
+in_vis_citations: 
+wong_vis_95
+martin_vis_95
+ward_vis_94
+wong_vis_96
+bentley_infovis_96
+keim_vis_93
+wong_infovis_96
+beddow_vis_90
+

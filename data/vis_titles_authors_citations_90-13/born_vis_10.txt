@@ -1,0 +1,17 @@
+title: Illustrative Stream Surfaces
+authors: Silvia Born, Alexander Wiebel, Jan Friedrich, Gerik Scheuermann
+in_vis_citations: 
+dooley_vis_90
+krishnan_vis_09
+correa_vis_07
+joshi_vis_05
+kirby_vis_99
+garth_vis_08
+everts_vis_09
+scheuermann_vis_01
+svakhine_vis_05
+fischer_vis_05
+patel_vis_08
+tricoche_vis_04
+theisel_vis_03
+

@@ -1,0 +1,7 @@
+title: Dual Multiresolution HyperSlice for Multivariate Data Visualization
+authors: Pak Chung Wong, Andrew H. Crabb, R. Daniel Bergeron
+in_vis_citations: 
+spence_infovis_95
+wong_vis_96
+wong_vis_95
+

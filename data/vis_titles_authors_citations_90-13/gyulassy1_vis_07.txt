@@ -1,0 +1,10 @@
+title: Topologically Clean Distance Fields
+authors: Attila G. Gyulassy, Mark A. Duchaineau, Vijay Natarajan, Valerio Pascucci, Eduardo M. Bringa, Andrew Higginbotham, Bernd Hamann
+in_vis_citations: 
+gyulassy_vis_05
+cornea_vis_05
+szymczak_vis_03
+carr_vis_04
+cignoni_vis_00
+gerstner_vis_00
+

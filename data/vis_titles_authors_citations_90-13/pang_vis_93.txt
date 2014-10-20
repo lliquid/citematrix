@@ -1,0 +1,5 @@
+title: Spray Rendering: Visualization Using Smart Particles
+authors: Alex Pang, Kyle Smith
+in_vis_citations: 
+wijk_vis_92
+

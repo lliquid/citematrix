@@ -1,0 +1,15 @@
+title: Visual Analytics Methods for Categoric Spatio-Temporal Data
+authors: T. von Landesberger, Sebastian Bremm, Natalia Andrienko, Gennady Andrienko, Maria Tekusova
+in_vis_citations: 
+wood_infovis_11
+vrotsou_infovis_09
+blaas_infovis_09
+havre_infovis_00
+lex_infovis_10
+ziegler_vast_10
+kapler_infovis_04
+riehmann_infovis_05
+vanham_infovis_01
+wood_infovis_08
+johansso_infovis_09
+

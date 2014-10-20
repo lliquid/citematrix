@@ -1,0 +1,11 @@
+title: Box Spline Reconstruction On The Face-Centered Cubic Lattice
+authors: Minho Kim, Alireza Entezari, Joerg Peters
+in_vis_citations: 
+marschner_vis_94
+qiu_vis_07
+theussl_vis_01
+carlbom_vis_93
+qiao_vis_05
+csebfalv_vis_05
+entezari_vis_04
+

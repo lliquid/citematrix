@@ -1,0 +1,6 @@
+title: Domain Analysis: A Technique to Design A User-Centered Visualization Framework
+authors: Octavio Juarez Espinosa, Chris Hendrickson, James H. Garrett Jr.
+in_vis_citations: 
+roth_infovis_96
+johnson_vis_91
+

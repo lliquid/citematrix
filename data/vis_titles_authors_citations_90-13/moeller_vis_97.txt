@@ -1,0 +1,5 @@
+title: A Comparison Of Normal Estimation Schemes
+authors: Torsten Moeller, Raghu Machiraju, Klaus Mueller, Roni Yagel
+in_vis_citations: 
+marschner_vis_94
+

@@ -1,0 +1,5 @@
+title: Battlefield Visualization on the Responsive Workbench
+authors: Jim Durbin, J. Edward Swan II, Brad Colbert, John Crowe, Rob King, Tony King, Christopher Scannell, Zachary Wartell, Terry Welsh
+in_vis_citations: 
+obeysekare_vis_96
+

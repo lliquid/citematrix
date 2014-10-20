@@ -1,0 +1,11 @@
+title: Dual Contouring with Topology-Preserving Simplification Using Enhanced Cell Representation
+authors: Nan Zhang, Wei Hong, Arie Kaufman
+in_vis_citations: 
+montani_vis_94
+shaffer_vis_01
+szymczak_vis_03
+varadhan_vis_03
+gregorsk_vis_02
+shekhar_vis_96
+gerstner_vis_00
+

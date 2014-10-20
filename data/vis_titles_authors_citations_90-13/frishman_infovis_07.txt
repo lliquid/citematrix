@@ -1,0 +1,5 @@
+title: Multi-Level Graph Layout on the GPU
+authors: Yaniv Frishman, Ayellet Tal
+in_vis_citations: 
+gansner_infovis_04
+

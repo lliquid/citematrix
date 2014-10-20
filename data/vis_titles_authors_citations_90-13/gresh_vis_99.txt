@@ -1,0 +1,5 @@
+title: An Interactive Framework for Visualizing Foreign Currency Exchange Options
+authors: D. L. Gresh, B. E. Rogowitz, M. S. Tignor
+in_vis_citations: 
+abram_vis_95
+

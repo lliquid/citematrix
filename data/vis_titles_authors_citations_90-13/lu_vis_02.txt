@@ -1,0 +1,10 @@
+title: Non-Photorealistic Volume Rendering Using Stippling Techniques
+authors: Aidong Lu, Christopher J. Morris, David S. Ebert, Penny Rheingans, Charles Hansen
+in_vis_citations: 
+ma_vis_97
+chen_vis_01
+ebert_vis_00
+zwicker_vis_01
+mroz_vis_01
+treavett_vis_00
+

@@ -1,0 +1,9 @@
+title: What Makes a Visualization Memorable?
+authors: Michelle A. Borkin, Azalea A. Vo, Zoya Bylinskii, Phillip Isola, Shashank Sunkavalli, Aude Oliva, Hanspeter Pfister
+in_vis_citations: 
+vandemoere_infovis_12
+tory_infovis_04
+borgo_infovis_12
+marriott_infovis_12
+hullman1_infovis_11
+

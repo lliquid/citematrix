@@ -1,0 +1,8 @@
+title: Glyph-Based SPECT Visualization for the Diagnosis of Coronary Artery Disease
+authors: Jennis Meyer-Spradow, Lars Stegger, Christian Doering, Timo Ropinski, Klaus Hinrichs
+in_vis_citations: 
+zhukov_vis_03
+kindlman_vis_06
+termeer_vis_07
+laidlaw_vis_98
+

@@ -1,0 +1,8 @@
+title: Exploratory Visualization of Multivariate Data with Variable Quality
+authors: Zaixian Xie, Shiping Huang, Matthew O. Ward, Elke A. Rundensteiner
+in_vis_citations: 
+cedilnik_vis_00
+olston_infovis_02
+martin_vis_95
+amar_infovis_04
+

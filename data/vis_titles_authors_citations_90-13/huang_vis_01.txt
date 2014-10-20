@@ -1,0 +1,7 @@
+title: A Complete Distance Field Representation
+authors: Jian Huang, Yan Li, Roger Crawfis, Shao-Chiung Lu, Shuh-Yuan Liou
+in_vis_citations: 
+crawfis_vis_93
+yagel_vis_95
+huang_vis_00
+

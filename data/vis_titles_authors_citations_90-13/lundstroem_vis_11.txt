@@ -1,0 +1,7 @@
+title: Multi-Touch Table System for Medical Visualization: Application to Orthopedic Surgery Planning
+authors: Claes Lundstr??m, Thomas Rydell, Camilla Forsell, Anders Persson, Anders Ynnerman
+in_vis_citations: 
+yu_vis_10
+isenberg_vast_10
+ljung_vis_06
+

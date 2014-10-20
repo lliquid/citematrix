@@ -1,0 +1,11 @@
+title: A Novel Visualization Model for Web Search Results
+authors: Tien N. Nguyen, Jin Zhang
+in_vis_citations: 
+mukherjea_infovis_96
+hendley_infovis_95
+havre_infovis_01
+andrews_infovis_95
+frecon_infovis_98
+higgins_infovis_99
+leuski_infovis_00
+

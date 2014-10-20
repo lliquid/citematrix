@@ -1,0 +1,12 @@
+title: BrainGazer: Visual Queries for Neurobiology Research
+authors: Stefan Bruckner, Veronika Solteszova, Eduard Groeller, Jir Hladuvka, Katja Buehler, Jai Y. Yu, Barry J. Dickson
+in_vis_citations: 
+straka_vis_04
+kaufman_vis_90
+kniss_vis_03
+melek_vis_06
+martin_vis_95
+sakas_vis_96
+leeuw_vis_06
+maciejew_vast_08
+

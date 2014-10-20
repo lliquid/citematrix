@@ -1,0 +1,5 @@
+title: Efficient Computation and Visualization of Coherent Structures in Fluid Flow Applications
+authors: Christoph Garth, Florian Gerhardt, Xavier Tricoche, Hans Hagen
+in_vis_citations: 
+tricoche_vis_04
+

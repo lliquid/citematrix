@@ -1,0 +1,6 @@
+title: Structured Spatial Domain Image and Data Comparison Metrics
+authors: Nivedita Sahasrabudhe, John E. West, Raghu Machiraju, Mark Janus
+in_vis_citations: 
+moeller_vis_97
+bancroft_vis_90
+

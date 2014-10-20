@@ -1,0 +1,5 @@
+title: Graphical Inference for Infovis
+authors: Hadley Wickham, Dianne Cook, Heike Hofmann, Andreas Buja
+in_vis_citations: 
+viegas_infovis_07
+

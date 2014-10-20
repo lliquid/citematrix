@@ -1,0 +1,13 @@
+title: Interactive Dimensionality Reduction Through User-defined Combinations of Quality Metrics
+authors: Sara Johansson, Jimmy Johansson
+in_vis_citations: 
+wilkinso_infovis_05
+yang_infovis_03
+ankerst_infovis_98
+cui_infovis_06
+williams_infovis_04
+seo_infovis_04
+yang_infovis_04
+paulovic_infovis_08
+peng_infovis_04
+

@@ -1,0 +1,4 @@
+title: Animating Wrinkles on Clothes
+authors: Sunil Hadap, Endre Bangerter, Pascal Volino, Nadia Magnenat-Thalmann
+in_vis_citations: 
+

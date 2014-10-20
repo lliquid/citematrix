@@ -1,0 +1,16 @@
+title: Spatial Text Visualization Using Automatic Typographic Maps
+authors: Shehzad Afzal, Ross Maciejewski, Yun Jang, Niklas Elmqvist, David S. Ebert
+in_vis_citations: 
+shi_vast_10
+dykes_infovis_10
+koh_infovis_10
+wise_infovis_95
+interran_vis_97
+ebert_vis_00
+wong_infovis_05
+keim_infovis_02
+wood_infovis_08
+lee_infovis_10
+viegas_infovis_09
+skupin_infovis_00
+

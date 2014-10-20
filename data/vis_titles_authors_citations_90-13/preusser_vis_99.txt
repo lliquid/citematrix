@@ -1,0 +1,10 @@
+title: Anisotropic Nonlinear Diffusion in Flow Visualization
+authors: T. Preusser, M. Rumpf
+in_vis_citations: 
+vanwijk2_vis_93
+leeuw_vis_95
+max_vis_94
+interran_vis_97
+kiu_vis_96
+shen_vis_97
+

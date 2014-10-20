@@ -1,0 +1,7 @@
+title: A Taxonomy of Visualization Techniques using the Data State Reference Model
+authors: Ed H. Chi
+in_vis_citations: 
+chi_infovis_97
+card_infovis_97
+chi_infovis_98
+

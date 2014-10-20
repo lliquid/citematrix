@@ -1,0 +1,15 @@
+title: Untangling Euler Diagrams
+authors: Nathalie Henry Riche, Tim Dwyer
+in_vis_citations: 
+freiler_infovis_08
+henry_infovis_07
+heer_infovis_05
+henry_infovis_08
+collins_infovis_09
+dwyer_infovis_06
+abello_infovis_06
+dwyer_infovis_08
+shneiderman_infovis_06
+spoerri_vis_93
+elmqvist_infovis_08
+

@@ -1,0 +1,7 @@
+title: On the Optimization of Visualizations of Complex Phenomena
+authors: Donald House, Alethea Bair, Colin Ware
+in_vis_citations: 
+forsberg_vis_09
+he1_vis_96
+kiu_vis_96
+

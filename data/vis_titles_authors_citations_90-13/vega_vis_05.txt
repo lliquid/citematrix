@@ -1,0 +1,14 @@
+title: High Performance Volume Splatting for Visualization of Neurovascular Data
+authors: F. Vega-Higuera, P. Hastreiter, R. Fahlbusch, G. Greiner
+in_vis_citations: 
+chen_vis_04
+swan_vis_97
+krueger_vis_03
+mueller_vis_96
+hopf_vis_03
+kniss_vis_01
+liw_vis_03
+zwicker_vis_01
+mueller_vis_99
+hadwiger_vis_03
+

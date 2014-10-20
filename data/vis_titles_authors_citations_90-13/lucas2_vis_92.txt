@@ -1,0 +1,6 @@
+title: A Scientific Visualization Renderer
+authors: Bruce Lucas
+in_vis_citations: 
+lucas1_vis_92
+haber_vis_91
+

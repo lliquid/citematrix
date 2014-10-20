@@ -1,0 +1,6 @@
+title: Efficient Compression of Non-Manifold Polygonal Meshes
+authors: Andre Gueziec, Frank Bossen, Gabriel Taubin, Claudio Silva
+in_vis_citations: 
+chow_vis_97
+gueziec_vis_98
+

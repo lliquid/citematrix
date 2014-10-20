@@ -1,0 +1,5 @@
+title: The Information Mural: A Technique for Displaying and Navigating Large Information Spaces
+authors: Dean F. Jerding, John T. Stasko
+in_vis_citations: 
+kimelman_vis_94
+

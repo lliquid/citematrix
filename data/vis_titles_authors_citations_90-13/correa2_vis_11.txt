@@ -1,0 +1,9 @@
+title: Towards Robust Topology of Sparsely Sampled Data
+authors: Carlos D. Correa, Peter Lindstrom
+in_vis_citations: 
+gyulassy_vis_05
+gerber_vis_10
+correa1_vis_11
+oesterli_vast_10
+fujishiro_vis_99
+

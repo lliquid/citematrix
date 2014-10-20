@@ -1,0 +1,9 @@
+title: Lagrangian Coherent Structures for Design Analysis of Revolving Doors
+authors: Benjamin Schindler, Raphael Fuchs, Stefan Barp, Juergen Waser, Armin Pobitzer, Robert Carnecky, Kresimir Matkovic, Ronald Peikert
+in_vis_citations: 
+garth_vis_07
+waser_vis_10
+sadlo_vis_07
+garth_vis_10
+staubli_vis_05
+

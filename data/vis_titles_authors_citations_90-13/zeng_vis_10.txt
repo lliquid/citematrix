@@ -1,0 +1,8 @@
+title: Supine and Prone Colon Registration Using Quasi-Conformal Mapping
+authors: Wei Zeng, Joseph Marino, Krishna Chaitanya Gurijala, Xianfeng Gu, Arie Kaufman
+in_vis_citations: 
+huang_vis_05
+hong_vis_06
+jin_vis_04
+zhao_vis_06
+

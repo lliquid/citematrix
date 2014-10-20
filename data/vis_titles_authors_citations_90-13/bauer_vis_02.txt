@@ -1,0 +1,6 @@
+title: A Case Study in Selective Visualization of Unsteady 3D Flow
+authors: Dirk Bauer, Ronald Peikert, Mie Sato, Mirjam Sick
+in_vis_citations: 
+banks_vis_94
+jobard_vis_01
+

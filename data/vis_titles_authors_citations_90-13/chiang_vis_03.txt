@@ -1,0 +1,11 @@
+title: Out-of-Core Isosurface Extraction of Time-Varying Fields over Irregular Grids
+authors: Yi-Jen Chiang
+in_vis_citations: 
+shen_vis_95
+chiang_vis_98
+chiang_vis_97
+shen_vis_96
+bordoloi_vis_03
+cox_vis_97
+shenh_vis_98
+

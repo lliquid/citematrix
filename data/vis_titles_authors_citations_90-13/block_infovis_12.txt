@@ -1,0 +1,12 @@
+title: The DeepTree Exhibit: Visualizing the Tree of Life to Facilitate Informal Learning
+authors: Florian Block, Michael S. Horn, Brenda Caldwell Phillips, Judy Diamond, E. Margaret Evans, Chia Shen
+in_vis_citations: 
+vandewetering_infovis_01
+munzner_infovis_97
+munzner_infovis_09
+heer_infovis_07
+vanham_infovis_02
+hinrichs_infovis_08
+plaisant_infovis_02
+pousman_infovis_07
+

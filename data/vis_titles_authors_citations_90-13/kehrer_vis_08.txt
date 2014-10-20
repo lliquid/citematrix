@@ -1,0 +1,8 @@
+title: Hypothesis Generation in Climate Research with Interactive Visual Data Exploration
+authors: Johannes Kehrer, Florian Ladst??dter, Philipp Muigg
+in_vis_citations: 
+johansso_infovis_05
+ward_vis_94
+laramee_vis_05
+novotny_vis_06
+

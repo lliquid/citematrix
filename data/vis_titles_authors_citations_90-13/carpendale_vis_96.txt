@@ -1,0 +1,4 @@
+title: Case Study: Visual Access for Landscape Event Based Temporal Data
+authors: Sheelagh T. Carpendale, Andrew Fally, David J. Cowperthwaite, Joseph Fally
+in_vis_citations: 
+

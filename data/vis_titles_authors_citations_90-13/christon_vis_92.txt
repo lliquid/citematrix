@@ -1,0 +1,4 @@
+title: Visualization of High Resolution, Three-Dimensional, Nonlinear Finite Element Analyses
+authors: Mark A. Christon, Thomas Spelce
+in_vis_citations: 
+

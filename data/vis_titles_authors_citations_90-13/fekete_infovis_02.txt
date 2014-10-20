@@ -1,0 +1,9 @@
+title: Interactive Information Visualization of a Million Items
+authors: Jean-Daniel Fekete, Catherine Plaisant
+in_vis_citations: 
+nowell_infovis_01
+johnson_vis_91
+yee_infovis_01
+jerding_infovis_95
+aliaga_vis_96
+

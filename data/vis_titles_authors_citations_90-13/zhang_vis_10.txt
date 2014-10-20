@@ -1,0 +1,6 @@
+title: Volumetric Modeling in Laser BPH Therapy Simulation
+authors: Nan Zhang, Xiangmin Zhou, Yunhe Shen, Robert Sweet
+in_vis_citations: 
+sigg_vis_03
+varadhan_vis_03
+

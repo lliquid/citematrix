@@ -1,0 +1,7 @@
+title: Sinus Endoscopy - Application of Advanced GPU Volume Rendering for Virtual Endoscopy
+authors: Arno Krueger, Christoph Kubisch, Gero Strauss, Bernhard Preim
+in_vis_citations: 
+bartz_vis_03
+krueger_vis_03
+neubauer_vis_04
+

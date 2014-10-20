@@ -1,0 +1,4 @@
+title: Pictorial Statistics visualization of high-dimensional statistical distributions
+authors: Andreas A. Mueller
+in_vis_citations: 
+

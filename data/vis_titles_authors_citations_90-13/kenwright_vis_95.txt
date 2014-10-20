@@ -1,0 +1,6 @@
+title: Optimization of Time-Dependent Particle Tracing Using Tetrahedral Decomposition
+authors: David N. Kenwright, David A. Lane
+in_vis_citations: 
+lane_vis_93
+bryson_vis_91
+

@@ -1,0 +1,20 @@
+title: Relation-Aware Volume Exploration Pipeline
+authors: Ming-Yuen Chan, Huamin Qu, Ka-Kei Chung, Wai-Ho Mak, Yingcai Wu
+in_vis_citations: 
+schneidegger_vis_07
+yi_infovis_07
+correa_vis_06
+ma_vis_99
+ellis_infovis_07
+kohlmann_vis_07
+ebert_vis_00
+jankunk_infovis_03
+bruckner_vis_07
+weigle_vis_05
+bavoil_vis_05
+rautek_vis_07
+takahash_vis_05
+bruckner_vis_05
+kniss_vis_07
+bordoloi_vis_05
+

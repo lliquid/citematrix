@@ -1,0 +1,6 @@
+title: Fast Normal Estimation Using Surface Characteristics
+authors: Byeong Seok, Shin Yeong, Gil Shin
+in_vis_citations: 
+kaufman_vis_90
+lane_vis_93
+

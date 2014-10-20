@@ -1,0 +1,5 @@
+title: The Motion Map: Efficient Computation of Steady Flow Animations
+authors: Bruno Jobard, Wilfrid Lefer
+in_vis_citations: 
+forssell_vis_94
+

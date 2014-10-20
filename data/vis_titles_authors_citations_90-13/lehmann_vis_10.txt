@@ -1,0 +1,9 @@
+title: Discontinuities in Continuous Scatterplots
+authors: Dirk J. Lehmann, Holger Theisel
+in_vis_citations: 
+carr_vis_06
+bachthal_vis_08
+peikert_vis_99
+theisel_vis_05
+heinrich_vis_09
+

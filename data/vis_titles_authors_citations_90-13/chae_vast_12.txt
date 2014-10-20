@@ -1,0 +1,7 @@
+title: Spatiotemporal Social Media Analytics for Abnormal Event Detection and Examination using Seasonal-Trend Decomposition
+authors: Junghoon Chae, Dennis Thom, Harald Bosch, Yun Jang, Ross Maciejewski, David S. Ebert, Thomas Ertl
+in_vis_citations: 
+maceachr_vast_11
+dou_vast_11
+doerk_infovis_08
+

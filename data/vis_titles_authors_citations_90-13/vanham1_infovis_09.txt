@@ -1,0 +1,9 @@
+title: Search, Show Context, Expand on Demand?: Supporting Large Graph Exploration with Degree-of-Interest
+authors: Frank van Ham, Adam Perer
+in_vis_citations: 
+perer_infovis_06
+gansner_infovis_04
+vanham_infovis_04
+shneiderman_infovis_06
+holten_infovis_06
+

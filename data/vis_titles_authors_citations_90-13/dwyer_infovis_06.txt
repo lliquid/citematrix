@@ -1,0 +1,5 @@
+title: IPSEP-COLA: An Incremental Procedure for Separation Constraint Layout of Graphs
+authors: Tim Dwyer, Yehuda Koren, Kim Marriott
+in_vis_citations: 
+dwyer_infovis_05
+

@@ -1,0 +1,8 @@
+title: Framework for Visualizing Higher-Order Basis Functions
+authors: William J. Schroeder, Francois Bertel, Mathieu Malaterre, David Thompson, Philippe P. Pebay, Robert O'Barall, Saurabh Tendulkar
+in_vis_citations: 
+nielson2_vis_97
+schroede_vis_04
+haber_vis_91
+abram_vis_95
+

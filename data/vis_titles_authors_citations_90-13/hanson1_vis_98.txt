@@ -1,0 +1,5 @@
+title: Image-Based Rendering with Occlusions via Cubist Images
+authors: Andrew J. Hanson, Eric A. Wernert
+in_vis_citations: 
+hanson_vis_97
+

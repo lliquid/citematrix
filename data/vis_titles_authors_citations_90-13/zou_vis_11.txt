@@ -1,0 +1,10 @@
+title: Authalic Parameterization of General Surfaces Using Lie Advection
+authors: Guangyu Zou, Jiaxi Hu, Xianfeng Gu, Jing Hua
+in_vis_citations: 
+hua_vis_08
+zou_vis_09
+kindlman_vis_06
+jin_vis_04
+sorkine_vis_02
+hurdal_vis_01
+

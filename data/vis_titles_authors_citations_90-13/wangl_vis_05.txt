@@ -1,0 +1,13 @@
+title: The Magic Volume Lens: An Interactive Focus+Context Technique for Volume Rendering
+authors: Lujin Wang, Ye Zhao, Klaus Mueller, Arie Kaufman
+in_vis_citations: 
+keahey_infovis_97
+carpendale_infovis_96
+keahey_infovis_96
+wei_vis_01
+hadwiger_vis_03
+krueger_vis_03
+viola_vis_04
+mcguffin_vis_03
+hauser_vis_00
+

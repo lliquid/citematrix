@@ -1,0 +1,6 @@
+title: Visualization of Myocardial Perfusion Derived from Coronary Anatomy
+authors: Maurice Termeer, Javier Olivan Bescos, Marcel Breeuwer, Anna Vilanova, Frans Gerritsen, Eduard Groeller, Eike Nagel
+in_vis_citations: 
+termeer_vis_07
+kanitsar1_vis_02
+

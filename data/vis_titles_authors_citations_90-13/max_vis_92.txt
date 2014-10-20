@@ -1,0 +1,5 @@
+title: Visualizing Wind Velocities by Advecting Cloud Textures
+authors: Nelson Max, Roger Crawfis, Dean Williams
+in_vis_citations: 
+globus_vis_91
+

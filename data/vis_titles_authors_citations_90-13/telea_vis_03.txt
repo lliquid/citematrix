@@ -1,0 +1,6 @@
+title: 3D IBFV: Hardware-Accelerated 3D Flow Visualization
+authors: Alexandru Telea, Jarke J. van Wijk
+in_vis_citations: 
+rezk_vis_99
+groeller_vis_97
+

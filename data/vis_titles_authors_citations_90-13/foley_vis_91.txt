@@ -1,0 +1,9 @@
+title: Multi-Valued Volumetric Visualization
+authors: Thomas A. Foley, David A. Lane
+in_vis_citations: 
+foley_vis_90
+kerlick_vis_90
+montine_vis_90
+nielson_vis_91
+nielson_vis_90
+

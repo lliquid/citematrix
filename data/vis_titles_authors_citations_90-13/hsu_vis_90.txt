@@ -1,0 +1,4 @@
+title: Superposing Images with Shadow Casting
+authors: Philip C. Hsu, John Staudhammer
+in_vis_citations: 
+

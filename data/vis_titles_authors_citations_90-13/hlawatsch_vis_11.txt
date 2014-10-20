@@ -1,0 +1,14 @@
+title: Flow Radar Glyphs???Static Visualization of Unsteady Flow with Uncertainty
+authors: Marcel Hlawatsch, Philipp Leube, Wolfgang Nowak, Daniel Weiskopf
+in_vis_citations: 
+botchen_vis_05
+leeuw_vis_93
+alexa_infovis_01
+woodring_vis_03
+boring_vis_96
+joshi_vis_05
+klassen_vis_91
+dovey_vis_95
+lodha2_vis_96
+bak_infovis_09
+

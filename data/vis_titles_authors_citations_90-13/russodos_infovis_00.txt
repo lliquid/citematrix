@@ -1,0 +1,5 @@
+title: Metaphor-Aware 3D Navigation
+authors: C. Russo Dos Santos, P. Gros, P. Abel, D. Loisel, N. Trichaud, J-P. Parist
+in_vis_citations: 
+hanson_vis_97
+

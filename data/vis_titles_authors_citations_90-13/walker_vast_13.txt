@@ -1,0 +1,24 @@
+title: An Extensible Framework for Provenance in Human Terrain Visual Analytics
+authors: Rick Walker, Aidan Slingsby, Jason Dykes, Kai Xu, Jo Wood, Phong H. Nguyen, Derek Stephens, B. L. William Wong, Yongjun Zheng
+in_vis_citations: 
+doerk_infovis_12
+dykes_infovis_10
+eccles_vast_07
+smith_infovis_06
+chen_vast_06
+cao_infovis_10
+sedlmair_infovis_12
+stolte_infovis_00
+viegas_infovis_07
+munzner_infovis_09
+pike_vast_08
+gotz_vast_08
+eccles_vast_07
+slingsby_infovis_09
+correa_vast_09
+wu_infovis_10
+oelke_vast_09
+lloyd_infovis_11
+strobelt_infovis_09
+doerk_infovis_08
+

@@ -1,0 +1,10 @@
+title: VisComplete: Automating Suggestions for Visualization Pipelines
+authors: David Koop, Carlos E. Scheidegger, Steven P. Callahan, Juliana Freire, Claudio T. Silva
+in_vis_citations: 
+schneidegger_vis_07
+viegas_infovis_07
+takahash_vis_05
+bordoloi_vis_05
+bavoil_vis_05
+childs_vis_05
+

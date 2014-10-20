@@ -1,0 +1,11 @@
+title: Human Computation in Visualization: Using Purpose Driven Games for Robust Evaluation of Visualization Algorithms
+authors: Nafees Ahmed, Ziyi Zheng, Klaus Mueller
+in_vis_citations: 
+chan_vis_09
+zheng_vis_11
+correa_vis_09
+wijk_vis_05
+kuehne_vis_12
+wangluji_vis_08
+chuang_vis_09
+

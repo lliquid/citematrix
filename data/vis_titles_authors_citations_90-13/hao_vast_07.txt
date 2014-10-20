@@ -1,0 +1,9 @@
+title: Intelligent Visual Analytics Queries
+authors: Ming C. Hao, Umeshwar Dayal, Daniel A. Keim, Dominik Morent, Joern Schneidewind
+in_vis_citations: 
+vliegen_infovis_06
+ankerst_infovis_98
+inselberg_vis_90
+stolte_infovis_00
+ward_vis_94
+

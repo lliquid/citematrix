@@ -1,0 +1,11 @@
+title: Differential Volume Rendering: A Fast Volume Visualization Technique for Flow Animation
+authors: Han-Wei Shen, Christopher R. Johnson
+in_vis_citations: 
+crawfis_vis_93
+ma_vis_92
+max_vis_92
+swann_vis_91
+yagel_vis_93
+globus_vis_91
+max_vis_93
+

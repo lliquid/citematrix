@@ -1,0 +1,4 @@
+title: Visualization of Higher Order Singularities in Vector Fields
+authors: Gerik Scheuermann, Hans Hagen, Heinz Krueger, Martin Menzel, Alyn Rockwood
+in_vis_citations: 
+

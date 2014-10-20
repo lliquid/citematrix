@@ -1,0 +1,8 @@
+title: Acceleration Techniques for GPU-based Volume Rendering
+authors: J. Krueger, R. Westermann
+in_vis_citations: 
+meissner_vis_99
+freund_vis_97
+yagel_vis_93
+kniss_vis_02
+

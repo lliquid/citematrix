@@ -1,0 +1,9 @@
+title: Strategies for Effectively Visualizing 3D Flow with Volume LIC
+authors: Victoria Interrante, Chester Grosch
+in_vis_citations: 
+crawfis_vis_93
+kiu_vis_96
+forssell_vis_94
+zoeckler_vis_96
+max_vis_94
+

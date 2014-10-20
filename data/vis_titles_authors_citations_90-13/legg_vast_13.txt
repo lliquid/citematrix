@@ -1,0 +1,13 @@
+title: Transformation of an Uncertain Video Search Pipeline to a Sketch-Based Visual Analytics Loop
+authors: Philip A. Legg, David H. S. Chung, Matthew L. Parry, Rhodri Bown, Mark W. Jones, Iwan W. Griffiths, Min Chen
+in_vis_citations: 
+ellis_infovis_06
+daniel_vis_03
+tatu_vast_09
+dasgupta_infovis_10
+hao_vast_07
+blaas_vis_08
+ankerst_infovis_98
+chen_vis_06
+parry_vis_11
+

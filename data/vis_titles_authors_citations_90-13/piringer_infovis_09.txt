@@ -1,0 +1,16 @@
+title: A Multi-Threading Architecture to Support Interactive Visual Exploration
+authors: Harald Piringer, Christian Tominski, Philipp Muigg, Wolfgang Berger
+in_vis_citations: 
+law_vis_99
+ellis_infovis_06
+tanin_infovis_97
+bavoil_vis_06
+weaver_infovis_04
+fekete_infovis_02
+blanch_infovis_07
+heer2_infovis_06
+novotny_vis_06
+fekete_infovis_04
+chi_infovis_00
+chan_vast_08
+

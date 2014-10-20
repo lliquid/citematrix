@@ -1,0 +1,4 @@
+title: Finding and Visualizing Relevant Subspaces for Clustering High-Dimensional Astronomical Data Using Connected Morphological Operators
+authors: Bilkis J. Ferdosi, Hugo Buddelmeijer, Scott Trager, Michael H.F. Wilkinson, Jos B.T.M. Roerdink
+in_vis_citations: 
+

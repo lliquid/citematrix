@@ -1,0 +1,6 @@
+title: Minimally-immersive Interactive Volumetric Information Visualization
+authors: David S. Ebert, Chris Shawl, Amen Zwa, Ethan L. Miller, D. Aaron Roberts
+in_vis_citations: 
+wise_infovis_95
+post_vis_95
+

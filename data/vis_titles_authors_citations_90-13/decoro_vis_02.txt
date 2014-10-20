@@ -1,0 +1,10 @@
+title: XFastMesh: Fast View-dependent Meshing from External Memory
+authors: Christopher DeCoro, Renato Pajarola
+in_vis_citations: 
+duchaine_vis_97
+lindstrom01_vis_01
+defloriani_vis_98
+shaffer_vis_01
+xia_vis_96
+hoppe_vis_98
+

@@ -1,0 +1,10 @@
+title: A Feature-Driven Approach to Locating Optimal Viewpoints for Volume Visualization
+authors: Shigeo Takahashi, Issei Fujishiro, Yuriko Takeshima, Tomoyuki Nishita
+in_vis_citations: 
+guo_vis_95
+carr_vis_04
+pascucci_vis_02
+bordoloi_vis_05
+bajaj_vis_97
+gumhold_vis_02
+

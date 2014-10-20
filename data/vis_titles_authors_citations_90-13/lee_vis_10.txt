@@ -1,0 +1,9 @@
+title: Fast High-Quality Volume Ray-Casting with Virtual Samplings
+authors: Byeonghun Lee, Jihye Yun, Jinwook Seo, Byonghyo Shim, Yeong-Gil Shin, Bohyoung Kimi
+in_vis_citations: 
+marschner_vis_94
+li_vis_04
+csebfalv_vis_05
+knoll_vis_09
+krueger_vis_03
+

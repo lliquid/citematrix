@@ -1,0 +1,10 @@
+title: An Efficient Direct Volume Rendering Approach for Dichromats
+authors: Weifeng Chen, Wei Chen, Hujun Bao
+in_vis_citations: 
+wangluji_vis_08
+chan_vis_09
+kuhn_vis_08
+chuang_vis_09
+bordoloi_vis_05
+machado_vis_09
+

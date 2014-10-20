@@ -1,0 +1,11 @@
+title: PLIC: Bridging the Gap Between Streamlines and LIC
+authors: Vivek Verma, David Kao, Alex Pang
+in_vis_citations: 
+kiu_vis_96
+jobard_vis_97
+shen_vis_97
+forssell_vis_94
+shenq_vis_98
+deleeuw_vis_98
+lodha2_vis_96
+

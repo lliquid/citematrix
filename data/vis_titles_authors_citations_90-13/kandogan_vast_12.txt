@@ -1,0 +1,15 @@
+title: Just-in-Time Annotation of Clusters, Outliers, and Trends in Point-based Data Visualizations
+authors: Eser Kandogan
+in_vis_citations: 
+yang_infovis_03
+wilkinso_infovis_05
+seo_infovis_04
+joia_infovis_11
+peng_infovis_04
+ankerst_infovis_98
+schneidewind_vast_06
+johansso_infovis_09
+chen_vast_10
+tatu_vast_09
+bertini_infovis_11
+

@@ -1,0 +1,9 @@
+title: Markerless View-Independent Registration of Multiple Distorted Projectors on Extruded Surfaces Using an Uncalibrated Camera
+authors: Behzad Sajadi, Aditi Majumder
+in_vis_citations: 
+yang_vis_01
+chen_vis_02
+raskar_vis_99
+sajadi2_vis_09
+bhasker_vis_07
+

@@ -1,0 +1,22 @@
+title: iLAMP: Exploring High-Dimensional Spacing through Backward Multidimensional Projection
+authors: Elisa Portes dos Santos Amorim, Emilio Vital Brazil, Joel Daniels II, Paulo Joia, Luis Gustavo Nonato, Mario Costa Sousa
+in_vis_citations: 
+johansso_infovis_05
+janicke_vis_08
+gerber_vis_10
+chenyanh_infovis_09
+joia_infovis_11
+fua_vis_99
+novotny_vis_06
+stolte_infovis_00
+peng_infovis_04
+elmqvist_infovis_08
+koren_infovis_02
+yang_infovis_03
+inselberg_vis_90
+chalmers_vis_96
+daniels_vis_10
+frishman_infovis_07
+paulovic_vis_10
+morrison_infovis_02
+

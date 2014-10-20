@@ -1,0 +1,7 @@
+title: Generating Realistic Images from Hydrothermal Plume Data
+authors: K. Santilli, K. Bemis, D. Silver, J. Dastur, P. Rona
+in_vis_citations: 
+bemis_vis_00
+riley_vis_03
+rona_vis_98
+

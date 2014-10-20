@@ -1,0 +1,6 @@
+title: Vicinity Shading for Enhanced Perception of Volumetric Data
+authors: A. James Stewart
+in_vis_citations: 
+zhang3-1_vis_02
+kniss_vis_02
+

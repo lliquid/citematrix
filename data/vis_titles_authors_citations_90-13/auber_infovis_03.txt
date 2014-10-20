@@ -1,0 +1,4 @@
+title: Multiscale Visualization of Small World Networks
+authors: David Auber, Yves Chiricota, Fabien Jourdan, Guy Melancon
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Saying it in graphics: from intentions to visualizations
+authors: Stephan Kerpedjiev, Giuseppe Carenini, Nancy Green, Johanna Moore, Steven Roth
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: The Deshredder: A Visual Analytic Approach to Reconstructing Shredded Documents
+authors: Patrick Butler, Prithwish Chakraborty, Naren Ramakrishan
+in_vis_citations: 
+

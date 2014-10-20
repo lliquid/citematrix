@@ -1,0 +1,10 @@
+title: About the Influence of Illumination Models on Image Comprehension in Direct Volume Rendering
+authors: Florian Lindemann, Timo Ropinski
+in_vis_citations: 
+weigle_vis_08
+zhang3-1_vis_02
+chan_vis_09
+sunden_vis_11
+stewart_vis_03
+kniss_vis_02
+

@@ -1,0 +1,8 @@
+title: A Multi-Level Middle-Out Cross-Zooming Approach for Large Graph Analytics
+authors: Pak Chung Wong, Patrick Mackey, Kristin A. Cook, Randall M. Rohrer, Harlan Foote, Mark A. Whiting
+in_vis_citations: 
+stasko_vast_07
+vanham_infovis_04
+gansner_infovis_04
+henry_infovis_07
+

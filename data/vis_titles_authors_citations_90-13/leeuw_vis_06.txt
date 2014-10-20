@@ -1,0 +1,10 @@
+title: Visualization and Analysis of Large Data Collections: a Case Study Applied to Confocal Microscopy Data
+authors: Wim de Leeuw, Pernette J. Verschure, Robert van Liere
+in_vis_citations: 
+fang_vis_98
+kaufman_vis_90
+deleeuw_vis_00
+jankun_vis_00
+bavoil_vis_05
+sakas_vis_96
+

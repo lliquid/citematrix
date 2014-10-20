@@ -1,0 +1,6 @@
+title: Interactive Visual Clustering of Large Collections of Trajectories
+authors: Gennady Andrienko, Natalia Andrienko, Salvatore Rinzivillo, Mirco Nanni, Dino Pedreschi, Fosca Giannotti
+in_vis_citations: 
+andrienk_vast_08
+nam_vast_07
+

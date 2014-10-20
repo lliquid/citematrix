@@ -1,0 +1,10 @@
+title: Compression Domain Volume Rendering
+authors: Jens Schneider, Ruediger Westermann
+in_vis_citations: 
+shen_vis_99
+guthe_vis_02
+lum_vis_01
+pauly_vis_02
+kniss_vis_02
+kniss_vis_01
+

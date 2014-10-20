@@ -1,0 +1,8 @@
+title: Generalized Topological Simplification of Scalar Fields on Surfaces
+authors: Julien Tierny, Valerio Pascucci
+in_vis_citations: 
+gyulassy_vis_08
+tierny_vis_09
+carr_vis_04
+correa1_vis_11
+

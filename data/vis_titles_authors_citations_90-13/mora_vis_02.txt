@@ -1,0 +1,13 @@
+title: A New Object-Order Ray-Casting Algorithm
+authors: Benjamin Mora, Jean-Pierre Jessel, Rene Caubet
+in_vis_citations: 
+theussl_vis_01
+westermann_vis_01
+meissner_vis_99
+mueller_vis_98
+huang_vis_00
+wan1_vis_99
+mueller_vis_99
+marschner_vis_94
+sobieraj_vis_95
+

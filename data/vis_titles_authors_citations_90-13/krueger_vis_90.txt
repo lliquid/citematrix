@@ -1,0 +1,4 @@
+title: The Application of Transport Theory to Visualization of 3D Scalar Data Fields
+authors: Wolfgang Krueger
+in_vis_citations: 
+

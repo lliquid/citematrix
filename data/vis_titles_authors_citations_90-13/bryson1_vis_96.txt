@@ -1,0 +1,7 @@
+title: FEL: The Field Encapsulation Library
+authors: Steve Bryson, David Kenwright
+in_vis_citations: 
+kenwright_vis_95
+bryson_vis_91
+hultquist2_vis_92
+

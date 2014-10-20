@@ -1,0 +1,10 @@
+title: Saliency-guided Enhancement for Volume Visualization
+authors: Youngmin Kim, Amitabh Varshney
+in_vis_citations: 
+kindlman_vis_03
+kniss_vis_03
+ebert_vis_00
+lu_vis_02
+lum_vis_04
+treavett_vis_00
+

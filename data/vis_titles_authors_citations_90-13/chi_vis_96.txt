@@ -1,0 +1,7 @@
+title: Flexible Information Visualization of Multivariate Data from Biological Sequence Similarity Searches
+authors: Ed Huai-hsin Chi, John Riedl, Elizabeth Shoop, John V. Carlist, Ernest Retzel, Phillip Barry
+in_vis_citations: 
+wu_vis_93
+inselberg_vis_90
+chi_vis_95
+

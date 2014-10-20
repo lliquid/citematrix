@@ -1,0 +1,10 @@
+title: A Hardware Acceleration Method for Volumetric Ray Tracing
+authors: Lisa M. Sobierajski, Ricardo S. Avila
+in_vis_citations: 
+sramek_vis_94
+lorensen_vis_95
+krueger_vis_90
+wang_vis_93
+avila_vis_94
+avila_vis_92
+

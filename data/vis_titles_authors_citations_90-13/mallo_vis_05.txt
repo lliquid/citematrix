@@ -1,0 +1,9 @@
+title: Illuminated Lines Revisited
+authors: Ovidio Mallo, Ronald Peikert, Christian Sigg, Filip Sadlo
+in_vis_citations: 
+schussma_vis_04
+li-gs_vis_03
+sigfrids_vis_02
+zoeckler_vis_96
+interran_vis_97
+

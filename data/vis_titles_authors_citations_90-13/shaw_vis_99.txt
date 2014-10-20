@@ -1,0 +1,6 @@
+title: Interactive Lens Visualization Techniques
+authors: Christopher D. Shaw, James A. Hall, David S. Ebert, D. Aaron Roberts
+in_vis_citations: 
+post_vis_95
+ebert_vis_96
+

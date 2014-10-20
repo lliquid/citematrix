@@ -1,0 +1,7 @@
+title: Using Interactive Visual Reasoning to Support Sense-Making: Implications for Design
+authors: Neesha Kodagoda, Simon Attfield, B.L. William Wong, Chris Rooney, Sharmin Choudhury
+in_vis_citations: 
+kadivar_vast_09
+stasko_vast_07
+doerk_infovis_12
+

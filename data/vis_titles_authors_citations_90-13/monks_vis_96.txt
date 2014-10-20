@@ -1,0 +1,5 @@
+title: Three Dimensional Visualization Of Proteins In Cellular Interactions
+authors: Colin R. F. Monks, Patricia Crossno, George S. Davidson, Constantine J. Pavlakos, Abraham Kupfer, Claudio T. Silva, Brian N. Wylie
+in_vis_citations: 
+avila_vis_94
+

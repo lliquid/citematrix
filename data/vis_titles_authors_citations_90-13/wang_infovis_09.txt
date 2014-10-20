@@ -1,0 +1,6 @@
+title: Temporal Summaries: Supporting Temporal Categorical Searching, Aggregation and Comparison
+authors: Taowei David Wang, Catherine Plaisant, Ben Shneiderman, Neil Spring, David Roseman, Greg Marchand, Vikramjit Mukherjee, Mark Smith
+in_vis_citations: 
+wattenba_infovis_05
+lam_vast_07
+

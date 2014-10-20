@@ -1,0 +1,4 @@
+title: Virtual Temporal Bone Dissection: A Case Study
+authors: Jason Bryan, Don Stredney, Gregory J. Wiet, Dennis Sessanna
+in_vis_citations: 
+

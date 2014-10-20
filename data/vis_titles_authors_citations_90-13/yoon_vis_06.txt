@@ -1,0 +1,10 @@
+title: Mesh Layouts for Block-Based Caches
+authors: Sung-Eui Yoon, Peter Lindstrom
+in_vis_citations: 
+yoon_vis_04
+isenburg_vis_03
+lindstrom02_vis_01
+evans_vis_96
+isenburg_vis_05
+karni_vis_02
+

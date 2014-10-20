@@ -1,0 +1,10 @@
+title: SnapShot: Visualization to Propel Ice Hockey Analytics
+authors: Hannah Pileggi, Charles D. Stolper, J. Michael Boyle, John T. Stasko
+in_vis_citations: 
+segal_infovis_10
+tan_infovis_07
+inselber_infovis_97
+bostock_infovis_11
+viegas_infovis_07
+jin_infovis_96
+

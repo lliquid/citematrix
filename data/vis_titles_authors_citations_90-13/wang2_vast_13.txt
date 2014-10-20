@@ -1,0 +1,17 @@
+title: Visual Traffic Jam Analysis Based on Trajectory Data
+authors: Zuchao Wang, Min Lu, Xiaoru Yuan, Zunping Zhang, Huub van de Wetering
+in_vis_citations: 
+wong1_vis_97
+andrienk_vast_11
+hurter_infovis_09
+piringer_vast_12
+kapler_infovis_04
+andrienk_vast_08
+verbeek_infovis_11
+vonlandesberger_vast_12
+tominski_infovis_12
+scheepens_infovis_11
+crnovrsa_vast_09
+robertso_infovis_08
+lui2_vast_11
+

@@ -1,0 +1,7 @@
+title: Procedural Annotation of Uncertain Information
+authors: Andrej Cedilnik, Penny Rheingans
+in_vis_citations: 
+twiddy_vis_94
+rheingans_vis_96
+ebert_vis_96
+

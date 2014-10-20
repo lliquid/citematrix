@@ -1,0 +1,8 @@
+title: Fast Algorithms for Visualizing Fluid Motion in Steady Flow on Unstructured Grids
+authors: S. K. Ueng, K. Sikorski
+in_vis_citations: 
+hultquist1_vis_92
+pagendarm_vis_94
+schroederw_vis_91
+ma_vis_93
+

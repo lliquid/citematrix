@@ -1,0 +1,4 @@
+title: A Computational Steering System for Studying Microwave Interactions with Missile Bodies
+authors: J. Edward Swan II, Marco Lanzagorta, Doug Maxwell, Eddy Kuo, Jeff Uhlmann, Wendell Anderson, Haw-Jye Shyu, William Smith
+in_vis_citations: 
+

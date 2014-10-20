@@ -1,0 +1,7 @@
+title: Comparing LIC and Spot Noise
+authors: Wim de Leeuw, Robert van Liere
+in_vis_citations: 
+shen_vis_97
+interran_vis_97
+leeuw_vis_95
+

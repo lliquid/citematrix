@@ -1,0 +1,8 @@
+title: Visual Analysis of Graphs with Multiple Connected Components
+authors: Tatiana von Landesberger, Melanie Goerner, Tobias Schreck
+in_vis_citations: 
+kumar_infovis_06
+cui_infovis_08
+auber_infovis_03
+holten_infovis_06
+

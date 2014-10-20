@@ -1,0 +1,4 @@
+title: Triangulation and Display of Rational Parametric Surfaces
+authors: Chandrajit L. Bajaj, Andrew Royappat
+in_vis_citations: 
+

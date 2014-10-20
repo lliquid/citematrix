@@ -1,0 +1,7 @@
+title: Case Study: Visualization of Mesoscale Flow Features in Ocean Basins
+authors: Andreas Johannsen, Robert Moorhead
+in_vis_citations: 
+tao_vis_94
+moorhead_vis_93
+tao_vis_94
+

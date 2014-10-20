@@ -1,0 +1,7 @@
+title: Accelerated Ray-Casting for Curvilinear Volumes
+authors: Lichan Hong Arie Kaufman
+in_vis_citations: 
+gelder_vis_93
+williamsp_vis_92
+wilhelms_vis_96
+

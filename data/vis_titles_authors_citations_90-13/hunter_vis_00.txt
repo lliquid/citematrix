@@ -1,0 +1,4 @@
+title: Uniform Frequency Images: Adding Geometry to Images to Produce Space-Efficient Textures
+authors: Adam Hunter,  Jonathan D. Cohen
+in_vis_citations: 
+

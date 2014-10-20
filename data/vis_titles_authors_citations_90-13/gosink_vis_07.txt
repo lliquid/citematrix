@@ -1,0 +1,9 @@
+title: Variable Interactions in Query-Driven Visualization
+authors: Luke J. Gosink, John C. Anderson, E. Wes Bethel, Kenneth I. Joy
+in_vis_citations: 
+edelsbru_vis_04
+stocking_vis_05
+fua_vis_99
+sauber_vis_06
+urness_vis_03
+

@@ -1,0 +1,6 @@
+title: Graphical Tests for Power Comparison of Competing Designs
+authors: Heike Hofmann, Lendie Follett, Mahbubul Majumder, Dianne Cook
+in_vis_citations: 
+munzner_infovis_09
+wickham_infovis_10
+

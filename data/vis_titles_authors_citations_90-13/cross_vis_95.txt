@@ -1,0 +1,4 @@
+title: Interactive Realism for Visualization Using Ray Tracing
+authors: Robert A. Cross
+in_vis_citations: 
+

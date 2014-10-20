@@ -1,0 +1,11 @@
+title: Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation
+authors: Jeffrey Heer, Jock D. Mackinlay, Chris Stolte, Maneesh Agrawala
+in_vis_citations: 
+stolte_infovis_00
+brodlie_vis_93
+ma_vis_99
+kreusele_infovis_04
+lee_vis_95
+mackinlay_infovis_07
+eccles_vast_07
+

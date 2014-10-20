@@ -1,0 +1,4 @@
+title: Image Synthesis From A Sparse Set Of Views
+authors: Qian Chen, Gerard Medioni
+in_vis_citations: 
+

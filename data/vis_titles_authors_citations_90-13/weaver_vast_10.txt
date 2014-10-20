@@ -1,0 +1,17 @@
+title: Multidimensional Data Dissection Using Attribute Relationship Graphs
+authors: Chris Weaver
+in_vis_citations: 
+heer_infovis_08
+perer_infovis_06
+wong_vast_06
+weaver_infovis_04
+heer2_infovis_06
+conklin_infovis_02
+ward_vis_94
+chi_infovis_98
+henry_infovis_07
+mackinlay_infovis_07
+stasko_vast_07
+zhao_infovis_05
+fekete_infovis_04
+

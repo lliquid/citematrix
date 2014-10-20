@@ -1,0 +1,4 @@
+title: Visualization of Cardiac Bioelectricity - A Case Study
+authors: Robert S. MacLeod, Christopher R. Johnson, Mike A. Matheson
+in_vis_citations: 
+

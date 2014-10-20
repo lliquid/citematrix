@@ -1,0 +1,7 @@
+title: Mastering Interactive Virtual Bronchioscopy on a Low-End PC
+authors: Rainer Wegenkittl, Anna Vilanovat, Balint Hegedus, Daniel Wagner, Martin C. Freundl, Eduard Groeller
+in_vis_citations: 
+bartz_vis_99
+gobbetti_vis_98
+wan1_vis_99
+

@@ -1,0 +1,10 @@
+title: WYSIWYP: What You See Is What You Pick
+authors: Alexander Wiebel, Frans M. Vos, David Foerster, Hans-Christian Hege
+in_vis_citations: 
+yu_vis_12
+gobbetti_vis_98
+krueger_vis_03
+kohlmann_vis_07
+bordoloi_vis_05
+bruckner_vis_09
+

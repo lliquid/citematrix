@@ -1,0 +1,10 @@
+title: Sensemaking of Evolving Web Sites Using Visualization Spreadsheets
+authors: Ed H. Chi, Stuart K. Card
+in_vis_citations: 
+hendley_infovis_95
+carriere_infovis_95
+wise_infovis_95
+chi_infovis_98
+eick_vis_93
+andrews_infovis_95
+

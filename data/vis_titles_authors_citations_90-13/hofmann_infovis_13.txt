@@ -1,0 +1,9 @@
+title: Common Angle Plots as Perception-True Visualizations of Categorical Associations
+authors: Heike Hofmann, Marie Vendettuoli
+in_vis_citations: 
+stasko_infovis_00
+balzer_infovis_05
+kong_infovis_10
+bostock_infovis_11
+slingsby_infovis_09
+

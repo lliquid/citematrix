@@ -1,0 +1,5 @@
+title: Evaluation of Fiber Clustering Methods for Diffusion Tensor Imaging
+authors: Bart Moberts, Anna Vilanova, Jarke J. van Wijk
+in_vis_citations: 
+ding_vis_01
+

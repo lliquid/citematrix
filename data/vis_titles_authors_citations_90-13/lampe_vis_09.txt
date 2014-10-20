@@ -1,0 +1,9 @@
+title: Curve-Centric Volume Reformation for Comparative Visualization
+authors: Ove Daae Lampe, Carlos Correa, Kwan-Liu Ma, Helwig Hauser
+in_vis_citations: 
+correa_vis_06
+kanitsar1_vis_02
+bartoli_vis_01
+true_vis_92
+kanitsar_vis_03
+

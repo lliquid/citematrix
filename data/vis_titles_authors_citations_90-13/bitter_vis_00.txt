@@ -1,0 +1,5 @@
+title: CEASAR: A Smooth, Accurate and Robust Centerline Extraction Algorithm
+authors: Ingmar Bitter, Mie Sato, Michael Bender, Kevin T. McDonnell, Arie Kaufman, Ming Wan
+in_vis_citations: 
+lakare_vis_00
+

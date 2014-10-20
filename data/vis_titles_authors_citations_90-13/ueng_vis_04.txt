@@ -1,0 +1,15 @@
+title: LoD Volume Rendering of FEA Data
+authors: Shyh-Kuang Ueng, Yan-Jen Su, Chi-Tang Chang
+in_vis_citations: 
+lamar_vis_99
+ueng_vis_95
+chopra1_vis_02
+cignoni_vis_00
+yang_vis_00
+cignoni_vis_00
+zwicker_vis_01
+crawfis_vis_93
+williamsp_vis_92
+mueller_vis_98
+mueller_vis_99
+

@@ -1,0 +1,6 @@
+title: Continuous Scatterplots
+authors: Sven Bachthaler, Daniel Weiskopf
+in_vis_citations: 
+carr_vis_06
+scheideg_vis_08
+

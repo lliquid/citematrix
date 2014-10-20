@@ -1,0 +1,6 @@
+title: Drawing Road Networks with Focus Regions
+authors: Jan-Henrik Haunert, Leon Sering
+in_vis_citations: 
+wang_vis_08
+gansner_infovis_04
+

@@ -1,0 +1,4 @@
+title: Visual Cues For Imminent Object Contact In Realistic Virtual Environments
+authors: Helen H. Hu, Amy A. Gooch, William B. Thompson, John J. Rieser, Brian E. Smits, Peter Shirley
+in_vis_citations: 
+

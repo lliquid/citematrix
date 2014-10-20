@@ -1,0 +1,7 @@
+title: Iterative Integration of Visual Insights during Patent Search and Analysis
+authors: Steffen Koch, Harald Bosch, Mark Giereth, Thomas Ertl
+in_vis_citations: 
+stolte_infovis_00
+chang_vast_07
+stasko_vast_07
+

@@ -1,0 +1,4 @@
+title: Enabling Classification and Shading for 3D Texture Mapping based Volume Rendering using OpenGL and Extensions
+authors: Michael Meissner, Ulrich Hoffmann, Wolfgang Strasser
+in_vis_citations: 
+

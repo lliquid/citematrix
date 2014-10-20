@@ -1,0 +1,7 @@
+title: Texture-based Transfer Functions for Direct Volume Rendering
+authors: Jesus J. Caban, Penny Rheingans
+in_vis_citations: 
+kniss_vis_01
+tzeng_vis_03
+kindlman_vis_03
+

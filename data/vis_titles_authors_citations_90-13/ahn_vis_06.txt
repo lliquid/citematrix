@@ -1,0 +1,9 @@
+title: Out-of-Core Remeshing of Large Polygonal Meshes
+authors: Minsu Ahn, Igor Guskov, Seungyong Lee
+in_vis_citations: 
+shaffer_vis_01
+isenburg_vis_03
+isenburg_vis_05
+hoppe_vis_98
+ho_vis_01
+

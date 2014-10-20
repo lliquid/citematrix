@@ -1,0 +1,4 @@
+title: Spline-based Color Sequences for Univariate, Bivariate and Trivariate Mapping
+authors: Binh Pham
+in_vis_citations: 
+

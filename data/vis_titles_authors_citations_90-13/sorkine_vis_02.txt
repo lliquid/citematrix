@@ -1,0 +1,4 @@
+title: Bounded-distortion Piecewise Mesh Parameterization
+authors: Olga Sorkine, Daniel Cohen-Or, Rony Goldenthal, Dani Lischinski
+in_vis_citations: 
+

@@ -1,0 +1,9 @@
+title: ROAMing Terrain: Real-time Optimally Adapting Meshes
+authors: Mark Duchaineau, Murray Wolinsky, David E. Sigeti, Mark C. Miller, Charles Aldrich, Mark B. Mineev-Weinstein
+in_vis_citations: 
+cohenor1_vis_96
+xia_vis_96
+evans_vis_96
+silva_vis_95
+gross_vis_95
+

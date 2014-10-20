@@ -1,0 +1,9 @@
+title: The InfoVis Toolkit
+authors: Jean-Daniel Fekete
+in_vis_citations: 
+wongn_infovis_03
+stolte_infovis_00
+fekete_infovis_02
+ahlberg_infovis_95
+plaisant_infovis_02
+

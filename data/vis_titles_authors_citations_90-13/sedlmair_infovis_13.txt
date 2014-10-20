@@ -1,0 +1,13 @@
+title: Empirical Guidance on Scatterplot and Dimension Reduction Technique Choices
+authors: Michael Sedlmair, Tamara Munzner, Melanie Tory
+in_vis_citations: 
+tory_infovis_09
+bertini_infovis_11
+tory_infovis_07
+wilkinso_infovis_05
+inselber_infovis_97
+ingram_vast_10
+anand_vast_12
+lam_infovis_08
+tatu_vast_09
+

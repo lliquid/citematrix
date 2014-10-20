@@ -1,0 +1,8 @@
+title: Query-Driven Visualization of Large Data Sets
+authors: Kurt Stockinger, John Shalf, Kesheng Wu, E. Wes Bethel
+in_vis_citations: 
+moran_vis_99
+mccormic_vis_04
+chiang_vis_98
+shen_vis_96
+

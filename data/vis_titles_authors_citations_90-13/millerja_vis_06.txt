@@ -1,0 +1,7 @@
+title: Interactive Visualization of Intercluster Galaxy Structures in the Horologium-Reticulum Supercluster
+authors: Jameson Miller, Cory W. Quammen, Matthew C. Fleenor
+in_vis_citations: 
+geller_vis_92
+kaehler_vis_02
+hopf_vis_03
+

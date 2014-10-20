@@ -1,0 +1,7 @@
+title: High-Speed Volume Rendering Using Redundant Block Compression
+authors: Gunter Knittel
+in_vis_citations: 
+ning_vis_93
+yagel_vis_93
+avila_vis_92
+

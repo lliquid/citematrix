@@ -1,0 +1,5 @@
+title: Computing the Separating Surface for Segmented Data
+authors: Gregory M. Nielson, Richard Franke
+in_vis_citations: 
+nielson_vis_91
+

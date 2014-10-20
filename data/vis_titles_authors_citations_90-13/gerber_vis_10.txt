@@ -1,0 +1,10 @@
+title: Visual Exploration of High Dimensional Scalar Functions
+authors: Samuel Gerber, Peer-Timo Bremer, Valerio Pascucci, Ross Whitaker
+in_vis_citations: 
+carr_vis_04
+gyulassy1_vis_07
+laney_vis_06
+gyulassy2_vis_07
+weber_vis_07
+gyulassy_vis_05
+

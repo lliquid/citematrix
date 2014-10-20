@@ -1,0 +1,4 @@
+title: InfoCrystal: A visual tool for information retrieval
+authors: Anselm Spoerri
+in_vis_citations: 
+

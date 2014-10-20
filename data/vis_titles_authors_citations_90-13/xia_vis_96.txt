@@ -1,0 +1,6 @@
+title: Dynamic View-Dependent Simplification for Polygonal Models
+authors: Julie C. Xia, Amitabh Varshney
+in_vis_citations: 
+hinker_vis_93
+gross_vis_95
+

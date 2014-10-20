@@ -1,0 +1,17 @@
+title: Continuous Parallel Coordinates
+authors: Julian Heinrich, Daniel Weiskopf
+in_vis_citations: 
+carr_vis_06
+bachthal_vis_08
+blaas_vis_08
+bendix_infovis_05
+yuan_infovis_09
+ellis_infovis_06
+inselberg_vis_90
+johansso_infovis_05
+scheideg_vis_08
+hauser_infovis_02
+fua_vis_99
+novotny_vis_06
+artero_infovis_04
+

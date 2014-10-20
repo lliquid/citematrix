@@ -1,0 +1,5 @@
+title: Level of detail visualization of scalar data sets on irregular surface meshes
+authors: Georges-Pierre Bonneau, Alexandre Gerussi
+in_vis_citations: 
+bonneau_vis_96
+

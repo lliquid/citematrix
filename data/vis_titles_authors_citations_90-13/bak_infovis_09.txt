@@ -1,0 +1,12 @@
+title: Spatiotemporal Analysis of Sensor Logs using Growth Ring Maps
+authors: Peter Bak, Florian Mansmann, Halldor Janetzko, Daniel A Keim
+in_vis_citations: 
+kapler_infovis_04
+keim_vis_95
+saito_infovis_05
+panse_infovis_06
+ivanov_infovis_07
+ellis_infovis_07
+vanwijk2_infovis_99
+dorling_infovis_06
+

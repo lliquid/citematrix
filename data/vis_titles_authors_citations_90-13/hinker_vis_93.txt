@@ -1,0 +1,5 @@
+title: Geometric Optimization
+authors: Paul Hinker, Charles Hansen
+in_vis_citations: 
+hansenc_vis_92
+

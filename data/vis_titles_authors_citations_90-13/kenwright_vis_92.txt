@@ -1,0 +1,4 @@
+title: A 3-D Streamline Tracking Algorithm Using Dual Stream Functions
+authors: David N. Kenwright, Gordon D. Mallinson
+in_vis_citations: 
+

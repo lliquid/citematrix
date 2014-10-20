@@ -1,0 +1,7 @@
+title: Mapping Text with Phrase Nets
+authors: Frank van Ham, Martin Wattenberg, Fernanda B. Viegas
+in_vis_citations: 
+wattenbe_infovis_08
+wijk_vis_05
+viegas_infovis_07
+

@@ -1,0 +1,4 @@
+title: Interpolation of Triangle Hierarchies
+authors: Axel Friedrich, Konrad Polthier, Markus Schmies
+in_vis_citations: 
+

@@ -1,0 +1,6 @@
+title: Real-time Visualization of the Clear-up of a Former U.S. Naval Base
+authors: Paul Chapman, Derek Wills, Peter Stevens, Graham Brookes
+in_vis_citations: 
+chapman_vis_99
+chapman_vis_98
+

@@ -1,0 +1,21 @@
+title: An Information-Aware Framework for Exploring Multivariate Data Sets
+authors: Ayan Biswas, Soumya Dutta, Han-Wei Shen, Jonathan Woodring
+in_vis_citations: 
+chen_vis_10
+zhou_vis_09
+inselberg_vis_90
+xu_vis_10
+viola_vis_06
+janicke_vis_08
+dasgupta_infovis_10
+peng_infovis_04
+scheideg_vis_08
+wangchao_vis_08
+yang_vast_07
+claessen_infovis_11
+martin_vis_95
+bordoloi_vis_05
+khoury_vis_10
+bajaj_vis_97
+gumhold_vis_02
+

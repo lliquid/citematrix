@@ -1,0 +1,4 @@
+title: Visually Accurate Multi-Field Weather Visualization
+authors: Kirk Riley, David Ebert, Charles Hansen, Jason Levit
+in_vis_citations: 
+

@@ -1,0 +1,6 @@
+title: Efficient Visualization of Lagrangian Coherent Structures by Filtered AMR Ridge Extraction
+authors: Filip Sadlo, Ronald Peikert
+in_vis_citations: 
+peikert_vis_99
+theisel_vis_04
+

@@ -1,0 +1,16 @@
+title: In Situ Exploration of Large Dynamic Networks
+authors: Steffen Hadlak, Hans-Joerg Schulz, Heidrun Schumann
+in_vis_citations: 
+mcguf_infovis_09
+tu_infovis_08
+frishman_infovis_04
+henry_infovis_07
+olston_infovis_00
+gansner_infovis_04
+vanham_infovis_02
+brandes_infovis_02
+saraiya_infovis_05
+maceachr_infovis_03
+tu_infovis_07
+shneiderman_infovis_06
+

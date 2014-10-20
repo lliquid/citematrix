@@ -1,0 +1,7 @@
+title: Evaluating the Effect of Style in Information Visualization
+authors: Andrew Vande Moere, Martin Tomitsch, Christoph Wimmer, Christoph Boesch, Thomas Grechenig
+in_vis_citations: 
+pousman_infovis_07
+viegas_infovis_07
+collins_infovis_09
+

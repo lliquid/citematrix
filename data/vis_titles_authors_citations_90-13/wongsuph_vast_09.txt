@@ -1,0 +1,5 @@
+title: Finding Comparable Temporal Categorical Records: A Similarity Measure with an Interactive Visualization
+authors: Krist Wongsuphasawat, Ben Shneiderman
+in_vis_citations: 
+fails_vast_06
+

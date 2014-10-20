@@ -1,0 +1,4 @@
+title: Results in Mathematics and Music: Visualization of Roughness in Musical Consonance
+authors: Florian Sobieczky
+in_vis_citations: 
+

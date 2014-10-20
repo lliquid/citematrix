@@ -1,0 +1,10 @@
+title: Transport and Anisotropic Diffusion in Time-Dependent Flow Visualization
+authors: D. Buerkle, T. Preusser, M. Rumpf
+in_vis_citations: 
+leeuw_vis_95
+max_vis_94
+weinstei_vis_99
+shen_vis_97
+preusser_vis_99
+interran_vis_97
+

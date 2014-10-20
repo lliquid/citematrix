@@ -1,0 +1,6 @@
+title: Feature Aligned Volume Manipulation for Illustration and Visualization
+authors: Carlos D. Correa, Deborah Silver, Min Chen
+in_vis_citations: 
+mcguffin_vis_03
+ebert_vis_00
+

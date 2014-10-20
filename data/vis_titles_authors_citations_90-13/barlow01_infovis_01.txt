@@ -1,0 +1,6 @@
+title: A Comparison of 2-D Visualizations of Hierarchies
+authors: Todd Barlow, Padraic Neville
+in_vis_citations: 
+chuah_infovis_98
+turo_vis_92
+

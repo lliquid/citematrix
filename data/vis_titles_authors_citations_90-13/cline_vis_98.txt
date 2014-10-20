@@ -1,0 +1,4 @@
+title: Interactive Display Of Very Large Textures
+authors: David Cline, Parris K. Egbert
+in_vis_citations: 
+

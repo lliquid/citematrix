@@ -1,0 +1,7 @@
+title: Texture-Based Visualization of Uncertainty in Flow Fields
+authors: Ralf P. Botchen, Daniel Weiskopf, Thomas Ertl
+in_vis_citations: 
+kiu_vis_96
+jobard_vis_00
+lodha2_vis_96
+

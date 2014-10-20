@@ -1,0 +1,4 @@
+title: Visualizing Environmental Data for Program Decision Support
+authors: J. Burnetti, R. Manley, W. Mitchell, D. Varnadore
+in_vis_citations: 
+

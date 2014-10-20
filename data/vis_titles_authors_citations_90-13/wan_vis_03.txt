@@ -1,0 +1,5 @@
+title: Quasi-Static Approximation for 6 Degrees-of-Freedom Haptic Rendering
+authors: Ming Wan, William A. McNeely
+in_vis_citations: 
+gregory_vis_00
+

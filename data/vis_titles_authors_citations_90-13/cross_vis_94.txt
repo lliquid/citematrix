@@ -1,0 +1,8 @@
+title: Virtual Reality Performance for Virtual Geometry
+authors: Robert A. Cross, Andrew J. Hanson
+in_vis_citations: 
+hanson_vis_94
+hanson_vis_93
+hanson_vis_91
+hansena_vis_92
+

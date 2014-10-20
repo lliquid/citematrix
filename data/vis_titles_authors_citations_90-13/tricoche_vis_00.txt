@@ -1,0 +1,9 @@
+title: A Topology Simplification Method For 2D Vector Fields
+authors: Xavier Tricoche, Gerik Scheuermann, Hans Hagen
+in_vis_citations: 
+heckel_vis_99
+nielson_vis_98
+globus_vis_91
+deleeuw_vis_99
+scheuerm_vis_97
+

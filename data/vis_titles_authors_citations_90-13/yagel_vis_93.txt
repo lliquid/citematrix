@@ -1,0 +1,5 @@
+title: Accelerating Volume Animation by Space-Leaping
+authors: Roni Yagel, Zhouhong Shi
+in_vis_citations: 
+avila_vis_92
+

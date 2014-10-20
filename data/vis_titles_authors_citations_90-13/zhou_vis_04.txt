@@ -1,0 +1,9 @@
+title: Pixel-Exact Rendering of Spacetime Finite Element Solutions
+authors: Yuan Zhou, Michael Garland, Robert Haber
+in_vis_citations: 
+bhanira_vis_00
+hibbard_vis_90
+banks_vis_03
+krueger_vis_03
+hadwiger_vis_03
+

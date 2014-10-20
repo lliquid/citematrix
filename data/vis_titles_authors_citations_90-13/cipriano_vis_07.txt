@@ -1,0 +1,10 @@
+title: Molecular Surface Abstraction
+authors: Gregory Cipriano, Michael Gleicher
+in_vis_citations: 
+varshney_vis_93
+grigorya_vis_02
+cheng_vis_05
+schmidte_vis_02
+lee_vis_04
+tarini_vis_06
+

@@ -1,0 +1,6 @@
+title: Accelerating Network Traffic Analytics Using Query-Driven Visualization
+authors: E, Wes Bethel, Scott Campbell, Eli Dart, Kurt Stockinger, Kesheng Wu
+in_vis_citations: 
+koutsofios_vis_99
+stocking_vis_05
+

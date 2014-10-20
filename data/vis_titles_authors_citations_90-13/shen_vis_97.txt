@@ -1,0 +1,7 @@
+title: UFLIC: A Line Integral Convolution Algorithm For Visualizing Unsteady Flows
+authors: Han-Wei Shen, David L. Kaot
+in_vis_citations: 
+leeuw_vis_95
+lane_vis_93
+kiu_vis_96
+

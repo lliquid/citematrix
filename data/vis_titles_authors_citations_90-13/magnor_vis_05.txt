@@ -1,0 +1,6 @@
+title: Reflection Nebula Visualization
+authors: Marcus A. Magnor, Kristian Hildebrand, Andrei Lintu, Andrew J. Hanson
+in_vis_citations: 
+krueger_vis_03
+magnor_vis_04
+

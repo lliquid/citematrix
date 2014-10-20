@@ -1,0 +1,13 @@
+title: UTOPIAN: User-Driven Topic Modeling Based on Interactive Nonnegative Matrix Factorization
+authors: Jaegul Choo, Changhyun Lee, Chandan K. Reddy, Haesun Park
+in_vis_citations: 
+hossain_vast_12
+choo_vast_09
+cui_infovis_11
+dou_vast_11
+dou_vast_12
+nam_vast_07
+stasko_vast_07
+paulovic_infovis_08
+choo_vast_10
+

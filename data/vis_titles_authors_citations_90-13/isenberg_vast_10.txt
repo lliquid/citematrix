@@ -1,0 +1,10 @@
+title: An Exploratory Study of Co-located Collaborative Visual Analytics Around a Tabletop Display
+authors: Petra Isenberg, Danyel Fisher, Meredith Ringel Morris, Kori Inkpen, Mary Czerwinski
+in_vis_citations: 
+brennan_vast_06
+stasko_vast_07
+keel_vast_06
+viegas_infovis_07
+robinson_vast_08
+isenberg_infovis_07
+

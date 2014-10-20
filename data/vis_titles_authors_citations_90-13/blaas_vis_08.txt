@@ -1,0 +1,10 @@
+title: Extensions of Parallel Coordinates for Interactive Exploration of Large Multi-Timepoint Data Sets
+authors: Jorik Blaas, Charl P. Botha, Frits H. Post
+in_vis_citations: 
+fua_vis_99
+novotny_vis_06
+johansso_infovis_05
+artero_infovis_04
+ward_vis_94
+gresh_vis_00
+

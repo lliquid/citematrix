@@ -1,0 +1,11 @@
+title: Exploring 3D DTI Fiber Tracts with Linked 2D Representations
+authors: Radu Jianu, Cagatay Demiralp, David H. Laidlaw
+in_vis_citations: 
+gresh_vis_00
+buja_vis_91
+chalmers_vis_96
+akers_vis_04
+chenwei2_vis_09
+ward_vis_94
+moberts_vis_05
+

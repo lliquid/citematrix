@@ -1,0 +1,4 @@
+title: Optimizing Triangle Strips for Fast Rendering
+authors: Francine Evans, Steven Skiena, Amitabh Varshney
+in_vis_citations: 
+

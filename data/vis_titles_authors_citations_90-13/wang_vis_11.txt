@@ -1,0 +1,9 @@
+title: Branching and Circular Features in High Dimensional Data
+authors: Bei Wang, Brian Summa, Valerio Pascucci, Mikael Vejdemo-Johansson
+in_vis_citations: 
+gerber_vis_10
+takahash_vis_09
+weber_vis_07
+bendich_vis_10
+oesterli_vast_10
+

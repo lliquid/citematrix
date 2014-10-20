@@ -1,0 +1,4 @@
+title: Ray Traced Scalar Fields With Shaded Polygonal Output
+authors: Ray J. Meyers, Michael B. Stephenson
+in_vis_citations: 
+

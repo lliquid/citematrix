@@ -1,0 +1,5 @@
+title: Orthographic Star Coordinates
+authors: Dirk J. Lehmann, Holger Theisel
+in_vis_citations: 
+hoffman_vis_97
+

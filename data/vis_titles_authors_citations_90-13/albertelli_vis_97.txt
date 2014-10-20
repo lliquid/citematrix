@@ -1,0 +1,6 @@
+title: Efficient Subdivision of Finite-Element Datasets into Consistent Tetrahedra
+authors: Guy Albertelli, Roger A. Crawfis
+in_vis_citations: 
+max_vis_92
+max_vis_93
+

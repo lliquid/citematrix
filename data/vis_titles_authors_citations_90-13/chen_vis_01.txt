@@ -1,0 +1,5 @@
+title: POP: A Hybrid Point and Polygon Rendering System for Large Data
+authors: Baoquan Chen, Minh Xuan Nguyen
+in_vis_citations: 
+hoppe_vis_98
+

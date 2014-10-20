@@ -1,0 +1,4 @@
+title: Maximum Entropy Light Source Placement
+authors: Stefan Gumhold
+in_vis_citations: 
+

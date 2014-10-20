@@ -1,0 +1,9 @@
+title: Projector Placement Planning for High Quality Visualizations on Real-World Colored Objects
+authors: Alvin J. Law, Daniel G. Aliaga, Aditi Majumder
+in_vis_citations: 
+sajadi2_vis_09
+chen_vis_02
+bhasker_vis_06
+bhasker_vis_07
+majumder_vis_00
+

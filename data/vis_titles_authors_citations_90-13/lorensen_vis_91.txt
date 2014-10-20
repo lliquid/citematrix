@@ -1,0 +1,4 @@
+title: Golf Green Visualization
+authors: William E. Lorensen, Boris Yamrom
+in_vis_citations: 
+

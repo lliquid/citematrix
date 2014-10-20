@@ -1,0 +1,14 @@
+title: Tuner: Principled Parameter Finding for Image Segmentation Algorithms Using Visual Response Surface Exploration
+authors: Thomas Torsney-Weir, Ahmed Saad, Torsten Moeller, Britta Weber, Hans-Christian Hege, Jean-Marc Verbavatz, Steven Bergner
+in_vis_citations: 
+schneidegger_vis_07
+bachthal_vis_08
+waser_vis_10
+bruckner_vis_10
+ward_vis_94
+talbot_infovis_10
+vanwijk1_vis_93
+ma_vis_99
+pretorius_infovis_11
+jankun_vis_00
+

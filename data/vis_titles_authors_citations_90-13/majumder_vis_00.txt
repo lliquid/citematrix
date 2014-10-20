@@ -1,0 +1,5 @@
+title: Achieving Color Uniformity Across Multi-Projector Displays
+authors: Aditi Majumder, Zhu He, Herman Towles, Greg Welch
+in_vis_citations: 
+humphrey_vis_99
+

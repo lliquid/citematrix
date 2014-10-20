@@ -1,0 +1,7 @@
+title: User Modeling for Adaptive Visualization Systems
+authors: Domik B. Gutkauf
+in_vis_citations: 
+beddow_vis_90
+levkowitz_vis_91
+wehrend_vis_90
+

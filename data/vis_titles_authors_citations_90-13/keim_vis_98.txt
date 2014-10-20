@@ -1,0 +1,14 @@
+title: The Gridfit Algorithm: An Efficient and Effective Approach to Visualizing Large Amounts of Spatial Data
+authors: Daniel A. Keim, Annemarie Herrmann
+in_vis_citations: 
+martin_vis_95
+ahlberg_infovis_95
+buja_vis_91
+beddow_vis_90
+inselberg_vis_90
+eick_vis_93
+keim_vis_95
+ward_vis_94
+anupam_infovis_95
+leblanc_vis_90
+

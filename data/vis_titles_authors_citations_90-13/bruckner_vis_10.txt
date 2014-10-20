@@ -1,0 +1,16 @@
+title: Result-Driven Exploration of Simulation Parameter Spaces for Visual Effects Design
+authors: Stefan Bruckner, Torsten Moeller
+in_vis_citations: 
+hansena_vis_92
+ma_vis_99
+daniel_vis_03
+woodring_vis_06
+woodring_vis_03
+ankerst_infovis_98
+lee_vis_09
+elmqvist_vast_07
+vanwijk1_vis_93
+johansso_infovis_09
+smith_vis_07
+fails_vast_06
+

@@ -1,0 +1,12 @@
+title: VolumeExplorer: Roaming Large Volumes to Couple Visualization and Data Processing for Oil and Gas Exploration
+authors: Laurent Castanie, Bruno Levy, Fabien Bosquet
+in_vis_citations: 
+jen_vis_04
+brady_vis_97
+cavin_vis_05
+krueger_vis_03
+roettger_vis_00
+lamar_vis_99
+guthe_vis_02
+meissner_vis_99
+

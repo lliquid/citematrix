@@ -1,0 +1,9 @@
+title: Raycasting Vector Fields
+authors: Thomas Fruehauf
+in_vis_citations: 
+vanwijk2_vis_93
+gelder_vis_93
+crawfis_vis_93
+williamsp_vis_92
+hong_vis_95
+

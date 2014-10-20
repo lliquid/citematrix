@@ -1,0 +1,11 @@
+title: Interactive Isosurface Ray Tracing of Time-Varying Tetrahedral Volumes
+authors: Ingo Wald, Heiko Friedrich, Aaron Knoll, Charles D. Hansen
+in_vis_citations: 
+callahan_vis_05
+bavoil_vis_06
+weiler_vis_03
+georgii_vis_06
+krueger_vis_03
+parker_vis_98
+livnat_vis_98
+

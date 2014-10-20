@@ -1,0 +1,6 @@
+title: Maintaining Interactivity While Exploring Massive Time Series
+authors: Sye-Min Chan, Ling Xiao, John Gerth, Pat Hanrahan
+in_vis_citations: 
+bethel_vast_06
+tesone_vast_07
+

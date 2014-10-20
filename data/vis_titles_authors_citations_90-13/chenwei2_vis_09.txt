@@ -1,0 +1,13 @@
+title: A Novel Interface for Interactive Exploration of DTI Fibers
+authors: Wei Chen, Ziang Ding, Song Zhang, Anna MacKay-Brandt, Stephen Correia, Huamin Qu, John Allen Crow, David F. Tate, Zhicheng Yan, Qunsheng Peng
+in_vis_citations: 
+schultz_vis_07
+jianu_vis_09
+enders_vis_05
+tzeng_vis_03
+blaas_vis_05
+moberts_vis_05
+mallo_vis_05
+zheng_vis_03
+akers_vis_04
+

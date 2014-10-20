@@ -1,0 +1,12 @@
+title: Hybrid Visualization for White Matter Tracts using Triangle Strips and Point Sprites
+authors: Dorit Merhof, Markus Sonntag, Frank Enders, Christopher Nimsky, Peter Hastreiter, Gunther Greiner
+in_vis_citations: 
+stoll_vis_05
+mallo_vis_05
+zhukov_vis_02
+hlawitsc_vis_05
+blaas_vis_05
+zoeckler_vis_96
+moberts_vis_05
+akers_vis_04
+

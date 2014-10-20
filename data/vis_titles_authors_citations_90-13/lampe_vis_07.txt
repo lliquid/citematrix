@@ -1,0 +1,8 @@
+title: Two-Level Approach to Efficient Visualization of Protein Dynamics
+authors: Ove Daae Lampe, Ivan Viola, Nathalie Reuter, Helwig Hauser
+in_vis_citations: 
+stoll_vis_05
+carpendale_infovis_96
+huitema_vis_00
+tarini_vis_06
+

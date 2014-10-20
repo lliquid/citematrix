@@ -1,0 +1,10 @@
+title: Does an Eye Tracker Tell the Truth about Visualizations?: Findings while Investigating Visualizations for Decision Making
+authors: Sung-Hee Kim, Zhihua Dong, Hanjun Xian, Benjavan Upatising, Ji Soo Yi
+in_vis_citations: 
+inselberg_vis_90
+burch2_infovis_11
+savikhin_vast_08
+tsang_infovis_10
+steinberger_infovis_11
+rudolph_vast_09
+

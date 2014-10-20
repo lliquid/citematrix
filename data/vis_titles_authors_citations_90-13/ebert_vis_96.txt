@@ -1,0 +1,6 @@
+title: Two-handed Interactive Stereoscopic Visualization
+authors: David S. Ebert, Christopher D. Shaw, Amen Zwa, Cindy Starr
+in_vis_citations: 
+post_vis_95
+ebert_infovis_96
+

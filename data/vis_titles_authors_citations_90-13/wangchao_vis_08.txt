@@ -1,0 +1,12 @@
+title: Importance-Driven Time-Varying Data Visualization
+authors: Chaoli Wang, Hongfeng Yu, Kwan-Liu Ma
+in_vis_citations: 
+westermann_vis_95
+woodring_vis_03
+jaenicke_vis_07
+viola_vis_06
+guthe_vis_01
+shen_vis_94
+shen_vis_99
+viola_vis_04
+

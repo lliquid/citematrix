@@ -1,0 +1,8 @@
+title: Immersive Volume Visualization Of Seismic Simulations: A Case Study Of Techniques Invented And Lessons Learned
+authors: Prashant Chopra, Joerg Meyer, Antonio Fernandez
+in_vis_citations: 
+staadt_vis_98
+schroede_vis_97
+cignoni_vis_00
+trotts_vis_98
+

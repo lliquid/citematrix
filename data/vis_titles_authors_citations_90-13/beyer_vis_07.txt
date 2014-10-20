@@ -1,0 +1,8 @@
+title: High-Quality Multimodal Volume Rendering for Preoperative Planning of Neurosurgical Interventions
+authors: Johanna Beyer, Markus Hadwiger, Stefan Wolfsberger, Katja Buehler
+in_vis_citations: 
+krueger_vis_03
+tiede_vis_98
+hadwiger_vis_03
+neubauer_vis_04
+

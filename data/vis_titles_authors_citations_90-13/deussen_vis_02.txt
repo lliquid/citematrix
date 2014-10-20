@@ -1,0 +1,7 @@
+title: Interactive Visualization of Complex Plant Ecosystems
+authors: Oliver Deussen, Carsten Colditz, Marc Stamminger, George Drettakis
+in_vis_citations: 
+duchaine_vis_97
+cohen_vis_01
+chen_vis_01
+

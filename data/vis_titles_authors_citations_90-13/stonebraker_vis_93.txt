@@ -1,0 +1,4 @@
+title: Tioga: A Database-Oriented Visualization Tool
+authors: Michael Stonebraker, Jolly Chen, Nobuko Nathan, Caroline Paxson, Alan Su, Jiang Wu
+in_vis_citations: 
+

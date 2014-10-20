@@ -1,0 +1,12 @@
+title: Quick-VDR: Interactive View-Dependent Rendering of Massive Models
+authors: Sung-Eui Yoon, Brian Salomon, Russell Gayle, Dinesh Manocha
+in_vis_citations: 
+elsana_vis_02
+cignoni_vis_03
+shaffer_vis_01
+decoro_vis_02
+hoppe_vis_98
+elsana_vis_01
+yoon_vis_03
+lindstrom01_vis_01
+

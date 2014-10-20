@@ -1,0 +1,5 @@
+title: Optimal Triangular Haar Bases for Spherical Data
+authors: Georges-Pierre Bonneau
+in_vis_citations: 
+nielson1_vis_97
+

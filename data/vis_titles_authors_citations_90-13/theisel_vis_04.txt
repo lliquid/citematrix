@@ -1,0 +1,12 @@
+title: Stream Line and Path Line Oriented Topology for 2D Time-Dependent Vector Fields
+authors: Holger Theisel, Tino Weinkauf, Hans-Christian Hege, Hans-Peter Seidel
+in_vis_citations: 
+deleeuw_vis_99
+lodha_vis_00
+leeuw_vis_93
+globus_vis_91
+zoeckler_vis_96
+tricoche_vis_00
+tricoche_vis_01
+theisel_vis_03
+

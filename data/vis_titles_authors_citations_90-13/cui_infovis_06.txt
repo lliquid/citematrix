@@ -1,0 +1,9 @@
+title: Measuring Data Abstraction Quality in Multiresolution Visualizations
+authors: Qingguang Cui, Matthew O. Ward, Elke A. Rundensteiner, Jing Yang
+in_vis_citations: 
+granitze_infovis_04
+rafiei_vis_05
+peng_infovis_04
+martin_vis_95
+kreusele_infovis_00
+

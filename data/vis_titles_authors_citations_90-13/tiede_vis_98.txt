@@ -1,0 +1,4 @@
+title: High Quality Rendering of Attributed Volume Data
+authors: Ulf Tiede, Thomas Schiemann, Karl Heinz Hoehne
+in_vis_citations: 
+

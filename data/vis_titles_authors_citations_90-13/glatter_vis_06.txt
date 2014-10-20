@@ -1,0 +1,12 @@
+title: Scalable Data Servers for Large Multivariate Volume Visualization
+authors: Markus Glatter, Colin Mollenhour, Jian Huang, Jinzhu Gao
+in_vis_citations: 
+stocking_vis_05
+gao_vis_05
+shen_vis_99
+shen_vis_96
+kniss_vis_03
+kniss_vis_01
+tiede_vis_98
+huang_vis_00
+

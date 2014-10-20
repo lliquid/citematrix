@@ -1,0 +1,9 @@
+title: Interactive Rendering of Large Volume Data Sets
+authors: Stefan Guthe, Michael Wand, Julius Gonser, Wolfgang Strasser
+in_vis_citations: 
+guthe_vis_01
+lamar_vis_99
+meissner_vis_99
+ning_vis_93
+kniss_vis_01
+

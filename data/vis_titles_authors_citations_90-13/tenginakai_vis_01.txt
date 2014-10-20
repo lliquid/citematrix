@@ -1,0 +1,7 @@
+title: Salient Isosurface Detection with Model-Independent Statistical Signatures
+authors: Shivaraj Tenginakai, Jinho Lee, Raghu Machiraju
+in_vis_citations: 
+fang_vis_98
+bajaj_vis_97
+he1_vis_96
+

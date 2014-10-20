@@ -1,0 +1,5 @@
+title: Cell-Projection of Cyclic Meshes
+authors: Martin Kraus, Thomas Ertl
+in_vis_citations: 
+roettger_vis_00
+

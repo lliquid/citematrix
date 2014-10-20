@@ -1,0 +1,10 @@
+title: BirdVis: Visualizing and Understanding Bird Populations
+authors: Nivan Ferreira, Lauro Lins, Daniel Fink, Steve Kelling, Chris Wood, Juliana Freire, Claudio Silva
+in_vis_citations: 
+rogowitz_vis_01
+hibbard_vis_90
+lee_infovis_10
+talbot_infovis_10
+wood_infovis_07
+elmqvist_infovis_08
+

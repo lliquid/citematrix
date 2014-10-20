@@ -1,0 +1,5 @@
+title: Circular Incident Edge Lists : a Data Structure for Rendering Complex Unstructured Grids
+authors: Bruno Levy, Guillaume Caumon, Stephane Conreaux, Xavier Cavin
+in_vis_citations: 
+wilhelms_vis_96
+

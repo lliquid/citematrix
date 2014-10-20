@@ -1,0 +1,7 @@
+title: Fast Detection of Meaningful Isosurfaces for Volume Data Visualization
+authors: Vladimir Pekar, Rafael Wiemker, Daniel Hempel
+in_vis_citations: 
+bergman_vis_95
+bajaj_vis_97
+he1_vis_96
+

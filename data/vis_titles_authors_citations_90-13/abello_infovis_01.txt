@@ -1,0 +1,5 @@
+title: Graph Sketches
+authors: James Abello, Irene Finocchi, Jeffrey Korn
+in_vis_citations: 
+abello_infovis_00
+

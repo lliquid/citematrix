@@ -1,0 +1,10 @@
+title: Automatic Detection and Visualization of Qualitative Hemodynamic Characteristics in Cerebral Aneurysms
+authors: Rocco Gasteiger, Dirk J. Lehmann, Roy van Pelt, Gabor Janiga, Oliver Beuing, Anna Vilanova, Holger Theisel, Bernhard Preim
+in_vis_citations: 
+vanpelt_vis_11
+reininghaus_vis_11
+gasteiger_vis_11
+everts_vis_09
+vanpelt_vis_10
+hummel_vis_10
+

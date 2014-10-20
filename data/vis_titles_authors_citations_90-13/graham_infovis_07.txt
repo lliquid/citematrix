@@ -1,0 +1,11 @@
+title: Exploring Multiple Trees through DAG Representations
+authors: Martin Graham, Jessie Kennedy
+in_vis_citations: 
+zhao_infovis_05
+plaisant_infovis_02
+vanham_infovis_02
+stasko_infovis_00
+johnson_vis_91
+kobsa_infovis_04
+riehmann_infovis_05
+

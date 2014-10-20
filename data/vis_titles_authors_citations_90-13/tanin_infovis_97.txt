@@ -1,0 +1,6 @@
+title: Research Report: Design and Evaluation of Incremental Data Structures and Algorithms for Dynamic Query Interfaces
+authors: Egemen Tanin, Richard Beigel, Ben Shneiderman
+in_vis_citations: 
+ahlberg_infovis_95
+ahlberg_infovis_95
+

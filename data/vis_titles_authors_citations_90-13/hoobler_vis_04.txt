@@ -1,0 +1,4 @@
+title: Visualizing Competitive Behaviors in Multi-User Virtual Environments
+authors: Nate Hoobler, Greg Humphreys, Maneesh Agrawala
+in_vis_citations: 
+

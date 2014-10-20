@@ -1,0 +1,8 @@
+title: Wavelet-based Multiresolutional Representation of Computational Field Simulation Datasets
+authors: Zhifan Zhu, Raghu Machiraju, Bryan Fry, Robert J. Moorhead
+in_vis_citations: 
+tao_vis_94
+knittel_vis_95
+trott_vis_96
+ghavamnia_vis_95
+

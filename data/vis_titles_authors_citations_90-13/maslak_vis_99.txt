@@ -1,0 +1,4 @@
+title: A Computer Animation Representing the Molecular Events of G protein-coupled Receptor Activation
+authors: Zoya Maslak, Douglas J. Steel, Robert J. McDermott
+in_vis_citations: 
+

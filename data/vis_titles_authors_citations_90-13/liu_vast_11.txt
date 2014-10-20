@@ -1,0 +1,11 @@
+title: Network-Based Visual Analysis of Tabular Data
+authors: Zhicheng Liu, Shamkant B. Navathe, John T. Stasko
+in_vis_citations: 
+perer_infovis_06
+liu_infovis_10
+henry_infovis_07
+shneiderman_infovis_06
+weaver_vast_10
+stolte_infovis_00
+stasko_vast_07
+

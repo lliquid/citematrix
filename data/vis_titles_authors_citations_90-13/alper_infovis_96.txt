@@ -1,0 +1,6 @@
+title: Geospatial Metadata Querying and Visualization on the WWW Using Java TM Applets
+authors: Naim Alper, Chuck Stein
+in_vis_citations: 
+wise_infovis_95
+wright_infovis_95
+

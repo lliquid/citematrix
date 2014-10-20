@@ -1,0 +1,6 @@
+title: TexMol: Interactive Visual Exploration of Large Flexible Multi-component Molecular Complexes
+authors: Chandrajit Bajaj, Peter Djeu, Vinay Siddavanahalli, Anthony Thane
+in_vis_citations: 
+varshney_vis_93
+hanson1_vis_98
+

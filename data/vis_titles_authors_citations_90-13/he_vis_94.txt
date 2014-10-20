@@ -1,0 +1,5 @@
+title: Wavelet-Based Volume Morphing
+authors: Taosong He, Sidney Wang, Arie Kaufman
+in_vis_citations: 
+wang_vis_93
+

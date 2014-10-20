@@ -1,0 +1,5 @@
+title: Identifying Redundancy and Exposing Provenance in Crowdsourced Data Analysis
+authors: Wesley Willett, Shiry Ginosar, Avital Steinitz, Bjoern Hartmann, Maneesh Agrawala
+in_vis_citations: 
+viegas_infovis_07
+

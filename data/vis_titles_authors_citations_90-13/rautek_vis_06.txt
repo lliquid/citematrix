@@ -1,0 +1,8 @@
+title: Caricaturistic Visualization
+authors: Peter Rautek, Ivan Viola, Eduard Groeller
+in_vis_citations: 
+bruckner_vis_05
+viola_vis_04
+joshi_vis_05
+weigle_vis_05
+

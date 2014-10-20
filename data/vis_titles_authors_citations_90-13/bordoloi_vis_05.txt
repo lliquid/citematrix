@@ -1,0 +1,8 @@
+title: View Selection for Volume Rendering
+authors: Udeepta D. Bordoloi, Han-Wei Shen
+in_vis_citations: 
+ebert_vis_00
+hadwiger_vis_03
+takahash_vis_05
+tenginakai_vis_01
+

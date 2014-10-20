@@ -1,0 +1,7 @@
+title: Visualization of Time-Dependent Remote Adaptive Mesh Refinement Data
+authors: Ralf Kaehler, Steffen Prohaska, Andrei Hutanu, Hans-Christian Hege
+in_vis_citations: 
+park_vis_02
+prohaska_vis_04
+kaehler_vis_02
+

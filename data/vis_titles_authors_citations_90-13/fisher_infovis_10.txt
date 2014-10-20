@@ -1,0 +1,10 @@
+title: Visualizations Everywhere: A Multiplatform Infrastructure for Linked Visualizations
+authors: Danyel Fisher, Steven M. Drucker, Roland Fernandez, Scott Ruble
+in_vis_citations: 
+weaver_infovis_04
+mckeon_infovis_09
+doerk_infovis_08
+bostock_infovis_09
+viegas_infovis_07
+stolte_infovis_00
+

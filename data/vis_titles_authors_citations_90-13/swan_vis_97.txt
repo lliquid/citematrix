@@ -1,0 +1,9 @@
+title: An Anti-Aliasing Technique for Splatting
+authors: Edward Swan, Klaus Mueller, Torsten Moeller, Naeem Shareef, Roger Crawfis, Roni Yagel
+in_vis_citations: 
+mueller_vis_96
+crawfis_vis_93
+marschner_vis_94
+sobieraj_vis_95
+yagel_vis_93
+

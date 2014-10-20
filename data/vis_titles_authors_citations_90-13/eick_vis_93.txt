@@ -1,0 +1,6 @@
+title: Navigating Large Networks with Hierarchies
+authors: Stephen G. Eick, Graham J. Wills
+in_vis_citations: 
+becker_vis_90
+johnson_vis_91
+

@@ -1,0 +1,5 @@
+title: Empirical Comparison of Dynamic Query Sliders and Brushing Histograms
+authors: Qing Li, Chris North
+in_vis_citations: 
+derthick_infovis_99
+

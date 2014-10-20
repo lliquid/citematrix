@@ -1,0 +1,6 @@
+title: Kinetic Visualization: A Technique for Illustrating 3D Shape and Structure
+authors: Eric B. Lum, Aleksander Stompel, Kwan-Liu Ma
+in_vis_citations: 
+schussman_vis_00
+born_vis_10
+

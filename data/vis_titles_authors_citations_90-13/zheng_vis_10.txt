@@ -1,0 +1,11 @@
+title: VDVR: Verifiable Volume Visualization of Projection-Based Data
+authors: Ziyi Zheng, Wei Xu, Klaus Mueller
+in_vis_citations: 
+lamar_vis_99
+yagel_vis_91
+etiene_vis_09
+entezari_vis_06
+marschner_vis_94
+li_vis_04
+marchesi_vis_09
+

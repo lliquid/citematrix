@@ -1,0 +1,6 @@
+title: BLIC: Bi-Level Isosurface Compression
+authors: Gabriel Taubin
+in_vis_citations: 
+moeller_vis_97
+wood_vis_00
+

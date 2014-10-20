@@ -1,0 +1,6 @@
+title: Occlusion-Free Animation of Driving Routes for Car Navigation Systems
+authors: Shigeo Takahashi, Kenichi Yoshida, Kenji Shimada
+in_vis_citations: 
+keahey_infovis_97
+wangl_vis_05
+

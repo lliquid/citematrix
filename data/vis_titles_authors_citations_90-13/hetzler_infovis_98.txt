@@ -1,0 +1,10 @@
+title: Multi-faceted Insight Through Interoperable Visual Information Analysis Paradigms
+authors: Beth Hetzler, Paul Whitney, Lou Martucci, Jim Thomas
+in_vis_citations: 
+brodbeck_infovis_97
+ebert_infovis_96
+inselber_infovis_97
+wise_infovis_95
+rushall_infovis_96
+chi_infovis_97
+

@@ -1,0 +1,21 @@
+title: GPLOM: The Generalized Plot Matrix for Visualizing Multidimensional Multivariate Data
+authors: Jean-Francois Im, Michael J. McGuffin, Rock Leung
+in_vis_citations: 
+wilkinso_infovis_05
+qu_vis_07
+yuan_infovis_09
+steed_vast_09
+mackinlay_infovis_07
+leblanc_vis_90
+bostock_infovis_11
+viau_infovis_10
+steinberger_infovis_11
+vanwijk1_vis_93
+claessen_infovis_11
+grammel_infovis_10
+stolte_infovis_00
+collins_infovis_07
+peng_infovis_04
+elmqvist_infovis_08
+mihalisin_vis_91
+

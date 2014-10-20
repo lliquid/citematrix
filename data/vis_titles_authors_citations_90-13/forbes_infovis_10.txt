@@ -1,0 +1,8 @@
+title: behaviorism: A Framework for Dynamic Data Visualization
+authors: Angus Graeme Forbes, Tobias Hoellerer, George Legrady
+in_vis_citations: 
+fekete_infovis_04
+schroeder_vis_96
+chi_infovis_97
+munzner_infovis_09
+

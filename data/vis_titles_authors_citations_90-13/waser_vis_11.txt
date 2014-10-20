@@ -1,0 +1,14 @@
+title: Nodes on Ropes: A Comprehensive Data and Control Flow for Steering Ensemble Simulations
+authors: Juergen Waser, Hrvoje Ribicic, Raphael Fuchs, Christian Hirsch, Benjamin Schindler, Guenther Bloeschl, Eduard Groeller
+in_vis_citations: 
+waser_vis_10
+schneidegger_vis_07
+matkovic_infovis_02
+amirkhan_vis_10
+weaver_infovis_04
+childs_vis_05
+santos_vis_09
+weaver_infovis_05
+bruckner_vis_10
+waser_vis_10
+

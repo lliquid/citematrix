@@ -1,0 +1,13 @@
+title: Browsing Zoomable Treemaps: Structure-Aware Multi-Scale Navigation Techniques
+authors: Renaud Blanch, Eric Lecolinet
+in_vis_citations: 
+mcguffin_infovis_04
+balzer_infovis_05
+zhao_infovis_05
+fekete_infovis_02
+abello_infovis_04
+vanwijk_infovis_99
+vliegen_infovis_06
+plaisant_infovis_02
+shi_infovis_05
+

@@ -1,0 +1,10 @@
+title: Chameleon: An Interactive Texture-based Rendering Framework for Visualizing Three-dimensional Vector Fields
+authors: Guo-Shi Li, Udeepta D. Bordoloi, Han-Wei Shen
+in_vis_citations: 
+kiu_vis_96
+max_vis_93
+crawfis_vis_93
+hultquist1_vis_92
+zoeckler_vis_96
+interran_vis_97
+

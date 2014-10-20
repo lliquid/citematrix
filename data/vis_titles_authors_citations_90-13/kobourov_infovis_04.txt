@@ -1,0 +1,6 @@
+title: Non-Euclidean Spring Embedders
+authors: Stephen G. Kobourov, Kevin Wampler
+in_vis_citations: 
+munzner_infovis_97
+koren_infovis_02
+

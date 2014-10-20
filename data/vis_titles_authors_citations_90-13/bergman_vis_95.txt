@@ -1,0 +1,6 @@
+title: A Rule-based Tool for Assisting Colormap Selection
+authors: Lawrence D. Bergman, Bernice E. Rogowitz, Lloyd A. Treinish
+in_vis_citations: 
+abram_vis_95
+rogowitz_vis_93
+

@@ -1,0 +1,5 @@
+title: Span Filtering: An Optimization Scheme For Volume Visualization of Large Finite Element Models
+authors: Richard S. Gallagher
+in_vis_citations: 
+meyers_vis_90
+

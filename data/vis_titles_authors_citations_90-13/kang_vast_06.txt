@@ -1,0 +1,7 @@
+title: NetLens: Iterative Exploration of Content-Actor Network Data
+authors: Hyunmo Kang, Catherine Plaisant, Bongshin Lee, Benjamin B. Bederson
+in_vis_citations: 
+ghoniem_infovis_04
+roth_infovis_96
+amar_infovis_05
+

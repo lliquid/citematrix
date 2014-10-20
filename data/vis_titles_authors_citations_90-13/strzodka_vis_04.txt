@@ -1,0 +1,8 @@
+title: Real-Time Motion Estimation and Visualization on Graphics Cards
+authors: Robert Strzodka, Christoph Garbe
+in_vis_citations: 
+hopf_vis_99
+weiskopf_vis_03
+daniel_vis_03
+lefohn_vis_03
+

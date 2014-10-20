@@ -1,0 +1,4 @@
+title: Visualizing Incomplete and Partially Ranked Data
+authors: Paul Kidwell, Guy Lebanon, William S. Cleveland
+in_vis_citations: 
+

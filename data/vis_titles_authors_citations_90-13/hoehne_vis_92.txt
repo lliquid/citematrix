@@ -1,0 +1,4 @@
+title: Anatomical Atlases Based on Volume Visualization
+authors: Karl Heinz Hoehne, Andreas Pommert, Martin Riemer, Thomas Schiemann, Rainer Schubert, Ulf Tiede, W. Lierse
+in_vis_citations: 
+

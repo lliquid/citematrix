@@ -1,0 +1,10 @@
+title: Interactive Visual Optimization and Analysis for RFID Benchmarking
+authors: Yingcai Wu, Ka-Kei Chung, Huamin Qu, Xiaoru Yuan, S. C. Cheung
+in_vis_citations: 
+blaas_vis_08
+inselberg_vis_90
+ellis_infovis_07
+fanea_infovis_05
+wong_vis_96
+kreusele_infovis_04
+

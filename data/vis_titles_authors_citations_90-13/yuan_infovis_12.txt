@@ -1,0 +1,8 @@
+title: Intelligent Graph Layout Using Many Users' Input
+authors: Xiaoru Yuan, Limei Che, Yifan Hu, Xin Zhang
+in_vis_citations: 
+vanham_infovis_08
+dwyer_infovis_05
+dwyer_infovis_09
+frishman_infovis_07
+

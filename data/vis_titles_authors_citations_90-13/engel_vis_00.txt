@@ -1,0 +1,5 @@
+title: Combining Local and Remote Visualization Techniques for Interactive Volume Rendering in Medical Applications
+authors: K. Engel, P. Hastreiter, B. Tomandl, K. Eberhardt, T. Ertl
+in_vis_citations: 
+zuiderveld_vis_96
+

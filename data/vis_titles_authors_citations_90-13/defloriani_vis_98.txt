@@ -1,0 +1,6 @@
+title: Efficient Implementation of Multi-Triangulations
+authors: Leila De Floriani, Paola Magillo, Enrico Puppo
+in_vis_citations: 
+defloriani_vis_97
+duchaine_vis_97
+

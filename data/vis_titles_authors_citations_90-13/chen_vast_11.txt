@@ -1,0 +1,14 @@
+title: Supporting Effective Common Ground Construction in Asynchronous Collaborative Visual Analytics
+authors: Yang Chen, Jamal Alsakran, Scott Barlowe, Jing Yang, Ye Zhao
+in_vis_citations: 
+pousman_infovis_07
+shriniva_vast_09
+viegas_infovis_07
+mahyar_vast_10
+robinson_vast_08
+chung_vast_10
+heer_vast_07
+gotz_vast_08
+shneiderman_infovis_06
+chen_vast_10
+

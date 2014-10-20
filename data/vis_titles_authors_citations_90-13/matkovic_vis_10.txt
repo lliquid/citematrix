@@ -1,0 +1,8 @@
+title: Interactive Visual Analysis of Multiple Simulation Runs Using the Simulation Model View: Understanding and Tuning of an Electronic Unit Injector
+authors: Kresimir Matkovic, Denis Gracanin, Mario Jelovic, Andreas Ammer, Alan Lez, Helwig Hauser
+in_vis_citations: 
+matkovic_vis_09
+matkovic_infovis_02
+jerding_infovis_95
+hauser_infovis_02
+

@@ -1,0 +1,8 @@
+title: Surface Reconstruction Via Contour Metamorphosis: An Eulerian Approach With Lagrangian Particle Tracking
+authors: Ola Nilsson, David Breen, Ken Museth
+in_vis_citations: 
+cohenor2_vis_96
+museth_vis_02
+chai_vis_98
+johnstone_vis_95
+

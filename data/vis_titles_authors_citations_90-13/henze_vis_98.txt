@@ -1,0 +1,10 @@
+title: Feature Detection in Linked Derived Spaces
+authors: Chris Henze
+in_vis_citations: 
+bryson1_vis_96
+shen_vis_96
+banks_vis_94
+martin_vis_95
+buja_vis_91
+ward_vis_94
+

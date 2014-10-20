@@ -1,0 +1,12 @@
+title: VAICo: Visual Analysis for Image Comparison
+authors: Johanna Schmidt, Eduard Groeller, Stefan Bruckner
+in_vis_citations: 
+schneidegger_vis_07
+shenas_infovis_07
+mistelbauer_vast_12
+bruckner_vis_10
+ma_vis_99
+sahasrab_vis_99
+torsneyweir_vis_11
+zhou_vis_02
+

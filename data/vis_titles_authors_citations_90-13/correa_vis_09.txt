@@ -1,0 +1,13 @@
+title: The Occlusion Spectrum for Volume Classification and Visualization
+authors: Carlos D. Correa, Kwan-Liu Ma
+in_vis_citations: 
+kindlman_vis_03
+fujishiro_vis_99
+correa_vis_08
+kniss_vis_01
+lum_vis_04
+tzeng_vis_03
+tarini_vis_06
+bajaj_vis_97
+salama_vis_06
+

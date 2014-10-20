@@ -1,0 +1,5 @@
+title: Estimating Crossing Fibers: A Tensor Decomposition Approach
+authors: Thomas Schultz, Hans-Peter Seidel
+in_vis_citations: 
+hlawitsc_vis_05
+

@@ -1,0 +1,8 @@
+title: SeiVis: An Interactive Visual Subsurface Modeling Application
+authors: Thomas Hollt, Wolfgang Freiler, Fritz M. Gschwantner, Helmut Doleisch, Gabor Heinemann, M. Hadwiger
+in_vis_citations: 
+lampe_vis_09
+bruckner_vis_06
+castanie_vis_05
+mcguffin_vis_03
+

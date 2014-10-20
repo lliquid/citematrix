@@ -1,0 +1,6 @@
+title: Visage: A User Interface Environment for Exploring Information
+authors: Steven F. Roth, Peter Lucas, Jeffrey A. Senn, Cristina C. Gomberg, Michael B. Burks, Philip J. Stroffolino, John A. Kolojejchick, Carolyn Dunmire
+in_vis_citations: 
+eick_vis_93
+johnson_vis_91
+

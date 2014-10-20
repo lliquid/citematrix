@@ -1,0 +1,9 @@
+title: Interactive, Graph-Based Visual Analysis of High-Dimensional, Multi-Parameter Fluorescence Microscopy Data in Toponomics
+authors: Steffen Oeltze, Wolfgang Freiler, Reyk Hillert, Helmut Doleisch, Bernhard Preim, Walter Schubert
+in_vis_citations: 
+dietzsch_vast_09
+leeuw_vis_06
+holten_infovis_06
+oeltze_vis_07
+meyer_infovis_09
+

@@ -1,0 +1,7 @@
+title: Interactive View-Dependent Rendering with Conservative Occlusion Culling in Complex Environments
+authors: Sung-Eui Yoon, Brian Salomon, Dinesh Manocha
+in_vis_citations: 
+elsana_vis_02
+elsana_vis_01
+decoro_vis_02
+

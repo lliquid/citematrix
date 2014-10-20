@@ -1,0 +1,4 @@
+title: Controlled Simplification of Genus for Polygonal Models
+authors: Jihad El-Sana, Amitabh Varshney
+in_vis_citations: 
+

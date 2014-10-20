@@ -1,0 +1,6 @@
+title: Computing Singularities of 3D Vector Fields with Geometric Algebra
+authors: Stephen Mann, Alyn Rockwood
+in_vis_citations: 
+scheuerm_vis_97
+nielson1_vis_97
+

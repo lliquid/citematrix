@@ -1,0 +1,8 @@
+title: Gradient Estimation Revitalized
+authors: Usman R. Alim, Torsten M??ller, Laurent Condat
+in_vis_citations: 
+theussl_vis_01
+marschner_vis_94
+moeller_vis_97
+entezari_vis_04
+

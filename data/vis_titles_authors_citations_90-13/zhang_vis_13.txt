@@ -1,0 +1,9 @@
+title: Lighting Design for Globally Illuminated Volume Rendering
+authors: Yubo Zhang, Kwan-Liu Ma
+in_vis_citations: 
+yuan_vis_05
+lee_vis_04
+schlegel_vis_11
+tao_vis_12
+gumhold_vis_02
+

@@ -1,0 +1,7 @@
+title: On the Visualization of Social and other Scale-Free Networks
+authors: Yuntao Jia, Jared Hoberock, Michael Garland, John C. Hart
+in_vis_citations: 
+rafiei_vis_05
+kumar_infovis_06
+auber_infovis_03
+

@@ -1,0 +1,4 @@
+title: Evaluating a Visualisation of Image Similarity as a Tool for Image Browsing
+authors: Kerry Rodden, Wojciech Basalaj, David Sinclair, Kenneth Wood 
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Case Study: Observing a Volume Rendered Fetus within a Pregnant Patient
+authors: Andrei State, David T. Chen, Chris Tector, Andrew Brandt, Hong Chen, Ryutarou Ohbuchi, Mike Bajura, Henry Fuchs
+in_vis_citations: 
+

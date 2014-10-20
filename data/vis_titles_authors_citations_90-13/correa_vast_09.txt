@@ -1,0 +1,6 @@
+title: A Framework for Uncertainty-Aware Visual Analytics
+authors: Carlos D. Correa, Yu-Hsuan Chan, Kwan-Liu Ma
+in_vis_citations: 
+barlowe_vast_08
+yang_vast_07
+

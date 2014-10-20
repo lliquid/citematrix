@@ -1,0 +1,8 @@
+title: Beamtrees : Compact Visualization of Large Hierarchies
+authors: Frank van Ham, Jarke J. van Wijk
+in_vis_citations: 
+wattenberg_infovis_01
+barlow01_infovis_01
+vanwijk_infovis_99
+johnson_vis_91
+

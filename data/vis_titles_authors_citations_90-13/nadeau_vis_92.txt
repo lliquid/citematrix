@@ -1,0 +1,5 @@
+title: Network Video Device Control
+authors: David R. Nadeau, Michael J. Bailey
+in_vis_citations: 
+nadeau_vis_91
+

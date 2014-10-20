@@ -1,0 +1,14 @@
+title: Planet-Sized Batched Dynamic Adaptive Meshes (P-BDAM)
+authors: Paolo Cignoni, Fabio Ganovelli, Enrico Gobbetti, Fabio Marton, Federico Ponchio, Roberto Scopigno
+in_vis_citations: 
+duchaine_vis_97
+levenber_vis_02
+chow_vis_97
+hoppe_vis_98
+doellner_vis_00
+pajarola_vis_02
+cohenor1_vis_96
+pajarola_vis_98
+bajaj_vis_99
+xia_vis_96
+

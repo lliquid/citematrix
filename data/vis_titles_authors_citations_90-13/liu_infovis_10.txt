@@ -1,0 +1,14 @@
+title: Mental Models, Visual Reasoning and Interaction in Information Visualization: A Top-down Perspective
+authors: Zhicheng Liu, John T. Stasko
+in_vis_citations: 
+wang_infovis_09
+vanham_infovis_08
+kobsa_infovis_01
+dwyer_infovis_09
+yi_infovis_07
+liu_infovis_09
+lam_infovis_08
+ziemkiew_infovis_08
+liu_infovis_08
+gotz_vast_08
+

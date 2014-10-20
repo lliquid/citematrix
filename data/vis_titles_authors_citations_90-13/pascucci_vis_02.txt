@@ -1,0 +1,5 @@
+title: Efficient Computation of the Topology of Level Sets
+authors: V. Pascucci, K. Cole-McLaughlin
+in_vis_citations: 
+bajaj_vis_97
+

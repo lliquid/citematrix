@@ -1,0 +1,9 @@
+title: Compound Brushing
+authors: Hong Chen
+in_vis_citations: 
+martin_vis_95
+hauser_infovis_02
+chi_infovis_00
+ward_vis_94
+wills_infovis_96
+

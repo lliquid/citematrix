@@ -1,0 +1,5 @@
+title: PQuad: Visualization of Predicted Peptides and Proteins
+authors: Susan L. Havre, Mudita Singhal, Deborah A. Payne, Bobbie-Jo M. Webb-Robertson
+in_vis_citations: 
+jerding_infovis_95
+

@@ -1,0 +1,19 @@
+title: A Taxonomy of Clutter Reduction for Information Visualisation
+authors: Geoffrey Ellis, Alan Dix
+in_vis_citations: 
+trutschl_infovis_03
+chi_infovis_00
+ellis_infovis_06
+rafiei_vis_05
+wongn_infovis_03
+fua_vis_99
+stasko_infovis_00
+keim_vis_98
+brodbeck_infovis_97
+fekete_infovis_02
+derthick_infovis_03
+card_infovis_97
+jerding_infovis_95
+peng_infovis_04
+novotny_vis_06
+

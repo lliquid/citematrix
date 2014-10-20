@@ -1,0 +1,10 @@
+title: SketchStory: Telling More Engaging Stories with Data through Freeform Sketching
+authors: Bongshin Lee, Rubaiat Habib Kazi, Greg Smith
+in_vis_citations: 
+viegas_infovis_07
+wood_infovis_12
+segal_infovis_10
+walny_infovis_12
+heer_infovis_08
+eccles_vast_07
+

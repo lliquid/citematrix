@@ -1,0 +1,12 @@
+title: GRACE: A Visual Comparison Framework for Integrated Spatial and Non-Spatial Geriatric Data
+authors: Adrian Maries, Nathan Mays, Megan Olson Hunt, Kim F. Wong, William Layton, Robert Boudreau, Caterina Rosano, G. Elisabeta Marai
+in_vis_citations: 
+jianu_vis_09
+gresh_vis_00
+keim_vast_06
+munzner_infovis_09
+meyer_infovis_10
+sanyal_vis_09
+johnson_vis_91
+javed_infovis_10
+

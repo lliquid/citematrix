@@ -1,0 +1,6 @@
+title: Image-Based Transfer Function Design for Data Exploration in Volume Visualization
+authors: Shiaofen Fang, Tom Biddlecome, Mihran Tuceryan
+in_vis_citations: 
+fang_vis_96
+he1_vis_96
+

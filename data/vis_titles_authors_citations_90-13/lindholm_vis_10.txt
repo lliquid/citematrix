@@ -1,0 +1,15 @@
+title: Spatial Conditioning of Transfer Functions Using Local Material Distributions
+authors: Stefan Lindholm, Patric Ljung, Claes Lundstroem, Anders Persson, Anders Ynnerman
+in_vis_citations: 
+maciejew_vis_09
+zhou_vis_09
+hadwiger_vis_08
+kniss_vis_03
+rautek_vis_07
+tenginakai_vis_01
+correa_vis_09
+correa_vis_08
+tzeng_vis_03
+fujishiro_vis_99
+salama_vis_06
+

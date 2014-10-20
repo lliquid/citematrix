@@ -1,0 +1,13 @@
+title: Smart Super Views - A Knowledge-Assisted Interface for Medical Visualization
+authors: Gabriel Mistelbauer, Hamed Bouzari, Ruediger Schernthaner, Ivan Baclija, Arnold Koechl, Stefan Bruckner, Milos Sramek, Eduard Groller
+in_vis_citations: 
+mcguffin_vis_03
+viola_vis_06
+kohlmann_vis_07
+rautek_vis_07
+kanitsar1_vis_02
+bruckner_vis_05
+steinberger_infovis_11
+wangl_vis_05
+salama_vis_06
+

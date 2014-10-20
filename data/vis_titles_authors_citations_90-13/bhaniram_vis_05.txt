@@ -1,0 +1,5 @@
+title: OpenGL Multipipe SDK: A Toolkit for Scalable Parallel Rendering
+authors: Praveen Bhaniramka, Philippe C. D. Robert, Stefan Eilemann
+in_vis_citations: 
+humphrey_vis_99
+

@@ -1,0 +1,6 @@
+title: Time-critical Multiresolution Scene Rendering
+authors: Enrico Gobbetti, Eric Bouvier
+in_vis_citations: 
+xia_vis_96
+hoppe_vis_98
+

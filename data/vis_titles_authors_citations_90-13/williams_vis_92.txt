@@ -1,0 +1,5 @@
+title: The State of the Art of Visual Languages for Visualization
+authors: C. Williams, J. Rasure, C. Hansen
+in_vis_citations: 
+lucas1_vis_92
+

@@ -1,0 +1,4 @@
+title: Does Animation Help Users Build Mental Maps of Spatial Information?
+authors: Benjamin B. Bederson
+in_vis_citations: 
+

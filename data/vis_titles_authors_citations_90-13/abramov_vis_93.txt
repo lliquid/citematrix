@@ -1,0 +1,6 @@
+title: The Quantum Coulomb Three-Body Problem - Visualization of Simulation Results and Numerical Methods
+authors: D. I. Abramov, L. I. Ponomarev
+in_vis_citations: 
+krueger_vis_90
+lang_vis_91
+

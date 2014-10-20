@@ -1,0 +1,9 @@
+title: Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles
+authors: Mathias Hummel, Harald Obermaier, Christoph Garth, Kenneth I. Joy
+in_vis_citations: 
+hlawatsch_vis_11
+lodha2_vis_96
+bruckner_vis_10
+sanyal_vis_10
+garth_vis_07
+

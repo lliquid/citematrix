@@ -1,0 +1,6 @@
+title: From Metaphor to Method: Cartographic Perspectives on Information Visualization
+authors: Andre Skupin
+in_vis_citations: 
+wise_infovis_95
+lin_vis_92
+

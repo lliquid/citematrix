@@ -1,0 +1,10 @@
+title: VolQD: Direct Volume Rendering of Multi-million Atom Quantum Dot Simulations
+authors: Wei Qiao, David S. Ebert, Alireza Entezari, Marek Korkusinski, Gerhard Klimeck
+in_vis_citations: 
+kindlman_vis_03
+kraus_vis_04
+mccormic_vis_04
+entezari_vis_04
+roettger_vis_00
+theussl_vis_01
+

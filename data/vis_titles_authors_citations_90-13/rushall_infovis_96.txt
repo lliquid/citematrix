@@ -1,0 +1,4 @@
+title: DEPICT: Documents Evaluated as Pictures Visualizing Information Using Context Vectors and Self Organizing Maps
+authors: David A. Rushall, Marc R. Ilgen
+in_vis_citations: 
+

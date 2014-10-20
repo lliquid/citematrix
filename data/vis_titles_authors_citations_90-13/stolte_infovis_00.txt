@@ -1,0 +1,5 @@
+title: Polaris: A System for Query, Analysis and Visualization of Multi-dimensional Relational Databases
+authors: Chris Stolte, Pat Hanrahan
+in_vis_citations: 
+roth_infovis_96
+

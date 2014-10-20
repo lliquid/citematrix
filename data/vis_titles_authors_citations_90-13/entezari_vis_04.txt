@@ -1,0 +1,9 @@
+title: Linear and Cubic Box Splines for the Body Centered Cubic Lattice
+authors: Alireza Entezari, Ramsay Dyer, Torsten Moeller
+in_vis_citations: 
+carlbom_vis_93
+theussl_vis_01
+moeller_vis_97
+marschner_vis_94
+carr_vis_01
+

@@ -1,0 +1,9 @@
+title: The Structure of the Information Visualization Design Space
+authors: Stuart K. Card, Jock Mackinlay
+in_vis_citations: 
+chuah_infovis_96
+johnson_vis_91
+wise_infovis_95
+chuah_infovis_95
+cox_infovis_95
+

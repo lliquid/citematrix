@@ -1,0 +1,10 @@
+title: DimStiller: Workflows for Dimensional Analysis and Reduction
+authors: Stephen Ingram, Tamara Munzner, Veronika Irvine, Melanie Tory, Steven Bergner, Torsten Moeller
+in_vis_citations: 
+ross_infovis_03
+ward_vis_94
+heer2_infovis_06
+yang_infovis_03
+johansso_infovis_09
+yang_infovis_04
+

@@ -1,0 +1,4 @@
+title: Visualization in Computational Fluid Dynamics: A Case Study
+authors: Robert Haimes, Dave Darmofal
+in_vis_citations: 
+

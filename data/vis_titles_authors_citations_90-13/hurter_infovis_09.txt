@@ -1,0 +1,9 @@
+title: FromDaDy: Spreading Aircraft Trajectories Across Views to Support Iterative Queries
+authors: Christophe Hurter, Benjamin Tissoires, Stephane Conversy
+in_vis_citations: 
+stolte_infovis_00
+martin_vis_95
+ward_vis_94
+elmqvist_infovis_08
+fekete_infovis_04
+

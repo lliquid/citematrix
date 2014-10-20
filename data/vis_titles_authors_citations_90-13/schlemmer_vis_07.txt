@@ -1,0 +1,8 @@
+title: Moment Invariants for the Analysis of 2D Flow Fields
+authors: Michael Schlemmer, Manuel Heringer, Florian Morr, Ingrid Hotz, Martin-Hering Bertram, Christoph Garth, Wolfgang Kollmann, Bernd Hamann, Hans Hagen
+in_vis_citations: 
+edelsbru_vis_04
+sahasrab_vis_99
+svakhine_vis_05
+ebling_vis_03
+

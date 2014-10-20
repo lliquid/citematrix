@@ -1,0 +1,10 @@
+title: Topology Preserving and Controlled Topology Simplifying Multiresolution Isosurface Extraction
+authors: Thomas Gerstner, Renato Pajarola
+in_vis_citations: 
+shekhar_vis_96
+grosso_vis_97
+elsana_vis_97
+livnat_vis_98
+itoh_vis_94
+zhou_vis_97
+

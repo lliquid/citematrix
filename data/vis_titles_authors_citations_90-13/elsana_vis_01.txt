@@ -1,0 +1,11 @@
+title: Integrating Occlusion Culling with View-Dependent Rendering
+authors: Jihad El-Sana, Neta Sokolovsky, Claudio T. Silva
+in_vis_citations: 
+elsana_vis_99
+klosowsk_vis_99
+duchaine_vis_97
+bryson2_vis_96
+shamir_vis_00
+defloriani_vis_98
+gross_vis_95
+

@@ -1,0 +1,5 @@
+title: Seamster: Inconspicuous Low-Distortion Texture Seam Layout
+authors: Alla Sheffer, John C. Hart
+in_vis_citations: 
+nooruddi_vis_00
+

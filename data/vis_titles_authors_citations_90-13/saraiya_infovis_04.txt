@@ -1,0 +1,5 @@
+title: An Evaluation of Microarray Visualization Tools for Biological Insight
+authors: Purvi Saraiya, Chris North, Karen Duca
+in_vis_citations: 
+kobsa_infovis_01
+

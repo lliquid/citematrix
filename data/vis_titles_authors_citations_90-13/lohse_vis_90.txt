@@ -1,0 +1,4 @@
+title: Classifying Visual Knowledge Representations: A Foundation for Visualization Research
+authors: Jerry Lohse, Henry Rueter, Kevin Biolsi, Neff Walker
+in_vis_citations: 
+

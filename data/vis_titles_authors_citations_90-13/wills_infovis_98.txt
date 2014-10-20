@@ -1,0 +1,5 @@
+title: An Interactive View for Hierarchical Clustering
+authors: Graham J. Wills
+in_vis_citations: 
+wills_infovis_96
+

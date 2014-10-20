@@ -1,0 +1,8 @@
+title: New Quadric Metric for Simplifying Meshes with Appearance Attributes
+authors: Hugues Hoppe
+in_vis_citations: 
+garland_vis_98
+cignoni_vis_98
+lindstrom_vis_98
+cohen_vis_97
+

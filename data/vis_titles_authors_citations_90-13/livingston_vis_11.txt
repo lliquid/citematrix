@@ -1,0 +1,14 @@
+title: Evaluation of Trend Localization with Multi-Variate Visualizations
+authors: Mark A. Livingston, Jonathan W. Decker
+in_vis_citations: 
+forsberg_vis_09
+healey_vis_98
+beddow_vis_90
+leblanc_vis_90
+shenas_infovis_07
+levkowitz_vis_91
+kirby_vis_99
+urness_vis_03
+laidlaw_vis_98
+urness_vis_03
+

@@ -1,0 +1,6 @@
+title: Segmentation of Three-dimensional Retinal Image Data
+authors: Alfred R. Fuller, Robert J. Zawadzki, Stacey Choi, David F. Wiley, John S. Werner, Bernd Hamann
+in_vis_citations: 
+kniss_vis_01
+tzeng_vis_03
+

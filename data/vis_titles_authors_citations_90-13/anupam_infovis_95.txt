@@ -1,0 +1,5 @@
+title: Research Report DataSpace: 3-D Visualizations of Large Databases
+authors: V. Anupam, S. Dar, T. Leibfried, E. Petajan
+in_vis_citations: 
+hibbard_vis_94
+

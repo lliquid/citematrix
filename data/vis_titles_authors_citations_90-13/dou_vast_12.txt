@@ -1,0 +1,13 @@
+title: LeadLine: Interactive Visual Analysis of Text Data through Event Identification and Exploration
+authors: Wenwen Dou, Xiaoyu Wang, Drew Skau, William Ribarsky, Michelle X. Zhou
+in_vis_citations: 
+maceachr_vast_11
+shi_vast_10
+krstajic_infovis_11
+cui_infovis_11
+dou_vast_11
+bostock_infovis_11
+segal_infovis_10
+stasko_vast_07
+havre_infovis_00
+

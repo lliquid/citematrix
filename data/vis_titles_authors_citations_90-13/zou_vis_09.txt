@@ -1,0 +1,5 @@
+title: Intrinsic Geometric Scale Space by Shape Diffusion
+authors: Guangyu Zou, Jing Hua, Zhaoqiang Lai, Xianfeng Gu, Ming Dong
+in_vis_citations: 
+hua_vis_08
+

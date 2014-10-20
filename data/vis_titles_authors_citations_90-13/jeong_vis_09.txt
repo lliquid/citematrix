@@ -1,0 +1,9 @@
+title: Scalable and Interactive Segmentation and Visualization of Neural Processes in EM Datasets
+authors: Won-Ki Jeong, Johanna Beyer, Markus Hadwiger, Amelio Vazquez, Hanspeter Pfister, Ross T. Whitaker
+in_vis_citations: 
+caban_vis_08
+lefohn_vis_03
+mayerich_vis_08
+bartz_vis_99
+petrovic_vis_07
+

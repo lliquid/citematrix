@@ -1,0 +1,6 @@
+title: FundExplorer: Supporting the Diversification of Mutual Fund Portfolios Using Context Treemaps
+authors: Christoph Csallner, Marcus Handte, Othmar Lehmann, John Stasko
+in_vis_citations: 
+fekete_infovis_02
+turo_vis_92
+

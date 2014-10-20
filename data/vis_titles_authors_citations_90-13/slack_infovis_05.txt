@@ -1,0 +1,6 @@
+title: PRISAD: A Partitioned Rendering Infrastructure for Scalable Accordion Drawing
+authors: James Slack, Kristian Hildebrand, Tamara Munzner
+in_vis_citations: 
+fekete_infovis_02
+fekete_infovis_04
+

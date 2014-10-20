@@ -1,0 +1,7 @@
+title: Topographic Visualization of Prefix Propagation in the Internet
+authors: Pier Francesco Cortese, Giuseppe Di Battista, Antonello Moneta, Maurizio Patrignani, Maurizio Pizzonia
+in_vis_citations: 
+frishman_infovis_04
+yee_infovis_01
+brandes_infovis_02
+

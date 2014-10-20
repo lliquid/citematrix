@@ -1,0 +1,11 @@
+title: Diffusion Tensor Visualization with Glyph Packing
+authors: Gordon Kindlmann, Carl-Fredrik Westin, Stephen Whalen
+in_vis_citations: 
+sanderso_vis_04
+laidlaw_vis_98
+hotz_vis_04
+sigfrids_vis_02
+post_vis_95
+kirby_vis_99
+zheng_vis_03
+

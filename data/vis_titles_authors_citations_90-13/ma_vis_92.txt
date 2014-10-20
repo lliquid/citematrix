@@ -1,0 +1,11 @@
+title: Virtual Smoke: An Interactive 3D Flow Visualization Technique
+authors: Kwan-Liu Ma, Philip J. Smith
+in_vis_citations: 
+swann_vis_91
+yoo_vis_91
+silver_vis_91
+bancroft_vis_90
+schroederw_vis_91
+scheuer2_vis_99
+schroederp_vis_91
+

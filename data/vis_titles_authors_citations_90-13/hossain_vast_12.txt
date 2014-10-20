@@ -1,0 +1,9 @@
+title: Scatter/Gather Clustering: Flexibly Incorporating User Feedback to Steer Clustering Results
+authors: M. Shahriar Hossain, Praveen Kumar Reddy Ojili, Cindy Grimm, Rolf Mueller, Layne T. Watson, Naren Ramakrishnan
+in_vis_citations: 
+andrienk_vast_09
+nam_vast_07
+schreck_vast_08
+ankerst_infovis_98
+choo_vast_09
+

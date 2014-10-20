@@ -1,0 +1,10 @@
+title: Eliminating Popping Artifacts in Sheet Buffer-Based Splatting
+authors: Klaus Mueller, Roger Crawfis
+in_vis_citations: 
+mueller_vis_96
+crawfis_vis_96
+sobieraj_vis_95
+swan_vis_97
+crawfis_vis_93
+yagel_vis_93
+

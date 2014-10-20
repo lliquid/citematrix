@@ -1,0 +1,13 @@
+title: A Deeper Understanding of Sequence in Narrative Visualization
+authors: Jessica Hullman, Steven Drucker, Nathalie Henry Riche, Bongshin Lee, Danyel Fisher, Eytan Adar
+in_vis_citations: 
+bavoil_vis_05
+viegas_infovis_07
+mackinlay_infovis_07
+segal_infovis_10
+heer_infovis_08
+hullman2_infovis_11
+schneidegger_vis_07
+heer_infovis_07
+stolte_infovis_00
+

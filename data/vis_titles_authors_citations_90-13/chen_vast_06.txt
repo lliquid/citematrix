@@ -1,0 +1,5 @@
+title: Visual Analysis of Conflicting Opinions
+authors: Chaomei Chen, Fidelia Ibekwe-SanJuan, Eric SanJuan, Chris Weaver
+in_vis_citations: 
+wattenbe_infovis_02
+

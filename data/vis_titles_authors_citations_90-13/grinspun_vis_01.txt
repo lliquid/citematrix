@@ -1,0 +1,4 @@
+title: Normal Bounds for Subdivision-Surface Interference Detection
+authors: Eitan Grinspun, Peter Schroeder
+in_vis_citations: 
+

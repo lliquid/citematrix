@@ -1,0 +1,4 @@
+title: Case Study: An Integrated Approach for Steering, Visualization, and Analysis of Atmospheric Simulations
+authors: Yves Jean, Thomas Kindler, William Ribarsky, Weiming Gu, Gregory Eisenhauer, Karsten Schwan, Fred Alyea
+in_vis_citations: 
+

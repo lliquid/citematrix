@@ -1,0 +1,11 @@
+title: An Empirically-Derived Taxonomy of Interaction Primitives for Interactive Cartography and Geovisualization
+authors: Robert E. Roth
+in_vis_citations: 
+chuah_infovis_96
+yi_infovis_07
+wehrend_vis_90
+chi_infovis_98
+amar_infovis_05
+dou_vast_10
+chi_infovis_00
+

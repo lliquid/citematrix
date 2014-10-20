@@ -1,0 +1,7 @@
+title: KnotPad: Visualizing and Exploring Knot Theory with Fluid Reidemeister Moves
+authors: Hui Zhang, Jianguang Weng, Lin Jing, Yiwen Zhong
+in_vis_citations: 
+hanson_vis_05
+wijkcohe_vis_05
+zhang_vis_07
+

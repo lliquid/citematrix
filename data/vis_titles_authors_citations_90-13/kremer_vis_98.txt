@@ -1,0 +1,4 @@
+title: A Concept For Virtual Reality Tools For Design Reviews
+authors: Klaus Kremer
+in_vis_citations: 
+

@@ -1,0 +1,10 @@
+title: Volume rendering of smoke propagation CFD data
+authors: Oliver Staubli, Christian Sigg, Ronald Peikert, Daniel Gubler, Markus Gross
+in_vis_citations: 
+roettger_vis_00
+weiler_vis_03
+max_vis_93
+kraus_vis_04
+krueger_vis_03
+schneide_vis_03
+

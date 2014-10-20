@@ -1,0 +1,10 @@
+title: Generalized Streak Lines: Analysis and Visualization of Boundary Induced Vortices
+authors: Alexander Wiebel, Xavier Tricoche, Dominic Schneider, Heike J??nicke
+in_vis_citations: 
+garth_vis_04
+liwanchi_vis_06
+sadlo_vis_06
+helman_vis_90
+theisel_vis_05
+peikert_vis_99
+

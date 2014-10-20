@@ -1,0 +1,6 @@
+title: Interactive Visualizations on Large and Small Displays: The Interrelation of Display Size, Information Space, and Scale
+authors: Mikkel R. Jakobsen, Kasper Hornbeek
+in_vis_citations: 
+yost_infovis_06
+buering_infovis_06
+

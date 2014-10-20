@@ -1,0 +1,14 @@
+title: Interaction Support for Visual Comparison Inspired by Natural Behavior
+authors: Christian Tominski, Camilla Forsell, Jimmy Johansson
+in_vis_citations: 
+lam_infovis_08
+isenberg_infovis_07
+claessen_infovis_11
+yi_infovis_07
+shenas_infovis_07
+mcguf_infovis_09
+hauser_infovis_02
+hurter_infovis_11
+henry_infovis_07
+elmqvist_infovis_08
+

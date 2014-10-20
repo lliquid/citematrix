@@ -1,0 +1,6 @@
+title: Interactive Exploration of Extra- and Intracranial Blood Vessels
+authors: Dirk Bartz, Wolfgang Strasser, Martin Skalej, Dorothea Welte
+in_vis_citations: 
+gobbetti_vis_98
+you_vis_97
+

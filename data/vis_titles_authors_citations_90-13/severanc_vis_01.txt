@@ -1,0 +1,5 @@
+title: Wind Tunnel Data Fusion and Immersive Visualization: A Case Study
+authors: Kurt Severance, Paul Brewster, Barry Lazos, Daniel Keefe
+in_vis_citations: 
+keely_vis_98
+

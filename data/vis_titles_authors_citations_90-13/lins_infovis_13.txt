@@ -1,0 +1,12 @@
+title: Nanocubes for Real-Time Exploration of Spatiotemporal Datasets
+authors: Lauro Lins, James T. Klosowski, Carlos Scheidegger
+in_vis_citations: 
+cui_infovis_06
+stolte_infovis_02
+mcdonnel_infovis_09
+chan_vast_08
+mackinlay_infovis_07
+fekete_infovis_02
+leblanc_vis_90
+bostock_infovis_11
+

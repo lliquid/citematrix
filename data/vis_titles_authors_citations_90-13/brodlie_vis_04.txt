@@ -1,0 +1,5 @@
+title: Visualization in Grid Computing Environments
+authors: Ken Brodlie, David Duce, Julian Gallop, Musbah Sagar, Jeremy Walton, Jason Wood
+in_vis_citations: 
+wood_vis_97
+

@@ -1,0 +1,12 @@
+title: A Visual Backchannel for Large-Scale Events
+authors: Marian Doerk, Daniel Gruen, Carey Williamson, Sheelagh Carpendale
+in_vis_citations: 
+collins_vast_09
+pousman_infovis_07
+byron_infovis_08
+doerk_infovis_08
+hetzler_infovis_05
+kerr_infovis_03
+fisher_vast_08
+rose_vast_09
+

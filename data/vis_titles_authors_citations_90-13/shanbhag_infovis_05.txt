@@ -1,0 +1,6 @@
+title: Temporal Visualization of Planning Polygons for Efficient Partitioning of Geo-Spatial Data
+authors: Poonam Shanbhag, Penny Rheingans, Marie desJardins
+in_vis_citations: 
+alexa_infovis_01
+nowell_infovis_01
+

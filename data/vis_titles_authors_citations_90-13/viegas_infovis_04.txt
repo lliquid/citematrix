@@ -1,0 +1,4 @@
+title: Artifacts of the Presence Era: Using Information Visualization to Create an Evocative Souvenir
+authors: Fernanda B. Viegas, Ethan Perry, Ethan Howe, Judith Donath
+in_vis_citations: 
+

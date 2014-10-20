@@ -1,0 +1,10 @@
+title: High-Quality, Semi-Analytical Volume Rendering for AMR Data
+authors: Stephane Marchesin, Guillaume Colin de Verdiere
+in_vis_citations: 
+roettger_vis_00
+kraus_vis_04
+kaehler_vis_05
+gosink_vis_08
+krueger_vis_03
+lederger_vis_08
+

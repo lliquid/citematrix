@@ -1,0 +1,6 @@
+title: Flow Visualization in a Hypersonic Fin/Ramp Flow
+authors: Hans-Georg Pagendarm, Thomas Gerhold
+in_vis_citations: 
+pagendarm_vis_94
+vanwijk2_vis_93
+

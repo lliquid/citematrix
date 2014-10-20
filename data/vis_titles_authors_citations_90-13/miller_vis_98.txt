@@ -1,0 +1,13 @@
+title: TOPIC ISLANDSTM - A Wavelet-Based Text Visualization System
+authors: Nancy E. Miller, Pak Chung Wong, Mary Brewster, Harlan Foote
+in_vis_citations: 
+zhu_vis_97
+wise_infovis_95
+wong_vis_96
+wong_infovis_96
+nielson1_vis_97
+wong_vis_95
+he_vis_94
+tao_vis_94
+eick_vis_92
+

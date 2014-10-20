@@ -1,0 +1,5 @@
+title: An Environment for Telecollaborative Data Exploration
+authors: Gudrun J. Klinker
+in_vis_citations: 
+hibbard_vis_92
+

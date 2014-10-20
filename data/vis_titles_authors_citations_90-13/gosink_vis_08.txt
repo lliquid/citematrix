@@ -1,0 +1,12 @@
+title: Query-Driven Visualization of Time-Varying Adaptive Mesh Refinement Data
+authors: Luke J. Gosink, John C. Anderson, E. Wes Bethel, Kenneth I. Joy
+in_vis_citations: 
+bhanira_vis_00
+stocking_vis_05
+bethel_vast_06
+park_vis_02
+woodring_vis_03
+gosink_vis_07
+hanson_vis_93
+kaehler_vis_05
+

@@ -1,0 +1,9 @@
+title: High Performance Presence-Accelerated Ray Casting
+authors: Ming Wan, Arie Kaufman, Steve Bryson
+in_vis_citations: 
+silva_vis_94
+subramanian_vis_90
+wan2_vis_99
+avila_vis_92
+parker_vis_98
+

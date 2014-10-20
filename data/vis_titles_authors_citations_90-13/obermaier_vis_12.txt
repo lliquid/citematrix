@@ -1,0 +1,16 @@
+title: Derived Metric Tensors for Flow Surface Visualization
+authors: Harald Obermaier, Kenneth I. Joy
+in_vis_citations: 
+vonfunck_vis_08
+hummel_vis_10
+palke_vis_11
+kindlman_vis_06
+garth_vis_08
+hultquist1_vis_92
+garth_vis_07
+hotz_vis_04
+krishnan_vis_09
+born_vis_10
+burger_vis_09
+sadlo_vis_07
+

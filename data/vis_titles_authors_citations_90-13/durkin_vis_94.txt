@@ -1,0 +1,4 @@
+title: Nonpolygonal Isosurface Rendering for Large Volume Datasets
+authors: James W. Durkin
+in_vis_citations: 
+

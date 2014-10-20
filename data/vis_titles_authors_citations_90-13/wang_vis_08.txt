@@ -1,0 +1,11 @@
+title: Focus+Context Visualization with Distortion Minimization
+authors: Yu-Shuen Wang, Tong-Yee Lee, Chiew-Lan Tai
+in_vis_citations: 
+keahey_infovis_97
+viola_vis_04
+carpendale_infovis_96
+mcguffin_vis_03
+keahey_infovis_96
+keahey_infovis_98
+wangl_vis_05
+

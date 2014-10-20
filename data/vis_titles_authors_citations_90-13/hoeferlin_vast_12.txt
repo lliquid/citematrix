@@ -1,0 +1,6 @@
+title: Inter-Active Learning of Ad-Hoc Classifiers for Video Visual Analytics
+authors: Benjamin Hoeferlin, Rudolf Netzel, Markus Hoeferlin, Daniel Weiskopf, Gunther Heidemann
+in_vis_citations: 
+migut_vast_10
+heimerl_vast_12
+

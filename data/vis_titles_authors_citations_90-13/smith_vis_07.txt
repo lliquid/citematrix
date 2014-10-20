@@ -1,0 +1,4 @@
+title: Navigating in a Shape Space of Registered Models
+authors: Randall C. Smith, Richard Pawlicki, Istvan Kokai, Joerg Finger, Thomas Vetter
+in_vis_citations: 
+

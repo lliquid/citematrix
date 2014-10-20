@@ -1,0 +1,7 @@
+title: Bicubic Subdivision-Surface Wavelets for Large-Scale Isosurface Representation and Visualization
+authors: Martin Bertram, Mark A. Duchaineau, Bernd Hamann, Kenneth I. Joy
+in_vis_citations: 
+tao_vis_94
+nielson1_vis_97
+bonnell_vis_00
+

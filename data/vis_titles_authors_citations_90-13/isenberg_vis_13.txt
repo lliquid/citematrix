@@ -1,0 +1,21 @@
+title: A Systematic Review on the Practice of Evaluating Visualization
+authors: Tobias Isenberg, Petra Isenberg, Jian Chen, Michael Sedlmair, Torsten Moeller
+in_vis_citations: 
+bruckner_vis_09
+wijk_vis_05
+lindstro_vis_06
+lundstroem_vis_11
+schultz_vis_10
+waser_vis_10
+sedlmair_infovis_12
+kok_vis_10
+etiene_vis_09
+wood_infovis_11
+munzner_infovis_09
+nelson_vis_11
+ahmed_vis_12
+wiebel_vis_12
+schultz_vis_08
+meyer_infovis_09
+livingston_vis_12
+

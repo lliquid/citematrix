@@ -1,0 +1,14 @@
+title: ScatterBlogs2: Real-Time Monitoring of Microblog Messages Through User-Guided Filtering
+authors: Harald Bosch, Dennis Thom, Florian Heimerl, Edwin P??ttmann, Steffen Koch, Robert Kr??ger, Michael W??rner, Thomas Ertl
+in_vis_citations: 
+wijk_vis_05
+hoeferlin_vast_12
+chae_vast_12
+cao_infovis_12
+heimerl_vast_12
+dou_vast_12
+elmqvist_vast_07
+stasko_vast_07
+maceachr_vast_11
+doerk_infovis_08
+

@@ -1,0 +1,7 @@
+title: Fast Blending Scheme for Molecular Surface Representation
+authors: Julius Parulek, Andrea Brambilla
+in_vis_citations: 
+krone_vis_09
+kindlman_vis_03
+tarini_vis_06
+

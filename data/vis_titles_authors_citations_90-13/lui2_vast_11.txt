@@ -1,0 +1,14 @@
+title: Visual Analysis of Route Diversity
+authors: He Liu, Yuan Gao, Lu Lu, Siyuan Liu, Huamin Qu, Lionel M. Ni
+in_vis_citations: 
+kapler_infovis_04
+andrienk_vast_08
+butkiewi_infovis_08
+wood_infovis_07
+chang_infovis_07
+dorling_infovis_06
+crnovrsa_vast_09
+fisher_infovis_07
+hurter_infovis_09
+speckman_infovis_10
+

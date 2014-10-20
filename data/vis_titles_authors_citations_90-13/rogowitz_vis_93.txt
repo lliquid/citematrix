@@ -1,0 +1,7 @@
+title: An Architecture for Rule-Based Visualization
+authors: Bernice E. Rogowitz, Lloyd A. Treinish
+in_vis_citations: 
+gershon_vis_92
+lucas1_vis_92
+haber_vis_91
+

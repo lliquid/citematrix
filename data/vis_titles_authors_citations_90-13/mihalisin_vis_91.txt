@@ -1,0 +1,4 @@
+title: Visualization and Analysis of Multi-variate Data: A Technique for All Fields
+authors: T. Mihalisin, J. Timlin, J. Schwegler
+in_vis_citations: 
+

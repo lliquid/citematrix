@@ -1,0 +1,6 @@
+title: Distance-Field Based Skeletons for Virtual Navigation
+authors: Ming Wan, Frank Dachille, Arie Kaufman
+in_vis_citations: 
+you_vis_97
+bitter_vis_00
+

@@ -1,0 +1,5 @@
+title: Intuitive and Interactive Modification of Large Finite Element Models
+authors: Dirc Rose, Katrin Bidmon, Thomas Ertl
+in_vis_citations: 
+stegmaie_vis_02
+

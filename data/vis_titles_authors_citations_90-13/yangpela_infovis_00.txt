@@ -1,0 +1,6 @@
+title: Information Content Measures of Visual Displays
+authors: Julie Yang-Pelaez, Woodie C. Flowers
+in_vis_citations: 
+card_infovis_97
+hendley_infovis_95
+

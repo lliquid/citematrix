@@ -1,0 +1,4 @@
+title: Feature Extraction for Oceanographic Data using a 3D Edge Operator
+authors: Robert J. Moorhead, Zhifan Zhu
+in_vis_citations: 
+

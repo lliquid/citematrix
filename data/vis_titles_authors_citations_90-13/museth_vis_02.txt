@@ -1,0 +1,4 @@
+title: Level Set Segmentation From Multiple Non-Uniform Volume Datasets
+authors: Ken Museth, David E. Breen, Leonid Zhukov, Ross T. Whitaker
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Visualizing 4-D Medical Ultrasound Data
+authors: Nils Thune, Christian Michelsen
+in_vis_citations: 
+

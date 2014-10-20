@@ -1,0 +1,10 @@
+title: Parallel Tag Clouds to Explore and Analyze Faceted Text Corpora
+authors: Christopher Collins, Fernanda B. Viegas, Martin Wattenberg
+in_vis_citations: 
+wise_infovis_95
+willett_infovis_07
+doerk_infovis_08
+wattenbe_infovis_08
+stasko_vast_07
+shneiderman_infovis_06
+

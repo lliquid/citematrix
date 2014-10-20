@@ -1,0 +1,11 @@
+title: Mix&Match: A Construction Kit for Visualization
+authors: Alex Pang, Naim Alper
+in_vis_citations: 
+song_vis_93
+kerlick_vis_90
+foley_vis_91
+williams_vis_92
+lucas1_vis_92
+pang_vis_93
+corrie_vis_93
+

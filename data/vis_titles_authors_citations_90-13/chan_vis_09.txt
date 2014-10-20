@@ -1,0 +1,14 @@
+title: Perception-Based Transparency Optimization for Direct Volume Rendering
+authors: Ming-Yuen Chan, Yingcai Wu, Wai-Ho Mak, Wei Chen, Huamin Qu
+in_vis_citations: 
+fang_vis_98
+ebert_vis_00
+wangluji_vis_08
+kindlman_vis_03
+rautek_vis_07
+lee_vis_04
+correa_vis_08
+bair_vis_06
+chan_vis_08
+salama_vis_06
+

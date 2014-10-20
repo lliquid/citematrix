@@ -1,0 +1,11 @@
+title: Lark: Coordinating Co-located Collaboration with Information Visualization
+authors: Matthew Tobiasz, Petra Isenberg, Sheelagh Carpendale
+in_vis_citations: 
+weaver_infovis_04
+chi_infovis_98
+keel_vast_06
+heer_vast_07
+weaver_infovis_05
+brennan_vast_06
+isenberg_infovis_07
+

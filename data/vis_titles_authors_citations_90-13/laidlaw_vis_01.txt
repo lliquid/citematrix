@@ -1,0 +1,6 @@
+title: Quantitative Comparative Evaluation of 2D Vector Field Visualization Methods
+authors: David H. Laidlaw, R.M. Kirby
+in_vis_citations: 
+globus_vis_91
+kirby_vis_99
+

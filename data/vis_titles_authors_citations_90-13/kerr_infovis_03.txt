@@ -1,0 +1,6 @@
+title: THREAD ARCS: An Email Thread Visualization
+authors: Bernard Kerr
+in_vis_citations: 
+wattenbe_infovis_02
+barlow01_infovis_01
+

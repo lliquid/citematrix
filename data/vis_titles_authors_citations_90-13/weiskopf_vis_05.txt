@@ -1,0 +1,10 @@
+title: Particle and Texture Based Spatiotemporal Visualization of Time-Dependent Vector Fields
+authors: Daniel Weiskopf, Frederik Schramm, Gordon Erlebacher, Thomas Ertl
+in_vis_citations: 
+telea_vis_03
+vanwijk_vis_03
+weiskopf_vis_03
+jobard_vis_00
+woodring_vis_03
+laramee_vis_03
+

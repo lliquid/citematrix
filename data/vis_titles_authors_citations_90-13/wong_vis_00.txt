@@ -1,0 +1,6 @@
+title: Vector Fields Simplification - A Case Study of Visualizing Climate Modeling and Simulation Data Sets
+authors: Pak Chung Wong, Harlan Foote, Ruby Leung, Elizabeth Jurrus, Dan Adams, Jim Thomas
+in_vis_citations: 
+deleeuw_vis_99
+telea_vis_99
+

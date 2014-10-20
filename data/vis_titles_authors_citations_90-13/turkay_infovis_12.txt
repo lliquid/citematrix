@@ -1,0 +1,16 @@
+title: Representative Factor Generation for the Interactive Visual Analysis of High-Dimensional Data
+authors: Cagatay Turkay, Arvid Lundervold, Astri Johansen Lundervold, Helwig Hauser
+in_vis_citations: 
+fuchs_vis_09
+wilkinso_infovis_05
+endert_vast_11
+stolte_infovis_00
+ward_vis_94
+janicke_vis_08
+turkay_infovis_11
+oeltze_vis_07
+fua_vis_99
+williams_infovis_04
+seo_infovis_04
+johansso_infovis_09
+

@@ -1,0 +1,5 @@
+title: Anomaly Detection in GPS Data Based on Visual Analytics
+authors: Zicheng Liao, Yizhou Yu, Baoquan Chen
+in_vis_citations: 
+hurter_infovis_09
+

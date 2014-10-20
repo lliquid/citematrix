@@ -1,0 +1,8 @@
+title: HiPP: A Novel Hierarchical Point Placement Strategy and its Application to the Exploration of Document Collections
+authors: Fernando V. Paulovich, Rosane Minghim
+in_vis_citations: 
+fua_vis_99
+johnson_vis_91
+cuadros_vast_07
+chalmers_vis_96
+

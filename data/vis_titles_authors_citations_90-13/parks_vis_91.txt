@@ -1,0 +1,4 @@
+title: Two Widely-Different Architectural Approaches to Computer Image Generation
+authors: H. W. Park, K. S. Eo, D. L. Kim, B. K. Choi, Y. Kim, T. Alexander
+in_vis_citations: 
+

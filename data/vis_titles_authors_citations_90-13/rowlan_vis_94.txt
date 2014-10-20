@@ -1,0 +1,4 @@
+title: A distributed, parallel, interactive volume rendering package
+authors: John S. Rowlan, G. Edward Lent, Nihar Gokhale, Shannon Bradshaw
+in_vis_citations: 
+

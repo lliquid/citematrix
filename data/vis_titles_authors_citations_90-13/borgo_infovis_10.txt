@@ -1,0 +1,5 @@
+title: Evaluating the Impact of Task Demands and Block Resolution on the Effectiveness of Pixel-based Visualization
+authors: Rita Borgo, Karl Proctor, Min Chen, Heike Jaenicke, Tavi Murray, Ian M. Thornton
+in_vis_citations: 
+bergman_vis_95
+

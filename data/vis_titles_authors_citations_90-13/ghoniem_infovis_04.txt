@@ -1,0 +1,5 @@
+title: A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations
+authors: Mohammad Ghoniem, Jean-Daniel Fekete, Philippe Castagliola
+in_vis_citations: 
+vanham_infovis_03
+

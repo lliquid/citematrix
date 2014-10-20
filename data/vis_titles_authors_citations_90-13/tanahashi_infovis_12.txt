@@ -1,0 +1,13 @@
+title: Design Considerations for Optimizing Storyline Visualizations
+authors: Member Tanahashi, Kwan-Liu Ma
+in_vis_citations: 
+byron_infovis_08
+cui_infovis_08
+selassie_infovis_11
+cui_infovis_11
+kumar_infovis_06
+ellis_infovis_07
+wongn_infovis_03
+robertso_infovis_08
+brandes_infovis_02
+

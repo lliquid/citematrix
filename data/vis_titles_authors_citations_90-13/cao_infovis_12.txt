@@ -1,0 +1,12 @@
+title: Whisper: Tracing the Spatiotemporal Process of Information Diffusion in Real Time
+authors: Nan Cao, Yu-Ru Lin, Xiaohua Sun, David Lazer, Shixia Liu, Huamin Qu
+in_vis_citations: 
+viegas_infovis_09
+holten_infovis_06
+havre_infovis_00
+dorling_infovis_06
+ellis_infovis_07
+doerk_infovis_10
+robertso_infovis_08
+cao_infovis_11
+

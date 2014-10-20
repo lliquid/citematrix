@@ -1,0 +1,5 @@
+title: Visualizing Dynamic Molecular Conformations
+authors: Johannes Schmidt-Ehrenberg, Daniel Baum, Hans-Christian Hege
+in_vis_citations: 
+huitema_vis_00
+

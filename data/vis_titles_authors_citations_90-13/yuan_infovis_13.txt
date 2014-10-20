@@ -1,0 +1,22 @@
+title: Dimension Projection Matrix/Tree: Interactive Subspace Visual Exploration and Analysis of High Dimensional Data
+authors: Xiaoru Yuan, Donghao Ren, Zuchao Wang, Cong Guo
+in_vis_citations: 
+wilkinso_infovis_05
+yuan_infovis_09
+lex_infovis_10
+yang_infovis_03
+inselberg_vis_90
+tatu_vast_12
+wong1_vis_97
+keim_vis_95
+dasgupta_infovis_10
+slingsby_infovis_09
+sifer_vast_06
+fua_vis_99
+williams_infovis_04
+seo_infovis_04
+yang_infovis_04
+johansso_infovis_09
+elmqvist_infovis_08
+yang_infovis_02
+

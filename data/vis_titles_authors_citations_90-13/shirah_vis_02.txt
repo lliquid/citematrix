@@ -1,0 +1,4 @@
+title: NASA's Great Zooms: A Case Study
+authors: Gregory W. Shirah, Horace G. Mitchell
+in_vis_citations: 
+

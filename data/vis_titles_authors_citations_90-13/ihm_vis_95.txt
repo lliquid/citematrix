@@ -1,0 +1,5 @@
+title: On Enhancing the Speed of Splatting with Indexing
+authors: Insung Ihm, Rae Kyoung Lee
+in_vis_citations: 
+subramanian_vis_90
+

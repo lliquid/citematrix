@@ -1,0 +1,11 @@
+title: Automatic Tuning of Spatially Varying Transfer Functions for Blood Vessel Visualization
+authors: Gunnar Leathen, Stefan Lindholm, Reiner Lenz
+in_vis_citations: 
+kindlman_vis_03
+zhou_vis_09
+tenginakai_vis_01
+he1_vis_96
+correa_vis_08
+lindholm_vis_10
+joshiala_vis_08
+

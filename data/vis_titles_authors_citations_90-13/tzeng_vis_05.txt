@@ -1,0 +1,6 @@
+title: Opening the Black Box ??? Data Driven Visualization of Neural Networks
+authors: Fan-Yin Tzeng, Kwan-Liu Ma
+in_vis_citations: 
+hauser_infovis_02
+fua_vis_99
+

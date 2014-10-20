@@ -1,0 +1,7 @@
+title: Visualization of Geo-spatial Point Sets via Global Shape Transformation and Local Pixel Placement
+authors: Christian Panse, Mike Sips, Daniel A. Keim, Stephen C. North
+in_vis_citations: 
+house_vis_98
+heilmann_infovis_04
+tam_vis_03
+

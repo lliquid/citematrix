@@ -1,0 +1,12 @@
+title: Exploded Views for Volume Data
+authors: Stefan Bruckner, Eduard Groeller
+in_vis_citations: 
+mcguffin_vis_03
+cornea_vis_05
+bruckner_vis_05
+kniss_vis_05
+krueger_vis_03
+carpendale_infovis_96
+straka_vis_04
+correa_vis_05
+

@@ -1,0 +1,11 @@
+title: Structure-Aware Lighting Design for Volume Visualization
+authors: Yubo Tao, Hai Lin, Feng Dong, Chao Wang, Gordon Clapworthy, Hujun Bao
+in_vis_citations: 
+jiguangf_vis_06
+zheng_vis_11
+lee_vis_04
+takahash_vis_05
+bordoloi_vis_05
+halle_vis_03
+gumhold_vis_02
+

@@ -1,0 +1,6 @@
+title: A Space-Optimized Tree Visualization
+authors: Quang Vinh Nguyen, Mao Lin Huang
+in_vis_citations: 
+jeong_infovis_98
+johnson_vis_91
+

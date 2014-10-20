@@ -1,0 +1,4 @@
+title: LAHVA: Linked Animal-Human Health Visual Analytics
+authors: Ross Maciejewski, Benjamin Tyner, Yun Jang, Cheng Zheng, Rimma V. Nehme, David S. Ebert, William S. Cleveland, Mourad Ouzzani, Shaun J. Grannis, Lawrence T. Glickman
+in_vis_citations: 
+

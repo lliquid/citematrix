@@ -1,0 +1,4 @@
+title: An Extension of Wilkinson's Algorithm for Positioning Tick Labels on Axes
+authors: Justin Talbot, Sharon Lin, Pat Hanrahan
+in_vis_citations: 
+

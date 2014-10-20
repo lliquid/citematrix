@@ -1,0 +1,6 @@
+title: I/O Optimal Isosurface Extraction
+authors: Yi-Jen Chiang, Claudio T. Silva
+in_vis_citations: 
+shen_vis_95
+shen_vis_96
+

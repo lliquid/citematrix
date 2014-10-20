@@ -1,0 +1,9 @@
+title: Connecting the Dots in Visual Analysis
+authors: Yedendra B. Shrinivasan, David Gotz, Jie Lu
+in_vis_citations: 
+bier_vast_08
+stasko_vast_07
+heer_vast_07
+wong_vast_06
+gotz_vast_08
+

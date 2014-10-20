@@ -1,0 +1,8 @@
+title: Analysis of Recurrent Patterns in Toroidal Magnetic Fields
+authors: Allen R. Sanderson, Guoning Chen, Xavier Tricoche, David Pugmire, Scott Kruger, Joshua Breslau
+in_vis_citations: 
+weinkauf_vis_05
+tricoche_vis_01
+theisel_vis_03
+scheuerm_vis_97
+

@@ -1,0 +1,5 @@
+title: Virtual Workbench - A Non-Immersive Virtual Environment for Visualizing and Interacting with 3D Objects for Scientific Visualization
+authors: Upul Obeysekare, Chas Williams, Jim Durbin, Larry Rosenblum, Robert Rosenberg, Fernando Grinstein, Ravi Ramamurti, Alexandra Landsberg, William Sandberg
+in_vis_citations: 
+bryson_vis_91
+

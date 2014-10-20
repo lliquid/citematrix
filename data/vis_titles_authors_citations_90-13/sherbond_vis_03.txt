@@ -1,0 +1,5 @@
+title: Fast Volume Segmentation With Simultaneous Visualization Using Programmable Graphics Hardware
+authors: Anthony Sherbondy, Mike Houston, Sandy Napel
+in_vis_citations: 
+lefohn_vis_03
+

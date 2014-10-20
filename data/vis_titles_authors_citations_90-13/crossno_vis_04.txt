@@ -1,0 +1,15 @@
+title: Visualization of Salt-Induced Stress Perturbations
+authors: Patricia Crossno, David H. Rogers, Rebecca M. Brannon, David Coblentz
+in_vis_citations: 
+livingst_vis_97
+delmarcelle_vis_92
+laidlaw_vis_98
+leeuw_vis_93
+post_vis_95
+weinstei_vis_99
+kirby_vis_99
+crossno_vis_02
+sigfrids_vis_02
+lavin_vis_97
+delmarcelle_vis_94
+

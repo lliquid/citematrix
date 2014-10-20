@@ -1,0 +1,10 @@
+title: Registration Techniques for Using Imperfect and Partially Calibrated Devices in Planar Multi-Projector Displays
+authors: Ezekiel Bhasker, Ray Juang, Aditi Majumder
+in_vis_citations: 
+yang_vis_01
+bhasker_vis_06
+cheny_vis_00
+chen_vis_02
+majumder_vis_00
+raskar_vis_99
+

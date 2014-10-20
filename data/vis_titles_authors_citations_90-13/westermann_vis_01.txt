@@ -1,0 +1,10 @@
+title: Accelerated Volume Ray-Casting using Texture Mapping
+authors: Ruediger Westermann, Bernd Sevenich
+in_vis_citations: 
+freund_vis_97
+parker_vis_98
+cox_vis_97
+krueger_vis_90
+yagel_vis_93
+wan1_vis_99
+

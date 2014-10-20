@@ -1,0 +1,12 @@
+title: High-Level User Interfaces for Transfer Function Design with Semantics
+authors: Christof Rezk Salama, Maik Keller, Peter Kohlmann
+in_vis_citations: 
+krueger_vis_03
+tzeng_vis_03
+kniss_vis_02
+fang_vis_98
+kniss_vis_01
+kniss_vis_03
+he1_vis_96
+bajaj_vis_97
+

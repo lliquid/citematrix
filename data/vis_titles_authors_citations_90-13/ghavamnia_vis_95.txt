@@ -1,0 +1,5 @@
+title: Direct Rendering of Laplacian Pyramid Compressed Volume Data
+authors: Mohammad H. Ghavamnia, Xue D. Yang
+in_vis_citations: 
+ning_vis_93
+

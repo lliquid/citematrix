@@ -1,0 +1,5 @@
+title: Visualizing Multivalued Data from 2D Incompressible Flows Using Concepts from Painting
+authors: R.M. Kirby, H. Marmanis, D.H. Laidlaw
+in_vis_citations: 
+laidlaw_vis_98
+

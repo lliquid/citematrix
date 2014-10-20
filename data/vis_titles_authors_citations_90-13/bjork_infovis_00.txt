@@ -1,0 +1,6 @@
+title: Redefining the Focus and Context of Focus+Context Visualizations
+authors: Staffan Bjoerk, Johan Redstroem
+in_vis_citations: 
+keahey_infovis_97
+bjork_infovis_99
+

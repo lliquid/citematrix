@@ -1,0 +1,15 @@
+title: Model-Driven Visual Analytics
+authors: Supriya Garg, Julia Eunju Nam, I.V. Ramakrishnan, Klaus Mueller
+in_vis_citations: 
+bethel_vast_06
+nam_vast_07
+tesone_vast_07
+luo_vast_07
+yang_vast_07
+yang_vast_06
+xiao_vast_06
+eccles_vast_07
+smith_vis_07
+inselberg_vis_90
+leblanc_vis_90
+

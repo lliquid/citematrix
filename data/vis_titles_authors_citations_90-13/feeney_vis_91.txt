@@ -1,0 +1,4 @@
+title: Gray Scale Diagrams as Business Charts
+authors: William R. Feeney
+in_vis_citations: 
+

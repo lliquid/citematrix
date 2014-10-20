@@ -1,0 +1,13 @@
+title: World Lines
+authors: Juergen Waser, Raphael Fuchs, Hrvoje Ribicic, Benjamin Schindler, Guenther Bloschl, Eduard Groeller
+in_vis_citations: 
+matkovic_infovis_02
+weaver_infovis_04
+ma_vis_99
+weaver_infovis_05
+fuchs_vis_09
+brodlie_vis_93
+matkovic_vis_08
+heer_infovis_07
+henze_vis_98
+

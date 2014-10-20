@@ -1,0 +1,5 @@
+title: Visualizing the Non-Visual: Spatial analysis and interaction with information from text documents
+authors: James A Wise, James J Thomas, Kelly Pennock, David Lantrip, Marc Pottier, Anne Schur, Vern Crow
+in_vis_citations: 
+spoerri_vis_93
+

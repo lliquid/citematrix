@@ -1,0 +1,5 @@
+title: Visualizing Causal Semantics using Animations
+authors: Nivedita R. Kadaba, Pourang P. Irani, Jason Leboe
+in_vis_citations: 
+elmqvist_infovis_03
+

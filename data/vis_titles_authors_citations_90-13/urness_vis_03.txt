@@ -1,0 +1,11 @@
+title: Effectively Visualizing Multi-Valued Flow Data using Color and Texture
+authors: Timothy Urness, Victoria Interrante, Ivan Marusic, Ellen Longmire, Bharathram Ganapathisubramani
+in_vis_citations: 
+kirby_vis_99
+groeller_vis_97
+healey_vis_96
+kindlman_vis_02
+kiu_vis_96
+laidlaw_vis_98
+healey_vis_98
+

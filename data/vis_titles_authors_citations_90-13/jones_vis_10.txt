@@ -1,0 +1,8 @@
+title: Visualizing Flow Trajectories Using Locality-based Rendering and Warped Curve Plots
+authors: Chad Jones, Kwan-Liu Ma
+in_vis_citations: 
+lampe_vis_09
+laramee_vis_05
+hurter_infovis_09
+lederger_vis_08
+

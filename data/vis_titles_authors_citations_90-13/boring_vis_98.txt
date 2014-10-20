@@ -1,0 +1,17 @@
+title: Interactive Deformations from Tensor Fields
+authors: Ed Boring, Alex Pang
+in_vis_citations: 
+livingst_vis_97
+schroeder_vis_96
+leeuw_vis_93
+globus_vis_91
+delmarcelle_vis_92
+post_vis_95
+hanson_vis_94
+schroederw_vis_91
+delmarcelle_vis_94
+lavin_vis_97
+hagen_vis_92
+boring_vis_96
+brill_vis_94
+

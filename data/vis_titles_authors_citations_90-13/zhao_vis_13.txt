@@ -1,0 +1,5 @@
+title: Area-Preservation Mapping using Optimal Mass Transport
+authors: Xin Zhao, Zhengyu Su, Xianfeng David Gu, Arie Kaufman, Jian Sun, Jie Gao, Feng Luo
+in_vis_citations: 
+zou_vis_11
+

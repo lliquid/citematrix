@@ -1,0 +1,4 @@
+title: Logical Time in Visualizations Produced by Parallel Programs
+authors: Janice E Cuny, Alfred A Hough, Joydip Kundu Department of Computer Science
+in_vis_citations: 
+

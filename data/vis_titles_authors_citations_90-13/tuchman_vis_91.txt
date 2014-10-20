@@ -1,0 +1,4 @@
+title: Run-time Visualization of Program Data
+authors: Allan Tuchman, David Jablonowski, George Cybenko
+in_vis_citations: 
+

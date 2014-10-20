@@ -1,0 +1,6 @@
+title: Data Level Comparative Visualization in Aircraft Design
+authors: Jens Trapp, Hans-Georg Pagendarm
+in_vis_citations: 
+hannemann_vis_95
+pagendarm_vis_95
+

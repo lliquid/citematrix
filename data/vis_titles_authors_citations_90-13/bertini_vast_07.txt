@@ -1,0 +1,7 @@
+title: SpiralView: Towards Security Policies Assessment through Visual Correlation of Network Resources with Evolution of Alarms
+authors: Enrico Bertini, Patrick Hertzog, Denis Lalanne
+in_vis_citations: 
+alexa_infovis_01
+yee_infovis_01
+li_infovis_03
+

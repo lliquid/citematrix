@@ -1,0 +1,8 @@
+title: Parallel Sets: Visual Analysis of Categorical Data
+authors: Fabian Bendix, Robert Kosara, Helwig Hauser
+in_vis_citations: 
+leblanc_vis_90
+inselberg_vis_90
+rosario_infovis_03
+hauser_infovis_02
+

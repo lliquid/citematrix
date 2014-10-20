@@ -1,0 +1,12 @@
+title: Interactive Level-of-Detail Rendering of Large Graphs
+authors: Michael Zinsmaier, Ulrik Brandes, Oliver Deussen, Hendrik Strobelt
+in_vis_citations: 
+phan_infovis_05
+abello_infovis_06
+ersoy_infovis_11
+cui_infovis_08
+buering_infovis_06
+holten_infovis_06
+cao_infovis_10
+gansner_infovis_04
+

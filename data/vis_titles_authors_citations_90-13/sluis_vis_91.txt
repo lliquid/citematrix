@@ -1,0 +1,4 @@
+title: Designing a Distributed Scientific Visualization Tool
+authors: Lisa Vander Sluis
+in_vis_citations: 
+

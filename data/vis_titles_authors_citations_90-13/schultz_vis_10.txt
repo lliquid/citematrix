@@ -1,0 +1,22 @@
+title: Superquadric Glyphs for Symmetric Second-Order Tensors
+authors: Thomas Schultz, Gordon L. Kindlmann
+in_vis_citations: 
+kirby_vis_99
+kindlman_vis_06
+laidlaw_vis_98
+jankun_vis_06
+globus_vis_91
+dick_vis_09
+slavin_vis_06
+kindlman_vis_09
+born_vis_10
+leeuw_vis_93
+kindlman_vis_03
+delmarcelle_vis_94
+livingst_vis_97
+sigfrids_vis_02
+theisel_vis_03
+neeman_vis_05
+hotz_vis_04
+tarini_vis_06
+

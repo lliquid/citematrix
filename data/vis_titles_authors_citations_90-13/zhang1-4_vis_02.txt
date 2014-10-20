@@ -1,0 +1,6 @@
+title: Direct Surface Extraction from 3D Freehand Ultrasound Images
+authors: Youwei Zhang, Robert Rohling, Dinesh K. Pai
+in_vis_citations: 
+nielson_vis_91
+state_vis_94
+

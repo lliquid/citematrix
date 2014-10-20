@@ -1,0 +1,13 @@
+title: A Multi-Criteria Approach to Camera Motion Design for Volume Data Animation
+authors: Wei-Hsien Hsu, Yubo Zhang, Kwan-Liu Ma
+in_vis_citations: 
+viola_vis_06
+bruckner_vis_06
+correa_vis_09
+vanwijk_infovis_03
+takahash_vis_05
+wiebel_vis_12
+allard_vis_05
+bordoloi_vis_05
+wan_vis_01
+

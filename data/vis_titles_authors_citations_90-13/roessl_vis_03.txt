@@ -1,0 +1,10 @@
+title: Visualization of Volume Data with Quadratic Super Splines
+authors: Christian Roessl, Frank Zeilfelder, Guenther Nuernberger, Hans-Peter Seidel
+in_vis_citations: 
+parker_vis_98
+grosso_vis_97
+bonneau_vis_96
+marschner_vis_94
+haber_vis_01
+carr_vis_01
+

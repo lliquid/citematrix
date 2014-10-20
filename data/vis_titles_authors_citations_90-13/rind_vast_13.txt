@@ -1,0 +1,17 @@
+title: TimeBench: A Data Model and Software Library for Visual Analytics of Time-Oriented Data
+authors: Alexander Rind, Tim Lammarsch, Wolfgang Aigner, Bilal Alsallakh, Silvia Miksch
+in_vis_citations: 
+bostock_infovis_09
+weaver_infovis_04
+fekete_vast_11
+weaver_vast_06
+stolte_infovis_00
+heer_infovis_10
+heer2_infovis_06
+fekete_infovis_04
+boegl_vast_13
+wattenbe_infovis_02
+bostock_infovis_11
+forbes_infovis_10
+card_infovis_97
+

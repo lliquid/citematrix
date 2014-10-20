@@ -1,0 +1,16 @@
+title: Characterizing Users? Visual Analytic Activity for Insight Provenance
+authors: David Gotz, Michelle X. Zhou
+in_vis_citations: 
+kreusele_infovis_04
+chuah_infovis_96
+viegas_infovis_07
+bavoil_vis_05
+eccles_vast_07
+amar_infovis_05
+chi_infovis_98
+amar_infovis_04
+gotz_vast_06
+chi_infovis_00
+wehrend_vis_90
+jankun-k_vis_02
+

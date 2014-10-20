@@ -1,0 +1,6 @@
+title: Baby Names, Visualization, and Social Data Analysis
+authors: Martin Wattenberg 
+in_vis_citations: 
+viegas_infovis_04
+havre_infovis_00
+

@@ -1,0 +1,23 @@
+title: Interactive Point-Based Rendering of Higher-Order Tetrahedral Data
+authors: Yuan Zhou, Michael Garland
+in_vis_citations: 
+csebfalv_vis_03
+callahan_vis_05
+schroede_vis_05
+sadowsky_vis_05
+hopf_vis_03
+guthe_vis_02
+pauly_vis_02
+brasher_vis_04
+weiler_vis_03
+gumhold_vis_99
+chen_vis_04
+krueger_vis_03
+roettger_vis_00
+deussen_vis_02
+kraus_vis_05
+co_vis_03
+heidrich_vis_95
+zhou_vis_04
+pajarola_vis_05
+

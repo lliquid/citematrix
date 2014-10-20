@@ -1,0 +1,9 @@
+title: Casual Information Visualization: Depictions of Data in Everyday Life
+authors: Zachary Pousman, John T. Stasko, Michael Mateas
+in_vis_citations: 
+heer_infovis_05
+viegas_infovis_04
+skog_infovis_03
+tory_infovis_04
+wehrend_vis_90
+

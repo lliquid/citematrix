@@ -1,0 +1,7 @@
+title: Semotus Visum: A Flexible Remote Visualization Framework
+authors: Eric J. Luke, Charles D. Hansen
+in_vis_citations: 
+michaels_vis_97
+engel_vis_99
+livnat_vis_98
+

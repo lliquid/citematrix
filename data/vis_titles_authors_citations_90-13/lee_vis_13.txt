@@ -1,0 +1,10 @@
+title: Efficient Local Statistical Analysis via Integral Histograms with Discrete Wavelet Transform
+authors: Teng-Yok Lee, Han-Wei Shen
+in_vis_citations: 
+shen_vis_99
+xu_vis_10
+gu_vis_11
+tenginakai_vis_01
+schlegel_vis_11
+janicke_vis_09
+

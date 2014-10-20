@@ -1,0 +1,5 @@
+title: Visual Readability Analysis: How to Make Your Writings Easier to Read
+authors: Daniela Oelke, David Spretke, Andreas Stoffel, Daniel A. Keim
+in_vis_citations: 
+keim_vast_07
+

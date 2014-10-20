@@ -1,0 +1,7 @@
+title: Shock and Vortex Visualization Using a Combined Visual/Haptic Interface
+authors: Dale A. Lawrence, Christopher D. Lee, Lucy Y. Pao, Roman Y. Novoselov
+in_vis_citations: 
+roth_vis_98
+sadarjoen_vis_98
+avila_vis_96
+

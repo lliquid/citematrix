@@ -1,0 +1,5 @@
+title: Case Study: Wildfire Visualization
+authors: James Ahrens, Patrick McCormick, James Bossert, Jon Reisner, Judith Winterkamp
+in_vis_citations: 
+rushmeier_vis_94
+

@@ -1,0 +1,6 @@
+title: WEE: An Information Visualization & Exploration Environment
+authors: Christopher Ahlberg, Erik Wistrand
+in_vis_citations: 
+johnson_vis_91
+spoerri_vis_93
+

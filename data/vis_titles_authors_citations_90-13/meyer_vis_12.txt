@@ -1,0 +1,4 @@
+title: Visual Data Analysis as an Integral Part of Environmental Management
+authors: E. Wes Bethel Meyer, Jennifer L. Horsman, Susan S. Hubbard, Harinarayan Krishnan, Alexandru Elizabeth H. Keating, Laura Monroe, Richard Strelitz, Phil Moore, Glenn Taylor, Ben C. Johnson, Ian Gorton
+in_vis_citations: 
+

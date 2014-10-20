@@ -1,0 +1,5 @@
+title: Rear-Projecting Virtual Data onto Physical Terrain: An Exercise in Two Senses Being Better Than One
+authors: Dru Clark, Richard Marciano, Rosemarie McKeon, Michael Bailey
+in_vis_citations: 
+clark_vis_97
+

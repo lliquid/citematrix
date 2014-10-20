@@ -1,0 +1,4 @@
+title: Interactive Visualization of Protein Dynamics
+authors: Henk Huitema, Robert van Liere
+in_vis_citations: 
+

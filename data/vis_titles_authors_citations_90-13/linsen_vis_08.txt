@@ -1,0 +1,9 @@
+title: Surface Extraction from Multi-field Particle Volume Data Using Multi-dimensional Cluster Visualization
+authors: Lars Linsen, Tran Van Long, Paul Rosenthal, Stephan Rosswog
+in_vis_citations: 
+jaenicke_vis_07
+woodring_vis_06
+oeltze_vis_07
+sauber_vis_06
+navratil_vis_07
+

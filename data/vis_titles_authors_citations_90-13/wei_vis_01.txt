@@ -1,0 +1,7 @@
+title: Case Study: Visualization of Particle Track Data
+authors: Xiaoming Wei, Arie E. Kaufman, Timothy J. Hallman
+in_vis_citations: 
+keahey_infovis_97
+keahey_infovis_96
+avila_vis_94
+

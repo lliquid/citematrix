@@ -1,0 +1,6 @@
+title: Perceptual Organization in User-Generated Graph Layouts
+authors: Frank van Ham, Bernice E. Rogowitz
+in_vis_citations: 
+ghoniem_infovis_04
+viegas_infovis_07
+

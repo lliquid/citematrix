@@ -1,0 +1,4 @@
+title: Interactive Maximum Projection Volume Rendering
+authors: Wolfgang Heidrich, Michael McCool, John Stevens
+in_vis_citations: 
+

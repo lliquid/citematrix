@@ -1,0 +1,9 @@
+title: Flow Field Clustering via Algebraic Multigrid
+authors: M. Griebel, T. Preusser, M. Rumpf, M. A. Schweitzer, A. Telea
+in_vis_citations: 
+telea_vis_99
+ebling_vis_03
+telea_vis_03
+vanwijk_vis_03
+heckel_vis_99
+

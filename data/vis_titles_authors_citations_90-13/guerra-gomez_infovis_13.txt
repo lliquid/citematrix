@@ -1,0 +1,14 @@
+title: Visualizing Change over Time Using Dynamic Hierarchies: TreeVersity2 and the StemView
+authors: John Alexis Guerra-Gomez, Michael L. Pack, Catherine Plaisant, Ben Shneiderman
+in_vis_citations: 
+bremm_vast_11
+holten_infovis_06
+bostock_infovis_11
+johnson_vis_91
+graham_infovis_07
+amenta_infovis_02
+card_vast_06
+plaisant_infovis_02
+brodbeck_infovis_03
+tu_infovis_07
+

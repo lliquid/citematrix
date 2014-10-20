@@ -1,0 +1,8 @@
+title: Guiding Feature Subset Selection with an Interactive Visualization
+authors: Thorsten May, Andreas Bannach, James Davey, Tobias Ruppert, Joern Kohlhammer
+in_vis_citations: 
+ingram_vast_10
+maceachr_infovis_03
+johansso_infovis_09
+elmqvist_infovis_08
+

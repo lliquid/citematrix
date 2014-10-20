@@ -1,0 +1,5 @@
+title: Real-time Decompression And Visualization Of Animated Volume Data
+authors: Stefan Guthe, Wolfgang Strasser
+in_vis_citations: 
+brady_vis_97
+

@@ -1,0 +1,5 @@
+title: Farthest Point Seeding for Efficient Placement of Streamlines
+authors: Abdelkrim Mebarki, Pierre Alliez, Olivier Devillers
+in_vis_citations: 
+verma_vis_00
+

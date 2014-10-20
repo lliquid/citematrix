@@ -1,0 +1,20 @@
+title: Visual Analytic Roadblocks for Novice Investigators
+authors: Bum chul Kwon, Brian Fisher, Ji Soo Yi
+in_vis_citations: 
+amar_infovis_04
+stasko_vast_07
+grammel_infovis_10
+kang_vast_09
+segal_infovis_10
+liu_infovis_08
+saraiya_infovis_04
+yi_infovis_07
+liu_infovis_10
+scholtz_vast_06
+ziemkiew_infovis_08
+lam_infovis_08
+ellis_infovis_07
+green_vast_08
+willett_infovis_07
+mackinlay_infovis_07
+

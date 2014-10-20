@@ -1,0 +1,4 @@
+title: An Interpersonal Multimedia Visualization System
+authors: Richard L. Phillips
+in_vis_citations: 
+

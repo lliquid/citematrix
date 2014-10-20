@@ -1,0 +1,4 @@
+title: Visualization of scalar data defined on a structured grid - Applications to petroleum research
+authors: J. L. Pajon, V. Bui Tran
+in_vis_citations: 
+

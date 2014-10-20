@@ -1,0 +1,15 @@
+title: Automatic Transfer Function Generation Using Contour Tree Controlled Residue Flow Model and Color Harmonics
+authors: Jianlong Zhou, Masahiro Takatsuka
+in_vis_citations: 
+fang_vis_98
+wangluji_vis_08
+fujishiro_vis_99
+kindlman_vis_03
+carr_vis_04
+rautek_vis_07
+correa_vis_08
+kniss_vis_01
+tzeng_vis_03
+bajaj_vis_97
+salama_vis_06
+

@@ -1,0 +1,5 @@
+title: Real-World Relativity: Image-Based Special Relativistic Visualization
+authors: Daniel Weiskopf, Daniel Kobras, Hanns Ruder
+in_vis_citations: 
+hsiung_vis_90
+

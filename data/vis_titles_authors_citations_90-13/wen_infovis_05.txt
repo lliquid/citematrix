@@ -1,0 +1,7 @@
+title: An Optimization-based Approach to Dynamic Visual Context Management
+authors: Zhen Wen, Michelle X. Zhou, Vikram Aggarwal
+in_vis_citations: 
+stasko_infovis_00
+fujishir_infovis_00
+munzner_infovis_97
+

@@ -1,0 +1,5 @@
+title: Building a Visual Database for Example-based Graphics Generation
+authors: Michelle X. Zhou, Min Chen, Mike F. Webster
+in_vis_citations: 
+zhou_infovis_96
+

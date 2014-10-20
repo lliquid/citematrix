@@ -1,0 +1,4 @@
+title: GASP - A System for Visualizing Geometric Algorithms
+authors: Ayellet Tal, David Dobkin
+in_vis_citations: 
+

@@ -1,0 +1,4 @@
+title: Piecewise-Linear Surface Approximation From Noisy Scattered Samples
+authors: Michael Margaliot, Craig Gotsman
+in_vis_citations: 
+

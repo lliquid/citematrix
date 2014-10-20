@@ -1,0 +1,5 @@
+title: Hardware-Based Ray Casting for Tetrahedral Meshes
+authors: Manfred Weiler, Martin Kraus, Markus Merz, Thomas Ertl
+in_vis_citations: 
+roettger_vis_00
+

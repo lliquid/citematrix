@@ -1,0 +1,5 @@
+title: Haptic Display of Interaction between Textured Models
+authors: Miguel A. Otaduy, Nitin Jain, Avneesh Sud, Ming C. Lin
+in_vis_citations: 
+wan_vis_03
+

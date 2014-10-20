@@ -1,0 +1,13 @@
+title: Representing Higher-Order Singularities in Vector Fields on Piecewise Linear Surfaces
+authors: Wan-Chiu Li, Bruno Vallet, Nicolas Ray, Bruno Levy
+in_vis_citations: 
+schroede_vis_05
+forssell_vis_94
+vanwijk_vis_03
+weinkauf_vis_05
+rezk_vis_99
+scheuer2_vis_99
+born_vis_10
+tricoche_vis_00
+laramee_vis_03
+

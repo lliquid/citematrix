@@ -1,0 +1,4 @@
+title: Display of Scientific Data Structures for Algorithm Visualization
+authors: William Hibbard, Charles R Dyer, Brian Paul
+in_vis_citations: 
+

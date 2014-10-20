@@ -1,0 +1,4 @@
+title: Configuration space visualization for mechanical design
+authors: Elisha Sacks, Leo Joskowicz
+in_vis_citations: 
+

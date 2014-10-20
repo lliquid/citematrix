@@ -1,0 +1,4 @@
+title: Multi-resolution Multi-field Ray Tracing: A mathematical overview
+authors: C. Gasparakis
+in_vis_citations: 
+

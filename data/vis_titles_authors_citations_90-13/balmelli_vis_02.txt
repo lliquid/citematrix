@@ -1,0 +1,6 @@
+title: Volume Warping for Adaptive Isosurface Extraction
+authors: Laurent Balmelli, Christopher J. Morris, Gabriel Taubin, Fausto Bernardini
+in_vis_citations: 
+shekhar_vis_96
+wood_vis_00
+

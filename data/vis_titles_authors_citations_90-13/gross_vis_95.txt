@@ -1,0 +1,5 @@
+title: Fast Multiresolution Surface Meshing
+authors: M. H. Gross, R. Gatti
+in_vis_citations: 
+he_vis_94
+

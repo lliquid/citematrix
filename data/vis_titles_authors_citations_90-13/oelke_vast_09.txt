@@ -1,0 +1,4 @@
+title: Visual Opinion Analysis of Customer Feedback Data
+authors: Daniela Oelke, Ming Hao, Christian Rohrdantz, Daniel A. Keim, Umeshwar Dayal, Lars-Erik Haug, Halld??r Janetzko
+in_vis_citations: 
+

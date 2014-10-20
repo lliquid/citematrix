@@ -1,0 +1,7 @@
+title: Interactive Deformation and Visualization of Level Set Surfaces Using Graphics Hardware
+authors: Aaron E. Lefohn, Joe M. Kniss, Charles D. Hansen, Ross T. Whitaker
+in_vis_citations: 
+tasdizen_vis_02
+kniss_vis_03
+sherbond_vis_03
+

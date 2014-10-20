@@ -1,0 +1,4 @@
+title: Research Report Improving Browsing in Information by the Automatic Display Layout
+authors: Peter Liiders, Rolf Ernst
+in_vis_citations: 
+

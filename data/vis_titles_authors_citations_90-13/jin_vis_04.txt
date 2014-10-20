@@ -1,0 +1,4 @@
+title: Optimal Global Conformal Surface Parameterization
+authors: Miao Jin, Yalin Wang, Shing-Tung Yau, Xianfeng Gu
+in_vis_citations: 
+

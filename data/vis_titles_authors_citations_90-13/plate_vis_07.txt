@@ -1,0 +1,7 @@
+title: A Flexible Multi-Volume Shader Framework for Arbitrarily Intersecting Multi-Resolution Datasets
+authors: John Plate, Thorsten Holtkaemper, Bernd Froehlich
+in_vis_citations: 
+csebfalv_vis_03
+krueger_vis_03
+weiskopf_vis_02
+

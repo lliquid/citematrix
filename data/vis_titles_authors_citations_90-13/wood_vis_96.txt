@@ -1,0 +1,5 @@
+title: Visualization Over The World Wide Web And Its Application To Environmental Data
+authors: Jason Wood, Ken Brodlie, Helen Wright
+in_vis_citations: 
+ang_vis_94
+

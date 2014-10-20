@@ -1,0 +1,5 @@
+title: Propositional n-Traces: Visualizing a Problem in Philosophical Logic
+authors: Nathalie Prevost, R. E. Jennings, Loki Jorgenson, F. David Fracchia
+in_vis_citations: 
+spoerri_vis_93
+

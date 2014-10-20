@@ -1,0 +1,5 @@
+title: Psychophysical Scaling of a Cardiovascular Information Display
+authors: Robert Albert, Noah Syroid, Yinqi Zhang, Jim Agutter, Frank Drews, Dave Strayer, George Hutchinson, Dwayne Westenskow
+in_vis_citations: 
+agutter_infovis_01
+

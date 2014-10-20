@@ -1,0 +1,12 @@
+title: Context-Preserving Visual Links
+authors: Markus Steinberger, Manuela Waldner, Marc Streit, Alexander Lex, Dieter Schmalstieg
+in_vis_citations: 
+lex_infovis_10
+miksch_infovis_01
+holten_infovis_06
+collins_infovis_09
+martin_vis_95
+ziemkiew_infovis_10
+shneiderman_infovis_06
+collins_infovis_07
+

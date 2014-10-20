@@ -1,0 +1,12 @@
+title: Multidimensional Visual Analysis Using Cross-Filtered Views
+authors: Chris Weaver
+in_vis_citations: 
+heer2_infovis_06
+weaver_vast_06
+chenh_infovis_03
+stolte_infovis_00
+ward_vis_94
+chi_infovis_98
+mackinlay_infovis_07
+stasko_vast_07
+

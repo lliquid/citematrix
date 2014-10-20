@@ -1,0 +1,7 @@
+title: H3: Laying Out Large Directed Graphs in 3D Hyperbolic Space
+authors: Tamara Munzner
+in_vis_citations: 
+hendley_infovis_95
+carriere_infovis_95
+andrews_infovis_96
+

@@ -1,0 +1,4 @@
+title: Tensor Product Surfaces Guided by Minimal Surface Area Triangulations
+authors: John K. Johnstone, Kenneth R. Sloan
+in_vis_citations: 
+

@@ -1,0 +1,7 @@
+title: LiveSync: Deformed Viewing Spheres for Knowledge-Based Navigation
+authors: Peter Kohlmann, Stefan Bruckner, Armin Kanitsar, Eduard Groeller
+in_vis_citations: 
+takahash_vis_05
+viola_vis_06
+bordoloi_vis_05
+

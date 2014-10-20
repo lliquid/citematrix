@@ -1,0 +1,7 @@
+title: eSeeTrack - Visualizing Sequential Fixation Patterns
+authors: Hoi Ying Tsang, Melanie Tory, Colin Swindells
+in_vis_citations: 
+vrotsou_infovis_09
+blaas_infovis_09
+wattenbe_infovis_08
+

@@ -1,0 +1,8 @@
+title: A Pipeline for Computer Aided Polyp Detection
+authors: Wei Hong, Feng Qiu, Arie Kaufman
+in_vis_citations: 
+bartoli_vis_01
+zhang_vis_04
+avila_vis_92
+krueger_vis_03
+

@@ -1,0 +1,8 @@
+title: Visual Analysis of Network Traffic for Resource Planning, Interactive Monitoring, and Interpretation of Security Threats
+authors: Florian Mansmann, Daniel A. Keim, Stephen C. North, Brian Rexroad, Daniel Sheleheda
+in_vis_citations: 
+keim_vast_06
+fekete_infovis_02
+heilmann_infovis_04
+johnson_vis_91
+

@@ -1,0 +1,8 @@
+title: Design Considerations for Collaborative Visual Analytics
+authors: Jeffrey Heer, Maneesh Agrawala 
+in_vis_citations: 
+hill_vis_91
+heer2_infovis_06
+dorling_infovis_06
+brennan_vast_06
+

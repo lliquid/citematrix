@@ -1,0 +1,6 @@
+title: Opacity-modulating Triangular Textures for Irregular Surfaces
+authors: Penny Rheingans
+in_vis_citations: 
+dooley_vis_90
+interrante_vis_95
+

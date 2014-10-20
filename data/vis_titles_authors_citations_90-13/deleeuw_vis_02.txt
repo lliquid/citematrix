@@ -1,0 +1,5 @@
+title: BM3D: Motion Estimation in Time Dependent Volume Data
+authors: Wim de Leeuw, Robert van Liere
+in_vis_citations: 
+deleeuw_vis_01
+

@@ -1,0 +1,6 @@
+title: Reconstructing Manifold and Non-Manifold Surfaces from Point Clouds
+authors: Jianning Wang, Manuel M. Oliveira, Arie E. Kaufman
+in_vis_citations: 
+alexa_vis_01
+ying_vis_01
+

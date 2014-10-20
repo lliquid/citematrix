@@ -1,0 +1,5 @@
+title: Case Study Fishing for Information on the Internet
+authors: Richard Mitchell, David Day, Lynette Hirschman
+in_vis_citations: 
+johnson_vis_91
+

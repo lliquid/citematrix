@@ -1,0 +1,6 @@
+title: Interactive Querying of Temporal Data Using A Comic Strip Metaphor
+authors: Jing Jin, Pedro Szekely
+in_vis_citations: 
+fails_vast_06
+xiao_vast_06
+

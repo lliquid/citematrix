@@ -1,0 +1,6 @@
+title: Interaction Techniques for Selecting and Manipulating Subgraphs in Network Visualizations
+authors: Michael J. McGuffin, Igor Jurisica
+in_vis_citations: 
+mcguffin_infovis_05
+wills_infovis_96
+

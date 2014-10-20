@@ -1,0 +1,5 @@
+title: Visualizing the Fourth Dimension Using Geometry and Light
+authors: Andrew J. Hanson, Pheng A. Heng
+in_vis_citations: 
+hanson_vis_90
+

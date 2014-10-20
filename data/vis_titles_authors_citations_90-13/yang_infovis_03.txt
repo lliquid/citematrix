@@ -1,0 +1,11 @@
+title: Interactive Hierarchical Dimension Ordering, Spacing and Filtering for Exploration of High Dimensional Datasets
+authors: Jing Yang, Wei Peng, Matthew O. Ward, Elke A. Rundensteiner
+in_vis_citations: 
+leblanc_vis_90
+inselberg_vis_90
+ankerst_infovis_98
+ward_vis_94
+stolte_infovis_00
+keim_vis_95
+yang_infovis_02
+

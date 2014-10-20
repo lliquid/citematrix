@@ -1,0 +1,4 @@
+title: Hierarchical Volume Analysis and Visualization Based on Morphological Operators
+authors: Christoph Luerig, Thomas Ertl
+in_vis_citations: 
+

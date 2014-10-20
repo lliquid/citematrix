@@ -1,0 +1,11 @@
+title: Analyzing Vortex Breakdown Flow Structures by Assignment of Colors to Tensor Invariants
+authors: Markus Ruetten, Min S. Chong
+in_vis_citations: 
+zheng_vis_03
+scheuerm_vis_97
+theisel_vis_04
+hotz_vis_04
+tricoche_vis_04
+delmarcelle_vis_94
+leeuw_vis_93
+

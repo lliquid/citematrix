@@ -1,0 +1,5 @@
+title: Mastering Interactive Surface Rendering for Java-Based Diagnostic Applications
+authors: Lukas Mroz, Rainer Wegenkittl, Eduard Groeller
+in_vis_citations: 
+wan1_vis_99
+

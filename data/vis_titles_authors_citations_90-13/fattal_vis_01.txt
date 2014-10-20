@@ -1,0 +1,6 @@
+title: Variational Classification for Visualization of 3D Ultrasound Data
+authors: Raanan Fattal, Dani Lischinskit
+in_vis_citations: 
+crawfis_vis_93
+bajaj_vis_97
+

@@ -1,0 +1,4 @@
+title: Graphical Encoding for Information Visualization: An Empirical Study
+authors: Lucy Nowell, Robert Schulman, Deborah Hix
+in_vis_citations: 
+

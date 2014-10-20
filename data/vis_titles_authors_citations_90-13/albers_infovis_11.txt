@@ -1,0 +1,8 @@
+title: Sequence Surveyor: Leveraging Overview for Scalable Genomic Alignment Visualization
+authors: Danielle Albers, Colin Dewey, Michael Gleicher
+in_vis_citations: 
+shenas_infovis_07
+fekete_infovis_02
+slingsby_infovis_09
+meyer_infovis_09
+

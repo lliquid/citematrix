@@ -1,0 +1,9 @@
+title: Streamball Techniques for Flow Visualization
+authors: Manfred Brill, Hans Hagen, Hans-Christian Rodrian, Wladimir Djatschin, Stanislav V. Klimenko
+in_vis_citations: 
+delmarcelle_vis_92
+schroederw_vis_91
+wijk_vis_92
+hultquist1_vis_92
+vanwijk2_vis_93
+

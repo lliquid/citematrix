@@ -1,0 +1,11 @@
+title: Rethinking Map Legends with Visualization
+authors: Jo Wood Dykes, Aidan Slingsby
+in_vis_citations: 
+fisher_infovis_07
+wood_infovis_08
+heer_infovis_07
+dorling_infovis_06
+skupin_infovis_00
+willett_infovis_07
+slingsby_infovis_09
+

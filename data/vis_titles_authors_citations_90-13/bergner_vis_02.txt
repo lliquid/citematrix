@@ -1,0 +1,7 @@
+title: Interactive Spectral Volume Rendering
+authors: Steven Bergner, Torsten Moeller, Mark S. Drew, Graham D. Finlayson
+in_vis_citations: 
+kniss_vis_01
+pekar_vis_01
+bajaj_vis_97
+

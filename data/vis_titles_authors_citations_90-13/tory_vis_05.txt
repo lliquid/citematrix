@@ -1,0 +1,6 @@
+title: Eyegaze Analysis of Displays With Combined 2D and 3D Views
+authors: Melanie Tory, M. Stella Atkins, Arthur E. Kirkpatrick, Marios
+in_vis_citations: 
+tory_vis_03
+wong2_vis_97
+

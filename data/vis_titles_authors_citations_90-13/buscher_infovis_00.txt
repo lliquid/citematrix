@@ -1,0 +1,4 @@
+title: Creativity, Complexity, and Precision: Information Visualization for (Landscape) Architecture
+authors: Monika Buescher, Dan Shapiro, Michael Christensen, Preben Mogensen, Peter Oerbaek
+in_vis_citations: 
+

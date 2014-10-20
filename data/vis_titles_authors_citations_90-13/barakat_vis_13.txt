@@ -1,0 +1,8 @@
+title: Adaptive Refinement of the Flow Map Using Sparse Samples
+authors: Samer S. Barakat, Xavier Tricoche
+in_vis_citations: 
+krishnan_vis_09
+garth_vis_08
+sadlo_vis_07
+garth_vis_07
+

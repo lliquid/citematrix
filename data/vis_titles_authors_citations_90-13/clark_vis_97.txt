@@ -1,0 +1,5 @@
+title: Visualization of Height Field Data with Physical Models and Texture Photomapping
+authors: Dru Clark, Michael Bailey
+in_vis_citations: 
+nadeau_vis_91
+

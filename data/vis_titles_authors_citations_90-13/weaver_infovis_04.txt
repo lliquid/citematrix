@@ -1,0 +1,6 @@
+title: Building Highly-Coordinated Visualizations in Improvise
+authors: Chris Weaver
+in_vis_citations: 
+stolte_infovis_02
+stolte_infovis_00
+

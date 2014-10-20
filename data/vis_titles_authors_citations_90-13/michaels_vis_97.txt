@@ -1,0 +1,5 @@
+title: VizWiz: A Java Applet for Interactive 3D Scientific Visualization on the Web
+authors: Cherilyn Michaels, Michael Bailey
+in_vis_citations: 
+hibbard_vis_90
+

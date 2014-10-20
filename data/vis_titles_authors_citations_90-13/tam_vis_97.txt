@@ -1,0 +1,6 @@
+title: Volume Rendering of Abdominal Aortic Aneurysms
+authors: Roger C. Tam, Christopher G. Healey, Borys Flak, Peter Cahoon
+in_vis_citations: 
+healey_vis_96
+rogowitz_vis_93
+

@@ -1,0 +1,4 @@
+title: Accurate Display of Tensor Product Isosurfaces
+authors: Alyn Rockwood
+in_vis_citations: 
+

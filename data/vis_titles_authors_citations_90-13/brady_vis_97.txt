@@ -1,0 +1,7 @@
+title: Two-Phase Perspective Ray Casting for Interactive Volume Navigation
+authors: Martin Brady, Kenneth Jung, H. T. Nguyen, Thinh Nguyen
+in_vis_citations: 
+avila_vis_94
+lorensen_vis_95
+he2_vis_96
+

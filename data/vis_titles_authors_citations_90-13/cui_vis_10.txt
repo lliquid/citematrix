@@ -1,0 +1,10 @@
+title: A Curved Ray Camera for Handling Occlusions through Continuous Multiperspective Visualization
+authors: Jian Cui, Paul Rosen, Voicu Popescu, Christoph Hoffmann
+in_vis_citations: 
+degener_vis_08
+roman_vis_04
+bruckner_vis_06
+takahash_vis_06
+wongn_infovis_03
+krueger_vis_06
+

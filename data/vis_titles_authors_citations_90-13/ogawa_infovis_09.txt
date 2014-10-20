@@ -1,0 +1,9 @@
+title: code swarm: A Design Study in Organic Software Visualization
+authors: Michael Ogawa, Kwan-Liu Ma
+in_vis_citations: 
+pousman_infovis_07
+wattenbe_infovis_08
+lommerse_infovis_05
+moere_infovis_04
+wattenba_infovis_05
+

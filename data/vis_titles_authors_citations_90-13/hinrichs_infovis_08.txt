@@ -1,0 +1,9 @@
+title: Bringing Information Visualization into the Museum
+authors: Uta Hinrichs, Holly Schmidt, Sheelagh Carpendale
+in_vis_citations: 
+pousman_infovis_07
+viegas_infovis_04
+skog_infovis_03
+wattenba_infovis_05
+isenberg_infovis_07
+

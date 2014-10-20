@@ -1,0 +1,5 @@
+title: Visualization of Sports using Motion Trajectories: Providing Insights into Performance, Style, and Strategy
+authors: Gopal Pingali, Agata Opalach, Yves Jean, Ingrid Carlbom
+in_vis_citations: 
+rander_vis_97
+

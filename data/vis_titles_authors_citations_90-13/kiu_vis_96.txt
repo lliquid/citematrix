@@ -1,0 +1,5 @@
+title: Multi-Frequency Noise for LIC
+authors: Ming-Hoe Kiu, David C. Banks
+in_vis_citations: 
+forssell_vis_94
+

@@ -1,0 +1,8 @@
+title: Visual Classifier Training for Text Document Retrieval
+authors: Florian Heimerl, Steffen Koch, Harald Bosch, Thomas Ertl
+in_vis_citations: 
+endert_vast_11
+elzen_vast_11
+stasko_vast_07
+hoeferlin_vast_12
+

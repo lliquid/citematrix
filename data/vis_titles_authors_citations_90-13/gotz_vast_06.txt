@@ -1,0 +1,8 @@
+title: Interactive Visual Synthesis of Analytic Knowledge
+authors: David Gotz, Michelle X. Zhou, Vikram Aggarwal
+in_vis_citations: 
+wen_infovis_05
+amar_infovis_05
+havre_infovis_01
+roth_infovis_96
+

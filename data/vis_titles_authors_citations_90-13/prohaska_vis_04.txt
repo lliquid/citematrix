@@ -1,0 +1,11 @@
+title: Interactive Exploration of Large Remote Micro-CT Scans
+authors: Steffen Prohaska, Andrei Hutanu, Ralf Kaehler, Hans-Christian Hege
+in_vis_citations: 
+engel_vis_00
+luke_vis_02
+guthe_vis_02
+law_vis_99
+kniss_vis_02
+lamar_vis_99
+cox_vis_97
+

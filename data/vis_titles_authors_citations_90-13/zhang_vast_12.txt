@@ -1,0 +1,7 @@
+title: Visual Analytics for the Big Data Era - A Comparative Review of State-of-the-Art Commercial Systems
+authors: Leishi Zhangi, Andreas Stoffel, Michael Behrisch, Sebastian Mittelstadt, Tobias Schreck, Rene Pompl, Stefan Weber, Holger Last, Daniel Keim
+in_vis_citations: 
+weaver_infovis_04
+fekete_infovis_04
+havre_infovis_00
+

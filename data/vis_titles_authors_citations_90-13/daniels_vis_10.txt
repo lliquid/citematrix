@@ -1,0 +1,18 @@
+title: Interactive Vector Field Feature Identification
+authors: Joel Daniels, Erik W. Anderson, Luis Gustavo Nonato, Claudio T. Silva
+in_vis_citations: 
+everts_vis_09
+max_vis_93
+schlemmer_vis_07
+buja_vis_91
+sadarjoen_vis_98
+hultquist1_vis_92
+janicke_vis_08
+krishnan_vis_09
+pagendarm_vis_99
+kenwrigh_vis_97
+roth_vis_98
+bryson_vis_91
+verma_vis_00
+jobard_vis_00
+

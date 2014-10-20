@@ -1,0 +1,6 @@
+title: Heart-Muscle Fiber Reconstruction from Diffusion Tensor MRI
+authors: Leonid Zhukov, Alan H. Barr
+in_vis_citations: 
+zhukov_vis_02
+zoeckler_vis_96
+

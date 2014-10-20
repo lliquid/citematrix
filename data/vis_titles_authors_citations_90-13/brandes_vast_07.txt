@@ -1,0 +1,5 @@
+title: Visual Analysis of Controversy in User-generated Encyclopedias
+authors: Ulrik Brandes, J??rgen Lerner
+in_vis_citations: 
+chen_vast_06
+

@@ -1,0 +1,7 @@
+title: Jigsaw: Supporting Investigative Analysis through Interactive Visualization
+authors: John Stasko, Carsten Goerg, Zhicheng Liu, Kanupriya Singhal
+in_vis_citations: 
+wise_infovis_95
+kapler_infovis_04
+wong_vast_06
+

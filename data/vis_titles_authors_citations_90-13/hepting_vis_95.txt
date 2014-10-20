@@ -1,0 +1,4 @@
+title: Qualitative Analysis of Invariant Tori in a Dynamical System
+authors: D. H. Hepting, G. Derks, K. D. Edoh, R. D. Russell
+in_vis_citations: 
+

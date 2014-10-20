@@ -98,8 +98,6 @@ _.extend(CiteVis.prototype, {
 
         var self = this;
 
-        console.info(cc + c + yy + ' ' + y);
-
         self.canvas.selectAll('.year_row_label')
             .classed('highlight', false)
             .filter(function(_y) {

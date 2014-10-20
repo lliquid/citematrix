@@ -1,0 +1,4 @@
+title: Fast Rotation of Volume Data on Data Parallel Architectures
+authors: Peter Schroder, James B. Salem
+in_vis_citations: 
+

@@ -1,0 +1,5 @@
+title: Analysis of Streamline Separation at Infinity Using Time-Discrete Markov Chains
+authors: Wieland Reich, Gerik Scheuermann
+in_vis_citations: 
+peikert_vis_99
+

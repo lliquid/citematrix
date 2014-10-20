@@ -1,0 +1,5 @@
+title: Approximating Normals for Marching Cubes applied to Locally Supported Isosurfaces
+authors: Gregory M. Nielson, Adam Huang, Steve Sylvester
+in_vis_citations: 
+nielson_vis_91
+

@@ -1,0 +1,7 @@
+title: Context Preserving Maps of Tubular Structures
+authors: Joseph Marino, Wei Zeng, Xianfeng Gu, Arie Kaufman
+in_vis_citations: 
+hong_vis_06
+zeng_vis_10
+bartoli_vis_01
+

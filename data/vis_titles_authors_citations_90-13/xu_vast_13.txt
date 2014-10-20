@@ -1,0 +1,18 @@
+title: Visual Analysis of Topic Competition on Social Media
+authors: Panpan Xu, Yingcai Wu, Enxun Wei, Tai-Quan Peng
+in_vis_citations: 
+byron_infovis_08
+cui_infovis_11
+shi_infovis_12
+wongsuphasawat_infovis_12
+rose_vast_09
+lee_infovis_10
+cao_infovis_12
+shi_vast_10
+liu_infovis_13
+alexa_infovis_01
+tanahashi_infovis_12
+diakopou_vast_10
+doerk_infovis_10
+vanwijk2_infovis_99
+

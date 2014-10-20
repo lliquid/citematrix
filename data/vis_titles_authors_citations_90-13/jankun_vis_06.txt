@@ -1,0 +1,8 @@
+title: Superellipsoid-based, Real Symmetric Traceless Tensor Glyphs Motivated by Nematic Liquid Crystal Alignment Visualization
+authors: T.J. Jankun-Kelly, Ketan Mehta
+in_vis_citations: 
+mehta_vis_06
+zhengcom_vis_05
+hlawitsc_vis_05
+slavin_vis_06
+

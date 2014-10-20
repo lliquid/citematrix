@@ -1,0 +1,4 @@
+title: Automatic Illustration of 3D Geometric Models: Surfaces
+authors: Michael F. Cohen, Debra Dooley
+in_vis_citations: 
+

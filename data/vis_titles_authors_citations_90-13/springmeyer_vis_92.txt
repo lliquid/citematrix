@@ -1,0 +1,5 @@
+title: A Characterization of the Scientific Data Analysis Process
+authors: Rebecca R. Springmeyer, Meera M. Blattner, Nelson L. Max
+in_vis_citations: 
+phillips_vis_90
+

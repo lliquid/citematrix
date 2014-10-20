@@ -1,0 +1,4 @@
+title: A Fast Ray Casting Algorithm Using Adaptive Isotriangular Subdivision
+authors: Alan Liu
+in_vis_citations: 
+

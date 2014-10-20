@@ -1,0 +1,12 @@
+title: Visualizing Coordination In Situ
+authors: Chris Weaver
+in_vis_citations: 
+stolte_infovis_02
+weaver_infovis_04
+fekete_infovis_04
+chuah_infovis_96
+card_infovis_97
+north_infovis_02
+chi_infovis_00
+keahey_infovis_02
+

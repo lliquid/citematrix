@@ -1,0 +1,6 @@
+title: Entity-Based Collaboration Tools for Intelligence Analysis
+authors: Eric A. Bier, Stuart K. Card, John W. Bodnar
+in_vis_citations: 
+proulx_vast_06
+stasko_vast_07
+

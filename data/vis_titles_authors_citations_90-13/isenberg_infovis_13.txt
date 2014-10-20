@@ -1,0 +1,11 @@
+title: Hybrid-Image Visualization for Large Viewing Environments
+authors: Petra Isenberg, Pierre Dragicevic, Wesley Willett, Anastasia Bezerianos, Jean-Daniel Fekete
+in_vis_citations: 
+bezerianos_infovis_12
+afzal_infovis_12
+yost_infovis_06
+henry_infovis_07
+keim_infovis_01
+lam_infovis_07
+wong_infovis_05
+

@@ -1,0 +1,16 @@
+title: AlVis: Situation Awareness in the Surveillance of Road Tunnels
+authors: Harald Piringer, Matthias Buchetics, Rudolf Benedik
+in_vis_citations: 
+matkovic_infovis_02
+livnat_infovis_05
+maceachr_vast_11
+wang_vis_07
+collins_infovis_07
+ivanov_infovis_07
+kapler_infovis_04
+jerding_infovis_95
+romero_infovis_08
+kim_vast_07
+tesone_vast_07
+aragon_vast_08
+

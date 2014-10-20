@@ -1,0 +1,4 @@
+title: Polyhedral modeling
+authors: Georges-Pierre Bonneau, Stefanie Hahmann
+in_vis_citations: 
+

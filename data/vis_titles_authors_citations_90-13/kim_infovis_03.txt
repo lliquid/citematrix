@@ -1,0 +1,4 @@
+title: Conveying Shape with Texture: an experimental investigation of the impact of texture type on shape categorization judgments
+authors: Sunghee Kim, Haleh Hagh-Shenas, Victoria Interrante
+in_vis_citations: 
+

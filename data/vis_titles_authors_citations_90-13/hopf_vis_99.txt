@@ -1,0 +1,6 @@
+title: Accelerating 3D Convolution using Graphics Hardware
+authors: Matthias Hopf, Thomas Ertl
+in_vis_citations: 
+luerig_vis_98
+crawfis_vis_93
+

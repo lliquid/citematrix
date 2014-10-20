@@ -1,0 +1,7 @@
+title: Extinction-Based Shading and Illumination in GPU Volume Ray-Casting
+authors: Philipp Schlegel, Maxim Makhinya, Renato Pajarola
+in_vis_citations: 
+bruckner_vis_07
+kniss_vis_02
+krueger_vis_03
+

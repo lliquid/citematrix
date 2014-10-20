@@ -1,0 +1,5 @@
+title: Spiders: A New User Interface for Rotation and Visualization of N-dimensional Point Sets
+authors: Kirk L Duffini, William A. Barret
+in_vis_citations: 
+buja_vis_91
+

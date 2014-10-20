@@ -1,0 +1,5 @@
+title: Kd-Jump: a Path-Preserving Stackless Traversal for Faster Isosurface Raytracing on GPUs
+authors: David M. Hughes, Ik Soo Lim
+in_vis_citations: 
+viola_vis_04
+

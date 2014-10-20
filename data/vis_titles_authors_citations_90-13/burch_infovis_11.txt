@@ -1,0 +1,14 @@
+title: Parallel Edge Splatting for Scalable Dynamic Graph Visualization
+authors: Michael Burch, Corinna Vehlow, Fabian Beck, Stephan Diehl
+in_vis_citations: 
+ogawa_infovis_09
+blaas_vis_08
+inselberg_vis_90
+feng_infovis_10
+johansso_infovis_05
+holten_infovis_06
+heinrich_vis_09
+wong_infovis_99
+brandes_infovis_02
+artero_infovis_04
+

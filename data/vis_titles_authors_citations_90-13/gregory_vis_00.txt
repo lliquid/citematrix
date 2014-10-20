@@ -1,0 +1,5 @@
+title: Six Degree-of-Freedom Haptic Display of Polygonal Models
+authors: Arthur Gregory, Ajith Mascarenhasm, Stephen Ehmann, Ming Lin, Dinesh Manocha
+in_vis_citations: 
+avila_vis_96
+

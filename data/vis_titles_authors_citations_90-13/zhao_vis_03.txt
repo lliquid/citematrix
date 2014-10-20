@@ -1,0 +1,6 @@
+title: Voxels on Fire
+authors: Ye Zhao, Xiaoming Wei, Zhe Fan, Arie Kaufman, Hong Qin
+in_vis_citations: 
+wei_vis_02
+corrie_vis_93
+

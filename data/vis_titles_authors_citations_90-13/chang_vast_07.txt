@@ -1,0 +1,8 @@
+title: WireVis: Visualization of Categorical, Time-Varying Data From Financial Transactions
+authors: Remco Chang, Mohammad Ghoniem, Robert Kosara, William Ribarsky, Jing Yang, Evan Suma, Caroline Ziemkiewicz, Daniel Kern, Agus Sudjianto
+in_vis_citations: 
+vanwijk2_infovis_99
+wise_infovis_95
+henry_infovis_06
+abello_infovis_04
+

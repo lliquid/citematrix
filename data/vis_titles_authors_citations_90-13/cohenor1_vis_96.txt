@@ -1,0 +1,4 @@
+title: Temporal Continuity of Levels of Detail in Delaunay Triangulated Terrain
+authors: Daniel Cohen-Or, Yishay Levanoni
+in_vis_citations: 
+

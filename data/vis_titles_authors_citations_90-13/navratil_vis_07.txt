@@ -1,0 +1,6 @@
+title: Visualization of Cosmological Particle-Based Datasets
+authors: Paul Arthur Navratil, Jarrett L. Johnson, Volker Bromm
+in_vis_citations: 
+livnat_vis_04
+von-rymo_vis_04
+

@@ -1,0 +1,4 @@
+title: Geodesic Distance-weighted Shape Vector Image Diffusion
+authors: Jing Hua, Zhaoqiang Lai, Ming Dong, Xianfeng Gu, Hong Qin
+in_vis_citations: 
+

@@ -1,0 +1,5 @@
+title: Acoustic Imaging and Visualization of Plumes Discharging from Black Smoker Vents on the Deep Seafloor
+authors: Peter A. Rona, Karen G. Bemis, Deepak R. Kenchammana-Hosekote, Deborah Silver
+in_vis_citations: 
+post_vis_95
+

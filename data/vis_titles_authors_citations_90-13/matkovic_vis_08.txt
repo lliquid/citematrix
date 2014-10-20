@@ -1,0 +1,10 @@
+title: Interactive Visual Steering - Rapid Visual Prototyping of a Common Rail Injection System
+authors: Kresimir Matkovic, Denis Gracanin, Mario Jelovic, Helwig Hauser
+in_vis_citations: 
+weaver_infovis_04
+henze_vis_98
+matkovic_vis_05
+weaver_infovis_05
+konyha_vis_03
+laramee_vis_05
+

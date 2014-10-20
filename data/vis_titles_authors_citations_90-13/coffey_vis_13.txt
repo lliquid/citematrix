@@ -1,0 +1,11 @@
+title: Design by Dragging: An Interface for Creative Forward and Inverse Design with Simulation Ensembles
+authors: Dane Coffey, Chi-Lun Lin, Arthur G. Erdman, Daniel F. Keefe
+in_vis_citations: 
+ribicic_vis_12
+waser_vis_10
+bruckner_vis_10
+torsneyweir_vis_11
+ljung_vis_00
+matkovic_vis_10
+smith_vis_07
+

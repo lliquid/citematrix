@@ -1,0 +1,10 @@
+title: Topological Visualization of Brain Diffusion MRI Data
+authors: Thomas Schultz, Holger Theisel, Hans-Peter Seidel
+in_vis_citations: 
+weinstei_vis_99
+enders_vis_05
+zhengtop_vis_05
+delmarcelle_vis_94
+blaas_vis_05
+delmarcelle_vis_94
+

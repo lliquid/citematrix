@@ -1,0 +1,8 @@
+title: Hierarchical and Parallelizable Direct Volume Rendering for Irregular and Multiple Grids
+authors: Jane Wilhelms, Allen Van Gelder, Paul Tarantino, Jonathan Gibbs
+in_vis_citations: 
+lucas2_vis_92
+gelder_vis_93
+mao_vis_95
+williamsp_vis_92
+

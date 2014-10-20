@@ -1,0 +1,9 @@
+title: Reinventing the Contingency Wheel: Scalable Visual Analytics of Large Categorical Data
+authors: Bilal Alsallakh, Wolfgang Aigner, Silvia Miksch, Eduard Gr??ller
+in_vis_citations: 
+bendix_infovis_05
+rafiei_vis_05
+fekete_infovis_02
+rosario_infovis_03
+hauser_infovis_02
+

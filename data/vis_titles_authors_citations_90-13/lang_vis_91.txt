@@ -1,0 +1,4 @@
+title: Integration of Visualization and Scientific Calculation in a Software System
+authors: U. Lang, R. Lang, R. Ruhle
+in_vis_citations: 
+

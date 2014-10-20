@@ -1,0 +1,5 @@
+title: Approximation of Isosurface in the Marching Cube: Ambiguity Problem
+authors: Sergey V. Matveyev
+in_vis_citations: 
+nielson_vis_91
+

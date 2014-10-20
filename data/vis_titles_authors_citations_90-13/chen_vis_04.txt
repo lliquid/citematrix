@@ -1,0 +1,13 @@
+title: Hardware-Accelerated Adaptive EWA Volume Splatting
+authors: Wei Chen, Liu Ren, Matthias Zwicker, Hanspeter Pfister
+in_vis_citations: 
+crawfis_vis_93
+swan_vis_97
+welsh_vis_03
+mueller_vis_98
+mueller_vis_96
+mueller_vis_99
+ihm_vis_95
+zwicker_vis_01
+huang_vis_00
+

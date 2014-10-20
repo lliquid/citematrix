@@ -1,0 +1,8 @@
+title: Data Level Comparison of Wind Tunnel and Computational Fluid Dynamics Data
+authors: Qin Shen, Alex Pang, Sam Uselton
+in_vis_citations: 
+kenwrigh_vis_97
+bryson1_vis_96
+lodha2_vis_96
+uselton_vis_97
+

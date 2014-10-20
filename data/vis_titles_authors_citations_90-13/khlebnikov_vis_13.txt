@@ -1,0 +1,11 @@
+title: Noise-Based Volume Rendering for the Visualization of Multivariate Volumetric Data
+authors: Rostislav Khlebnikov, Bernhard Kainz, Markus Steinberger, Dieter Schmalstieg
+in_vis_citations: 
+kerlick_vis_90
+kniss_vis_03
+bergner_vis_06
+kniss_vis_05
+shenas_infovis_07
+livingston_vis_12
+urness_vis_03
+

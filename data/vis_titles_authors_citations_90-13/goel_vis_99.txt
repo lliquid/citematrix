@@ -1,0 +1,9 @@
+title: VizCraft: A Multidimensional Visualization Tool for Aircraft Configuration Design
+authors: A. Goel, C. Baker, C. A. Shaffer, B. Grossman, R. T. Haftka, W. H. Mason, L. T. Watson
+in_vis_citations: 
+martin_vis_95
+shaffer_vis_98
+inselber_infovis_97
+ankerst_infovis_98
+wong_vis_96
+

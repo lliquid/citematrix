@@ -1,0 +1,6 @@
+title: A Visual Workspace for Hybrid Multidimensional Scaling Algorithms
+authors: Greg Ross, Matthew Chalmers
+in_vis_citations: 
+morrison_infovis_03
+chalmers_vis_96
+

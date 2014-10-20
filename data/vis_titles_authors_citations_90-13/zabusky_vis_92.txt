@@ -1,0 +1,6 @@
+title: Case Study: Visualizing Classical Problems in CFD
+authors: N. Zabusky
+in_vis_citations: 
+silver_vis_91
+globus_vis_91
+

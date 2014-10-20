@@ -1,0 +1,13 @@
+title: A Memory Insensitive Technique for Large Model Simplification
+authors: Peter Lindstrom, Claudio T. Silva
+in_vis_citations: 
+shaffer_vis_01
+shen_vis_99
+silva_vis_95
+chiang_vis_97
+chiang_vis_98
+cox_vis_97
+lindstrom_vis_98
+chiang_vis_03
+hoppe_vis_98
+

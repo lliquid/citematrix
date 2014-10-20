@@ -1,0 +1,4 @@
+title: Techniques for Visualizing Fermat's Last Theorem: A Case Study
+authors: A. J. Hanson, P. A. Heng, B. C. Kaplan
+in_vis_citations: 
+

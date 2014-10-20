@@ -1,0 +1,5 @@
+title: Towards a Generative Theory of Diagram Design
+authors: Klaus Reichenberger, Thomas Kamps, Gene Golovchinsky
+in_vis_citations: 
+golovchinsky_vis_95
+

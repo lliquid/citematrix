@@ -1,0 +1,7 @@
+title: Vispedia: Interactive Visual Exploration of Wikipedia Data via Search-Based Integration
+authors: Bryan Chan, Leslie Wu, Justin Talbot, Mike Cammarano, Pat Hanrahan, Bryan Chan, Leslie Wu, Justin Talbot, Mike Cammarano, Pat Hanrahan
+in_vis_citations: 
+cammarano_infovis_07
+viegas_infovis_07
+suh_vast_07
+

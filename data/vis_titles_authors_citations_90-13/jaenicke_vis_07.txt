@@ -1,0 +1,10 @@
+title: Multifield Visualization Using Local Statistical Complexity
+authors: Heike Jaenicke, Alexander Wiebel, Gerik Scheuermann, Wolfgang Kollmann
+in_vis_citations: 
+telea_vis_99
+ebling_vis_03
+sauber_vis_06
+kirby_vis_99
+bair_vis_06
+riley_vis_03
+

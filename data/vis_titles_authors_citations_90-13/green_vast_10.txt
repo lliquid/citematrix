@@ -1,0 +1,4 @@
+title: Towards the Personal Equation of Interaction: The Impact of Personality Factors on Visual Analytics Interface Interaction
+authors: Tera Marie Green, Brian Fisher
+in_vis_citations: 
+

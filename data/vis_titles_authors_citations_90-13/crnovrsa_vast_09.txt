@@ -1,0 +1,8 @@
+title: Proximity-based Visualization of Movement Trace Data
+authors: Tarik Crnovrsanin, Chris Muelder, Carlos Correa, Kwan-Liu Ma
+in_vis_citations: 
+kapler_infovis_04
+inselberg_vis_90
+ivanov_infovis_07
+dykes_infovis_07
+

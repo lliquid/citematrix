@@ -1,0 +1,6 @@
+title: Verifiable Visualization for Isosurface Extraction
+authors: Tiago Etiene, Carlos Scheidegger, L. Gustavo Nonato, Robert M. Kirby, Claudio T. Silva
+in_vis_citations: 
+schreine_vis_06
+marschner_vis_94
+

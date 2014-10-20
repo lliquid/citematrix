@@ -1,0 +1,4 @@
+title: Research Report Managing Multiple Focal Levels in Table Lens
+authors: Tichomir Tenev, Ramana Rao
+in_vis_citations: 
+

@@ -1,0 +1,15 @@
+title: Angular Histograms: Frequency-Based Visualizations for Large, High Dimensional Data
+authors: Zhao Geng, ZhenMin Peng, Robert S. Laramee, Rick Walker, Jonathan C. Roberts
+in_vis_citations: 
+hauser_infovis_02
+artero_infovis_04
+ellis_infovis_06
+ellis_infovis_07
+fua_vis_99
+wills_infovis_96
+inselberg_vis_90
+dasgupta_infovis_10
+johansso_infovis_05
+novotny_vis_06
+blaas_vis_08
+

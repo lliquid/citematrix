@@ -1,0 +1,6 @@
+title: Relative N-Gram Signatures: Document Visualization at the Level of Character N-Grams
+authors: Magdalena Jankowska, Vlado Keselj, Evangelos Milios
+in_vis_citations: 
+collins_vast_09
+keim_vast_07
+

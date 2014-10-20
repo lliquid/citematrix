@@ -1,0 +1,4 @@
+title: Orientation Maps: Techniques for Visualizing Rotations (A Consumer's Guide)
+authors: Bowen Alpern, Larry Carter, Matt Grayson, Chris Pelkiet
+in_vis_citations: 
+

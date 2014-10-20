@@ -1,0 +1,5 @@
+title: Dynamic Drawing of Clustered Graphs
+authors: Yaniv Frishman, Ayellet Tal
+in_vis_citations: 
+wilson_infovis_99
+

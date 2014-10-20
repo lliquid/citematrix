@@ -1,0 +1,11 @@
+title: Visibility Culling Using Plenoptic Opacity Functions for Large Volume Visualization
+authors: Jinzhu Gao, Jian Huang, Han-Wei Shen, James Arthur Kohl
+in_vis_citations: 
+guthe_vis_02
+zhang9-3_vis_02
+parker_vis_98
+kniss_vis_01
+livnat_vis_98
+pekar_vis_01
+huang_vis_00
+

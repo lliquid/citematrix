@@ -1,0 +1,6 @@
+title: Interactive Sankey Diagrams
+authors: Patrick Riehmann, Manfred Hanfler, Bernd Froehlich
+in_vis_citations: 
+eick_vis_93
+munzner_infovis_96
+

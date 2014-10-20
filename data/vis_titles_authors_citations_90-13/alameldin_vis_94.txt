@@ -1,0 +1,4 @@
+title: Case Study: New Techniques in the Design of Healthcare Facilities
+authors: Tarek Alameldin, Mardelle Shepley
+in_vis_citations: 
+

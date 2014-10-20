@@ -1,0 +1,4 @@
+title: New Methods for the Visualization of Electric Power System Information
+authors: Thomas J. Overbye, Jamie D. Weber
+in_vis_citations: 
+

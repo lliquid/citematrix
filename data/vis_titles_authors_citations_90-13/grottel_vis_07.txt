@@ -1,0 +1,10 @@
+title: Visual Verification and Analysis of Cluster Detection for Molecular Dynamics
+authors: S. Grottel, G. Reina, J. Vrabec, T. Ertl
+in_vis_citations: 
+hopf_vis_03
+suzuki_vis_02
+tarini_vis_06
+bajaj_vis_04
+laney_vis_06
+hopf_vis_03
+

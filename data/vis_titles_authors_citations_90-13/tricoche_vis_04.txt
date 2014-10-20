@@ -1,0 +1,15 @@
+title: Visualization of Intricate Flow Structures for Vortex Breakdown Analysis
+authors: Xavier Tricoche, Christoph Garth, Gordon Kindlmann, Eduard Deines, Gerik Scheuermann Markus Ruetten Charles Hansen
+in_vis_citations: 
+kniss_vis_01
+roth_vis_98
+globus_vis_91
+kenwrigh_vis_97
+peikert_vis_99
+kindlman_vis_03
+theisel_vis_03
+alexa_vis_01
+vanwijk2_vis_93
+schroederw_vis_91
+ebert_vis_94
+

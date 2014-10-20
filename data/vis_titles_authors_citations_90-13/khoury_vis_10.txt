@@ -1,0 +1,11 @@
+title: On the Fractal Dimension of Isosurfaces
+authors: Marc Khoury, Rephael Wenger
+in_vis_citations: 
+carr_vis_06
+scheideg_vis_08
+nielson2_vis_04
+weigle_vis_96
+pekar_vis_01
+nielson_vis_91
+bajaj_vis_97
+

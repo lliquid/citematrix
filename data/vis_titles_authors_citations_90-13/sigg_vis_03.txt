@@ -1,0 +1,6 @@
+title: Signed Distance Transform Using Graphics Hardware
+authors: Christian Sigg, Ronald Peikert, Markus Gross
+in_vis_citations: 
+huang_vis_01
+wan_vis_01
+

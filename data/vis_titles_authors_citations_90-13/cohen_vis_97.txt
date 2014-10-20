@@ -1,0 +1,4 @@
+title: Simplifying Polygonal Models Using Successive Mappings
+authors: Jonathan Cohen, Dinesh Manocha, Marc Olano
+in_vis_citations: 
+

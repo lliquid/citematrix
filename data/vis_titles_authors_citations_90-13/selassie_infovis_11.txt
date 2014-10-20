@@ -1,0 +1,9 @@
+title: Divided Edge Bundling for Directional Network Data
+authors: David Selassie, Brandon Heller, Jeffrey Heer
+in_vis_citations: 
+wongn_infovis_03
+cui_infovis_08
+henry_infovis_07
+ellis_infovis_07
+holten_infovis_06
+

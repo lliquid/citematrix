@@ -1,0 +1,4 @@
+title: Virtual GIS: A Real-Time 3D Geographic Information System
+authors: David Koller, Peter Lindstrom, William Ribarsky, Larry F. Hodges, Nick Faust, Gregory Turner
+in_vis_citations: 
+

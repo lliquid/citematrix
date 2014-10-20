@@ -1,0 +1,8 @@
+title: Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces
+authors: Kresimir Matkovic, Denis Gracanin, Borislav Klarin, Helwig Hauser
+in_vis_citations: 
+wegenkit_vis_97
+matkovic_vis_08
+alexa_infovis_01
+novotny_vis_06
+

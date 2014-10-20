@@ -1,0 +1,7 @@
+title: Cerebral: Visualizing Multiple Experimental Conditions on a Graph with Biological Context
+authors: Aaron Barsky, Tamara Munzner, Jennifer Gardy, Robert Kincaid
+in_vis_citations: 
+saraiya_infovis_05
+dwyer_infovis_06
+shneiderman_infovis_06
+

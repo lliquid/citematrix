@@ -1,0 +1,6 @@
+title: User Interaction with Scatterplots on Small Screens - A Comparative Evaluation of Geometric-Semantic Zoom and Fisheye Distortion
+authors: Thorsten Buring, Jens Gerken, Harald Reiterer
+in_vis_citations: 
+bederson_infovis_99
+fekete_infovis_02
+

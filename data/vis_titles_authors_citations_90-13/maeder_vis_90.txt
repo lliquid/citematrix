@@ -1,0 +1,4 @@
+title: Animation Techniques for Chain-Coded Objects
+authors: Anthony J. Maeder
+in_vis_citations: 
+

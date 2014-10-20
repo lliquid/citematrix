@@ -1,0 +1,7 @@
+title: Visualizing Data with Bounded Uncertainty
+authors: Chris Olston, Jock D. Mackinlay
+in_vis_citations: 
+twiddy_vis_94
+cedilnik_vis_00
+fua_infovis_99
+

@@ -1,0 +1,6 @@
+title: A Framework For Focus+Context Visualization
+authors: Staffan Bjoerk, Lars Erik Holmquist, Johan Redstroem
+in_vis_citations: 
+keahey_infovis_97
+keahey_infovis_98
+

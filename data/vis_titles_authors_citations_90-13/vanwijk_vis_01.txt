@@ -1,0 +1,7 @@
+title: Enridged Contour Maps
+authors: Jarke J. van Wijk, Alexandru Telea
+in_vis_citations: 
+wise_infovis_95
+vanwijk_infovis_99
+vanwijk2_vis_93
+

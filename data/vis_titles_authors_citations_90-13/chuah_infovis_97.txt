@@ -1,0 +1,5 @@
+title: Managing Software with New Visual Representations
+authors: Mei C. Chuah, Stephen G. Eick
+in_vis_citations: 
+rogowitz_vis_93
+

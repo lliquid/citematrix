@@ -1,0 +1,4 @@
+title: Case Study: Using Spatial Access Methods to Support the Visualization of Environmental Data
+authors: Charles Falkenberg, Ravi Kulkarni
+in_vis_citations: 
+

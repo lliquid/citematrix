@@ -1,0 +1,13 @@
+title: Evaluation of Filesystem Provenance Visualization Tools
+authors: Michelle A. Borkin, Chelsea S. Yeh, Madelaine Boyd, Peter Macko, Krzysztof Z. Gajos, Margo Seltzer, Hanspeter Pfister
+in_vis_citations: 
+kumar_infovis_06
+amar_infovis_05
+abello_infovis_06
+meyer_infovis_09
+gansner_infovis_04
+ghoniem_infovis_04
+bavoil_vis_05
+gou_infovis_11
+livnat_infovis_05
+

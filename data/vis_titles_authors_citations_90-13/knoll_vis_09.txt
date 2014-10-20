@@ -1,0 +1,14 @@
+title: Volume Ray Casting with Peak Finding and Differential Sampling
+authors: Aaron Knoll, Younis Hijazi, Rolf Westerteiger, Mathias Schott, Charles Hansen, Hans Hagen
+in_vis_citations: 
+sramek_vis_94
+krueger_vis_03
+kniss_vis_03
+parker_vis_98
+zhou_vis_06
+roettger_vis_00
+schreine_vis_06
+zwicker_vis_01
+livnat_vis_04
+livnat_vis_98
+

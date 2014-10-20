@@ -1,0 +1,4 @@
+title: A Sky Dome Visualisation for Identification of Astronomical Orientations
+authors: Georg Zotti, Eduard Groeller
+in_vis_citations: 
+

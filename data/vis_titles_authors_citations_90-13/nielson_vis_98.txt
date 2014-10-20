@@ -1,0 +1,7 @@
+title: Wavelets over Curvilinear Grids
+authors: Gregory M. Nielson, Il-Hong Jung, Junwon Sung
+in_vis_citations: 
+schroede_vis_97
+zhu_vis_97
+nielson1_vis_97
+

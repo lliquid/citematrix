@@ -1,0 +1,9 @@
+title: Asynchronous Distributed Calibration for Scalable and Reconfigurable Multi-Projector Displays
+authors: Ezekiel S. Bhasker, Pinaki Sinha, Aditi Majumder
+in_vis_citations: 
+chen_vis_02
+cheny_vis_00
+majumder_vis_00
+raskar_vis_99
+yang_vis_01
+

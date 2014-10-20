@@ -1,0 +1,10 @@
+title: Outlier-preserving Focus+Context Visualization in Parallel Coordinates
+authors: Matej Novotny, Helwig Hauser
+in_vis_citations: 
+inselber_infovis_97
+fua_vis_99
+fekete_infovis_02
+wong_vis_96
+johansso_infovis_05
+inselberg_vis_90
+

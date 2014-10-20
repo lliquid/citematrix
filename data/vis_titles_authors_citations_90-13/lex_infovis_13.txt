@@ -1,0 +1,10 @@
+title: Entourage: Visualizing Relationships between Biological Pathways using Contextual Subsets
+authors: Alexander Lex, Christian Partl, Denis Kalkofen, Marc Streit, Samuel Gratzl, Anne Mai Wassermann, Dieter Schmalstieg, Hanspeter Pfister
+in_vis_citations: 
+collins_vast_09
+lex_infovis_11
+hadlak_infovis_11
+collins_infovis_09
+steinberger_infovis_11
+olston_infovis_00
+

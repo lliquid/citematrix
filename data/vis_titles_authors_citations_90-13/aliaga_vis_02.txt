@@ -1,0 +1,5 @@
+title: Sea of Images
+authors: Daniel G. Aliaga, Thomas Funkhouser, Dimah Yanovsky, Ingrid Carlbom
+in_vis_citations: 
+ihm_vis_95
+

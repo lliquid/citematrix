@@ -1,0 +1,9 @@
+title: Interactive Visualization and Analysis of Network and Sensor Data on Mobile Devices
+authors: Avin Pattath, Brian Bue, Yun Jang, David Ebert, Xuan Zhong, Aaron Ault, Edward Coyle
+in_vis_citations: 
+kapler_infovis_04
+pingali_vis_01
+brandes_infovis_05
+wong_infovis_05
+wong_infovis_00
+

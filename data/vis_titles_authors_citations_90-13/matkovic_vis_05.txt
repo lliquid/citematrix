@@ -1,0 +1,7 @@
+title: Interactive Visual Analysis and Exploration of Injection Systems Simulations
+authors: Kresimir Matkovic, Mario Jelovic, Josip Juric, Zoltan Konyha, Denis Gracanin
+in_vis_citations: 
+inselber_infovis_97
+gresh_vis_00
+inselberg_vis_90
+

@@ -1,0 +1,5 @@
+title: Perceptualisation using a Tactile Mouse
+authors: R. G. Hughes, A. R. Forrest
+in_vis_citations: 
+minghim_vis_95
+

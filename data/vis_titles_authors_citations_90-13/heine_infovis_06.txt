@@ -1,0 +1,5 @@
+title: Visualization of Barrier Tree Sequences
+authors: Christian Heine, Gerik Scheuermann, Christoph Flamm, Ivo L. Hofacker, Peter F. Stadler
+in_vis_citations: 
+frishman_infovis_04
+

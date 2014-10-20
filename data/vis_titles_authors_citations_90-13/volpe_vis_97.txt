@@ -1,0 +1,8 @@
+title: Auralization of Streamline Vorticity in Computational Fluid Dynamics Data
+authors: Christopher R. Volpe, Ephraim P. Glinert
+in_vis_citations: 
+schroederw_vis_91
+wenzel_vis_90
+schroeder_vis_92
+minghim_vis_95
+

@@ -1,0 +1,7 @@
+title: Visualizing Flow with Quaternion Frames
+authors: Andrew J. Hanson, Hui Ma
+in_vis_citations: 
+hanson_vis_93
+cross_vis_94
+hultquist1_vis_92
+

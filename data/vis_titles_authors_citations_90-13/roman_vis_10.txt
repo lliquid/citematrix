@@ -1,0 +1,8 @@
+title: A Scalable Distributed Paradigm for Multi-User Interaction with Tiled Rear Projection Display Walls
+authors: Pablo Roman, Maxim Lazarov, Aditi Majumder
+in_vis_citations: 
+bhasker_vis_06
+bhasker_vis_07
+chen_vis_02
+sajadi2_vis_09
+

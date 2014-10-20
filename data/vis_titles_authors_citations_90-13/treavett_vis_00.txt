@@ -1,0 +1,5 @@
+title: Pen-and-Ink Rendering in Volume Visualisation
+authors: S. M. F. Treavett, M. Chen
+in_vis_citations: 
+interrante_vis_96
+

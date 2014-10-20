@@ -1,0 +1,4 @@
+title: Design and Implementation of an Immersive Geoscience Toolkit
+authors: Christophe Winkler, Fabien Bosquet, Xavier Cavin, Jean-Claude Paul
+in_vis_citations: 
+

@@ -1,0 +1,11 @@
+title: Exploratory Analysis of Time-Series with ChronoLenses
+authors: Jian Zhao, Fanny Chevalier, Emmanuel Pietriga, Ravin Balakrishnan
+in_vis_citations: 
+javed_infovis_10
+vanwijk2_infovis_99
+bertini_vast_07
+alexa_infovis_01
+hao_infovis_05
+lam_infovis_07
+kincaid_infovis_10
+

@@ -1,0 +1,6 @@
+title: Coloring 3D Line Fields Using Boy???s Real Projective Plane Immersion
+authors: Cagatay Demiralp, John F. Hughes, David H. Laidlaw
+in_vis_citations: 
+yamrom_vis_94
+alpern_vis_93
+

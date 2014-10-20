@@ -1,0 +1,4 @@
+title: Creating Reusable Visualizations with the Relational Visualization Notation
+authors: Matthew C. Humphrey
+in_vis_citations: 
+

@@ -1,0 +1,9 @@
+title: A Graphics Hardware-based Vortex Detection and Visualization System
+authors: Simon Stegmaier, Thomas Ertl
+in_vis_citations: 
+weiskopf_vis_03
+silver_vis_98
+krueger_vis_03
+hopf_vis_99
+roth_vis_98
+

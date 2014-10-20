@@ -1,0 +1,4 @@
+title: The Visual Comparison of Three Sequences
+authors: Kenneth P. Hinckley, Matthew O. Ward
+in_vis_citations: 
+

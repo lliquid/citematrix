@@ -1,0 +1,8 @@
+title: Fast and Memory Efficient Polygonal Simplification
+authors: Peter Lindstrom, Greg Turk
+in_vis_citations: 
+he_vis_95
+schroede_vis_97
+cohen_vis_97
+gieng_vis_97
+

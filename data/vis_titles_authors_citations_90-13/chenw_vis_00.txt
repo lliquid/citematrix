@@ -1,0 +1,6 @@
+title: Toward a Compelling Sensation of Telepresence: Demonstrating a portal to a distant (static) office
+authors: Wei-Chao Chen, Herman Towles, Lars Nyland, Greg Welch, Henry Fuchs
+in_vis_citations: 
+evans_vis_96
+rander_vis_97
+

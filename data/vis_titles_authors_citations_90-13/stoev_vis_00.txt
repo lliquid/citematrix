@@ -1,0 +1,5 @@
+title: Extracting Regions of Interest Applying a Local Watershed Transformation
+authors: Stanislav L. Stoev, Wolfgang Strasser
+in_vis_citations: 
+tiede_vis_98
+

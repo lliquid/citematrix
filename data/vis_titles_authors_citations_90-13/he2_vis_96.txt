@@ -1,0 +1,5 @@
+title: Fast Stereo Volume Rendering
+authors: Taosong He, Arie Kaufman
+in_vis_citations: 
+avila_vis_94
+

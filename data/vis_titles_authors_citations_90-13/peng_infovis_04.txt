@@ -1,0 +1,11 @@
+title: Clutter Reduction in Multi-Dimensional Data Visualization Using Dimension Reordering
+authors: Wei Peng, Matthew O. Ward, Elke A. Rundensteiner
+in_vis_citations: 
+yang_infovis_03
+wong_vis_96
+leblanc_vis_90
+ankerst_infovis_98
+fua_vis_99
+carpendale_infovis_96
+stolte_infovis_00
+

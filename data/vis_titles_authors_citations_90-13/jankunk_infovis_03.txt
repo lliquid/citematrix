@@ -1,0 +1,9 @@
+title: MoireGraphs: Radial Focus+Context Visualization and Interaction for Graphs with Visual Nodes
+authors: T. J. Jankun-Kelly, Kwan-Liu Ma
+in_vis_citations: 
+stasko_infovis_00
+munzner_infovis_97
+keahey_infovis_96
+yee_infovis_01
+yang_infovis_02
+

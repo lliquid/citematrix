@@ -1,0 +1,10 @@
+title: Multivariate Visual Explanation for High Dimensional Datasets
+authors: Scott Barlowe, Tianyi Zhang, Yujie Liu, Jing Yang, Donald Jacobs
+in_vis_citations: 
+wilkinso_infovis_05
+amar_infovis_04
+keim_vis_95
+martin_vis_95
+seo_infovis_04
+yang_infovis_04
+

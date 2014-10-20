@@ -1,0 +1,5 @@
+title: Intelligently Resolving Point Occlusion
+authors: Marjan Trutschl, Georges Grinstein, Urska Cvek
+in_vis_citations: 
+inselberg_vis_90
+

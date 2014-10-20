@@ -1,0 +1,14 @@
+title: Isosurfacing In Higher Dimensions
+authors: Praveen Bhaniramka, Rephael Wenger, Roger Crawfis
+in_vis_citations: 
+hansena_vis_92
+trotts_vis_98
+hanson_vis_93
+albertelli_vis_97
+sutton_vis_99
+weigle_vis_96
+nielson2_vis_97
+hanson_vis_91
+nielson_vis_91
+shenh_vis_98
+

@@ -1,0 +1,4 @@
+title: Visualizing Volume Data Using Physical Models
+authors: David R. Nadeau, Michael J. Bailey
+in_vis_citations: 
+

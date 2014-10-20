@@ -1,0 +1,7 @@
+title: Scalable Alignment of Large-Format Multi-Projector Displays Using Camera Homography Trees
+authors: Han Cheni, Rahul Sukthankar, Grant Wallace, Kai Li
+in_vis_citations: 
+raskar_vis_99
+yang_vis_01
+cheny_vis_00
+

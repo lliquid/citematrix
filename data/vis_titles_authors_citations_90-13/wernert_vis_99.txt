@@ -1,0 +1,6 @@
+title: A Framework for Assisted Exploration with Collaboration
+authors: Eric A. Wernert, Andrew J. Hanson
+in_vis_citations: 
+hanson2_vis_98
+hanson_vis_97
+

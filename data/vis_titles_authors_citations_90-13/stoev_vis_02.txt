@@ -1,0 +1,5 @@
+title: A Case Study on Automatic Camera Placement and Motion for Visualizing Historical Data
+authors: Stanislav L. Stoev, Wolfgang Strasser
+in_vis_citations: 
+stoev_vis_01
+
