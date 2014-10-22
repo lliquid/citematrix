@@ -164,7 +164,7 @@ _.extend(CiteVis.prototype, {
             })
             .attr('y', function(l) {
                 if (l == 'cited')  return y / 2;
-                else return -150;
+                else return -140;
             });
 
 

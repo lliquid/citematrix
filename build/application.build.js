@@ -1588,7 +1588,7 @@ _.extend(Graph.prototype, {
 var config = {
 
     x0: 300,
-    y0: 200,
+    y0: 160,
 
     width: 1000,
     height: 800,
@@ -1779,7 +1779,7 @@ _.extend(CiteVis.prototype, {
             })
             .attr('y', function(l) {
                 if (l == 'cited')  return y / 2;
-                else return -150;
+                else return -140;
             });
 
 
