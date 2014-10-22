@@ -1020,7 +1020,6 @@ _.extend(Graph.prototype, {
         } else {
             nidx = this.invalidNodeIndices.pop();
         }
-
         this.nodes[nidx] = n;
         this.adjlinks[nidx] = [];
         this.nodeIdx[nid] = nidx;
@@ -1074,21 +1073,35 @@ _.extend(Graph.prototype, {
     },
 
     removeNode:  function(nid) {
+
+        if (!this.hasNode(nid)) {
+            console.info("node " + nid + " not exist");
+            return;
+        }
+
         //remove links first
-        for (var i= 0, adjs=this.adjacents(nid), ii = adjs.length; i< ii; i++) {
+        var adjs=this.adjacents(nid).slice(0);
+        for (var i= 0; i< adjs.length; i++) {
             this.removeLink(adjs[i]);
         }
+
         var nidx = this.nodeIdx[nid];
         this.invalidNodeIndices.push(nidx);
         this.nodes[nidx] = undefined;
+        this.nodeIdx[nid] = undefined;
         this.adjlinks[nidx] = undefined;
+
         return this;
     },
 
     removeLink: function(arg0, arg1) {
 
         var e = undefined,
-            eidx = -1;
+            eidx = -1,
+            src = undefined,
+            tgt = undefined,
+            eid = undefined;
+
         if (arguments.length == 1) {
             e = this.link(arg0);
             eidx = this.linkIdx[arg0];
@@ -1097,34 +1110,43 @@ _.extend(Graph.prototype, {
             e = this.link(arg0, arg1);
             eidx = this.linkIdx[e.id];
         }
+
+        src = e.source;
+        tgt = e.target;
+
         this.invalidEdgeIndices.push(eidx);
+        this.linkIdx[eid] = undefined;
         this.links[eidx] = undefined;
         //remove from adjacency list
         var s = this.adjlinks[this.nodeIdx[e.source]],
             t = this.adjlinks[this.nodeIdx[e.target]];
 
         s.splice(s.indexOf(e.id), 1);
-        t.splice(t.indexOf(t.id), 1);
+        t.splice(t.indexOf(e.id), 1);
 
         return this;
     },
 
     node: function(nid) {
-        return this.nodes[this.nodeIdx[nid]] ==  undefined ? null: this.nodes[this.nodeIdx[nid]];
+            
+        return (this.nodeIdx[nid] == undefined || this.nodes[this.nodeIdx[nid]] ==  undefined) ? null: this.nodes[this.nodeIdx[nid]];
+    },
+
+    hasNode: function(nid) {
+        return this.node(nid) !== null;
     },
 
     //overloaded function link
     link: function(arg0, arg1) {
-
         if (arguments.length == 1) {
-            return this.links[this.linkIdx[arg0]] == undefined ? null: this.links[this.linkIdx[arg0]];
+            return (this.linkIdx[arg0] == undefined || this.links[this.linkIdx[arg0]] == undefined) ? null: this.links[this.linkIdx[arg0]];
         }
         else if (arguments.length == 2) { //nid0, nid1
             var nlinks = this.adjacents(arg0),
                 rs = [];
             for (var i= 0, ii = nlinks.length; i < ii; i ++) {
-                if (this.link(nlinks[i]).source == arg0 && this.link(nlinks[i]).target == arg1
-                    || this.link(nlinks[i]).source == arg1 && this.link(nlinks[i]).target == arg0) {
+                if (this.link(nlinks[i]) && (this.link(nlinks[i]).source == arg0 && this.link(nlinks[i]).target == arg1
+                    || this.link(nlinks[i]).source == arg1 && this.link(nlinks[i]).target == arg0)) {
                     if(rs.indexOf(nlinks[i]) == -1)
                         rs.push(nlinks[i]);
                 }
@@ -1141,6 +1163,11 @@ _.extend(Graph.prototype, {
         }
         else
             return undefined;
+    },
+
+    hasLink: function(arg0, arg1) {
+        var link = this.link(arg0, arg1);
+        return link !== null && link !== undefined;
     },
 
     neighbor: function(nid, eid) {
@@ -1182,122 +1209,39 @@ _.extend(Graph.prototype, {
         }
     },
 
-    //used for directed graph
-    precedessors: function(nid) { 
-
-        var adjs = this.adjacents(nid),
-            pres = [];
-
-        for (var i = 0; i < adjs.length; i++) {
-            var eid = adjs[i];
-            if (nid == this.link(eid).target)
-                pres.push(this.link(eid).source);
-        }
-
-        return pres;
-
-    },
-
-    //used for directed graph
-    successors: function (nid) {
-
-        var adjs = this.adjacents(nid),
-            succs = [];
-
-        for (var i = 0; i < adjs.length; i++) {
-            var eid = adjs[i];
-            if (nid == this.link(eid).source)
-                succs.push(this.link(eid).target);
-        }
-
-        return succs;
-
-    },
+    precedessors: function(nid) { },
+    successors: function (nid) { },
 
     indegree: function(nid) { },
-
     outdegree: function(nid) { },
 
-    getNodes: function(filterFunc) {
 
-        if (arguments.length == 0) {
-            var nids = [],
-                invalids = this.invalidNodeIndices.sort();
-            for (var i = 0, ii = this.nodes.length, j = 0; i < ii; i ++) {
-                if (j < invalids.length && i < invalids[j] || j >= invalids.length) {
-                    nids.push(this.nodes[i].id);
-                }
-                else {
-                    j ++;
-                }
+    getNodes: function() {
+        var nids = [],
+            invalids = _.sortBy(this.invalidNodeIndices);
+        for (var i = 0, ii = this.nodes.length, j = 0; i < ii; i ++) {
+            if (j < invalids.length && i < invalids[j] || j >= invalids.length) {
+                nids.push(this.nodes[i].id);
             }
-            return nids;
-        }
-        else {
-            var nids = this.getNodes(),
-                results = [];
-            for (var i = 0; i < nids.length; i ++) {
-                if (filterFunc.call(this, nids[i])) {
-                    results.push(nids[i]);
-                }
+            else {
+                j ++;
             }
-            return results;
         }
-
+        return nids;
     },
 
-    getLinks: function(filterFunc) {
-
-        if (arguments.length == 0) {
-
-            var eids = [],
-                invalids = this.invalidEdgeIndices.sort();
-            for (var i = 0, ii = this.links.length, j = 0; i < ii; i ++) {
-                if (j < invalids.length && i < invalids[j] || j >= invalids.length) {
-                    eids.push(this.links[i].id);
-                }
-                else {
-                    j ++;
-                }
+    getLinks: function() {
+        var eids = [],
+            invalids = _.sortBy(this.invalidEdgeIndices);
+        for (var i = 0, ii = this.links.length, j = 0; i < ii; i ++) {
+            if (j < invalids.length && i < invalids[j] || j >= invalids.length) {
+                eids.push(this.links[i].id);
             }
-            return eids;
-
-        }
-        else {
-            var eids = this.getLinks(),
-                results = [];
-            for (var i = 0; i < eids.length; i ++) {
-
-                if (filterFunc.call(this, eids[i])) {
-                    results.push(eids[i]);
-                }
+            else {
+                j ++;
             }
-
-            return results;
         }
-
-    },
-
-    getNodeCount: function(filterFunc) {
-
-        if (arguments.length == 0) {
-            return this.getNodes().length;
-        }
-        else {
-            return this.getNodes(filterFunc).length;
-        }
-
-    },
-
-    getLinkCount: function(filterFunc) {
-
-        if (arguments.length == 0) {
-            return this.getLinks().length;
-        }
-        else {
-            return this.getLinks(filterFunc).length;
-        }
-
+        return eids;
     },
 
     getNodeAttr: function(attr, nid) {
@@ -1388,8 +1332,9 @@ _.extend(Graph.prototype, {
             }
         }
     },
+
     //adjacency matrix based on the given order
-    adjacencyMatrix: function(nids, weight) {
+    adjacencyMatrix: function(nids, weighted) {
 
         var mat = matrix.zeros(nids.length, nids.length);
 
@@ -1397,7 +1342,7 @@ _.extend(Graph.prototype, {
             for (var j = i + 1, jj = nids.length; j < jj; j++) {
                 var e = this.link(nids[i], nids[j]);
                 if (_.isArray(e)) {
-                    if (weight == undefined || weight == false) {
+                    if (weighted == undefined || weighted == false) {
                         mat[j][i] = mat[i][j] = e.length;
                     }
                     else {
@@ -1409,7 +1354,7 @@ _.extend(Graph.prototype, {
                     }
                 }
                 else if (e != null){
-                    if (weight == undefined || weight == false) {
+                    if (weighted == undefined || weighted == false) {
                         mat[j][i] = mat[i][j] = 1;
                     }
                     else {
@@ -1455,7 +1400,8 @@ _.extend(Graph.prototype, {
 //utility functions for bipartite graphs
 _.extend(Graph.prototype, {
 
-    project: function(nodes, weight) {
+    //TODO weighted projection DONE
+    project: function(nodes, weighted) {
 
         var g = new Graph();
         var nbrs = {};
@@ -1468,6 +1414,7 @@ _.extend(Graph.prototype, {
         for (var i = 0; i < nodes.length; i ++) {
             for (var j = 0; j < nodes.length; j ++) {
                 var nbrIntersectionCnt = _.intersection(nbrs[nodes[i]], nbrs[nodes[j]]).length;
+                // console.info(nbrIntersectionCnt);
                 if (nbrIntersectionCnt > 0) {
                     g.addLink(i * nodes.length + j, nodes[i], nodes[j], {weight: nbrIntersectionCnt});
                 }
@@ -1482,9 +1429,32 @@ _.extend(Graph.prototype, {
 
 _.extend(Graph.prototype, {
 
-    laplacianMatrix: function(nids) {
+    test : function() {
 
-        var mat = this.adjacencyMatrix(nids),
+        g_test = new Graph();
+        g_test.addNode('a');
+        g_test.addNode('b');
+        g_test.addNode('c');
+        g_test.addNode('d');
+        g_test.addNode('e');
+
+        g_test.addLink('ab', 'a', 'b');
+        g_test.addLink('ac', 'a', 'c');
+        g_test.addLink('ad', 'a', 'd');
+        g_test.addLink('de', 'd', 'e');
+        g_test.addLink('cb', 'c' ,'b');
+        g_test.addLink('cc', 'c', 'c');
+
+    }
+});
+
+
+_.extend(Graph.prototype, {
+
+    //TODO MUST include weight in the adjacency matrix
+    laplacianMatrix: function(nids, weighted) {
+
+        var mat = this.adjacencyMatrix(nids, weighted),
             rowsum = [];
 
         for (var i = 0, ii = nids.length; i < ii; i++) {
@@ -1506,17 +1476,19 @@ _.extend(Graph.prototype, {
             }
         }
 
+
         return mat;
     },
 
-    fiedlerVector: function(weight) {
+    fiedlerVector: function(weighted) {
+
         var nodes = this.getNodes();
-        var lapMat = this.laplacianMatrix(nodes, weight);
+        var lapMat = this.laplacianMatrix(nodes, weighted);
         var eigen = matrix.eigen(lapMat);
 
         var rs = {};
         for (var i = 0; i < nodes.length; i ++) {
-            rs[nodes[i]] = eigen.V[eigen.IDX];
+            rs[nodes[i]] = eigen.V[eigen.IDX][i];
         }
 
         return rs;
@@ -1616,7 +1588,7 @@ _.extend(Graph.prototype, {
 var config = {
 
     x0: 300,
-    y0: 120,
+    y0: 200,
 
     width: 1000,
     height: 800,
@@ -1792,6 +1764,25 @@ _.extend(CiteVis.prototype, {
             y += matrixCellSize * self.years[self.confs[i]].length;
         }
 
+
+        //draw citing papers and cited papers
+        self.canvas.selectAll('.label0')
+            .data(['cited', 'citing'])
+            .enter()
+            .append('text')
+            .attr('class', 'label')
+            .text(_.identity)
+            .attr('text-anchor', 'end')
+            .attr('x', function(l) {
+                if (l == 'cited')  return self.config.label0Shift - 80;
+                else return y / 2;
+            })
+            .attr('y', function(l) {
+                if (l == 'cited')  return y / 2;
+                else return -150;
+            });
+
+
         var conf_rows = self.canvas.selectAll('.conf_row')
             .data(self.confs)
             .enter()
@@ -1810,8 +1801,12 @@ _.extend(CiteVis.prototype, {
             .attr('y', function(cc) {
                 return matrixCellSize * self.years[cc].length / 2;
             })
-            .text(_.identity)
+            .text(function(cc) {
+                if (cc == 'vis') return 'scivis';
+                else return cc;
+            })
             .attr('text-anchor', 'end');
+
 
 
         conf_rows
@@ -1929,7 +1924,10 @@ _.extend(CiteVis.prototype, {
             .selectAll('.conf_col')
             .append('text')
             .attr('class', 'conf_col_label')
-            .text(_.identity)
+            .text(function(cc) {
+                if (cc == 'vis') return 'scivis';
+                else return cc;
+            })
             .attr('text-anchor', 'middle')
             .attr('x', function(c, i) {return self.years[c].length * matrixCellSize / 2;})
             .attr('y', self.config.label0Shift)
@@ -1937,9 +1935,6 @@ _.extend(CiteVis.prototype, {
 
                 var years = d3.select(this.parentNode)
                     .selectAll('.year_col');
-
-                console.log(years);
-                console.log(c);
 
                 years.append('text')
                     .attr('class', 'year_col_label')
@@ -1949,6 +1944,8 @@ _.extend(CiteVis.prototype, {
                     .attr('x', matrixCellSize)
                     .attr('transform', geom.transform.begin().rotate(-90.0, matrixCellSize, self.config.label1Shift).end());
             });
+
+
     }
 });
 

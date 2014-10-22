@@ -30,6 +30,8 @@ info('started')
 
 cnt_unmatched = 0
 
+matched = {}
+
 i = 0
 for k in papers2:
     year2, title2 = papers2[k]['year'], papers2[k]['title']
@@ -39,7 +41,9 @@ for k in papers2:
     if i % 10 == 0:
         print str(i) + ' papers checked'
     cnt = 0
+    title0 = None
     for title in papers[(conf2, year2)]:
+        title0 = title
         title, title2 = title.lower(), title2.lower()
         title2 = title2[11:] if title2.startswith('case study') else title2
         title2 = title2[15:] if title2.startswith('research report') else title2
@@ -48,13 +52,27 @@ for k in papers2:
         title.replace('&amp', '')
         if edit_distance(title, title2) < 12:
             cnt += 1
-    if cnt != 1:
-        print str(cnt) + ' matches found, error for paper ' + k  + ' ' + title2 
-        cnt_unmatched += 1
+            break
+    if cnt == 1:
+        # print title0 + '\t' + k
+        matched[title0] = k
     i +=1
 
 
 
+##check matched
+
+print '-------------------------------------------------------------------'
+
+
+with open(fn0, 'r') as f:
+    f.readline()
+    for l in f:
+        conf, year, title = l.split('\t')[1:4]
+        isOther, filename = l.split('\t')[9], l.split('\t')[16]
+        conf, year, title, isOther, filename = str(conf.lower()), int(year), str(title), len(isOther) > 0, filename.split('.')[0]
+        if not isOther and title in matched and matched[title] != filename:
+            print title + '\t' + filename + '\t' + matched[title]
 
 
 

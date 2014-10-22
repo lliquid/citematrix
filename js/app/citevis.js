@@ -149,6 +149,25 @@ _.extend(CiteVis.prototype, {
             y += matrixCellSize * self.years[self.confs[i]].length;
         }
 
+
+        //draw citing papers and cited papers
+        self.canvas.selectAll('.label0')
+            .data(['cited', 'citing'])
+            .enter()
+            .append('text')
+            .attr('class', 'label')
+            .text(_.identity)
+            .attr('text-anchor', 'end')
+            .attr('x', function(l) {
+                if (l == 'cited')  return self.config.label0Shift - 80;
+                else return y / 2;
+            })
+            .attr('y', function(l) {
+                if (l == 'cited')  return y / 2;
+                else return -150;
+            });
+
+
         var conf_rows = self.canvas.selectAll('.conf_row')
             .data(self.confs)
             .enter()
@@ -167,8 +186,12 @@ _.extend(CiteVis.prototype, {
             .attr('y', function(cc) {
                 return matrixCellSize * self.years[cc].length / 2;
             })
-            .text(_.identity)
+            .text(function(cc) {
+                if (cc == 'vis') return 'scivis';
+                else return cc;
+            })
             .attr('text-anchor', 'end');
+
 
 
         conf_rows
@@ -286,7 +309,10 @@ _.extend(CiteVis.prototype, {
             .selectAll('.conf_col')
             .append('text')
             .attr('class', 'conf_col_label')
-            .text(_.identity)
+            .text(function(cc) {
+                if (cc == 'vis') return 'scivis';
+                else return cc;
+            })
             .attr('text-anchor', 'middle')
             .attr('x', function(c, i) {return self.years[c].length * matrixCellSize / 2;})
             .attr('y', self.config.label0Shift)
@@ -294,9 +320,6 @@ _.extend(CiteVis.prototype, {
 
                 var years = d3.select(this.parentNode)
                     .selectAll('.year_col');
-
-                console.log(years);
-                console.log(c);
 
                 years.append('text')
                     .attr('class', 'year_col_label')
@@ -306,5 +329,7 @@ _.extend(CiteVis.prototype, {
                     .attr('x', matrixCellSize)
                     .attr('transform', geom.transform.begin().rotate(-90.0, matrixCellSize, self.config.label1Shift).end());
             });
+
+
     }
 });

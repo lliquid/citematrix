@@ -6,7 +6,7 @@
 var config = {
 
     x0: 300,
-    y0: 120,
+    y0: 200,
 
     width: 1000,
     height: 800,
