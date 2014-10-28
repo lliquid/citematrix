@@ -36,7 +36,7 @@ Crawfis, R. <- Crawfis, R.A.
 Crossno, P. <- Crossno, P.J.
 Crossno, P. <- Crossno, P. J.
 Crow, V. <- Crow, V.L.
-Cui, D.H. < Cui, D. H.
+Cui, D.H. <- Cui, D. H.
 Czerwinski, M. <- Czerwinski, Mary
 Davidson, G. <- Davidson, G.S.
 De Floriani, L. <- De Fioriani, L.
@@ -174,6 +174,3 @@ Whitaker, R.T. <- Whitaker, R.
 Williams, D. <- Williams, D.W.
 Wylie, B. <- Wylie, B.N.
 Youn-ah Kang <- Youn ah Kang
-
-
-
