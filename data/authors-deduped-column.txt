@@ -1,0 +1,2460 @@
+deduped author names
+Hullman, J.;Drucker, S.;Riche, N.H.;Bongshin Lee;Fisher, D.;Adar, E.
+Schulz, H.;Nocke, T.;Heitzler, M.;Schumann, H.
+Jackson, B.;Tung Yuen Lau;Schroeder, D.;Toussaint, K.C.;Keefe, D.F.
+Kehrer, J.;Piringer, H.;Berger, W.;Groller, E.
+Wei-Hsien Hsu;Yubo Zhang;Kwan-Liu Ma
+Brehmer, M.;Munzner, T.
+Muhlbacher, T.;Piringer, H.
+Isenberg, T.;Isenberg, P.;Jian Chen;Sedlmair, M.;Moller, T.
+Papadopoulos, C.;Kaufman, A.
+Barakat, S.S.;Tricoche, X.
+Ament, M.;Sadlo, F.;Weiskopf, D.
+Roth, R.E.
+Doraiswamy, H.;Natarajan, V.;Nanjundiah, R.S.
+Walker, R.;Slingsby, A.;Dykes, J.;Kai Xu;Wood, J.;Nguyen, P.H.;Stephens, D.;Wong, B.L.W.;Yongjun Zheng
+Biswas, A.;Dutta, S.;Han-Wei Shen;Woodring, J.
+Jansen, Y.;Dragicevic, P.
+Xin Zhao;Zhengyu Su;Gu, X.;Kaufman, A.;Jian Sun;Jie Gao;Feng Luo
+Bakke, E.;Karger, D.R.;Miller, R.C.
+Gosink, L.;Bensema, K.;Pulsipher, T.;Obermaier, H.;Henry, M.;Childs, H.;Joy, K.I.
+Gurijala, K.C.;Rui Shi;Wei Zeng;Xianfeng Gu;Kaufman, A.
+Hofmann, H.;Vendettuoli, M.
+Hummel, M.;Obermaier, H.;Garth, C.;Joy, K.I.
+Beyer, J.;Al-Awami, A.;Kasthuri, N.;Lichtman, J.;Pfister, H.;Hadwiger, M.
+Whitaker, R.T.;Mirzargar, M.;Kirby, R.M.
+Hanqi Guo;Xiaoru Yuan;Jian Huang;Xiaomin Zhu
+Goodwin, S.;Dykes, J.;Jones, S.;Dillingham, I.;Dove, G.;Duffy, A.;Kachkaev, A.;Slingsby, A.;Wood, J.
+Broeksema, B.;Baudel, T.;Telea, A.;Crisafulli, P.
+Coffey, D.;Chi-Lun Lin;Erdman, A.G.;Keefe, D.F.
+Thomas, D.M.;Natarajan, V.
+Rufiange, S.;McGuffin, M.J.
+Xiaoru Yuan;Donghao Ren;Zuchao Wang;Cong Guo
+Dwyer, T.;Riche, N.H.;Marriott, K.;Mears, C.
+Teng-Yok Lee;Han-Wei Shen
+Sedlmair, M.;Munzner, T.;Tory, M.
+Lex, A.;Partl, C.;Kalkofen, D.;Streit, M.;Gratzl, S.;Wassermann, A.M.;Schmalstieg, D.;Pfister, H.
+Borkin, M.;Yeh, C.S.;Boyd, M.;Macko, P.;Gajos, K.;Seltzer, M.;Pfister, H.
+Froese, M.-E.;Tory, M.;Evans, G.-W.;Shrikhande, K.
+Gleicher, M.
+Parulek, J.;Brambilla, A.
+Ehlke, M.;Ramm, H.;Lamecker, H.;Hege, H.-C.;Zachow, S.
+Im, J.-F.;McGuffin, M.J.;Leung, R.
+Maries, A.;Mays, N.;Hunt, M.O.;Wong, K.F.;Layton, W.;Boudreau, R.;Rosano, C.;Marai, G.E.
+Wenwen Dou;Li Yu;Xiaoyu Wang;Zhiqiang Ma;Ribarsky, W.
+Isenberg, P.;Dragicevic, P.;Willett, W.;Bezerianos, A.;Fekete, J.
+Willett, W.;Ginosar, S.;Steinitz, A.;Hartmann, B.;Agrawala, M.
+Jakobsen, M.R.;Sahlemariam Haile, Y.;Knudsen, S.;Hornbaek, K.
+Jian Zhao;Collins, C.;Chevalier, F.;Balakrishnan, R.
+Meghdadi, A.H.;Irani, P.
+Kretschmer, J.;Godenschwager, C.;Preim, B.;Stamminger, M.
+Jakobsen, M.R.;Hornbaek, K.
+Yubo Zhang;Kwan-Liu Ma
+Gratzl, S.;Lex, A.;Gehlenborg, N.;Pfister, H.;Streit, M.
+Rungta, A.;Summa, B.;Demir, D.;Bremer, P.-T.;Pascucci, V.
+Reh, A.;Gusenbauer, C.;Kastner, J.;Groller, E.;Heinzl, C.
+Bernard, J.;Wilhelm, N.;Kruger, B.;May, T.;Schreck, T.;Kohlhammer, J.
+Lins, L.;Klosowski, J.T.;Scheidegger, C.E.
+Khlebnikov, R.;Kainz, B.;Steinberger, M.;Schmalstieg, D.
+Schultz, T.;Kindlmann, G.
+Lehmann, D.J.;Theisel, H.
+Gleicher, M.;Correll, M.;Nothelfer, C.;Franconeri, S.
+Alsallakh, B.;Aigner, W.;Miksch, S.;Hauser, H.
+Bosch, H.;Thom, D.;Heimerl, F.;Puttmann, E.;Koch, S.;Kruger, R.;Worner, M.;Ertl, T.
+Fink, M.;Haunert, J.-H.;Spoerhase, J.;Wolff, A.
+Xinran Hu;Bradel, L.;Maiti, D.;House, L.;North, C.;Leman, S.
+Kohler, B.;Gasteiger, R.;Preim, U.;Theisel, H.;Gutberlet, M.;Preim, B.
+Bing Wang;Ruchikachorn, P.;Mueller, K.
+Bongshin Lee;Kazi, R.H.;Smith, G.
+Perin, C.;Vuillemot, R.;Fekete, J.
+Andrienko, N.;Andrienko, G.;Barrett, L.;Dostie, M.;Henzi, P.
+Kurzhals, K.;Weiskopf, D.
+Shixia Liu;Yingcai Wu;Enxun Wei;Mengchen Liu;Yang Liu
+Hajizadeh, A.H.;Tory, M.;Leung, R.
+Hadlak, S.;Schumann, H.;Cap, C.H.;Wollenberg, T.
+Monroe, M.;Rongjian Lan;Hanseung Lee;Plaisant, C.;Shneiderman, B.
+Andrews, C.;North, C.
+Rind, A.;Lammarsch, T.;Aigner, W.;Alsallakh, B.;Miksch, S.
+Legg, P.A.;Chung, D.H.S.;Parry, M.L.;Bown, R.;Jones, M.;Griffiths, I.W.;Min Chen
+Athawale, T.;Entezari, A.
+Basole, R.C.;Clear, T.;Mengdie Hu;Mehrotra, H.;Stasko, J.
+Chevalier, F.;Vuillemot, R.;Gali, G.
+Kodagoda, N.;Attfield, S.;Wong, B.L.W.;Rooney, C.;Choudhury, S.
+Jaegul Choo;Changhyun Lee;Reddy, C.K.;Park, H.
+Schmidt, J.;Groller, E.;Bruckner, S.
+Ferstay, J.A.;Nielsen, C.B.;Munzner, T.
+Auzinger, T.;Mistelbauer, G.;Baclija, I.;Schernthaner, R.;Kochl, A.;Wimmer, M.;Groller, E.;Bruckner, S.
+Jiawan Zhang;Kai Kang;Dajian Liu;Ye Yuan;Yanli, E.
+Shadoan, R.;Weaver, C.
+Panpan Xu;Yingcai Wu;Enxun Wei;Tai-Quan Peng;Shixia Liu;Zhu, J.J.H.;Huamin Qu
+Bogl, M.;Aigner, W.;Filzmoser, P.;Lammarsch, T.;Miksch, S.;Rind, A.
+Ghani, S.;Bum Chul Kwon;Seungyoon Lee;Ji Soo Yi;Elmqvist, N.
+Packer, E.;Bak, P.;Nikkila, M.;Polishchuk, V.;Ship, H.J.
+Maguire, E.;Rocca-Serra, P.;Sansone, S.-A.;Davies, J.;Min Chen
+Ferreira, N.;Poco, J.;Vo, H.T.;Freire, J.;Silva, C.T.
+Huron, S.;Vuillemot, R.;Fekete, J.
+Zuchao Wang;Min Lu;Xiaoru Yuan;Junping Zhang;Van De Wetering, H.
+Szymczak, A.;Sipeki, L.
+Taimouri, V.;Jing Hua
+Guerra-Gomez, J.;Pack, M.L.;Plaisant, C.;Shneiderman, B.
+Vehlow, C.;Reinhardt, T.;Weiskopf, D.
+Sambasivan, R.R.;Shafer, I.;Mazurek, M.L.;Ganger, G.R.
+Borkin, M.;Vo, A.A.;Bylinskii, Z.;Isola, P.;Sunkavalli, S.;Oliva, A.;Pfister, H.
+Takle, J.;Silver, D.;Heitmann, K.
+Malik, A.;Maciejewski, R.;Elmqvist, N.;Yun Jang;Ebert, D.S.;Huang, W.
+Kuhne, L.;Giesen, J.;Zhiyuan Zhang;Sungsoo Ha;Mueller, K.
+Kehrer, J.;Boubela, R.N.;Filzmoser, P.;Piringer, H.
+Kaehler, R.;Hahn, O.;Abel, T.
+Solteszova, V.;Turkay, C.;Price, M.C.;Viola, I.
+Kai Xu;Rooney, C.;Passmore, P.;Dong-Han Ham;Nguyen, P.H.
+Unger, A.;Schulte, S.;Klemann, V.;Dransch, D.
+Sips, M.;Kothur, P.;Unger, A.;Hege, H.-C.;Dransch, D.
+Beecham, R.;Wood, J.;Bowerman, A.
+Jenny, B.
+Fink, M.;Haunert, J.-H.;Schulz, A.;Spoerhase, J.;Wolff, A.
+Piringer, H.;Buchetics, M.;Benedik, R.
+Ahmed, Z.;Weaver, C.
+Fout, N.;Kwan-Liu Ma
+Crouser, R.J.;Chang, R.
+Talbot, J.;Gerth, J.;Hanrahan, P.
+Borgo, R.;Abdul-Rahman, A.;Mohamed, F.;Grant, P.W.;Reppa, I.;Floridi, L.;Min Chen
+Reich, W.;Scheuermann, G.
+Andrews, C.;North, C.
+Micallef, L.;Dragicevic, P.;Fekete, J.
+Ushizima, D.;Morozov, D.;Weber, G.H.;Bianchi, A.G.C.;Sethian, J.A.;Bethel, E.W.
+Calderon, N.A.;Riecke, B.E.;Fisher, B.
+Gasteiger, R.;Lehmann, D.J.;van Pelt, R.;Janiga, G.;Beuing, O.;Vilanova, A.;Theisel, H.;Preim, B.
+Lathen, G.;Lindholm, S.;Lenz, R.;Persson, A.;Borga, M.
+Bongshin Lee;Isenberg, P.;Riche, N.H.;Carpendale, S.
+Baudel, T.;Broeksema, B.
+Bock, A.;Sunden, E.;Bingchen Liu;Wunsche, B.;Ropinski, T.
+Pilhofer, A.;Gribov, A.;Unwin, A.
+Dinkla, K.;Westenberg, M.A.;van Wijk, J.J.
+Gyulassy, A.;Bremer, P.-T.;Pascucci, V.
+Gurijala, K.C.;Lei Wang;Kaufman, A.
+Obermaier, H.;Joy, K.I.
+Tanahashi, Y.;Kwan-Liu Ma
+Sedlmair, M.;Meyer, M.;Munzner, T.
+Gomez, S.R.;Jianu, R.;Ziemkiewicz, C.;Hua Guo;Laidlaw, D.H.
+Brown, E.T.;Jingjing Liu;Brodley, C.E.;Chang, R.
+Sung-Hee Kim;Zhihua Dong;Hanjun Xian;Upatising, B.;Ji Soo Yi
+Jian Chen;Haipeng Cai;Auchus, A.P.;Laidlaw, D.H.
+Lingyun Yu;Efstathiou, K.;Isenberg, P.;Isenberg, T.
+Nelson, B.;Liu, E.;Kirby, R.M.;Haimes, R.
+Kandel, S.;Paepcke, A.;Hellerstein, J.M.;Heer, J.
+Boukhelifa, N.;Bezerianos, A.;Isenberg, T.;Fekete, J.
+Vande Moere, A.;Tomitsch, M.;Wimmer, C.;Christoph, B.;Grechenig, T.
+Hoferlin, M.;Kurzhals, K.;Hoferlin, B.;Heidemann, G.;Weiskopf, D.
+Livingston, M.A.;Decker, J.W.;Zhuming Ai
+Youn-ah Kang;Stasko, J.
+Hao, M.;Marwah, M.;Mittelstadt, S.;Janetzko, H.;Keim, D.A.;Dayal, U.;Bash, C.;Felix, C.;Patel, C.;Hsu, M.;Chen, Y.
+Wongsuphasawat, K.;Gotz, D.
+Harrison, L.;Chang, R.;Aidong Lu
+Jian Zhao;Chevalier, F.;Collins, C.;Balakrishnan, R.
+Bowman, I.;Joshi, S.H.;Greer, V.;Van Horn, J.D.
+Fout, N.;Kwan-Liu Ma
+Tierny, J.;Pascucci, V.
+Kong, N.;Agrawala, M.
+Hofmann, H.;Follett, L.;Majumder, M.;Cook, D.
+Cheuk Yiu Ip;Varshney, A.;JaJa, J.
+Jonsson, D.;Kronander, J.;Ropinski, T.;Ynnerman, A.
+Haroz, S.;Whitney, D.
+Ahmed, N.;Ziyi Zheng;Mueller, K.
+Portes dos Santos Amorim, E.;Brazil, E.V.;Daniels, J.;Joia, P.;Nonato, L.G.;Sousa, M.C.
+Hua Guo;Tran, D.;Laidlaw, D.H.
+Schwabish, J.A.
+Angelini, M.;Ferro, N.;Granato, G.;Santucci, G.;Silvello, G.
+Xiaoru Yuan;Limei Che;Yifan Hu;Xin Zhang
+Hoferlin, B.;Netzel, R.;Hoferlin, M.;Weiskopf, D.;Heidemann, G.
+Tominski, C.;Forsell, C.;Johansson, J.
+Zinsmaier, M.;Brandes, U.;Deussen, O.;Strobelt, H.
+Westerteiger, R.;Compton, T.;Bernadin, T.;Cowgill, E.;Gwinner, K.;Hamann, B.;Gerndt, A.;Hagen, H.
+Hadwiger, M.;Beyer, J.;Won-Ki Jeong;Pfister, H.
+Kandogan, E.
+Hui Zhang;Jianguang Weng;Lin Jing;Yiwen Zhong
+Schindler, B.;Fuchs, R.;Barp, S.;Waser, J.;Pobitzer, A.;Carnecky, R.;Matkovic, K.;Peikert, R.
+Wenwen Dou;Xiaoyu Wang;Skau, D.;Ribarsky, W.;Zhou, M.X.
+Vadlapudi, R.;Siahbani, M.;Sarkar, A.;Dill, J.
+Ma, J.;Liao, I.;Kwan-Liu Ma;Frazier, J.
+Behrisch, M.;Davey, J.;Schreck, T.;Keim, D.A.;Kohlhammer, J.
+Marriott, K.;Purchase, H.;Wybrow, M.;Goncu, C.
+Rieck, B.;Mara, H.;Leitte, H.
+Schlegel, S.;Korn, N.;Scheuermann, G.
+Gramazio, C.;Chang, R.
+Nocaj, A.;Brandes, U.
+Bezerianos, A.;Isenberg, P.
+Dork, M.;Riche, N.H.;Ramos, G.;Dumais, S.
+Ottley, A.;Crouser, R.J.;Ziemkiewicz, C.;Chang, R.
+Conglei Shi;Weiwei Cui;Shixia Liu;Panpan Xu;Wei Chen;Huamin Qu
+Alsallakh, B.;Aigner, W.;Miksch, S.;Groller, E.
+Jankowska, M.;Keselj, V.;Milios, E.
+Sedlmair, M.;Frank, A.;Munzner, T.;Butz, A.
+Turkay, C.;Lundervold, A.;Lundervold, A.;Hauser, H.
+Hossain, M.S.;Ojili, P.K.R.;Grimm, C.;Muller, R.;Watson, L.T.;Ramakrishnan, N.
+Hollt, T.;Freiler, W.;Gschwantner, F.;Doleisch, H.;Heinemann, G.;Hadwiger, M.
+Endert, A.;Fiaux, P.;North, C.
+Ribicic, H.;Waser, J.;Gurbat, R.;Sadransky, B.;Groller, E.
+Wood, J.;Isenberg, P.;Isenberg, T.;Dykes, J.;Boukhelifa, N.;Slingsby, A.
+Mistelbauer, G.;Bouzari, H.;Schernthaner, R.;Baclija, I.;Kochl, A.;Bruckner, S.;Sramek, M.;Groller, E.
+Pileggi, H.;Stolper, C.D.;Boyle, J.M.;Stasko, J.
+Liang Gou;Xiaolong Zhang;Airong Luo;Anderson, P.F.
+Afzal, S.;Maciejewski, R.;Yun Jang;Elmqvist, N.;Ebert, D.S.
+Junghoon Chae;Thom, D.;Bosch, H.;Yun Jang;Maciejewski, R.;Ebert, D.S.;Ertl, T.
+Tominski, C.;Schumann, H.;Andrienko, G.;Andrienko, N.
+Yubo Tao;Hai Lin;Feng Dong;Chao Wang;Clapworthy, G.;Hujun Bao
+Tatu, A.;Maas, F.;Farber, I.;Bertini, E.;Schreck, T.;Seidl, T.;Keim, D.A.
+Barakat, S.S.;Rutten, M.;Tricoche, X.
+Maguire, E.;Rocca-Serra, P.;Sansone, S.-A.;Davies, J.;Min Chen
+Block, F.;Horn, M.S.;Phillips, B.C.;Diamond, J.;Evans, E.M.;Chia Shen
+Butler, P.;Chakraborty, P.;Ramakrishan, N.
+Olislagers, F.;Worring, M.
+Pohl, M.;Smuc, M.;Mayr, E.
+Chamberland, C.;Vachon, F.;Gagnon, J.;Banbury, S.;Tremblay, S.
+Treib, M.;Burger, K.;Reichl, F.;Meneveau, C.;Szalay, A.;Westermann, R.
+Walny, J.;Bongshin Lee;Johns, P.;Riche, N.H.;Carpendale, S.
+Green, T.M.;Fisher, B.
+Kachkaev, A.;Wood, J.
+Dongxing Teng;Haiyan Yang;Cuixia Ma;Hongan Wang
+Leishi Zhang;Stoffel, A.;Behrisch, M.;Mittelstadt, S.;Schreck, T.;Pompl, R.;Weber, S.;Last, H.;Keim, D.A.
+Andrienko, G.;Andrienko, N.;Burch, M.;Weiskopf, D.
+von Landesberger, T.;Bremm, S.;Andrienko, N.;Andrienko, G.;Tekusova, M.
+Heimerl, F.;Koch, S.;Bosch, H.;Ertl, T.
+Jishang Wei;Zeqian Shen;Sundaresan, N.;Kwan-Liu Ma
+Meyer, J.;Bethel, E.W.;Horsman, J.L.;Hubbard, S.S.;Krishnan, H.;Romosan, A.;Keating, E.H.;Monroe, L.;Strelitz, R.;Moore, P.;Taylor, G.;Torkian, B.;Johnson, T.C.;Gorton, I.
+Schreck, T.;Sharalieva, L.;Wanner, F.;Bernard, J.;Ruppert, T.;von Landesberger, T.;Bustos, B.
+Anand, A.;Wilkinson, L.;Tuan Nhon Dang
+MacEachren, A.M.;Roth, R.E.;O'Brien, J.;Li, B.;Swingley, D.;Gahegan, M.
+Engel, D.;Greff, K.;Garth, C.;Bein, K.;Wexler, A.;Hamann, B.;Hagen, H.
+Goodwin, S.;Dykes, J.
+Wenger, S.;Ament, M.;Guthe, S.;Lorenz, D.;Tillmann, A.;Weiskopf, D.;Magnor, M.
+Grottel, S.;Beck, P.;Muller, C.;Reina, G.;Roth, J.;Trebin, H.-R.;Ertl, T.
+Schroder, S.;Peterson, J.A.;Obermaier, H.;Kellogg, L.H.;Joy, K.I.;Hagen, H.
+Frey, S.;Sadlo, F.;Ertl, T.
+Yingcai Wu;Guo-Xun Yuan;Kwan-Liu Ma
+Itoh, M.;Toyoda, M.;Kamijo, T.;Kitsuregawa, M.
+Landge, A.G.;Levine, J.A.;Bhatele, A.;Isaacs, K.E.;Gamblin, T.;Schulz, M.;Langer, S.;Bremer, P.-T.;Pascucci, V.
+Duke, D.;Carr, H.;Knoll, A.;Schunck, N.;Hai Ah Nam;Staszczak, A.
+Trimm, D.;Rheingans, P.;desJardins, M.
+Cottam, J.A.;Lumsdaine, A.;Weaver, C.
+Nan Cao;Yu-Ru Lin;Xiaohua Sun;Lazer, D.;Shixia Liu;Huamin Qu
+Wiebel, A.;Vos, F.M.;Foerster, D.;Hege, H.-C.
+Itoh, M.;Yoshinaga, N.;Toyoda, M.;Kitsuregawa, M.
+Reininghaus, J.;Kotava, N.;Gunther, D.;Kasten, J.;Hagen, H.;Hotz, I.
+Dong Hyun Jeong;Soo-Yeon Ji;Ribarsky, W.;Chang, R.
+Isenberg, P.;Bezerianos, A.;Dragicevic, P.;Fekete, J.
+Xiaoyu Wang;Wenwen Dou;Butkiewicz, T.;Bier, E.A.;Ribarsky, W.
+Malik, A.;Maciejewski, R.;Maule, B.;Ebert, D.S.
+Kulkarni, I.;Mistry, S.Y.;Cummings, B.;Gopi, M.
+Lindemann, F.;Ropinski, T.
+Williams, S.;Petersen, M.;Bremer, P.-T.;Hecht, M.;Pascucci, V.;Ahrens, J.;Hlawitschka, M.;Hamann, B.
+Dasgupta, A.;Kosara, R.
+Weifeng Chen;Wei Chen;Hujun Bao
+Lamagna, W.M.
+Pietroni, N.;Massimiliano, C.;Cignoni, P.;Scopigno, R.
+Weijia Xu;Esteva, M.;Suyog Dutt Jain;Varun Jain
+Andrews, C.;Hossain, M.S.;Gad, S.;Ramakrishnan, N.;North, C.
+Harrison, L.;Wenwen Dou;Aidong Lu;Ribarsky, W.;Xiaoyu Wang
+Zhao Geng;ZhenMin Peng;Laramee, R.S.;Roberts, J.C.;Walker, R.
+Talbot, J.;Gerth, J.;Hanrahan, P.
+Giusti, A.;Taddei, P.;Corani, G.;Gambardella, L.;Magli, C.;Gianaroli, L.
+Brandes, U.;Nick, B.
+Guoning Chen;Palke, D.;Zhongzang Lin;Yeh, H.;Vincent, P.;Laramee, R.S.;Zhang, E.
+Guangyu Zou;Jiaxi Hu;Xianfeng Gu;Jing Hua
+Icke, I.;Rosenberg, A.
+Ruiz, M.;Bardera, A.;Boada, I.;Viola, I.;Feixas, M.;Sbert, M.
+Wood, J.;Badawood, D.;Dykes, J.;Slingsby, A.
+van den Elzen, S.;van Wijk, J.J.
+Hullman, J.;Adar, E.;Shah, P.
+Ferreira, N.;Lins, L.;Fink, D.;Kelling, S.;Wood, C.;Freire, J.;Silva, C.T.
+Bei Wang;Summa, B.;Pascucci, V.;Vejdemo-Johansson, M.
+Turkay, C.;Filzmoser,P.;Hauser H.
+Youn-ah Kang;Stasko, J.
+Banfi, N.;Dudas, L.;Fekete, Z.;Gobolos-Szabo, J.;Lukacs, A.;Nagy, A.;Szabo, A.;Szabo, Z.;Szucs, G.
+Krstajic, M.;Bertini, E.;Keim, D.A.
+Scheepens, R.;Willems, N.;van de Wetering, H.;Andrienko, G.;Andrienko, N.;van Wijk, J.J.
+Marino, J.;Wei Zeng;Xianfeng Gu;Kaufman, A.
+Steinberger, M.;Waldner, M.;Streit, M.;Lex, A.;Schmalstieg, D.
+Khlebnikov, R.;Kainz, B.;Muehl, J.;Schmalstieg, D.
+Bostock, M.;Ogievetsky, V.;Heer, J.
+Alper, B.;Riche, N.H.;Ramos, G.;Czerwinski, M.
+Juhee Bae;Watson, B.
+Nan Cao;Gotz, D.;Jimeng Sun;Huamin Qu
+Dick, C.;Burgkart, R.;Westermann, R.
+Selassie, D.;Heller, B.;Heer, J.
+Haunert, J.-H.;Sering, L.
+ap Cenydd, L.;Walker, R.;Pop, S.;Miles, H.;Hughes, C.;Teahan, W.;Roberts, J.C.
+Borkin, M.;Gajos, K.;Peters, A.;Mitsouras, D.;Melchionna, S.;Rybicki, F.;Feldman, C.;Pfister, H.
+Bauer, J.;Thelen, S.;Ebert, A.
+Burch, M.;Konevtsova, N.;Heinrich, J.;Hoeferlin, M.;Weiskopf, D.
+Livingston, M.A.;Decker, J.W.
+Jian Zhao;Chevalier, F.;Pietriga, E.;Balakrishnan, R.
+Crouser, R.J.;Freeman, J.G.;Chang, R.
+Rodgers, J.;Bartram, L.
+Piringer, H.;Buchetics, M.
+Slingsby, A.;Dykes, J.;Wood, J.
+Schlegel, P.;Makhinya, M.;Pajarola, Renato
+Bennett, J.C.;Krishnamoorthy, V.;Shusen Liu;Grout, R.W.;Hawkes, E.R.;Chen, J.H.;Shepherd, J.;Pascucci, V.;Bremer, P.-T.
+Lehmann, D.J.;Theisel, H.
+Jingjing Liu;Brown, E.T.;Chang, R.
+Claessen, J.H.T.;van Wijk, J.J.
+Buchin, K.;Speckmann, B.;Verbeek, K.
+Hlawatsch, M.;Leube, P.;Nowak, W.;Weiskopf, D.
+Lipsa, D.R.;Laramee, R.S.;Cox, S.J.;Davies, I.T.
+Yu-Shuen Wang;Ming-Te Chi
+Andrienko, G.;Andrienko, N.;Hurter, C.;Rinzivillo, S.;Wrobel, S.
+Sharara, H.;Sopan, A.;Namata, G.;Getoor, L.;Singh, L.
+Giacobe, N.A.;Sen Xu
+Nelson, B.;Haimes, R.;Kirby, R.M.
+Rieder, C.;Kroeger, T.;Schumann, C.;Hahn, H.K.
+May, T.;Bannach, A.;Davey, J.;Ruppert, T.;Kohlhammer, J.
+Harrison, L.;Wenwen Dou;Aidong Lu;Ribarsky, W.;Xiaoyu Wang
+Parry, M.L.;Legg, P.A.;Chung, D.H.S.;Griffiths, I.W.;Chen, M.
+Ziemkiewicz, C.;Crouser, R.J.;Yauilla, A.R.;Su, S.L.;Ribarsky, W.;Chang, R.
+Lloyd, D.;Dykes, J.
+Sunden, E.;Ynnerman, A.;Ropinski, T.
+Paiva, J.G.;Florian, L.;Pedrini, H.;Telles, G.P.;Minghim, R.
+Hadlak, S.;Schulz, H.;Schumann, H.
+Canfield, C.M.;Sheffield, D.
+Migut, M.;van Gemert, J.C.;Worring, M.
+Suter, S.K.;Iglesias Guitian, J.A.;Marton, F.;Agus, M.;Elsener, A.;Zollikofer, C.P.E.;Gopi, M.;Gobbetti, E.;Pajarola, Renato
+van Pelt, R.;Olivan Bescos, J.;Breeuwer, M.;Clough, R.E.;Groller, E.;ter Haar Romenij, B.;Vilanova, A.
+Bremm, S.;von Landesberger, T.;Hess, M.;Schreck, T.;Weil, P.;Hamacherk, K.
+Muigg, P.;Hadwiger, M.;Doleisch, H.;Groller, E.
+Oeltze, S.;Freiler, W.;Hillert, R.;Doleisch, H.;Preim, B.;Schubert, W.
+Ziyi Zheng;Ahmed, N.;Mueller, K.
+Braunstein, E.;Gorg, C.;Zhicheng Liu;Stasko, J.
+Peca, I.;Zhi, H.;Vrotsou, K.;Andrienko, N.;Andrienko, G.
+Nouanesengsy, B.;Teng-Yok Lee;Han-Wei Shen
+Joia, P.;Paulovich, F.V.;Coimbra, D.;Cuminato, J.A.;Nonato, L.G.
+Boone, K.;Swing, E.
+Chen, Y.V.;Qian, Z.C.;Li Zhang
+Hurter, C.;Telea, A.;Ersoy,O.
+Lundstrom, C.;Rydell, T.;Forsell, C.;Persson, A.;Ynnerman, A.
+Zhicheng Liu;Navathe, S.B.;Stasko, J.
+Waser, J.;Ribicic, H.;Fuchs, R.;Hirsch, C.;Schindler, B.;Bloschl, G.;Groller, E.
+Endert, A.;Chao Han;Maiti, D.;House, L.;Leman, S.;North, C.
+Fekete, J.;Hemery, P.;Baudel, T.;Wood, J.
+Heer, J.;Perer, A.
+Burch, M.;Vehlow, C.;Beck, F.;Diehl, S.;Weiskopf, D.
+Wenwen Dou;Xiaoyu Wang;Chang, R.;Ribarsky, W.
+Albuquerque, G.;Eisemann, M.;Magnor, M.
+Rothenberger, S.D.;Wenskovitch, J.E.;Marai, G.E.
+Zhenyu Guo;Ward, M.O.;Rundensteiner, E.A.;Ruiz, C.
+Pinaud, B.;Dubois, J.;Melancon, G.
+Wickham, H.;Hofmann, H.
+Amirkhanov, A.;Heinzl, C.;Reiter, M.;Kastner, J.;Groller, E.
+Bertini, E.;Tatu, A.;Keim, D.A.
+Mirzargar, M.;Entezari, A.
+Bowman, I.;Joshi, S.H.;Van Horn, J.D.
+Cottam, J.A.;Lumsdaine, A.
+Cheuk Yiu Ip;Varshney, A.
+Shi, L.;Qi Liao;Yuan He;Rui Li;Striegel, A.;Zhong Su
+Bosch, H.;Thom, D.;Worner, M.;Koch, S.;Puttmann, E.;Jackle, D.;Ertl, T.
+MacEachren, A.M.;Jaiswal, A.;Robinson, A.;Pezanowski, S.;Savelyev, A.;Mitra, P.;Zhang, X.;Blanford, J.
+Albers, D.;Dewey, C.;Gleicher, M.
+Ersoy, O.;Hurter, C.;Paulovich, F.V.;Cantareiro, G.;Telea, A.
+Alper, B.;Hollerer, T.;Kuchera-Morin, J.;Forbes, A.
+Angelelli, P.;Hauser, H.
+Yang Chen;Alsakran, J.;Barlowe, S.;Jing Yang;Ye Zhao
+Thomas, D.M.;Natarajan, V.
+Albuquerque, G.;Lowe, T.;Magnor, M.
+Weiwei Cui;Shixia Liu;Li Tan;Conglei Shi;Yangqiu Song;Zekai Gao;Huamin Qu;Xin Tong
+Bartram, L.;Cheung, B.;Stone, M.C.
+Gasteiger, R.;Neugebauer, M.;Beuing, O.;Preim, B.
+Correa, C.;Lindstrom, P.;Bremer, P.-T.
+Correa, C.;Lindstrom, P.
+Yi Gu;Chaoli Wang
+Liang Gou;Xiaolong Zhang
+Gomez, J.A.G.;Buck-Coleman, A.;Plaisant, C.;Shneiderman, B.
+Torsney-Weir, T.;Saad, A.;Moller, T.;Hege, H.-C.;Weber, B.;Verbavatz, J.;Bergner, S.
+Kasten, J.;Reininghaus, J.;Hotz, I.;Hege, H.-C.
+Anand, A.;Wilkinson, L.;Tuan Nhon Dang
+Lex, A.;Schulz, H.;Streit, M.;Partl, C.;Schmalstieg, D.
+He Liu;Yuan Gao;Lu Lu;Siyuan Liu;Huamin Qu;Ni, L.M.
+Bum Chul Kwon;Fisher, Brian;Ji Soo Yi
+Dillingham, I.;Dykes, J.;Wood, J.
+Afzal, S.;Maciejewski, R.;Ebert, D.S.
+Bertini, E.;Buchmuller, J.;Fischer, F.;Huber, S.;Lindemeier, T.;Maass, F.;Mansmann, F.;Ramm, T.;Regenscheit, M.;Rohrdantz, C.;Scheible, C.;Schreck, T.;Sellien, S.;Stoffel, F.;Tautzenberger, M.;Zieker, M.;Keim, D.A.
+Ming Hao;Rohrdantz, C.;Janetzko, H.;Dayal, U.;Keim, D.A.;Haug, L.;Mei-Chun Hsu
+Perer, A.;Guy, I.;Uziel, E.;Ronen, I.;Jacovi, M.
+Walny, J.;Carpendale, S.;Riche, N.H.;Venolia, G.;Fawcett, P.
+Moran, P.J.;Ellsworth, D.
+Pretorius, A.J.;Bray, M.-A.P.;Carpenter, A.E.;Ruddle, R.A.
+Tricoche, X.;Garth, C.;Sanderson, A.
+Hullman, J.;Diakopoulos, N.
+Lemieux, V.;Endicott-Popovsky, B.;Eckler, K.;Dang, T.;Jansen, A.
+Haidacher, M.;Bruckner, S.;Groller, E.
+Lindow, N.;Baum, D.;Hege, H.-C.
+Koehler, C.;Wischgoll, T.;Haibo Dong;Gaston, Z.
+Hanqi Guo;Ningyu Mao;Xiaoru Yuan
+Forbes, A.;Hollerer, T.;Legrady, G.
+Mahyar, N.;Sarvghad, A.;Tory, M.
+Dong Hyun Jeong;Suma, E.;Butkiewicz, T.;Ribarsky, W.;Chang, R.
+Jian Cui;Rosen, P.;Popescu, V.;Hoffmann, C.
+Ruppert, T.;Kohlhammer, J.
+Roman, P.;Lazarov, M.;Majumder, A.
+Ray, W.C.
+Garg, S.;Ramakrishnan, I.;Mueller, K.
+Dork, M.;Gruen, D.;Williamson, C.;Carpendale, S.
+Talbot, J.;Hanrahan, P.
+Green, T.M.;Maciejewski, R.;DiPaola, S.
+Isenberg, P.;Fisher, D.;Morris, M.R.;Inkpen, K.;Czerwinski, M.
+Talbot, J.;Lin, S.;Hanrahan, P.
+Lijie Xu;Teng-Yok Lee;Han-Wei Shen
+Chen, M.;Jänicke, H.
+Sanderson, A.;Guoning Chen;Tricoche, X.;Pugmire, D.;Kruger, S.;Breslau, J.
+Zicheng Liao;Yizhou Yu;Baoquan Chen
+Kok, P.;Baiker, M.;Hendriks, E.A.;Post, F.H.;Dijkstra, J.;Lowik, C.W.G.M.;Lelieveldt, B.P.F.;Botha, C.P.
+Brivio, P.;Tarini, M.;Cignoni, P.
+Yang Chen;Barlowe, S.;Jing Yang
+Bernard, J.;von Landesberger, T.;Bremm, S.;Schreck, T.
+May, T.;Davey, J.;Kohlhammer, J.
+Lex, A.;Streit, M.;Partl, C.;Kashofer, K.;Schmalstieg, D.
+Wenwen Dou;Ziemkiewicz, C.;Harrison, L.;Dong Hyun Jeong;Ryan, R.;Ribarsky, W.;Xiaoyu Wang;Chang, R.
+Bendich, P.;Edelsbrunner, H.;Kerber, M.
+Godwin, J.A.;Kilgore, R.M.
+Monson, E.E.;Guangliang Chen;Brady, R.;Maggioni, M.
+Heer, J.;Bostock, M.
+Diakopoulos, N.;Naaman, M.;Kivran-Swaine, F.
+Ingram, S.;Munzner, T.;Irvine, V.;Tory, M.;Bergner, S.;Möller, T.
+Ament, M.;Weiskopf, D.;Carr, H.
+Lehmann, D.J.;Theisel, H.
+Andrienko, G.;Andrienko, N.;Mladenov, M.;Mock, M.;Politz, C.
+Hosssain, Z.;Moller, T.
+Fraedrich, R.;Auer, S.;Westermann, R.
+Joorabchi, M.E.;Ji-Dong Yim;Shaw, C.
+Gutman, M.;Eosco, G.;Zappa, M.;Weaver, C.
+Joorabchi, M.E.;Ji-Dong Yim;Joorabchi, M.E.;Shaw, C.
+Hoi Ying Tsang;Tory, M.;Swindells, C.
+Borgo, R.;Proctor, K.;Chen, M.;J�nicke, H.;Murray, T.;Thornton, I.M.
+Karpenko, O.;Li, W.;Mitra, N.;Agrawala, M.
+Saad, A.;Hamarneh, G.;Moller, T.
+van Pelt, R.;Olivan Bescos, J.;Breeuwer, M.;Clough, R.E.;Groller, E.;ter Haar Romenij, B.;Vilanova, A.
+Nan Cao;Jimeng Sun;Yu-Ru Lin;Gotz, D.;Shixia Liu;Huamin Qu
+Byeonghun Lee;Jihye Yun;Jinwook Seo;Byonghyo Shim;Yeong Gil Shin;Bohyoung Kim
+Garth, C.;Joy, K.I.
+Lingyun Yu;Svetachov, P.;Isenberg, P.;Everts, M.H.;Isenberg, T.
+Ferdosi, B.J.;Buddelmeijer, H.;Trager, S.;Wilkinson, M.H.F.;Roerdink, J.B.T.
+Yu-Hsuan Chan;Correa, C.;Kwan-Liu Ma
+Bezerianos, A.;Dragicevic, P.;Fekete, J.;Juhee Bae;Watson, B.
+Tomaszewski, B.;MacEachren, A.M.
+Alim, U.;Moller, T.;Condat, L.
+Wickham, H.;Cook, D.;Hofmann, H.;Buja, Andreas
+Javed, W.;McDonnel, B.;Elmqvist, N.
+O'Brien, T.M.;Ritz, A.M.;Raphael, B.J.;Laidlaw, D.H.
+Lipford, H.R.;Stukes, F.;Wenwen Dou;Hawkins, M.E.;Chang, R.
+Grammel, Lars;Tory, M.;Storey, M.
+Born, S.;Wiebel, A.;Friedrich, J.;Scheuermann, G.;Bartz, D.
+Albuquerque, G.;Eisemann, M.;Lehmann, D.J.;Theisel, H.;Magnor, M.
+Won-Ki Jeong;Schneider, J.;Turney, S.G.;Faulkner-Jones, B.E.;Meyer, D.;Westermann, R.;Reid, R.C.;Lichtman, J.;Pfister, H.
+Jing Jin;Szekely, P.
+Ferstl, F.;Burger, K.;Theisel, H.;Westermann, R.
+Daniels II, Joel;Anderson, E.W.;Nonato, L.G.;Silva, C.T.
+Berger, W.;Piringer, H.
+Matkovic, K.;Gracanin, D.;Jelovic, M.;Ammer, A.;Lez, A.;Hauser, H.
+Seon Joo Kim;Shaojie Zhuo;Fanbo Deng;Chi-Wing Fu;Brown, M.S.
+Hummel, M.;Garth, C.;Hamann, B.;Hagen, H.;Joy, K.I.
+Jaegul Choo;Hanseung Lee;Jaeyeon Kihm;Haesun Park
+Joshi, S.H.;Bowman, I.;Van Horn, J.D.
+Ziemkiewicz, C.;Kosara, R.
+Kyle Koh;Bongshin Lee;Bohyoung Kim;Jinwook Seo
+Feng, D.;Kwock, L.;Yueh Lee;Taylor, R.M.
+Zhicheng Liu;Stasko, J.
+Meyer, M.;Munzner, T.;DePace, A.;Pfister, H.
+Weaver, C.
+Segel, E.;Heer, J.
+Speckmann, B.;Verbeek, K.
+Zhicheng Liu;Bongshin Lee;Kandula, S.;Mahajan, R.
+Sanyal, J.;Song Zhang;Dyer, J.;Mercer, A.;Amburn, P.;Moorhead, R.J.
+Khoury, M.;Wenger, R.
+Yingcai Wu;Furu Wei;Shixia Liu;Au, N.;Weiwei Cui;Hong Zhou;Huamin Qu
+Dasgupta, A.;Kosara, R.
+Tuttle, C.;Nonato, L.G.;Silva, C.T.
+Kong, N.;Heer, J.;Agrawala, M.
+Andrienko, G.;Andrienko, N.
+Nafari, M.;Weaver, C.
+Guetat, A.;Ancel, A.;Marchesin, S.;Dischler, J.-M.
+Overby, D.;Keyser, J.;Wall, J.
+Law, A.J.;Aliaga, D.;Majumder, A.
+Boukhelifa, N.;Chevalier, F.;Fekete, J.
+Bruckner, S.;Moller, T.
+Dykes, J.;Wood, J.;Slingsby, A.
+Xiaoru Yuan;He Xiao;Hanqi Guo;Peihong Guo;Kendall, W.;Huang, J.;Yongxian Zhang
+Kincaid, R.
+Bongshin Lee;Riche, N.H.;Karlson, A.;Carpendale, S.
+Lindholm, S.;Ljung, P.;Lundstrom, C.;Persson, A.;Ynnerman, A.
+Müller, T.;Grottel, S.;Weiskopf, D.
+Tuan Nhon Dang;Wilkinson, L.;Anand, A.
+Weinkauf, T.;Theisel, H.
+Schultz, T.;Kindlmann, G.
+Wei Zeng;Marino, J.;Chaitanya Gurijala, K.;Xianfeng Gu;Kaufman, A.
+Tateosian, L.;Mitasova, H.;Harmon, B.;Fogleman, B.;Weaver, K.;Harmon, R.
+Viau, C.;McGuffin, M.J.;Chiricota, Y.;Jurisica, I.
+Baur, D.;Seiffert, F.;Sedlmair, M.;Boring, S.
+Green, T.M.;Fisher, Brian
+Paulovich, F.V.;Silva, C.T.;Nonato, L.G.
+Oesterling, P.;Scheuermann, G.;Teresniak, S.;Heyer, G.;Koch, S.;Ertl, T.;Weber, G.H.
+Prassni, J.-S.;Ropinski, T.;Hinrichs, K.
+Diehl, S.;Beck, F.;Burch, M.
+Shi, L.;Furu Wei;Shixia Liu;Li Tan;Xiaoxiao Lian;Zhou, M.X.
+Riche, N.H.;Dwyer, T.
+Ziyi Zheng;Wei Xu;Mueller, K.
+Marchesin, S.;Cheng-Kai Chen;Ho, C.;Kwan-Liu Ma
+Hao, M.C.;Marwah, M.;Janetzko, H.;Keim, D.A.;Dayal, U.;Sharma, R.;Patnaik, D.;Ramakrishnan, N.
+Migut, M.;Worring, M.
+Gerber, S.;Bremer, P.-T.;Pascucci, V.;Whitaker, R.T.
+Ziegler, H.;Jenny, M.;Gruse, T.;Keim, D.A.
+Amirkhanov, A.;Heinzl, C.;Reiter, M.;Groller, E.
+Oelke, D.;Spretke, D.;Stoffel, A.;Keim, D.A.
+Mokhtari, M.;Boivin, E.;Laurendeau, D.;Girardin, M.
+Tikhonova, A.;Correa, C.;Kwan-Liu Ma
+Pham, T.;Hess, R.;Ju, C.;Zhang, E.;Metoyer, R.
+Jänicke, S.;Heine, C.;Hellmuth, M.;Stadler, P.F.;Scheuermann, G.
+Dudzic, S.;Godwin, J.A.;Kilgore, R.M.
+Fisher, D.;Drucker, S.;Fernandez, R.;Ruble, S.
+Jones, C.;Kwan-Liu Ma
+Hoeber, O.;Wilson, G.;Harding, S.;Enguehard, R.;Devillers, R.
+Haeyong Chung;Seungwon Yang;Massjouni, N.;Andrews, C.;Kanna, R.;North, C.
+Zhang, N.;Xiangmin Zhou;Yunhe Shen;Sweet, R.
+Waser, J.;Fuchs, R.;Ribicic, H.;Schindler, B.;Bloschl, G.;Groller, E.
+van Ham, F.;Perer, A.
+Dwyer, T.;Bongshin Lee;Fisher, D.;Quinn, K.I.;Isenberg, P.;Robertson, G.;North, C.
+Correa, C.;Yu-Hsuan Chan;Kwan-Liu Ma
+Pak Chung Wong;Mackey, P.;Cook, K.A.;Rohrer, R.M.;Foote, H.;Whiting, M.A.
+Piringer, H.;Tominski, C.;Muigg, P.;Berger, W.
+Munzner, T.
+Wei Chen;Zi'ang Ding;Song Zhang;MacKay-Brandt, A.;Correia, S.;Huamin Qu;Crow, J.A.;Tate, D.F.;Zhicheng Yan;Qunsheng Peng
+Machado, Gustavo M.;Oliveira, M.M.;Fernandes, Leandro A.F.
+Decker, J.;Godwin, A.;Livingston, M.A.;Royle, D.
+Sanyal, J.;Song Zhang;Bhattacharya, G.;Amburn, P.;Moorhead, R.J.
+Yi Han;Stuntebeck, E.P.;Stasko, J.;Abowd, G.
+Fritz, L.;Hadwiger, M.;Geier, G.;Pittino, G.;Groller, E.
+Nielsen, C.B.;Jackman, S.D.;Birol, I.;Jones, S.J.M.
+Vrotsou, K.;Johansson, J.;Cooper, M.
+Yong Wan;Otsuna, H.;Chi-Bin Chien;Hansen, C.
+Andrienko, G.;Andrienko, N.;Bak, P.;Kisilevich, S.;Keim, D.A.
+Takahashi, S.;Fujishiro, I.;Okada, M.
+Yiwen Sun;Leigh, J.;Johnson, A.;Chau, D.
+Jianlong Zhou;Takatsuka, M.
+Vadapalli, S.;Karlapalem, K.
+Bruckner, S.;Solteszova, V.;Groller, E.;Hladuvka, J.;Buhler, K.;Yu, J.Y.;Dickson, B.J.
+Collins, C.;Penn, G.;Carpendale, S.
+Kadivar, N.;Chen, V.;Dunsmuir, D.;Lee, E.;Qian, C.;Dill, J.;Shaw, C.;Woodbury, R.
+Ogawa, M.;Kwan-Liu Ma
+Sajadi, B.;Lazarov, M.;Gopi, M.;Majumder, A.
+Demiralp, C.;Hughes, J.F.;Laidlaw, D.H.
+Tatu, A.;Albuquerque, G.;Eisemann, M.;Schneidewind, J.;Theisel, H.;Magnor, M.;Keim, D.A.
+Muller-Birn, C.;Birn, L.
+Forsberg, A.;Jian Chen;Laidlaw, D.H.
+Tory, M.;Swindells, C.;Dreezer, R.
+Dong Hyun Jeong;Green, T.M.;Ribarsky, W.;Chang, R.
+Slingsby, A.;Dykes, J.;Wood, J.
+Weaver, C.
+Shrinivasan, Y.B.;Gotz, D.;Jie Lu
+Jin Chen;MacEachren, A.M.;Peuquet, D.
+Heinrich, J.;Weiskopf, D.
+Lampe, O.D.;Correa, C.;Kwan-Liu Ma;Hauser, H.
+Banks, D.C.;Beason, K.
+Everts, M.H.;Bekker, H.;Roerdink, J.B.T.;Isenberg, T.
+Rose, S.;Butner, S.;Cowley, W.;Gregory, M.;Walker, J.
+Allen, D.;Tsai-Ching Lu;Huber, D.
+Strobelt, H.;Oelke, D.;Rohrdantz, C.;Stoffel, A.;Keim, D.A.;Deussen, O.
+Leonard, L.
+Youn-ah Kang;Gorg, C.;Stasko, J.
+Yanhua Chen;Lijun Wang;Ming Dong;Jing Hua
+Jianu, R.;Demiralp, C.;Laidlaw, D.H.
+Fraedrich, R.;Schneider, J.;Westermann, R.
+Wongsuphasawat, K.;Shneiderman, B.
+Rudolph, S.;Savikhin, A.;Ebert, D.S.
+Diansheng Guo
+Huamin Qu;Haomian Wang;Weiwei Cui;Yingcai Wu;Ming-Yuen Chan
+Hurter, C.;Tissoires, B.;Conversy, S.
+Bohyoung Kim;Bongshin Lee;Knoblach, S.;Hoffman, E.;Jinwook Seo
+Ho Van Quan;Astrom, T.;Jern, M.
+Chu, A.;Chi-Wing Fu;Hanson, A.J.;Pheng-Ann Heng
+Steed, C.A.;Swan, J.E.;Jankun-Kelly, T.J.;Fitzpatrick, P.J.
+McKeon, M.
+Marchesin, S.;de Verdiere, G.C.
+Chuang, J.;Weiskopf, D.;Moller, T.
+Bosch, H.;Heinrich, J.;Muller, C.;Hoferlin, B.;Reina, G.;Hoferlin, M.;Worner, M.;Koch, S.
+Bak, P.;Rohrdantz, C.;Leifert, S.;Granacher, C.;Koch, S.;Butscher, S.;Jungk, P.;Keim, D.A.
+McGuffin, M.J.;Jurisica, I.
+Keefe, D.F.;Ewert, M.;Ribarsky, W.;Chang, R.
+Johansson, S.;Johansson, J.
+Scholtz, J.
+Tarkkanen, S.;Miettinen, K.;Hakanen, J.
+Burger, K.;Ferstl, F.;Theisel, H.;Westermann, R.
+Matkovic, K.;Gracanin, D.;Klarin, B.;Hauser, H.
+Overby, D.;Keyser, J.;Wall, J.
+Andrienko, G.;Andrienko, N.;Rinzivillo, S.;Nanni, M.;Pedreschi, D.;Giannotti, F.
+Yingcai Wu;Ka-Kei Chung;Huamin Qu;Xiaoru Yuan;Cheung, S.C.
+Krone, M.;Bidmon, K.;Ertl, T.
+Yun Jang;Varetto, U.
+Guangyu Zou;Jing Hua;Zhaoqiang Lai;Xianfeng Gu;Ming Dong
+Cong Wang;Yi-Jen Chiang
+Koch, S.;Bosch, H.;Giereth, M.;Ertl, T.
+Hughes, D.M.;Ik Soo Lim
+Tobiasz, M.;Isenberg, P.;Carpendale, S.
+Tierny, J.;Gyulassy, A.;Simon, E.;Pascucci, V.
+Crossno, P.;Dunlavy, D.M.;Shead, T.M.
+Smelyanskiy, M.;Holmes, D.;Chhugani, J.;Larson, A.;Carmean, D.M.;Hanson, D.;Dubey, P.;Augustine, K.;Daehyun Kim;Kyker, A.;Lee, V.W.;Nguyen, A.D.;Seiler, L.;Robb, R.
+van Ham, F.;Wattenberg, M.;Viegas, F.B.
+Sajadi, B.;Majumder, A.
+Kincaid, R.;Dejgaard, K.
+Swing, E.
+Meyer, M.;Munzner, T.;Pfister, H.
+Zhenyu Guo;Ward, M.O.;Rundensteiner, E.A.
+Cipriano, G.;Phillips, G.N.;Gleicher, M.
+Ropinski, T.;Hermann, S.;Reich, R.;Schafers, M.;Hinrichs, K.
+Hao Zhou;Shaverdian, A.A.;Jagadish, H.V.;Michailidis, G.
+Wright, B.;Payne, J.;Steckman, M.;Stevson, S.
+Collins, C.;Viegas, F.B.;Wattenberg, M.
+Brecheisen, R.;Vilanova, A.;Platel, B.;ter Haar Romenij, B.
+Viegas, F.B.;Wattenberg, M.;Feinberg, J.
+Ming-Yuen Chan;Yingcai Wu;Wai-Ho Mak;Wei Chen;Huamin Qu
+Bridgeman, S.
+Hao, M.C.;Janetzko, H.;Sharma, R.K.;Dayal, U.;Keim, D.A.;Castellanos, M.
+Schindler, B.;Fuchs, R.;Biddiscombe, J.;Peikert, R.
+Xiongfei Luo;Hongan Wang;Feng Tian;Wei Liu;Dongxing Teng;Guozhong Dai
+Endert, A.;Andrews, C.;Fink, G.A.;North, C.
+Bostock, M.;Heer, J.
+Crnovrsanin, T.;Muelder, C.;Correa, C.;Kwan-Liu Ma
+Ware, C.
+VinhTuan Thai;Handschuh, S.
+Clarkson, E.;Desai, K.;Foley, J.D.
+Kindlmann, G.;Estepar, R.S.J.;Smith, S.;Westin, C.-F.
+Jeong, W.-K.;Beyer, J.;Hadwiger, M.;Vazquez, A.;Pfister, H.;Whitaker, R.T.
+Xiaoru Yuan;Peihong Guo;He Xiao;Hong Zhou;Huamin Qu
+Zhicheng Liu;Stasko, J.;Sullivan, T.
+Blaas, J.;Botha, C.P.;Grundy, E.;Jones, M.;Laramee, R.S.;Post, F.H.
+Simonetto, P.;Koenig, P.-Y.;Zaidi, F.;Archambault, D.;Gilbert, F.;Trung-Tien Phan-Quang;Mathiaut, M.;Lambert, A.;DuBois, J.;Sicre, R.;Brulin, M.;Vieux, R.;Melancon, G.
+Bak, P.;Mansmann, F.;Janetzko, H.;Keim, D.A.
+Douma, M.;Ligierko, G.;Ancuta, O.;Gritsai, P.;Liu, S.
+Dietzsch, J.;Heinrich, J.;Nieselt, K.;Bartz, D.
+Dick, C.;Georgii, J.;Burgkart, R.;Westermann, R.
+Maciejewski, R.;Insoo Woo;Wei Chen;Ebert, D.S.
+Weiss, K.;De Floriani, L.
+Wang, T.D.;Plaisant, C.;Shneiderman, B.;Spring, N.;Roseman, D.;Marchand, G.;Mukherjee, V.;Smith, M.
+Bresciani, S.;Eppler, M.J.
+Correa, C.;Kwan-Liu Ma
+Krishnan, H.;Garth, C.;Joy, K.I.
+Jaegul Choo;Fujimoto, E.;Hanseung Lee;Walteros, P.R.
+McDonnel, B.;Elmqvist, N.
+Jaegul Choo;Bohn, S.;Haesun Park
+Nouanesengsy, B.;Sang-Cheol Seok;Han-Wei Shen;Vieland, V.J.
+Grinstein, G.;Scholtz, J.;Whiting, M.;Plaisant, C.
+Agrawal, S.;Sravanthi, K.;Vadapalli, S.;Karlapalem, K.
+Whiting, M.A.;North, C.;Endert, A.;Scholtz, J.;Haack, J.;Varley, C.;Thomas, J.
+Etiene, T.;Scheidegger, C.E.;Nonato, L.G.;Kirby, R.M.;Silva, C.T.
+Jones, C.;Ogawa, M.;Shearer, J.;Tikhonova, A.;Kwan-Liu Ma
+Liebig, T.;Noppens, O.;von Henke, F.
+Santos, E.;Lins, L.;Ahrens, J.;Freire, J.;Silva, C.T.
+von Landesberger, T.;Gorner, M.;Schreck, T.
+Muelder, C.;Gygi, F.;Kwan-Liu Ma
+J�nicke, H.;Bottinger, M.;Mikolajewicz, U.;Scheuermann, G.
+Zachow, S.;Muigg, P.;Hildebrandt, T.;Doleisch, H.;Hege, H.-C.
+Fuchs, R.;Waser, J.;Groller, E.
+Dadzie, A.-S.;Petrelli, D.
+Oelke, D.;Ming Hao;Rohrdantz, C.;Keim, D.A.;Dayal, U.;Haug, L.;Janetzko, H.
+Teng-Yok Lee;Han-Wei Shen
+Wood, J.;Slingsby, A.;Khalili-Shavarini, N.;Dykes, J.;Mountain, D.
+Erdos, D.;Fekete, Z.;Lukacs, A.
+Crampes, M.;de Oliveira-Kumar, J.;Ranwez, S.;Villerd, J.
+Jian Zhang;Chen, C.;Jiexun Li
+Wei Chen;Zhicheng Yan;Song Zhang;Crow, J.A.;Ebert, D.S.;McLaughlin, R.M.;Mullins, K.B.;Cooper, R.;Zi'ang Ding;Jun Liao
+Knoll, A.;Hijazi, Y.;Westerteiger, R.;Schott, M.;Hansen, C.;Hagen, H.
+Vuillemot, R.;Clement, T.;Plaisant, C.;Kumar, A.
+Dornburg, C.C.;Matzen, L.E.;Bauer, T.L.;McNamara, L.A.
+Giereth, M.;Bosch, H.;Ertl, T.
+Weigle, C.;Banks, D.C.
+Lammarsch, T.
+Lam, H.
+Gyulassy, A.;Bremer, P.-T.;Hamann, B.;Pascucci, V.
+Chandak, A.;Lauterbach, C.;Taylor, M.;Zhimin Ren;Manocha, D.
+Kuhn, G.R.;Oliveira, M.M.;Fernandes, Leandro A.F.
+Pascual-Cid, V.
+Savikhin, A.;Maciejewski, R.;Ebert, D.S.
+Swing, E.
+Ying Tu;Han-Wei Shen
+Minho Kim;Entezari, A.;Peters, J.
+J�nicke, H.;Bottinger, M.;Scheuermann, G.
+Correa, C.;Crnovrsanin, T.;Muelder, C.;Zeqian Shen;Armstrong, R.;Shearer, J.;Kwan-Liu Ma
+Qi Ye;Tian Zhu;Deyong Hu;Bin Wu;Nan Du;Bai Wang
+Farrugia, M.;Quigley, A.
+Barsky, A.;Munzner, T.;Gardy, J.;Kincaid, R.
+Gotz, D.;Zhou, M.X.
+Robinson, A.
+Lujin Wang;Giesen, J.;McDonnell, K.T.;Zolliker, P.;Mueller, K.
+Kapler, T.;Eccles, R.;Harper, R.;Wright, W.
+Bachthaler, S.;Weiskopf, D.
+Valle, M.;Oganov, Artem R.
+Burger, K.;Kruger, J.;Westermann, R.
+Zhicheng Liu;Nersessian, N.J.;Stasko, J.
+Dietrich, C.A.;Scheidegger, C.E.;Comba, J.L.D.;Nedel, L.P.;Silva, C.T.
+Joshi, A.;Xiaoning Qian;Dione, D.P.;Bulsara, K.;Breuer, C.;Sinusas, A.J.;Papademetris, X.
+Degener, P.;Schnabel, R.;Schwartz, C.;Klein, R.
+Robertson, G.;Fernandez, R.;Fisher, D.;Bongshin Lee;Stasko, J.
+Yi Wang;Bowman, D.A.;Krum, D.;Coalho, E.;Smith-Jackson, T.;Bailey, D.;Peck, S.;Anand, S.;Kennedy, T.;Abdrazakov, Y.
+Hinrichs, U.;Schmidt, H.;Carpendale, S.
+Bier, E.A.;Card, S.K.;Bodnar, J.W.
+Jae-wook Ahn;Brusilovsky, P.
+Schultz, T.;Seidel, H.-P.
+Andrienko, N.;Andrienko, G.
+Bouvier, D.J.;Oates, B.
+Simeone, A.L.;Paolo, B.
+Dong Hyun Jeong;Wenwen Dou;Lipford, H.R.;Stukes, F.;Chang, R.;Ribarsky, W.
+Zhen Wen;Zhou, M.X.
+Dwyer, T.;Marriott, K.;Schreiber, F.;Stuckey, P.;Woodward, M.;Wybrow, M.
+Blaas, J.;Botha, C.P.;Post, F.H.
+Yu-Shuen Wang;Tong-Yee Lee;Chiew-Lan Tai
+Reddy, C.K.;Pokharkar, S.;Tin Kam Ho
+Garth, C.;Krishnan, H.;Tricoche, X.;Tricoche, X.;Joy, K.I.
+Jing Hua;Zhaoqiang Lai;Ming Dong;Xianfeng Gu;Hong Qin
+Weiwei Cui;Hong Zhou;Huamin Qu;Pak Chung Wong;Xiaoming Li
+Meyer-Spradow, J.;Stegger, L.;Doring, C.;Ropinski, T.;Hinrichs, K.
+Chien, L.;Tat, A.;Proulx, P.;Khamisa, A.;Wright, W.
+Pellegrino, D.;Chi-Chun Pan;Robinson, A.;Stryker, M.;Junyan Luo;Weaver, C.;Mitra, P.;Chaomei Chen;Turton, I.;MacEachren, A.M.
+Payne, J.;Solomon, J.;Sankar, R.;McGrew, B.
+Heer, J.;Mackinlay, J.;Stolte, C.;Agrawala, M.
+Paulovich, F.V.;Minghim, R.
+Kehrer, J.;Ladstadter, F.;Muigg, P.;Doleisch, H.;Steiner, A.;Hauser, H.
+Chaoli Wang;Hongfeng Yu;Kwan-Liu Ma
+Henr, N.;Bezerianos, A.;Fekete, J.
+Hentschel, B.;Tedjo, I.;Probst, M.;Wolter, M.;Behr, M.;Bischof, C.;Kuhlen, T.
+Schneider, D.;Wiebel, A.;Carr, H.;Hlawitschka, M.;Scheuermann, G.
+Montemayor, J.;Diehl, C.;Pekala, M.;Patrone, D.
+Andrysco, N.;Benes, B.;Gurney, K.
+Godwin, A.;Chang, R.;Kosara, R.;Ribarsky, W.
+Freiler, W.;Matkovic, K.;Hauser, H.
+Matkovic, K.;Gracanin, D.;Jelovic, M.;Hauser, H.
+Johnson, G.P.;Calo, V.M.;Gaither, K.
+Hadwiger, M.;Laura, F.;Rezk-Salama, C.;Hollt, T.;Geier, G.;Pabel, T.
+Tricoche, X.;Kindlmann, G.;Westin, C.-F.
+Sye-Min Chan;Ling Xiao;Gerth, J.;Hanrahan, P.
+Holland, B.;Kuchy, L.;Dalton, J.
+Miklin, R.;Lipic, T.;Konyha, Z.;Beric, M.;Freiler, W.;Matkovic, K.;Gracanin, D.
+Garg, S.;Nam, J.E.;Ramakrishnan, I.;Mueller, K.
+Butkiewicz, T.;Wenwen Dou;Wartell, Z.;Ribarsky, W.;Chang, R.
+Weaver, C.
+Barlowe, S.;Tianyi Zhang;Yujie Liu;Jing Yang;Jacobs, D.
+Fisher, D.;Hoff, A.;Robertson, G.;Hurst, M.
+Joshi, A.;Scheinost, D.;Vives, K.P.;Spencer, D.D.;Staib, L.H.;Papademetris, X.
+Yuntao Jia;Hoberock, J.;Garland, M.;Hart, J.C.
+Luboschik, M.;Schumann, H.;Cords, H.
+Meyer, M.;Whitaker, R.T.;Kirby, R.M.;Ledergerber, C.;Pfister, H.
+van Ham, F.;Rogowitz, B.
+Gosink, L.;Anderson, J.C.;Bethel, E.W.;Joy, K.I.
+Muelder, C.;Kwan-Liu Ma
+Ming-Yuen Chan;Huamin Qu;Ka-Kei Chung;Wai-Ho Mak;Yingcai Wu
+Scheidegger, C.E.;Schreiner, J.;Duffy, B.;Carr, H.;Silva, C.T.
+Elmqvist, N.;Dragicevic, P.;Fekete, J.
+Kruger, A.;Kubisch, C.;Preim, B.;Preim, B.
+Correa, C.;Kwan-Liu Ma
+von Funck, W.;Weinkauf, T.;Theisel, H.;Seidel, H.-P.
+Rosenthal, P.;Linsen, L.
+Wood, J.;Dykes, J.
+Andrienko, G.;Andrienko, N.
+Byron, L.;Wattenberg, M.
+Shrinivasan, Y.B.;van Wijk, J.J.
+Linsen, L.;Van Long, T.;Rosenthal, P.;Rosswog, S.
+Cipriano, G.;Gleicher, M.
+Caban, J.J.;Rheingans, P.
+Pike, W.A.;Bruce, J.;Baddeley, B.;Best, D.;Franklin, L.;May, R.;Rice, D.M.;Riensche, R.;Younkin, K.
+Patel, D.;Giertsen, C.;Thurmond, J.;Gjelberg, J.;Grller, E.
+Ziemkiewicz, C.;Kosara, R.
+Wattenberg, M.;Viegas, F.B.
+Maciejewski, R.;Rudolph, S.;Hafen, R.;Abusalah, A.;Yakout, M.;Ouzzani, M.;Cleveland, W.S.;Grannis, S.J.;Wade, M.;Ebert, D.S.
+Perer, A.
+Aragon, C.R.;Poon, S.S.;Aldering, G.S.;Thomas, R.C.;Quimby, R.
+Grinstein, G.;Plaisant, C.;Laskowski, S.;O'Connell, T.;Scholtz, J.;Whiting, M.
+Sharko, J.;Grinstein, G.;Marx, K.
+Koop, D.;Scheidegger, C.E.;Callahan, S.P.;Freire, J.;Silva, C.T.
+Dork, M.;Carpendale, S.;Collins, C.;Williamson, C.
+Zhou, K.;Zhang, E.;Bittner, J.;Wonka, P.
+Grave, F.;Buser, M.
+Chan, B.;Wu, L.;Talbot, J.;Cammarano, M.;Hanrahan, P.
+Ye Zhao;Alsakran, J.;Xinlei Zhao
+Gerhardt, F.J.;Meyer, J.
+Green, T.M.;Ribarsky, W.;Fisher, Brian
+Schreck, T.;Bernard, J.;Tekusova, T.;Kohlhammer, J.
+Oelke, D.;Bak, P.;Keim, D.A.;Last, M.;Danon, G.
+Chen Yu;Yiwen Zhong;Smith, T.;Park, I.;Weixia Huang
+Mayerich, D.;Abbott, L.;Keyser, J.
+Termeer, M.;Bescos, J.O.;Breeuwer, M.;Vilanova, A.;Gerritsen, F.;Groller, E.;Nagel, E.
+Kidwell, P.;Lebanon, G.;Cleveland, W.S.
+Hongwei Li;Chi-Wing Fu;Hanson, A.J.
+Soni, B.;Thompson, D.;Machiraju, R.
+Glatter, M.;Huang, J.;Ahern, S.;Daniel, J.;Aidong Lu
+Romero, M.;Summet, J.;Stasko, J.;Abowd, G.
+Ledergerber, C.;Guennebaud, G.;Meyer, M.;Bacher, M.;Pfister, H.
+Draper, G.;Riesenfeld, R.F.
+Plate, J.;Holtkaemper, T.;Froehlich, B.
+Ellis, G.;Dix, A.
+Damera-Venkata, N.;Chang, N.L.;DiCarlo, J.M.
+Janoos, F.;Singh, S.;Irfanoglu, O.;Machiraju, R.;Parent, R.
+Tan, D.S.;Smith, G.;Bongshin Lee;Robertson, G.
+Xuexiang Xie;Ying He;Feng Tian;Hock-Soon Seah;Xianfeng Gu;Hong Qin
+Di Yang;Rundensteiner, E.A.;Ward, M.O.
+Hangzai Luo;Jianping Fan;Jing Yang;Ribarsky, W.;Satoh, S.
+Heer, J.;Robertson, G.
+Tesone, D.R.;Goodall, J.R.
+Blanch, R.;Lecolinet, E.
+Hyunmo Kang;Getoor, L.;Singh, L.
+Pousman, Z.;Stasko, J.;Mateas, M.
+Eun Ju Nam;Han, Y.;Mueller, K.;Zelenyuk, A.;Imre, D.
+Giesen, J.;Mueller, K.;Schuberth, E.;Lujin Wang;Zolliker, P.
+Dillard, S.E.;Bingert, J.F.;Thoma, D.;Hamann, B.
+Yi Wang;Krum, D.;Coelho, E.M.;Bowman, D.A.
+Weinkauf, T.;Sahner, J.;Theisel, H.;Hege, H.-C.
+Termeer, M.;Bescos, J.O.;Breeuwer, M.;Vilanova, A.;Gerritsen, F.;Groller, E.
+Elmqvist, N.;Stasko, J.;Tsigas, P.
+Heer, J.;Agrawala, M.
+Garth, C.;Gerhardt, F.;Tricoche, X.;Hagen, H.
+Gyulassy, A.;Natarajan, V.;Pascucci, V.;Hamann, B.
+Jalba, A.C.;Roerdink, J.B.T.
+Sadlo, F.;Peikert, R.
+Bruckner, S.;Groller, E.
+Graham, M.;Kennedy, J.
+Chi-Chun Pan;Mitra, P.
+Guoray Cai
+Ha, D.;Kim, M.;Wade, A.;Chao, W.O.;Ho, K.;Kaastra, L.;Fisher, Brian;Dill, J.
+Wiebel, A.;Tricoche, X.;Schneider, D.;J�nicke, H.;Scheuermann, G.
+Dykes, J.;Brunsdon, C.
+Bair, A.;House, D.
+Beyer, J.;Hadwiger, M.;Wolfsberger, S.;Buhler, K.
+Fisher, D.
+Correa, C.;Silver, D.;Min Chen
+Shaw, C.;Dasch, G.A.;Eremeeva, M.E.
+Few, Stephen
+Crossno, P.;Wylie, B.;Wilson, A.;Greenfield, J.;Stanton, E.;Shead, T.;Ice, L.;Moreland, K.;Baumes, J.;Geveci, B.
+Hao, M.C.;Dayal, U.;Keim, D.A.;Morent, D.;Schneidewind, J.
+Wald, I.;Friedrich, H.;Knoll, A.;Hansen, C.
+Lauterbach, C.;Chandak, A.;Manocha, D.
+Isenberg, P.;Carpendale, S.
+Oeltze, S.;Doleisch, H.;Hauser, H.;Muigg, P.;Preim, B.
+Wood, J.;Dykes, J.;Slingsby, A.;Clarke, K.
+Jeong, W.-K.;Fletcher, P.T.;Ran Tao;Whitaker, R.T.
+Kniss, J.;Hunt, W.;Potter, K.;Sen, P.
+Gorg, C.;Zhicheng Liu;Parekh, N.;Singhal, K.;Stasko, J.
+Stasko, J.;Gorg, C.;Zhicheng Liu;Singhal, K.
+Maciejewski, R.;Tyner, B.;Yun Jang;Cheng Zheng;Nehme, R.R.V.;Ebert, D.S.;Cleveland, W.S.;Ouzzani, M.;Grannis, S.J.;Glickman, L.T.
+Feng Qiu;Fang Xu;Zhe Fan;Neophytos, N.;Kaufman, A.;Mueller, K.
+Remco Chang;Wessel, G.;Kosara, R.;Sauda, E.;Ribarsky, W.
+Michel, F.;Deines, E.;Hering-Bertram, M.;Garth, C.;Hagen, H.
+Keim, D.A.;Oelke, D.
+Kohlmann, P.;Bruckner, S.;Kanitsar, A.;Kanitsar, A.
+Viegas, F.B.;Wattenberg, M.;van Ham, F.;Kriss, J.;McKeon, M.
+Cipriano, G.;Gleicher, M.
+Schlemmer, M.;Heringer, M.;Morr, F.;Hotz, I.;Bertam, M.;Garth, C.;Kollmann, W.;Hamann, B.;Hagen, H.
+Frishman, Y.;Tal, A.
+J�nicke, H.;Wiebel, A.;Scheuermann, G.;Kollmann, W.
+Smith, R.C.;Pawlicki, R.;Kokai, I.R.;Finger, J.;Vetter, T.
+Ghoniem, M.;Dongning Luo;Jing Yang;Ribarsky, W.
+Henry, N.;Fekete, J.;McGuffin, M.J.
+Thomas, J.;Keim, D.A.;Kielman, Joe;Rosenblum, L.
+Lam, H.;Munzner, T.;Kincaid, R.
+Cuadros, A.M.;Paulovich, F.V.;Minghim, R.;Telles, G.P.
+Scheidegger, C.E.;Vo, H.T.;Koop, D.;Freire, J.;Silva, C.T.
+Sung-Eui Yoon;Lindstrom, P.
+Bhasker, E.;Juang, R.;Majumder, A.
+Muigg, P.;Hadwiger, M.;Doleisch, H.;Hauser, H.
+Willett, W.;Heer, J.;Agrawala, M.
+Fuller, A.R.;Zawadzki, R.J.;Choi, S.;Wiley, D.F.;Werner, J.S.;Hamann, B.
+Rautek, P.;Bruckner, S.;Groller, E.
+Yi Mao;Dillon, J.V.;Lebanon, G.
+Lam, H.;Russell, D.;Tang, D.;Munzner, T.
+Hui Zhang;Hanson, A.J.
+Mackinlay, J.;Hanrahan, P.;Stolte, C.
+Yuan Chen;Cohen, J.D.;Krolik, J.H.
+Jae Choi;Sang-joon Lee;Gigitashvilli, S.;Wilson, J.
+Chien, L.;Tat, A.;Wright, W.
+Tory, M.;Sprague, D.W.;Fuqu Wu;Wing Yan So;Munzner, T.
+Catravas, P.
+Bertini, E.;Hertzog, P.;Lalanne, D.
+McGraw, T.;Nadar, M.
+Eccles, R.;Kapler, T.;Harper, R.;Wright, W.
+Aragon, C.R.;Bailey, S.J.;Poon, S.;Runge, K.J.;Thomas, R.C.
+Heinzl, C.;Kastner, J.;Groller, E.
+Chi-Chun Pan;Jaiswal, A.R.;Junyan Luo;Robinson, A.
+Caban, J.J.;Joshi, A.;Rheingans, P.
+Eick, S.G.;Eick, M.A.;Fugitt, J.;Horst, B.;Khailo, M.;Lankenau, R.A.
+Niski, K.;Cohen, J.D.
+Biddiscombe, J.;Geveci, B.;Martin, K.;Moreland, K.;Thompson, D.
+Weber, G.H.;Bremer, P.-T.;Pascucci, V.
+Schultz, T.;Theisel, H.;Seidel, H.-P.
+Gyulassy, A.;Duchaineau, M.;Vijay Natarajan;Pascucci, V.;Bringa, E.M.;Higginbotham, A.;Hamann, B.
+Meyer, M.;Kirby, R.M.;Whitaker, R.T.
+Ji Soo Yi;Youn-ah Kang;Stasko, J.;Jacko, J.A.
+Fout, N.;Kwan-Liu Ma
+Lampe, O.D.;Viola, I.;Reuter, N.;Hauser, H.
+Lundstrom, C.;Ljung, P.;Persson, A.;Ynnerman, A.
+Chao, W.;Ha, D.;Ho, K.;Kaastra, L.;Kim, M.;Wade, A.;Fisher, B.
+Chao, W.;Ha, D.;Ho, K.;Kaastra, L.;Minjung Kim;Wade, A.
+Suh, B.;Chi, E.H.;Pendleton, B.A.;Kittur, A.
+Gosink, L.;Anderson, J.C.;Wes Bethel, E.;Joy, K.I.
+Chien, L.;Tat, A.;Kapler, T.;Enns, P.;Kuan, W.;Wright, W.
+Grinstein, G.;Plaisant, C.;Laskowski, S.;O'Connell, T.;Scholtz, J.;Whiting, M.
+Schwendiman, L.;McLean, J.;Larson, J.
+Schwendiman, L.;McLean, J.;Larson, J.
+Chi-Chun Pan;Jaiswal, A.R.;Junyan Luo;Robinson, A.;Mitra, P.;MacEachren, A.M.;Turton, I.
+Auvil, L.;Llora, Xavier;Searsmith, Duane;Searsmith, Kelly
+Auvil, L.;Llora, X.;Searsmith, Duane;Searsmith, Kelly
+Barth, W.L.;Burns, C.A.
+Collins, C.;Carpendale, S.
+Shrinivasan, Y.B.;van Wijk, J.J.
+Brandes, U.;Lerner, J.
+Ahmed, A.;Xiaoyan Fu;Seok-Hee Hong;Quan Hoang Nguyen;Kai Xu
+Mansmann, F.;Keim, D.A.;North, S.C.;Rexroad, B.;Sheleheda, D.
+Huamin Qu;Wing-Yi Chan;Anbang Xu;Kai-Lun Chung;Kai-Hon Lau;Ping Guo
+Andrienko, G.;Andrienko, N.;Bartling, U.
+SungYe Kim;Yun Jang;Mellema, A.;Ebert, D.S.;Collins, T.
+Gorg, C.;Zhicheng Liu;Parekh, N.;Singhal, K.;Stasko, J.
+Grottel, S.;Reina, G.;Vrabec, J.;Ertl, T.
+Navratil, P.A.;Johnson, J.L.;Bromm, V.
+Cammarano, M.;Xin Dong;Bryan Chan;Klingner, J.;Talbot, J.;Halevy, A.;Hanrahan, P.
+Kadaba, N.R.;Irani, P.;Leboe, J.
+Ying Tu;Han-Wei Shen
+Hongwei Li;Chi-Wing Fu;Yinggang Li;Hanson, A.J.
+Ivanov, Y.A.;Wren, C.R.;Sorokin, A.;Kaur, I.
+Petrovic, V.;Fallon, J.;Kuester, F.
+Hagh-Shenas, H.;Sunghee Kim;Interrante, V.;Healey, C.
+Chang, R.;Ghoniem, M.;Kosara, R.;Ribarsky, W.;Jing Yang;Suma, E.;Ziemkiewicz, C.;Kern, D.;Sudjianto, A.
+Georgii, J.;Westermann, R.
+Nguyen, T.;Zhang, J.
+Hong, W.;Feng Qiu;Kaufman, A.
+Bergner, S.;Moller, T.;Weiskopf, D.;Muraki, D.J.
+Li, L.W.F.;Li, F.W.B.;Lau, R.W.H.
+Fails, J.A.;Karlson, A.;Shahamat, L.;Shneiderman, B.
+Bethel, E.W.;Campbell, S.;Dart, E.;Stockinger, K.;Kesheng Wu
+Tarini, M.;Cignoni, P.;Montani, C.
+Liu, Z.;Moorhead, R.J.;Groner, J.
+Song, Y.;Ye, J.;Svakhine, N.;Lasher-Trapp, S.;Baldwin, M.;Ebert, D.S.
+Burakiewicz, W.;van Liere, R.
+Rutten, M.;Chong, M.S.
+Abello, J.;van Ham, F.;Neeraj Krishnan
+Bhasker, E.;Sinha, P.;Majumder, A.
+Proulx, P.;Tandon, S.;Bodnar, A.;Schroh, D.;Harper, R.;Wright, W.
+Perer, A.;Shneiderman, B.
+Scholtz, J.
+Rautek, P.;Viola, I.;Groller, E.
+Kruger, J.;Schneider, J.;Westermann, R.
+Keel, P.E.
+Deines, E.;Bertram, M.;Mohring, J.;Jegorovs, J.;Michel, F.;Hagen, H.;Nielson, G.M.
+Bottger, J.;Balzer, M.;Deussen, O.
+Slack, J.;Munzner, T.
+Ellsworth, D.;Green, B.;Henze, C.;Moran, P.J.;Sandstrom, T.
+Bilgic, M.;Licamele, L.;Getoor, L.;Shneiderman, B.
+Mehta, K.;Jankun-Kelly, T.J.
+Kindlmann, G.;Westin, C.-F.
+Castanie, L.;Mion, C.;Cavin, X.;Levy, B.
+Been, K.;Daiches, E.;Yap, C.
+Guangfeng Ji;Han-Wei Shen
+Ellis, G.;Dix, A.
+Kersten, M.A.;Stewart, A.J.;Troje, N.;Ellis, R.
+Ling Xiao;Gerth, J.;Hanrahan, P.
+Bruckner, S.;Groller, E.
+Xie Zaixian;Huang Shiping;Ward, M.O.;Rundensteiner, E.A.
+Hangzai Luo;Jianping Fan;Jing Yang;Ribarsky, W.;Satoh, S.
+Entezari, A.;Möller, T.
+Smith, G.;Czerwinski, M.;Meyers, B.Robbins.;Robertson, G.;Tan, D.S.
+Lindstrom, P.;Isenburg, M.
+Correa, C.;Silver, D.;Chen, M.
+Duke, D.;Wallace, M.;Borgo, R.;Runciman, C.
+Ljung, P.;Winskog, C.;Persson, A.;Lundstrom, C.;Ynnerman, A.
+Pak Chung Wong;Chin, G.;Foote, H.;Mackey, P.;Thomas, J.
+Holten, D.
+Salama, C.R.;Keller, M.;Kohlmann, P.
+Schreiner, J.;Scheidegger, C.E.;Silva, C.T.
+Wei Qiao;McLennan, M.;Kennell, R.;Ebert, D.S.;Klimeck, G.
+Merhof, D.;Sonntag, M.;Enders, F.;Nimsky, C.;Hastreiter, P.;Greiner, G.
+Viola, I.;Feixas, M.;Sbert, M.;Groller, E.
+Zhang, H.;Kaufman, A.
+Zhou, Y.;Garland, M.
+Gotz, D.;Zhou, M.X.;Aggarwal, V.
+Pattath, A.;Bue, B.;Yun Jang;Ebert, D.S.;Xuan Zhong;Aulf, A.;Coyle, E.
+Miller, J.;Quammen, C.W.;Fleenor, M.C.
+Weichao Wang;Aidong Lu
+Buring, T.;Gerken, J.;Reiterer, H.
+Shi, Q.;JaJa, J.
+Zhao, L.;Botha, C.P.;Bescos, J.O.;Truyen, R.;Vos, F.M.;Post, F.H.
+Wang, C.;Han-Wei Shen
+Henry, N.;Fekete, J.
+Cui, Q.;Ward, M.O.;Rundensteiner, E.A.;Yang, J.
+Yoon, S.-E.;Lindstrom, P.
+Keim, D.A.;Mansmann, F.;Schneidewind, J.;Schreck, T.
+Heer, J.;Agrawala, M.
+Woodring, J.;Shen, H.-W.
+Sauber, N.;Theisel, H.;Seidel, H.-P.
+Hyunmo Kang;Plaisant, C.;Bongshin Lee;Bederson, B.B.
+Shneiderman, B.;Aris, A.
+Takahashi, S.;Yoshida, K.;Nishita, T.;Shimada, K.
+Carr, H.;Duffy, B.;Denby, B.
+Minsu Ahn;Guskov, I.;Seungyong Lee
+Novotny, M.;Hauser, H.
+Schneidewind, J.;Sips, M.;Keim, D.A.
+Callahan, S.P.;Bavoil, L.;Pascucci, V.;Silva, C.T.
+Ritter, F.;Hansen, C.;Dicken, V.;Konrad, O.;Preim, B.;Peitgen, H.-O.
+Li, W.-C.;Vallet, B.;Ray, N.;Levy, B.
+Youngmin Kim;Varshney, A.
+Glatter, M.;Mollenhour, C.;Huang, J.;Gao, J.
+Li, Y.;Chi-Wing Fu;Hanson, A.J.
+Chi, E.H.;Lichan Hong;Heiser, J.;Card, S.K.
+Jing Yang;Jianping Fan;Hubball, D.;Yuli Gao;Hangzai Luo;Ribarsky, W.;Ward, M.O.
+Archambault, D.;Munzner, T.;Auber, D.
+Heer, J.;Agrawala, M.
+Mehler, A.;Bao, Y.;Li, X.;Wang, Y.;Skiena, S.
+Acevedo, D.;Laidlaw, D.H.
+Jankun-Kelly, T.J.;Ketan Mehta
+Slavin, V.A.;Pelcovits, Robert A.;Loriot, G.;Callan-Jones, Andrew;Laidlaw, D.H.
+Bair, A.;House, D.;Ware, C.
+Yost, B.;North, C.
+Card, S.K.;Suh, B.;Pendleton, B.A.;Heer, J.;Bodnar, J.W.
+Cortese, P.F.;Di Battista, G.;Moneta, A.;Patrignani, M.;Pizzonia, M.
+Brennan, S.E.;Mueller, K.;Zelinsky, G.;Ramakrishnan, I.;Warren, D.S.;Kaufman, A.
+Laney, D.;Bremer, P.-T.;Mascarenhas, A.;Miller, P.;Pascucci, V.
+Yost, B.;North, C.
+Sifer, M.
+Waters, K.W.;Co, C.S.;Joy, K.I.
+Sreng, J.;Lecuyer, A.;Megard, C.;Andriot, C.
+Grinstein, G.;O'Connell, T.;Laskowski, S.;Plaisant, C.;Scholtz, J.;Whiting, M.
+Chen, C.;Ibekwe-SanJuan, F.;SanJuan, E.;Weaver, C.
+Weaver, C.;Fyfe, D.;Robinson, A.;Holdsworth, D.;Peuquet, D.;MacEachren, A.M.
+Pretorius, A.J.;van Wijk, J.J.
+Theron, R.
+Archambault, D.;Munzner, T.;Auber, D.
+Mehta, S.;Parthasarathy, S.;Machiraju, R.
+Chen, M.;Hashim, R.R.;Botchen, R.P.;Weiskopf, D.;Ertl, T.;Thornton, I.M.
+de Leeuw, W.;Verschure, P.J.;van Liere, R.
+Heine, C.;Scheuermann, G.;Flamm, C.;Hofacker, I.L.;Stadler, P.F.
+Melek, Z.;Mayerich, D.;Yuksel, C.;Keyser, J.
+Panse, C.;Sips, M.;Keim, D.A.;North, S.C.
+Sadlo, F.;Peikert, R.;Sick, M.
+Vliegen, R.;van Wijk, J.J.;van der Linden, E.-J.
+Eick, S.G.;Mauger, J.;Ratner, A.
+Jankun-Kelly, M.;Jiang, M.;Thompson, D.;Raghu Machiraju
+Dorling, D.;Barford, A.;Newman, M.
+Zheng, X.;Pang, A.
+Childs, H.;Brugger, E.;Bonnell, K.;Meredith, J.;Miller, M.;Whitlock, B.;Max, N.
+Takahashi, S.;Fujishiro, I.;Takeshima, Y.;Nishita, T.
+Konieczny, J.;Shimizu, C.;Meyer, G.;Colucci, D.
+Wattenberg, M.
+Allard, J.;Raffin, B.
+Zotti, G.;Groller, E.
+Allendoerfer, K.;Aluker, S.;Panjwani, G.;Proctor, J.;Sturtz, D.;Vukovic, M.;Chen, C.
+Kang Shi;Irani, P.;Li, B.
+Fanea, E.;Carpendale, S.;Isenberg, T.
+Zhen Wen;Zhou, M.X.;Aggarwal, V.
+Wattenberg, M.
+Cignoni, P.;Ganovelli, F.;Gobbetti, E.;Marton, F.;Ponchio, F.;Scopigno, R.
+Bekins, D.;Aliaga, D.
+Cavin, X.;Mion, C.;Filbois, A.
+Cornea, N.D.;Silver, D.;Min, P.
+Correa, C.;Silver, D.
+Linsen, L.;Locherbach, J.;Berth, M.;Bernhardt, J.;Becher, D.
+Dwyer, T.;Koren, Y.
+Gao, J.;Huang, J.;Johnson, C.R.;Atchley, S.
+Pak Chung Wong;Mackey, P.;Perrine, K.;Eagan, J.;Foote, H.;Thomas, J.
+Rafiei, D.
+Shengdong Zhao;McGuffin, M.J.;Chignell, M.H.
+Moberts, B.;Vilanova, A.;van Wijk, J.J.
+Wiley, D.F.;Amenta, N.;Alcantara, D.A.;Ghosh, D.;Kil, Y.J.;Delson, E.;Harcourt-Smith, W.;Rohlf, F.J.;St John, K.;Hamann, B.
+Lu, A.;Ebert, D.S.
+Klein, T.;Strengert, M.;Stegmaier, S.;Ertl, T.
+Wilson, A.;Brannon, R.
+Weinkauf, T.;Theisel, H.;Kuangyu Shi;Hege, H.-C.;Seidel, H.-P.
+Theisel, H.;Sahner, J.;Weinkauf, T.;Hege, H.-C.;Seidel, H.-P.
+Tory, M.;Atkins, M.S.;Kirkpatrick, A.E.;Nicolaou, Marios;Guang-Zhong Yang
+Wiebel, A.;Scheuermann, G.
+Mebarki, A.;Alliez, P.;Devillers, O.
+Blaas, J.;Botha, C.P.;Peters, B.;Vos, F.M.;Post, F.H.
+Schlosser, G.;Hesser, J.;Zeilfelder, F.;Rossl, C.;Nurnberger, G.;Seidel, H.-P.;Männer, R.
+Doantam Phan;Ling Xiao;Yeh, R.;Hanrahan, P.
+Schroeder, W.J.;Bertel, F.;Malaterre, M.;Thompson, D.;Pebay, P.P.;O'Bara, R.;Saurabh Tendulkar
+Wilkinson, L.;Anand, A.;Grossman, R.
+de Corral, J.;Pfister, H.
+Laney, D.;Callahan, S.P.;Max, N.;Silva, C.T.;Langer, S.;Frank, R.
+Xiaoru Yuan;Nguyen, M.Z.;Baoquan Chen;Porter, D.H.
+Vega-Higuera, F.;Hastreiter, P.;Fahlbusch, R.;Greiner, G.
+Brandes, U.;Fleischer, D.;Lerner, J.
+Hlawitschka, M.;Scheuermann, G.
+Mallo, O.;Peikert, R.;Sigg, C.;Sadlo, F.
+Svakhine, N.;Yun Jang;Ebert, D.S.;Gaither, K.
+Joshi, A.;Rheingans, P.
+Fischer, J.;Bartz, D.;Strasser, W.
+Hao, M.C.;Dayal, U.;Keim, D.A.;Schreck, T.
+Callahan, S.P.;Comba, J.L.D.;Shirley, P.;Silva, C.T.
+Riehmann, P.;Hanfler, M.;Froehlich, B.
+Matkovic, K.;Jelovic, M.;Juric, J.;Konyha, Z.;Gracanin, D.
+McGuffin, M.J.;Balakrishnan, R.
+Shyh-Kuang Ueng;Sheng-Chuan Wang
+Amar, R.;Eagan, J.;Stasko, J.
+Anderson, J.C.;Bennett, J.C.;Joy, K.I.
+Hanson, A.J.;Hui Zhang
+Chlan, E.B.;Rheingans, P.
+House, D.;Bair, A.;Ware, C.
+Bhaniramka, P.;Robert, P.C.D.;Eilemann, S.
+Tzeng, F.-Y.;Kwan-Liu Ma
+Stegmaier, S.;Rist, U.;Ertl, T.
+Bendix, F.;Kosara, R.;Hauser, H.
+Weiskopf, D.;Schramm, F.;Erlebacher, G.;Ertl, T.
+Bertram, M.;Deines, E.;Mohring, J.;Jegorovs, J.;Hagen, H.
+Csebfalvi, B.
+Slack, J.;Hildebrand, K.;Munzner, T.
+Mlejnek, M.;Ermest, P.;Vilanova, A.;van der Rijt, R.;van den Bosch, H.;Gerritsen, F.;Groller, E.
+Cheng, H.-L.;Shi, X.
+Stockinger, K.;Shalf, J.;Kesheng Wu;Bethel, E.W.
+Wang, J.;Oliveira, M.M.;Kaufman, A.
+Magnor, M.;Hildebrand, K.;Lintu, A.;Hanson, A.J.
+Sadowsky, O.;Cohen, J.D.;Taylor, R.H.
+Johansson, J.;Ljung, P.;Jern, M.;Cooper, M.
+Kraus, M.
+Forsell, C.;Seipel, S.;Lind, M.
+Williams, J.L.;Hiromoto, R.E.
+Kniss, J.;Van Uitert, R.;Stephens, A.;Li, G.-S.;Tasdizen, T.;Hansen, C.
+Xiangong Ye;Kao, D.;Pang, A.
+Pajarola, Renato
+Isenburg, M.;Lindstrom, P.
+Nilsson, O.;Breen, D.;Museth, K.
+Poonam Shanbhag;Rheingans, P.;desJardins, M.
+Huang, A.;Roy, D.;Franaszek, M.;Summers, R.M.
+Botchen, R.P.;Weiskopf, D.;Ertl, T.
+Kondratieva, P.;Kruger, J.;Westermann, R.
+Lujin Wang;Ye Zhao;Mueller, K.;Kaufman, A.
+Marshburn, D.;Weigle, C.;Wilde, B.G.;Taylor, R.M.;Desai, K.;Fisher, J.K.;Cribb, Jeremy;O'Brien, E.T.;Superfine, R.
+van Wijk, J.J.
+Hall, M.;Betts, A.;Cox, D.;Pointer, D.;Kindratenko, V.
+Lommerse, G.;Nossin, F.;Voinea, L.;Telea, A.
+Zheng, X.;Parlett, B.;Pang, A.
+Gyulassy, A.;Vijay Natarajan
+Garner, C.;Miao Jin;Xianfeng Gu;Hong Qin
+Shneiderman, B.;Rao, R.;Andrews, K.;Ahlberg, C.;Brodbeck, D.;Jewitt, T.;Mackinlay, J.
+Hetzler, E.;Crow, V.;Payne, D.A.;Turner, A.E.
+Saito, T.;Miyamura, H.N.;Yamamoto, M.;Saito, H.;Hoshiya, Y.;Kaseda, T.
+Velez, M.C.;Silver, D.;Tremaine, M.
+Bordoloi, U.D.;Han-Wei Shen
+Buchholz, H.;Dollner, J.
+Bavoil, L.;Callahan, S.P.;Crossno, P.;Freire, J.;Scheidegger, C.E.;Silva, C.T.;Vo, H.T.
+Laramee, R.S.;Garth, C.;Doleisch, H.;Schneider, J.;Hauser, H.;Hagen, H.
+Livnat, Y.;Agutter, J.;Shaun Moon;Foresti, S.
+Weiskopf, D.;Borchers, M.;Ertl, T.;Falk, M.;Fechtig, O.;Frank, R.;Grave, F.;King, A.;Kraus, U.;Muller, T.;Nollert, H.-P.;Mendez, I.R.;Ruder, H.;Schafhitzel, T.;Schar, S.;Zahn, C.;Zatloukal, M.
+Saraiya, P.;Lee, P.;North, C.
+van Wijk, J.J.;Cohen, A.M.
+Kaehler, R.;Prohaska, S.;Hutanu, A.;Hege, H.-C.
+Enders, F.;Sauber, N.;Merhof, D.;Hastreiter, P.;Nimsky, C.;Stamminger, M.
+Stoll, C.;Gumhold, S.;Seidel, H.-P.
+Weaver, C.
+Huber, D.E.;Healey, C.
+Weigle, C.;Taylor, R.M.
+Neeman, A.;Jeremic, B.;Pang, A.
+Cantarella, J.;Piatek, M.;Rawdon, E.
+Heer, J.;Boyd, D.
+Wei Qiao;Ebert, D.S.;Entezari, A.;Korkusinski, M.;Klimeck, G.
+Staubli, O.;Sigg, C.;Peikert, R.;Gubler, D.;Gross, M.H.
+Castanie, L.;Levy, B.;Bosquet, F.
+Bruckner, S.;Groller, E.
+Balzer, M.;Deussen, O.
+Bustos, B.;Keim, D.A.;Panse, C.;Schreck, T.
+Akers, D.;Sherbondy, A.;Mackenzie, R.;Dougherty, R.;Wandell, B.
+Ghoniem, M.;Fekete, J.;Castagliola, P.
+Stegmaier, S.;Ertl, T.
+Kreuseler, M.;Nocke, T.;Schumann, H.
+Seo, J.;Shneiderman, B.
+Hwa, L.M.;Duchaineau, M.;Joy, K.I.
+White, H.D.;Lin, X.;Buzydlowski, J.
+Saraiya, P.;North, C.;Duca, K.
+Darling, E.;Newbern, C.;Kalghatgi, N.;Burgman, A.;Recktenwald, K.
+Schussman, G.;Kwan-Liu Ma
+Gainant, G.;Auber, D.
+Viegas, F.B.;Perry, E.;Howe, E.;Donath, J.
+Sibley, P.G.;Taubin, Gabriel
+Gillet, A.;Sanner, M.;Stoffler, D.;Goodsell, D.;Olson, Arthur
+Mancas, M.;Gosselin, B.;Macq, B.
+Amar, R.;Stasko, J.
+Berry, L.;Munzner, T.
+Duke, D.J.;Brodlie, K.W.;Duce, D.A.
+Weaver, C.
+Gleicher, M.;Brunet, T.;Nowak, E.;Osten, L.;McElwee, M.;Tanty, K.;Gepner, A.;Lahvis, G.
+
+van Ham, F.
+Qiang Du;Xiaoquiang Wang
+Peng, W.;Ward, M.O.;Rundensteiner, E.A.
+Rong Xu;Solihin, W.;Zhiyong Huang
+Schroeder, W.J.;Geveci, B.;Malaterre, M.
+McCormick, B.H.;Doddapaneni, P.;Mayerich, D.;Melek, Z.;Keyser, J.
+Magnor, M.;Kindlmann, G.;Duric, N.;Hansen, C.
+Ehret, J.;Ebert, A.;Schuchardt, L.;Steinmetz, H.;Hagen, H.
+Stanton, E.T.;Kegelmeyer, W.P.
+Hagen, H.;Steinebach, G.;Munchhofen, M.;Scheler, I.;Ruby, M.;Wadle, M.
+Bahmutov, G.;Popescu, V.;Sacks, E.
+Mehta, S.;Hazzard, K.;Machiraju, R.;Parthasarathy, S.;Wilkins, J.
+Feng Qiu;Ye Zhao;Zhe Fan;Xiaoming Wei;Lorenz, H.;Jianning Wang;Yoakum-Stover, S.;Kaufman, A.;Mueller, K.
+Sanderson, A.;Johnson, C.R.;Kirby, R.M.
+Tsutsumi, F.;Itoh, N.;Onoda, T.
+Song Zhang;Laidlaw, D.H.
+Zhang, N.;Hong, W.;Kaufman, A.
+Nielson, G.M.
+Frishman, Y.;Tal, A.
+von Rymon-Lipinski, B.;Hanssen, N.;Jansen, T.;Ritter, L.;Keeve, E.
+Granitzer, M.;Kienreich, W.;Sabol, V.;Andrews, K.;Klieber, W.
+Myers, E.;Coppin, P.;Wagner, M.;Fischer, K.;Luisa Lu;McCloskey, W.R.;Seneker, D.
+McGuffin, M.J.;Davison, G.;Balakrishnan, R.
+Keim, D.A.;Barro, H.;Panse, C.;Schneidewind, J.;Sips, M.
+Delest, M.;Munzner, T.;Auber, D.;Domenger, J.
+Voinea, L.;Telea, A.;van Wijk, J.J.
+Mandic, M.;Kerne, A.
+Hang Yu;Chang, E.-C.;Zhiyong Huang;Zhijian Zheng
+Griebel, M.;Preusser, T.;Rumpf, M.;Schweitzer, M.A.;Telea, A.
+Wischgoll, T.;Moritz, E.;Meyer, J.
+Santilli, K.;Bemis, K.;Silver, D.;Dastur, J.;Rona, P.
+Lujin Wang;Mueller, K.
+Kapler, T.;Wright, W.
+Cheng, H.-L.;Shi, X.
+Otaduy, M.A.;Jain, N.;Sud, A.;Lin, M.C.
+Wei Chen;Liu Ren;Zwicker, M.;Pfister, H.
+Balzer, M.;Deussen, O.
+Pin Ren;Watson, B.
+Cluxton, D.;Eick, S.G.;Jie Yun
+Jen, D.;Parente, P.;Robbins, J.;Weigle, C.;Taylor, R.M.;Burette, A.;Weinberg, R.
+Schkolne, S.;Ishii, H.;Schroder, P.
+Viola, I.;Kanitsar, A.;Groller, E.
+Pak Chung Wong;Hetzler, E.;Posse, C.;Whiting, M.;Havre, S.;Cramer, N.;Shah, A.;Singhal, M.;Turner, A.;Thomas, J.
+Chen, C.
+Tyman, J.;Gruetzmacher, G.P.;Stasko, J.
+Roman, A.;Garg, G.;Levoy, M.
+Prohaska, S.;Hutanu, A.;Kahler, R.;Hege, H.-C.
+Foster, J.;Subramanian, K.;Herring, R.;Gail Ahn
+Livnat, Y.;Tricoche, X.
+Wyatt, E.C.;O'Leary, P.
+Urness, T.;Interrante, V.;Longmire, E.;Marusic, Ivan;Ganapathisubramani, B.
+Hao, M.C.;Keim, D.A.;Dayal, U.;Schneidewind, J.
+Ellsworth, D.;Green, B.;Moran, P.J.
+Mlejnek, M.;Vilanova, A.;Groller, E.
+Johansson, J.;Ljung, P.;Lindgren, D.;Cooper, M.
+van Ham, F.;van Wijk, J.J.
+Takeshima, Y.;Takahashi, S.;Fujishiro, I.;Nielson, G.M.
+Rose, D.;Bidmon, K.;Ertl, T.
+Laramee, R.S.;Weiskopf, D.;Schneider, J.;Hauser, H.
+Marai, G.E.;Demiralp, C.;Andrews, S.;Laidlaw, D.H.
+
+Lee, C.H.;Hao, X.;Varshney, A.
+Lakare, S.;Kaufman, A.
+Lum, E.B.;Kwan-Liu Ma
+Entezari, A.;Dyer, R.;Moller, T.
+Duke, D.J.
+Xiaohong Bao;Pajarola, R.;Shafae, M.
+Edelsbrunner, H.;Harer, J.;Natarajan, V.;Pascucci, V.
+Shyh-Kuang Ueng;Yan-Jen Su;Chi-Tang Chang
+Ke, W.;Borner, K.;Viswanath, L.
+Abello, J.;van Ham, F.
+Li, A.;Mueller, K.;Ernst, T.
+Chiricota, Y.;Jourdan, F.;Melancon, G.
+Melek, Z.;Keyser, J.
+Tzu-Wei Hsu;Inman, L.;McColgin, D.;Stamper, K.
+Kobourov, S.G.;Wampler, K.
+La Cruz, A.;Straka, M.;Kochl, A.;Sramek, M.;Groller, E.;Fleischmann, D.
+Weiskopf, D.
+Yuan Chen;Cohen, J.;Subodh Kumar
+Soon Tee Teoh;Kwan-Liu Ma
+Miao Jin;Yalin Wang;Shing-Tung Yau;Gu, X.
+Gossett, N.;Baoquan Chen
+Rhyne, T.M.;Hibbard, B.;Johnson, C.R.;Chen, C.;Eick, S.
+Gaither, K.;Ebert, D.S.;Gaither, K.;Geisler, B.;Laidlaw, D.
+Johnson, G.;Ebert, D.S.;Hansen, C.;Kirk, D.;Mark, B.;Pfister, H.
+Genetti, J.D.;Bailey, M.;Genetti, J.D.;Laidlaw, D.H.;Moorhead, R.J.;Whitaker, R.T.
+Carpendale, S.;Agarawala, A.
+Hotz, I.;Feng, L.;Hagen, H.;Hamann, B.;Joy, K.I.;Jeremic, B.
+Zhou, Y.;Garland, M.;Haber, R.
+Havre, S.;Singhal, M.;Payne, D.A.;Webb-Robertson, B.-J.M.
+Kraus, M.;Wei Qiao;Ebert, D.S.
+Yoon, S.-E.;Salomon, B.;Gayle, Russell;Manocha, D.
+Nielson, G.M.
+Spoerri, A.
+Strzodka, R.;Garbe, C.
+Schulze, J.P.;Rice, A.
+Heilmann, R.;Keim, D.A.;Panse, C.;Sips, M.
+Xue, D.;Zhang, C.;Crawfis, R.
+Brasher, M.;Haimes, R.
+Lu, D.;Dietrich, L.
+Tory, M.;Moller, T.
+Kim, Y.;Machiraju, R.;Thompson, D.
+McCormick, P.;Inman, J.;Ahrens, J.;Hansen, C.;Roth, G.
+Hanrahan, P.
+Carr, H.;Snoeyink, J.;van de Panne, Michiel
+Williams, M.;Munzner, T.
+Neubauer, A.;Mroz, L.;Wolfsberger, S.;Wegenkittl, R.;Forster, M.-T.;Buhler, K.
+Theisel, H.;Weinkauf, T.;Hege, H.-C.;Seidel, H.-P.
+Xie, H.;McDonnell, K.T.;Hong Qin
+Museth, K.;Lombeyda, S.
+Bajaj, C.L.;Djeu, P.;Siddavanahalli, V.;Thane, A.
+Albrecht-Buehler, C.;Watson, B.;Shamma, D.A.
+Geisler, W.S.
+Fekete, J.
+Straka, M.;Cervenansky, M.;La Cruz, A.;Kochl, A.;Sramek, M.;Groller, E.;Fleischmann, D.
+Moere, A.V.
+Gansner, E.;Koren, Y.;North, S.C.
+Zheng, X.;Pang, A.
+Sun, L.;Batra, R.;Xiaolei Shi;Hesselink, L.
+Garth, C.;Tricoche, X.;Scheuermann, G.
+Groth, D.P.;Murphy, B.W.
+Artero, A.O.;de Oliveira, M.C.F.;Levkowitz, H.
+Bongshin Lee;Czerwinski, M.;Robertson, G.;Bederson, B.B.
+Kobsa, A.
+Jing Yang;Anilkumar Patro;Huang Shiping;Nishant Mehta;Ward, M.O.;Rundensteiner, E.A.
+Westenberg, M.A.;Ertl, T.
+Keahey, T.A.;Cox, K.C.
+Hao, M.C.;Keim, D.A.;Dayal, U.
+Gao, J.;Han-Wei Shen;Huang, J.;Kohl, J.A.
+Krishnaswamy, P.;Eick, S.G.;Grossman, R.L.
+Hagen, H.;Disch, A.;Ehret, J.;Klein, R.;Kohn, S.;Zeckzer, D.;Munchhofen, M.
+Brodlie, K.;Duce, D.;Gallop, J.;Sagar, M.;Walton, J.;Wood, J.
+Tricoche, X.;Garth, C.;Kindlmann, G.;Deines, E.;Scheuermann, G.;Ruetten, M.;Hansen, C.
+Saunders, P.C.;Garrick, S.C.;Interrante, V.
+Crossno, P.;Rogers, D.H.;Brannon, R.;Coblentz, D.
+Song Zhang;Laidlaw, D.;Simon, J.;Brown, M.S.;Miller, D.
+Slavin, V.A.;Laidlaw, D.H.;Pelcovits, R.;Song Zhang;Loriot, G.;Callan-Jones, A.
+Hueso, E.;Pivkin, I.;Swartz, S.;Laidlaw, D.H.;Karniadakis, G.;Breuer, K.
+Mohammadi-Aragh, M.J.;Jankun-Kelly, T.J.
+Bradley, D.
+Hoobler, N.;Humphreys, G.;Agrawala, M.
+Robbins, K.A.;Robinson, M.;Senseman, D.M.
+Diep, E.;Jacob, R.J.K.
+Crawford, D.;Kwan-Liu Ma;Min-Yu Huang;Klasky, S.;Ethier, S.
+Surendran, D.;Levy, S.
+Guzman, D.;Reyes, R.;Vega, K.;Gaither, K.;Wyatt, R.
+Reyes, R.;Hodges, W.;Gaither, K.
+Johnson, G.P.;Gaither, K.;Calo, V.
+Schwarz, N.;Venkataraman, S.;Luc Renambot;Krishnaprasad, N.;Vishwanath, V.;Leigh, J.;Johnson, A.;Kent, G.;Nayak, A.
+Bertram, M.
+Sadlo, F.;Peikert, R.;Parkinson, E.
+Ahmed, A.;Dwyer, T.;Murray, C.;Le Song;Ying Xin Wu
+Telea, A.;van Wijk, J.J.
+Ikits, M.;Brederson, J.D.;Hansen, C.;Johnson, C.R.
+Huamin Qu;Kaufman, A.;Ran Shao;Kumar, A.
+Welsh, T.;Mueller, K.
+Wattenberg, M.;Fisher, D.
+Bremer, P.-T.;Edelsbrunner, H.;Hamann, B.;Pascucci, V.
+Tzeng, F.-Y.;Lum, E.B.;Kwan-Liu Ma
+Weiskopf, D.;Erlebacher, G.;Ertl, T.
+Ross, G.;Chalmers, M.
+Soon Tee Teoh;Kwan-Liu Ma;Wu, S.F.
+Ellsworth, D.;Moran, P.J.
+Kruger, J.;Westermann, R.
+Honigmann, D.;Ruisz, J.;Haider, C.
+Kanitsar, A.;Wegenkittl, R.;Fleischmann, D.;Groller, E.
+Summers, K.L.;Goldsmith, T.E.;Kubica, S.;Caudell, T.P.
+Jang, J.;Ribarsky, W.;Shaw, C.;Wonka, P.
+Spell R.;Brady R.;Dietrich F.
+Skog, T.;Ljungblad, S.;Holmquist, L.E.
+Elmqvist, N.;Tsigas, P.
+Guo-Shi Li;Bordoloi, U.D.;Han-Wei Shen
+Ebling, J.;Scheuermann, G.
+Hong Chen
+Schneider, J.;Westermann, R.
+Derthick, M.;Christel, M.G.;Hauptmann, A.G.;Wactlar, H.D.
+Akers, D.;Losasso, F.;Klingner, J.;Agrawala, M.;Rick, J.;Hanrahan, P.
+Kim, S.;Hagh-Shenas, H.;Interrante, V.
+Craig, P.;Kennedy, J.
+Banks, D.C.;Linton, S.
+Kindlmann, G.;Whitaker, R.T.;Tasdizen, T.;Moller, T.
+Tang, D.;Stolte, C.;Bosche, R.
+Glaser, D. C.;Tan, R;Canny, J.;Do, Ellen Yi-Luen
+Machiraju, R.;Johnson, Chris;Yoo, T.;Crawfis, R.;Ebert, D.S.;Stredney, D.
+Pak Chung Wong;Foote, H.;Adams, D.;Cowley, W.;Thomas, J.
+Wong, N.;Carpendale, S.;Greenberg, S.
+Urness, T.;Interrante, V.;Marusic, Ivan;Longmire, E.;Ganapathisubramani, B.
+Qing Li;North, C.
+Li, W.;Mueller, K.;Kaufman, A.
+Shedd, B.
+Saroul, L.;Gerlach, S.;Herch, R.D.
+MacEachren, A.M.;Xiping, D.;Hardisty, F.;Diansheng Guo;Lengerich, G.
+Szymczak, A.;Vanderhyde, J.
+Bertram, M.
+Sherbondy, A.;Houston, M.;Napel, S.
+Varadhan, G.;Shankar Krishnan;Kim, Y.J.;Manocha, D.
+Shamir, A.
+Csallner, C.;Handte, M.;Lehmann, O.;Stasko, J.
+Kniss, J.;premoze, S.;Ikits, M.;Lefohn, A.;Hansen, C.;Praun, E.
+Viola, I.;Kanitsar, A.;Groller, E.
+Weiler, Manfred;Kraus, M.;Merz, M.;Ertl, T.
+Zhukov, L.;Barr, A.
+Hopf, M.;Ertl, T.
+Co, C.S.;Heckel, B.;Hagen, H.;Hamann, B.;Joy, K.I.
+Woodring, J.;Chaoli Wang;Han-Wei Shen
+Hadwiger, M.;Berger, C.;Hauser, H.
+Plesniak, W.;Halle, M.;Pieper, S.D.;Wells, W.;Jakab, M.;Meier, D.S.;Benton, S.A.;Guttmann, R.G.;Kikinis, R.
+Bartz, D.;Mayer, D.;Fischer, J.;Ley, S.;del Rio, A.;Thust, S.;Heussel, C.P.;Kauczor, H.-U.;Strasser, W.
+Zheng, X.;Pang, A.
+
+
+van Wijk, J.J.
+Laramee, R.S.;Jobard, B.;Hauser, H.
+Morrison A.;Chalmers,M.
+Rhyne, T.M.;Tory, M.;Munzner, T.;Ward, M.O.;Johnson, C.R.;Laidlaw, D.H.
+Paley, W.B.
+Trutschl, M.;Grinstein, G.;Cvek, U.
+Konyha, Z.;Matkovic, K.;Hauser, H.
+Lefohn, A.;Kniss, J.;Hansen, C.;Whitaker, R.T.
+Jing Yang;Wei Peng;Ward, M.O.;Rundensteiner, E.A.
+Kreylos, O.;Max, N.;Hamann, B.;Crivelli, S.N.;Bethel, E.W.
+Yoon, S.-E.;Salomon, B.;Manocha, D.
+Bethel, E.W.
+Isenburg, M.;Lindstrom, P.;Gumhold, S.;Snoeyink, J.
+Halle, M.;Meng, J.
+Rosario, G.E.;Rundensteiner, E.A.;Brown, D.C.;Ward, M.O.
+Nielson, G.M.
+Tory, M.
+Jankun-Kelly, T.J.;Kwan-Liu Ma
+Csebfalvi, B.;Szirmay-Kalos, L.
+Aubert, D.;Chiricota Y.;Jourdan F.;Melançon, G.
+Yi-Jen Chiang
+Hui Xie;Wang, J.;Jing Hua;Hong Qin;Kaufman, A.
+Cignoni, P.;Ganovelli, F.;Gobbetti, E.;Marton, F.;Ponchio, F.;Scopigno, R.
+Popescu, V.;Hoffmann, C.;Kilic, S.;Sozen, M.;Meador, S.
+Albert, R.;Syroid, N.;Zhang, Y.;Agutter, J.;Drews, F.;Strayer, D.;Hutchinson, G.;Westenskow, Dwayne
+Ming Wan;McNeely, W.A.
+Volkov, V.;Ling Li
+Theisel, H.;Weinkauf, T.;Hege, H.-C.;Seidel, H.-P.
+Tam, R.;Heidrich, W.
+Sigg, C.;Peikert, R.;Gross, M.H.
+van Wijk, J.J.;Nuij, W.A.A.
+Bordoloi, U.D.;Han-Wei Shen
+Jaech, J.;North, S.C.;Peery, M.;Schroeder, W.J.;Thomas, J.
+Ware, C.
+Kerr, B.
+McGuffin, M.J.;Tancau, L.;Balakrishnan, R.
+van Ham, F.
+Stewart, A.J.
+Daniel, G.;Chen, M.
+Tarini, M.;Cignoni, P.;Scopigno, R.
+Gao, J.;Huang, J.;Han-Wei Shen;Kohl, J.A.
+Wright, J.;Burleigh, S.;Maruya, M.;Maxwell, S.;Pischel, R.
+Koren Y.;Carmel L.
+Brodbeck, D.;Girardin, L.
+Persoon, M.P.;Serlie, I.W.O.;Post, F.H.;Truyen, R.;Vos, F.M.
+Adams, P.;Dommermuth, D.
+Rossl, C.;Zeilfelder, F.;Nurnberger, G.;Seidel, H.-P.
+Gresh, D.L.;Kelton, E.I.
+Chen, C.;Morris, S.
+Huang, R.;Kwan-Liu Ma;McCormick, P.;Ward, W.
+Jimenez, W.H.;Correa, W.T.;Silva, C.T.;Baptista, A.M.
+Riley, K.;Ebert, D.S.;Hansen, C.;Levit, J.
+Guangfeng Ji;Han-Wei Shen;Wenger, R.
+Ye Zhao;Wei, X.;Zhe Fan;Kaufman, A.;Hong Qin
+Grinstein, G.;Kobsa, A.;Plaisant, C.;Stasko, J.
+Bauer, D.;Peikert, R.;Sato, M.;Sick, M.
+Stoev, S.L.;Strasser, W.
+Gerstner, T.;Meetschen, D.;Crewel, S.;Griebel, M.;Simmer, C.
+Stegmaier, S.;Rose, D.;Ertl, T.
+Morrison, A.;Ross, G.;Chalmers, M.
+Jankun-Kelly, T.J.;Kwan-Liu Ma;Gertz, M.
+Garland, M.;Shaffer, E.
+Mora, B.;Jessel, J.-P.;Caubet, Rene
+Jayaraman, S.;North, C.
+Quang Vinh Nguyen;Mao Lin Huang
+Koren, Y.;Carmel, L.;Harel, D.
+Hauser, H.;Ledermann, F.;Doleisch, H.
+Nielson, G.M.;Huang, A.;Sylvester, S.
+Wattenberg, M.
+Dennis, Brent M.;Healey, C.
+van Ham, F.;van Wijk, J.J.
+Taubin, Gabriel
+Wim de Leeuw;van Liere, R.
+Sorkine, O.;Cohen-Or, D.;Goldenthal, R.;Lischinski, D.
+Zhou, M.X.;Min Chen;Ying Feng
+Treinish, L.A.
+Hiraga, R.
+Adams, R.M.;Stancampiano, B.;McKenna, M.;Small, D.
+Suzuki, Y.;Fujishiro, I.;Chen, L.;Nakamura, H.
+Sanghun Park;Bajaj, C.L.;Siddavanahalli, V.
+Soon Tee Teoh;Kwan-Liu Ma;Wu, S.F.;Xiaoliang Zhao
+Uselton, S.
+Crossno, P.;Rogers, D.H.;Garasi, C.J.
+Erlebacher, G.;Yuen, D.A.;Dubuffet, F.
+Grant, J.;Erlebacher, G.;O'Brien, J.
+Amenta, N.;Klingner, J.
+Kanitsar, A.;Theussl, T.;Mroz, L.;Sramek, M.;Bartroli, A.V.;Csebfalvi, B.;Hladuvka, J.;Fleischmann, D.;Knapp, Michael;Wegenkittl, R.;Felkel, P.;Rottger, S.;Guthe, S.;Purgathofer, W.;Groller, E.
+Hualin Zhou;Min Chen;Webster, M.F.
+Isenburg, M.;Alliez, P.
+Mann, S.;Rockwood, A.
+Kanitsar, A.;Fleischmann, D.;Wegenkittl, R.;Felkel, P.;Groller, E.
+Mei Chuah
+Youwei Zhang;Rohling, Robert;Pai, D.K.
+Kosslyn, S.M.
+Keim, D.A.;North, S.C.;Panse, C.;Schneidewind, J.
+Karni, Z.;Bogomjakov, A.;Gotsman, C.
+Pascucci, V.;Cole-McLaughlin, K.
+Pauly, M.;Gross, M.H.;Kobbelt, L.P.
+Krum, D.;Omoteso, O.;Ribarsky, W.;Starner, T.;Hodges, L.F.
+Weber, G.H.;Scheuermann, G.;Hagen, H.;Hamann, B.
+Lowekamp, B.;Rheingans, P.;Yoo, T.S.
+Kindlmann, G.;Reinhard, E.;Creem, S.
+Wan, M.;Sadiq, A.;Kaufman, A.
+Levenberg, J.
+Prohaska, S.;Hege, H.-C.
+Baker, C.;Carpendale, S.;Prusinkiewicz, P.;Surette, M.G.
+Tasdizen, T.;Whitaker, R.T.;Burchard, P.;Osher, S.
+Jiang, M.;Machiraju, R.;Thompson, D.
+Nowell, L.;Schulman, R.;Hix, D.
+Lloyd, B.;Egbert, P.
+Chopra, P.;Meyer, J.;Fernandez, A.
+Preim, B.;Tietjen, C.;Spindler, W.;Peitgen, H.-O.
+Fekete, J.;Plaisant, C.
+Guthe, S.;Wand, M.;Gonser, J.;Strasser, W.
+Bergner, S.;Moller, T.;Drew, M.S.;Finlayson, G.D.
+Kniss, J.;Premoze, S.;Hansen, C.;Ebert, D.S.
+Gregorski, B.;Duchaineau, M.;Lindstrom, P.;Pascucci, V.;Joy, K.I.
+Deussen, O.;Colditz, C.;Stamminger, M.;Drettakis, G.
+Cleveland, W.S.
+Jing Yang;Ward, M.O.;Rundensteiner, E.A.
+Hotz, I.
+Lum, E.B.;Stompel, A.;Kwan-Liu Ma
+Museth, K.;Breen, D.;Zhukov, L.;Whitaker, R.T.
+Gumhold, S.
+Conklin, N.;Prabhakar, S.;North, C.
+Stolte, C.;Tang, D.;Hanrahan, P.
+Shirah, G.W.;Mitchell, H.G.
+Aidong Lu;Morris, C.J.;Ebert, D.S.;Rheingans, P.;Hansen, C.
+El-Sana, J.;Bachmat, E.
+Zhukov, L.;Barr, A.
+Varadhan, G.;Manocha, D.
+Dey, T.K.;Hudson, J.
+Gresh, D.L.;Rabenhorst, D.A.;Shabo, A.;Slavin, S.
+Grigoryan, G.;Rheingans, P.
+Matkovic, K.;Hauser, H.;Sainitzer, R.;Groller, E.
+Pajarola, Renato;Antonijuan, M.;Lario, R.
+Kahler, R.;Cox, D.;Patterson, R.;Levy, S.;Hege, H.-C.;Abel, T.
+Chen, H.;Sukthankar, R.;Wallace, G.;Li, K.
+Aliaga, D.;Funkhouser, T.;Yanovsky, D.;Carlbom, I.
+Sheffer, A.;Hart, J.C.
+Luke, E.J.;Hansen, C.
+Wei, X.;Wei Li;Mueller, K.;Kaufman, A.
+Plaisant, C.;Grosjean, J.;Bederson, B.B.
+Sigfridsson, A.;Ebbers, T.;Heiberg, E.;Wigstrom, L.
+Chopra, P.;Meyer, J.
+Lind, M.;Bingham, G.P.;Forser, C.
+Zhang, E.;Turk, G.
+Keahey, T.A.;Eick, S.G.
+Brandes, U.;Corman, S.R.
+North, C.;Conklin, N.;Saini, V.
+Thiagarajan, P.R.;Gao, G.R.
+Olston, C.;Mackinlay, J.
+Schmidt-Ehrenberg, J.;Baum, D.;Hege, H.-C.
+Weiskopf, D.;Engel, K.;Ertl, T.
+Zheng, X.;Pang, A.
+Balmelli, L.;Morris, C.J.;Taubin, Gabriel;Bernardini, F.
+Zhang, C.;Crawfis, R.
+DeCoro, C.;Pajarola, Renato
+Tavanti, M.;Lind, M.
+Barlow, T.;Neville, P.
+Kobsa, A.
+Ka-Ping Yee;Fisher, D.;Dhamija, R.;Hearst, M.
+Posdamer, J.L.;Dantone, J.;Gershon, N.;Dale, J.;Hamburger, T.;Page, W.
+Kleiberg, E.;van de Wetering, H.;van Wijk, J.J.
+Edsall, R.M.;MacEachren, A.M.;Pickle, L.
+Brainerd, J.;Becker, B.
+Barlow, T.;Neville, P.
+Nowell, L.;Hetzler, E.;Tanasse, T.
+Davidson, G.;Wylie, B.;Boyack, K.W.
+Dachselt, Raimund;Ebert, J.
+Six, J.M.;Tollis, I.G.
+Keahey, T.A.
+Abello, J.;Finocchi, I.;Korn, J.
+Agutter, J.;Syroid, N.;Drews, F.;Westenskow, Dwayne;Bermudez, J.;Strayer, D.
+Havre, S.;Hetzler, E.;Perrine, K.;Jurrus, E.;Miller, N.
+Shneiderman, B.;Wattenberg, M.
+Keim, D.A.;Hao, M.C.;Ladisch, J.;Hsu, M.;Dayal, U.
+Kosara, R.;Miksch, S.;Hauser, H.
+Eagan, J.;Harrold, M.J.;Jones, J.A.;Stasko, J.
+Hanrahan, P.
+van Ham, F.;van de Wetering, H.;van Wijk, J.J.
+Weber, M.;Alexa, M.;Muller, W.
+Alexa, M.;Behr, J.;Cohen-Or, D.;Fleishman, S.;Levin, D.;Silva, C.T.
+Zwicker, M.;Pfister, H.;van Baar, J.;Gross, M.H.
+Cohen, J.D.;Aliaga, D.;Weiqiang Zhang
+Chen, B.;Nguyen, M.X.
+Jobard, B.;Erlebacher, G.;Hussaini, M.Y.
+Burkle, D.;Preusser, T.;Rumpf, M.
+van Wijk, J.J.;Telea, A.
+Pingali, G.;Opalach, A.;Jean, Y.;Carlbom, I.
+Dey, T.K.;Giesen, J.;Goswami, S.;Hudson, J.;Wenger, R.;Wulue Zhao
+Theussl, T.;Möller, T.;Groller, E.
+Carr, H.;Moller, T.;Snoeyink, J.
+Jianbo Peng;Strela, V.;Zorin, D.
+Walter, J.D.;Healey, C.
+Lindstrom, P.;Silva, C.T.
+Shaffer, E.;Garland, M.
+Isenburg, M.;Gumhold, S.;Gotsman, C.
+Laidlaw, D.H.;Kirby, R.M.;Davidson, J.S.;Miller, T.S.;da Silva, M.;Warren, W.H.;Tarr, M.
+Scheuermann, G.;Bobach, T.;Hagen, H.;Mahrous, K.;Hamann, B.;Joy, K.I.;Kollmann, W.
+Tricoche, X.;Scheuermann, G.;Hagen, H.
+Ruigang Yang;Gotz, D.;Hensley, J.;Towles, H.;Brown, M.S.
+Jaynes, C.;Webb, S.;Steele, R.M.;Brown, M.S.;Seales, W.B.
+Rogowitz, B.;Kalvin, A.D.
+Levy, B.;Caumon, G.;Conreaux, S.;Cavin, X.
+Weiler, Manfred;Ertl, T.
+Schulze, R.P.;Niemeier, R.;Lang, U.
+Kraus, M.;Ertl, T.
+Pekar, V.;Wiemker, R.;Hempel, D.
+Tenginakai, S.;Jinho Lee;Machiraju, R.
+Wan, M.;Dachille, F.;Kaufman, A.
+Huang, J.;Yan Li;Crawfis, R.;Shao-Chiung Lu;Shuh-Yuan Liou
+Kniss, J.;Kindlmann, G.;Hansen, C.
+Lum, E.B.;Ma, K.-L.;Clyne, J.
+Westermann, R.;Sevenich, B.
+Mroz, L.;Hauser, H.
+Hubeli, A.;Gross, M.H.
+Gavriliu, M.;Carranza, J.;Breen, D.;Barr, A.
+Bertram, M.;Laney, D.;Duchaineau, M.;Hansen, C.;Hamann, B.;Joy, K.I.
+Otaduy, M.A.;Lin, M.C.
+Litke, N.;Levin, A.;Schröder, P.
+Lexing Ying;Zorin, D.
+Grinspun, E.;Schroder, P.
+Haber, J.;Zeilfelder, F.;Davydov, O.;Seidel, H.-P.
+Guthe, S.;Strasser, W.
+Ho, J.;Kuang-Chih Lee;Kriegman, D.
+Lindstrom, P.;Pascucci, V.
+El-Sana, J.;Sokolovsky, N.;Silva, C.T.
+Scoggins, R.;Machiraju, R.;Moorhead, R.J.
+Dong, F.;Clapworthy, G.J.;Krokos, M.
+Hahn, H.K.;Preim, B.;Selle, D.;Peitgen, H.-O.
+Fattal, R.;Lischinski, D.
+Vilanova Bartroli, A.V.;Wegenkittl, R.;Konig, A.;Groller, E.
+Gubin, A.;Yurcik, W.; Brumbaugh, L.
+Iserhardt-Bauer, S.;Hastreiter, P.;Ertl, T.;Eberhardt, K.;Tomandl, B.
+Crossno, P.;Haynes, R.
+Meissner, M.;Orman, J.;Braun, S.J.
+Zhang, S.;Demiralp, C.;Keefe, D.F.;DaSilva, M.;Laidlaw, D.H.;Greenberg, B.D.;Basser, P.J.;Pierpaoli, C.;Chiocca, E.A.;Deisboeck, T.S.
+Wim de Leeuw;van Liere, R.
+Gresh, D.L.;Suits, F.;Yuk Yin Sham
+Montgomery, K.;Heinrichs, L.R.;Bruyns, C.;Wildermuth, S.;Hasser, C.;Ozenne, S.;Bailey, D.
+Zhaohua Ding;Gore, J.C.;Anderson, A.W.
+Kao, D.;Dungan, J.L.;Pang, A.
+Koegler, W.S.
+Wei, X.;Kaufman, A.;Hallman, T.J.
+Hurdal, M.K.;Kurtz, K.W.;Banks, D.C.
+Tory, M.;Rober, N.;Möller, T.;Celler, A.;Atkins, M.S.
+Kanitsar, A.;Fleischmann, D.;Wegenkittl, R.;Sandner, D.;Felkel, P.;Groller, E.
+Welsh, T.;Mueller, K.;Wei Zhu;Volkow, N.;Meade, J.
+Stoev, S.L.;Strasser, W.
+Ziegeler, S.;Moorhead, R.J.;Croft, P.J.;Duanjun Lu
+Acevedo, D.; Vote, E.; Laidlaw, D.H.; Joukowsky, M.S.
+Bryan, J.;Stredney, D.; Wiet, G.; Sessanna, D.
+Museth, K.;Barr, A.;Lo, M.W.
+Severance, K.;Brewstel, P.; Lazos, B.;Keefe, D.
+Montgomery, K.;Bruyns, C.;Wildermuth, S.
+Kreuseler, M.;Lopez, N.;Schumann, H.
+Chi, E.H.
+Brewer, I.;MacEachren, A.M.;Abdo, H.;Gundrum, J.;Otto, G.
+Buscher, M.;Shapiro, D.;Christensen, M.;Mogensen, P.;Orbaek, P.
+Herman, I.;Marshall, M.S.;Melancon, G.
+Stasko, J.;Zhang, E.
+Skupin, A.
+Fujishiro, I.;Ichikawa, Y.;Furuhata, R.;Takeshima, Y.
+Olston, C.;Woodruff, A.
+Yang-Pelaez, J.;Flowers, W.C.
+Pu, P.;Lalanne, D.
+Leuski, A.;Allan, J.
+Russo dos Santos, C.;Gros, P.;Abel, P.;Loisel, D.;Trichaud, N.;Paris, J.P.
+Overbye, T.J.;Weber, J.D.
+Stolte, C.;Hanrahan, P.
+Bjork, S.;Redstrom, J.
+Havre, S.;Hetzler, E.;Nowell, L.
+Ribler, R. L.; Abrams, M.
+Abello, J.;Korn, J.
+Pak Chung Wong;Cowley, W.;Foote, H.;Jurrus, E.;Thomas, J.
+Stoev, S.L.;Strasser, W.
+Hietala, R.;Oikarinen, J.
+Lakare, S.;Wan, M.;Sato, M.;Kaufman, A.
+Bitter, I.;Sato, M.;Bender, M.;McDonnell, K.T.;Kaufman, A.;Wan, M.
+Humphrey, Matthew C. 
+Sprenger, T.C.;Brunella, R.;Gross, M.H.
+Jankun-Kelly, T.J.;Kwan-Liu Ma
+Cedilnik, A.;Rheingans, P.
+Cignoni, P.;Costanza, D.;Montani, C.;Rocchini, C.;Scopigno, R.
+Roxborough, T.;Nielson, G.M.
+Chuan-Kai Yang;Mitra, T.;Tzi-cker Chiueh
+Rottger, S.;Kraus, M.;Ertl, T.
+Majumder, A.;Zhu He;Towles, H.;Welch, G.
+Chen, Y.;Clark, D.;Finkelstein, A.;Housel, T.C.;Li, K.
+Lawrence, D.A.;Lee, C.D.;Pao, Lucy Y.;Novoselov, R.Y.
+Gregory, A.;Mascarenhas, A.;Ehmann, S.;Ming Lin;Manocha, D.
+Westermann, R.;Johnson, C.R.;Ertl, T.
+Jobard, B.;Erlebacher, G.;Hussaini, M.Y.
+Verma, V.;Kao, D.;Pang, A.
+Scoggins, R.;Machiraju, R.;Moorhead, R.J.
+Hu, H.H; Gooch, A.A.; Thompson, W.B.; Smits, B.E.; Rieser, J.J.; Shirley, P.
+Muraki, S.;Nakai, T.;Kita, Y.
+Ebert, D.S.;Rheingans, P.
+Treavett, S.M.F.;Chen, M.
+Hauser, H.;Mroz, L.;Bischi, G.-I.;Groller, E.
+Huang, J.;Mueller, K.;Shareef, N.;Crawfis, R.
+Dollner, J.;Baumann, K.;Hinrichs, K.
+Suits, F.;Klosowski, J.T.;Horn, W.;Lecina, G.
+Hunter, A.;Cohen, J.D.
+Qu, H.; Wan, M; Qin, J.; Kaufman, A.
+Gerstner, T.;Pajarola, Renato
+Bhaniramka, P.;Wenger, R.;Crawfis, R.
+Wood, Z.J.;Desbrun, M.;Schroder, P.;Breen, D.
+Weinstein, D.
+Wright, H.;Brodlie, K.;David, T.
+Johnson, R.R.
+Weiskopf, D.;Kobras, D.;Ruder, H.
+Hotz, I.;Hagen, H.
+Devillers, O.;Gandoin, P.-M.
+Wei-Chao Wen;Towles, H.;Nyland, L.;Welch, G.;Fuchs, H.
+El-Sana, J.
+Lodha, S.K.;Renteria, J.C.;Roskin, K.M.
+Garcke, H.; Preuer, T.; Rumpf, M.; Telea, A.; Weikard, U.; van Wijk, J.J
+Tricoche, X.;Scheuermann, G.;Hagen, H.
+Bonnell, K.;Schikore, D.R.;Joy, K.I.;Duchaineau, M.;Hamann, B.
+Adamy, U.;Giesen, J.;John, M.
+Bonneau, G.-P.;Hahmann, S.
+Bennett, J.; Mahrou, K.; Hamann, B.; Joy, K.I.
+Clarenz, U.;Diewald, U.;Rumpf, M.
+Hubeli, A.; Gross, M.
+Nooruddin, F.S.; Turk, G.
+Shamir, A.;Pascucci, V.;Bajaj, C.L.
+Robbins, K.A.;Gorman, M.
+Mroz, L.;Wegenkittl, R.;Groller, E.
+Swan, J.E.;Lanzagorta, M.;Maxwell, D.;Kuo, E.;Uhlmann, J.;Anderson, W.;Haw-Jye Shyu;Smith, W.
+Weiskopf, D.
+Engel, K.;Hastreiter, P.;Tomandl, B.;Eberhardt, K.;Ertl, T.
+Fenlon, A.J.;David, T.;Walton, J.P.R.B.
+Forsberg, A.;Laidlaw, D.H.;van Dam, A.;Kirby, R.M.;Kafniadakis, G.E.;Elion, J.L.
+Wegenkittl, R.;Vilanova, A.;Hegedust, B.;Wagner, Daniel;Freund, M.C.;Groller, E.
+Huitema, H.;van Liere, R.
+Ljung, P.;Dieckmann, M.;Andersson, N.;Ynnerman, A.
+de Leeuw, W.;van Liere, R.;Verschure, P.J.;Visser, A.E.;Manders, E.M.M.;van Driel, R.
+Treinish, L.A.
+Bemis, K.;Silver, D.;Rona, P.;Chengwei Feng
+Pak Chung Wong;Foote, H.;Leung, R.;Jurrus, E.;Adams, D.;Thomas, J.
+Gresh, D.L.;Rogowtiz, B.;Winslow, R.L.;Scollan, D.F.;Yung, C.K.
+Rheingans, P.;desJardins, M.
+Nadeau, David R.;Bailey, M.
+Schussman, G.;Kwan-Liu Ma;Schissel, D.;Evans, T.
+Chapman, P.;Wills, D.;Stevens, P.;Brookes, G.
+Stein, A.; Shih, A. M.; Baker, M. P.; Cerco, C. F.; Noel, M. R.
+Treinish, L.A.
+Shiozawa, H.;Okada, K.;Matsushita, Y.
+Bjork, S.;Holmquist, L.E.;Redstrom, J.
+Hao, M.C.;Dayal, U.;Hsu, M.;Baker, J.;D'Eletto, R.
+Rayson, J.K.
+van Wijk, J.J.;Van Selow, E.R.
+Munzner, T.;Guimbretiere, F.;Robertson, G.
+van Wijk, J.J.;van de Wetering, H.
+Bederson, B.B.;Boltman, A.
+Espinosa, O.J.;Hendrickson, C.;Garrett, J.H.
+Wilson, R.M.;Bergeron, R.D.
+Derthick, M.;Harrison, J.;Moore, A.;Roth, S.F.
+Rodden, K.;Basalaj, W.;Sinclair, D.;Wood, K.
+Ying-Huey Fua;Ward, M.O.;Rundensteiner, E.A.
+Chi, E.H.;Card, S.K.
+Inselberg, A.;Avidan, T.
+Rose, S.
+Higgins, M.;Lucas, P.;Sean, J.
+Stolte, C.;Bosche, R.;Hanrahan, P.;Rosenblum, M.
+Pak Chung Wong;Whitney, P.;Thomas, J.
+Heckel, B.;Weber, G.H.;Hamann, B.;Joy, K.I.
+Moran, P.J.;Henze, C.
+Telea, A.;van Wijk, J.J.
+Ying-Huey Fua;Ward, M.O.;Rundensteiner, E.A.
+Gumhold, S.;Guthe, S.;Straßer, W.
+Hoppe, H.
+Cohen-Or, D.;Levin, D.;Remez, O.
+Gueziec, A.;Bossen, F.;Taubin, Gabriel;Silva, C.T.
+Kwan-Liu Ma
+Chen, B.;Dachille, F.;Kaufman, A.
+Sahasrabudhe, N.;West, J.E.;Machiraju, R.;Janus, M.
+Batra, R.;Hesselink, L.
+Klosowski, J.T.;Silva, C.T.
+Gobbetti, E.;Bouvier, E.
+El-Sana, J.;Azanli, E.;Varshney, A.
+Engel, K.;Westermann, R.;Ertl, T.
+Sutton, P.;Hansen, C.
+Shaw, C.;Hall, J.A.;Ebert, D.S.;Roberts, D.A.
+Raskar, R.;Brown, M.S.;Ruigang Yang;Wei-Chao Chen;Welch, G.;Towles, H.;Scales, B.;Fuchs, H.
+Frohlich, Bernd;Barrass, S.;Zehner, B.;Plate, J.;Gobel, M.
+Hadap, S.;Bongarter, E.;Volino, P.;Magnenat-Thalmann, N.
+Kindlmann, G.;Weinstein, D.
+Kreeger, K.;Kaufman, A.
+Gasparakis, C.
+Meissner, M.;Hoffmann, U.;Strasser, W.
+Humphreys, G.;Hanrahan, P.
+Law, C.C.;Schroeder, W.J.;Martin, K.;Temkin, J.
+Rezk-Salama, C.;Hastreiter, P.;Teitzel, C.;Ertl, T.
+Wernert, E.A.;Hanson, A.J.
+Weinstein, D.;Kindlmann, G.;Lundberg, E.
+Scheuermann, G.;Burbach, H.;Hagen, H.
+Peikert, R.;Roth, M.
+Scheuermann, G.;Tricoche, X.;Hagen, H.
+Bonneau, G.-P.
+Nielson, G.M.;Holliday, D.;Roxborough, T.
+Chen, B.;Swan, J.E.;Kuo, E.;Kaufman, A.
+Pajarola, Renato;Rossignac, Jarek;Szymczak, A.
+Bajaj, C.L.;Pascucci, V.;Zhuang, G.
+Crossno, P.;Angel, E.
+Preusser, T.;Rumpf, M.
+Kirby, R.M.;Marmanis, H.;Laidlaw, D.H.
+Verma, V.;Kao, D.;Pang, A.
+de Leeuw, W.;van Liere, R.
+La Mar, E. C.;Hamann, B.;Joy K. I.
+Mueller, K.;Moller, T.;Crawlis, R.
+Han-Wei Shen;Chiang, L.-J.;Kwan-Liu Ma
+Wan, M.;Kaufman, A.;Bryson, S.
+Bartz, D.;Strasser, W.;Skalej, M.;Welte, D.
+Yoo, T.S.;Rheingans, P.
+Wan, M.;Tang, Q.;Kaufman, A.;Zhengrong Liang;Wax, M.
+Maslak, Z.;Steel, D.J.;McDermott, R.
+Djurcilov, S.;Pang, A.
+Pagendarm, H.-G.;Henne, B.;Rutten, M.
+Schulz, M.;Reck, F.;Bertelheimer, W.;Ertl, T.
+Crossno, P.;Angel, E.
+Chakaveh, S.;Zlender, U.;Skaley, D.;Fostiropoulos, K.;Breitschwerdt, D.
+Goel, A.;Baker, C.;Shaffer, C.A.;Grossman, B.;Haftka, R.T.;Mason, W.H.;Watson, L.T.
+Winkler, C.;Bosquet, F.;Cavin, X.;Paul, J.-C.
+Azuma, Ronald;Neely, H., III;Daily, M.;Correa, M.
+Davis, D.;Ribarsky, W.;Jiang, T.Y.;Fanst, N.;Ho, S.
+Feibush, E.;Gagvani, N.;Williams, D.
+Chapman, P.;Wills, D.;Stevens, P.;Brookes, G.
+Chen, C.;Carr, L.
+Gresh, D.L.;Rogowtiz, B.;Tignor, M.S.;Mayland, E.J.
+Koutsofios, E.E.;North, S.C.;Truscott, R.;Keim, D.A.
+Manaster, C.J.;Nanthakumar, E.;Morin, P.A.
+Fujishiro, I.;Azuma, T.;Takeshima, Y.
+Hopf, M.;Ertl, T.
+Govindarajan, J.;Ward, M.O.;Barnett, J.
+Pfister, H.
+Swan, J.E.
+Kenwright, D.
+Montgomery, K.;Stephanides, M.;Schendel, S.;Ross, M.
+Kremer, K.
+van Liere, R.;Harkes, J.;Wim de Leeuw
+Cignoni, P.;Montani, C.;Rocchini, C.;Scopigno, R.
+Roth, M.;Peikert, R.
+Gopi, M.;Manocha, D.
+Lichan Hong;Kaufman, A.
+Rona, P.;Bemis, K.;Kenchammana-Hosekote, D.;Silver, D.
+Moses, Y.;Polunsky, Z.;Tal, A.;Ulitsky, L.
+Wills, G.J.
+Ed Huai-Hsin Chi;Riedl, J.
+Laidlaw, D.;Kremers, D.;Interrante, V.;Frankel, F.;Banchoff, T.
+Kenwright, D.
+Durbin, J.;Swan, J.E.;Colbert, B.;Crowe, J.;King, R.;King, T.;Scannell, C.;Wartell, Z.;Welsh, T.
+Min Song
+Healey, C.;Enns, J.T.
+Hansen, M.;Meads, D.;Pang, A.
+Wim de Leeuw;van Liere, R.
+Sacks, E.;Joskowicz, L.
+Hanson, A.J.
+House, D.;Kocmoud, C.J.
+Chai, J.;Miyoshi, T.;Nakamae, E.
+Gueziec, A.;Taubin, Gabriel;Lazarus, F.;Horn, W.
+Shen, Q.;Pang, A.;Uselton, S.
+Keely, L.;Uselton, S.
+Chuah, M.C.
+Weimer, H.;Warren, Joe;Troutner, J.;Wiggins, W.;Shrout, J.
+De Floriani, L.;Magillo, P.;Puppo, E.
+Popescu, V.;Lastra, A.;Aliaga, D.;de Oliveira Neto, M.
+Mueller, K.;Crawfis, R.
+Chi-Keung Tang;Medioni, G.
+Lindstrom, P.;Turk, G.
+Lavin, Y.;Batra, R.;Hesselink, L.
+Henze, C.
+MacEachren, A.M.;Boscoe, F.P.;Haug, D.;Pickle, L.
+Lurig, C.;Ertl, T.
+Tiede, U.;Schiemann, T.;Hohne, K.H.
+Hanson, A.J.;Wernert, E.A.
+Shiaofen Fang;Biddlecome, T.;Tuceryan, M.
+Xiaoyang Mao;Hatanaka, Y.;Higashida, H.;Imamiya, A.
+Davis, D.;Jiang, T.Y.;Ribarsky, W.;Faust, N.
+Boring, E.;Pang, A.
+Cline, D.;Egbert, P.
+Yi-Jen Chiang;Silva, C.T.;Schroeder, W.J.
+Parker, S.;Shirley, P.;Livnat, Y.;Hansen, C.;Sloan, P.-P.
+Gobbetti, E.;Pili, P.;Zorcolo, A.;Tuveri, M.
+Friedrich, A.;Polthier, K.;Schmies, M.
+Shen, H.-W.
+Sprenger, T.C.;Gross, M.H.;Bielser, D.;Strasser, T.
+Grinstein, G.;Inselberg, A.;Laskowski, S.
+Pajarola, Renato
+Masui, T.
+Bonneau, G.-P.;Gerussi, A.
+Hetzler, E.;Whitney, P.;Martucci, L.;Thomas, J.
+Uselton, S.;Ahrens, J.;Bethel, W.;Treinish, L.A.;State, A.
+Mulder, J.D.;Groen, F.C.A.;van Wijk, J.J.
+McPherson, A.;Maltrud, M.
+Heermann, P.D.
+Staadt, O.;Gross, M.H.
+Fuhrmann, A.;Groller, E.
+Clark, D.;Marciano, R.;McKeon, R.;Bailey, M.
+Chang-Sung Jeong;Pang, A.
+Kerpedjiev, S.;Carenini, G.;Green, N.;Moore, J.;Roth, S.F.
+Ma, H.;Jones, K.W.;Stern, E.A.
+Chapman, P.;Stevens, P.;Wills, D.;Brookes, G.
+Sadarjoen, I.A.;Post, F.H.;Bing Ma;Banks, D.C.;Pagendarm, H.-G.
+Ankerst, M.;Berchtold, S.;Keim, D.A.
+Trotts, I.J.;Hamann, B.;Joy, K.I.;Wiley, D.F.
+Garland, M.;Heckbert, P.S.
+Kurzion, Y.;Moller, T.;Yagel, R.
+Hoppe, H.
+Lantin, M.L.;Carpendale, S.
+Teichmann, M.;Capps, M.
+Treinish, L.A.
+Keahey, T.A.
+Keim, D.A.;Herrmann, A.
+Rohrer, R.M.;Ebert, D.S.;Sibert, J.L.
+Lanzagorta, M.;Kral, M.V.;Swan, J.E.;Spanos, G.;Rosenberg, R.;Kuo, E.
+Miller, N.;Pak Chung Wong;Brewster, M.;Foote, H.
+Silver, D.;Wang, X.
+Korn, J.;Appel, A.W.
+Livnat, Y.;Hansen, C.
+van der Heyden, J.E.;Carpendale, S.;Inkpen, K.;Atkins, M.S.
+Shaffer, C.A.;Knill, D.L.;Watson, L.T.
+Vos, F.M.;Spoelder, H.J.W.
+Bajaj, C.L.;Pascucci, V.;Schikore, D.R.
+Becker, B.
+Robbins, K.A.;Senseman, D.M.
+Laidlaw, D.H.;Ahrens, E.T.;Kremers, D.;Avalos, M.J.;Jacobs, R.E.;Readhead, C.
+Max, N.
+Khoury, S.;Freed, A.;Wessel, D.
+Nielson, G.M.;Jung, Il.-H.;Sung, J.
+Frecon, E.;Smith, G.
+Kaufman, A.;Brady, M.;Lorensen, B.;Kitson, F.;Pfister, H.
+Möller, T.;Machiraju, R.;Mueller, K.;Yagel, R.
+Ed Huai-Hsin Chi;Barry, P.;Riedl, J.;Konstan, J.
+Schroeder, W.J.
+Smith, S.;Williams, G.
+Freund, J.;Sloan, K.
+Teraoka, T.;Maruyama, M.
+Swan, J.E.;Mueller, K.;Moller, T.;Shareel, N.;Crawfis, R.;Yagel, R.
+Puig, A.;Tost, D.;Navazo, I.
+Cox, M.;Ellsworth, D.
+Aliaga, D.;Lastra, A.
+Volpe, C.R.;Glinert, E.P.
+Pak Chung Wong;Bergeron, R.D.
+De Floriani, L.;Magillo, P.;Puppo, E.
+Reiss, S.P.
+Kuschfeldt, S.;Ertl, T.;Holzner, M.
+Rushmeier, H.;Lawrence, R.;Almasi, G.
+Ahrens, J.;McCormick, P.;Bossert, J.;Reisner, J.;Winterkamp, J.
+Jaswa, V.
+Fuhrmann, A.;Loffelmann, H.;Schmalstieg, D.
+Wood, J.;Wright, H.;Brodie, K.
+Taosong He;Kaufman, A.
+Nielson, G.M.;Franke, R.
+Hanson, A.J.;Wernert, E.A.
+El-Sana, J.;Varshney, A.
+Derthick, M.;Roth, S.F.;Kolojejchick, J.
+Tanin, E.;Beigel, R.;Shneiderman, B.
+Drake, D.;Simpson, T.;Smithmier, L.;Rheingans, P.
+Assa, J.;Cohen-Or, D.;Milo, T.
+Hoffman, P.;Grinstein, G.;Marx, K.;Grosse, I.;Stanley, E.
+Brodbeck, D.;Chalmers, M.;Lunzer, A.;Cotture, P.
+
+Mandal, C.;Hong Qin;Vemuri, B.C.
+Albertelli, G.;Crawfis, R.
+Kwan-Liu Ma;Interrante, V.
+Uselton, S.
+Wegenkittl, R.;Groller, E.
+Fujishiro, I.;Takeshima, Y.;Ichikawa, Y.;Nakamura, K.
+Munzner, T.
+Nielson, G.M.;Jung, Il.-H.;Sung, J.
+Yi-Jen Chiang;Silva, C.T.
+Qian Chen;Medioni, G.
+Laskowski, S.;Wills, G.;Rogowitz, B.
+Banks, D.C.;Foley, J.T.;Vidimce, K.N.;Ming-Hoe Kiu
+Tzi-cker Chiueh;Chuan-Kai Yang;Taosong He;Pfister, H.;Kaufman, A.
+Sobierajski, L.;Schroeder, W.J.
+Suya You;Lichan Hong;Wan, M.;Junyaprasert, K.;Kaufman, A.;Muraki, S.;Yong Zhou;Wax, M.;Zhengrong Liang
+Nielson, G.M.;Sung, J.
+Crossno, P.;Angel, E.
+Tenev, T.;Rao, R.
+Chuah, M.C.;Eick, S.G.
+Brath, R.
+Inselberg, A.
+Staadt, O.;Gross, M.H.;Weber, R.
+Yong Zhou;Chen, B.;Kaufman, A.
+Pak Chung Wong;Bergeron, R.D.
+Keahey, T.A.;Robertson, E.L.
+Storey, M.;Wong, K.;Fracchia, F.D.;Muller, H.A.
+Chow, M.M.
+Taylor, R.M.;Jun Chen;Okimoto, S.;Llopis-Artime, N.;Chi, V.L.;Brooks, F.P., Jr.;Falvo, M.;Paulson, S.;Thiansathaporn, P.;Glick, D.;Washburn, Sean;Superfine, R.
+Barrett, H.;Rheingans, P.;Uselton, S.;Watson, A.
+Wenli Cai;Pheng-Ann Heng
+Barequet, G.;Subodh Kumar
+Duchaineau, M.;Wolinsky, M.;Sigeti, D.E.;Miller, M.;Aldrich, C.;Mineev-Weinstein, M.B.
+Cohen, J.;Manocha, D.;Olano, M.
+Lavin, Y.;Levy, Y.;Hesselink, L.
+Gieng, T.S.;Hamann, B.;Joy, K.I.;Schussman, G.;Trotts, I.J.
+Interrante, V.;Grosch, C.
+Cox, M.;Crawfis, R.;Hamann, B.;Hansen, C.;Miller, M.
+Bajaj, C.L.;Pascucci, V.;Schikore, D.R.
+Jobard, B.;Lefer, W.
+Grosso, R.;Lurig, C.;Ertl, T.
+Card, S.K.;Mackinlay, J.
+Westermann, R.;Ertl, T.
+Favre, J.M.
+Brady, M.;Jung, K.;Nguyen, H.T.;Nguyen, T.
+Shen, H.-W.;Kao, D.
+Marti, J.
+Rander, P.;Narayanan, P.J.;Kanade, T.
+Shneerson, M.;Tal, A.
+Clark, D.;Bailey, M.
+Scheuermann, G.;Hagen, H.;Kruger, H.;Menzel, M.;Rockwood, A.
+Rabinovich, B.;Gotsman, C.
+Loomis, J.J.;Xiuwen Liu;Zhaohua Ding;Fujimura, K.;Evans, M.L.;Ishikawa, H.
+Livingston, M.A.
+Gross, M.H.;Sprenger, T.C.;Finger, J.
+Wegenkittl, R.;Loffelmann, H.;Groller, E.
+Michaels, C.;Bailey, M.
+Becker, B.
+Tam, R.;Healey, C.;Flak, B.;Cahoon, P.
+Kenwright, D.;Haimes, R.
+Zhifan Zhu;Machiraju, R.;Fry, B.;Moorhead, R.J.
+Lu, S-C.;Rebello, A.B.;Cui, D.H.;Yagel, R.;Miller, R.A.;Kinzel, G.L.
+Vemuri, B.C.;Mandal, C.
+Avila, R.;Sobierajski, L.
+Chalmers, M.
+Hagedorn, J.;Rushmeier, H.;Blendell, J.;Vaudin, M.
+Rossiter, D.;Wai-Yin Ng
+Lu, S.C.;Rebello, A.B.;Cui, D.H.;Yagel, R.;Miller, R.A.;Kinzel, G.L.
+Keeve, E.;Girod, S.;Pfeifle, P.;Girod, B.
+Bentley, C.L.;Ward, M.O.
+Bonneau, G.-P.;Hahmann, S.;Nielson, G.M.
+Gershon, N.;Gershon, N.;Braham, R.;Fracchia, D.;Glassner, A.;Mones-Hattal, B.;Rose, R.
+Painter, J.S.;Bunge, H.-P.;Livnat, Y.
+Carpendale, S.;Fall, A.;Cowperthwaite, D.J.;Fall, J.;Fracchia, F.D.
+Sakas, G.;Vicker, M.G.;Plath, P.J.
+Beaudoin, L.;Parent, M.-A.;Vroomen, L.C.
+Healey, C.
+Zuiderveld, K.J.;van Ooijen, P.M.A.;Chin-A-Woeng, J.W.C.;Buijs, P.C.;Olree, M.;Post, F.H.
+Weigle, C.;Banks, D.C.
+Cohen-Or, D.;Levin, D.;Solomovici, A.
+Zhou, M.X.;Feiner, S.
+Trapp, J.;Pagendarm, H.-G.
+Banks, D.C.;Hamann, B.;Po-Yu Tsai;Moorhead, R.J.;Barlow, J.
+Shiaofen Fang;Su Huang;Srinivasan, R.;Raghu Raghavan
+Rushall, D.A.;Ilgen, M.R.
+Boring, E.;Pang, A.
+Carpendale, S.;Cowperthwaite, D.J.;Fracchia, F.D.
+Pak Chung Wong;Crabb, A.H.;Bergeron, R.D.
+Xia, J.C.;Varshney, A.
+Pandit, V.;McDermott, R.;Lazzi, G.;Furse, C.;Gandhi, O.
+Muellel, K.; Yagel, R.
+Taosong He;Kaufman, A.
+Bryson, S.; Kenwright, D.; Gerald-Yamasaki, M.
+Varshney, A.;Kaufman, A.
+Chi, E.H.;Riedl, J.;Shoop, E.;Carlis, J.V.;Retzel, E.;Barry, P.
+Roth, M.;Peikert, R.
+He, T.;Hong, L.; Kaufman, A.;Pfister,H.
+Alper, N.;Stein, C.
+Wilhelms, J.;Van Gelder, A.;Tarantino, P.;Gibbs, J.
+Barequet, G.;Shapiro, D.;Tal, A.
+Interrante, V.;Fuchs, H.;Pizer, S.
+Grinstein, G.;Piatetsky-Shapiro, G.;Wills, G.
+van Wijk, J.J.;Spoelder, H.J.W.;Knibbe,W.-J.;Shahroudi,K. E.
+Zockler, M.;Stalling, D.;Hege, H.-C.
+Cox, K.C.;Hackborn, D.
+Nations, S.;Moorhead, R.J.;Gaither, K.;Aukstakalnis, S.;Vickery, R.;Couvillion, W.C., Jr.;Fox, D.N.;Flynn, P.;Wallcraft, A.;Hogan, P.;Smedstad, O.M.
+Han-Wei Shen;Hansen, C.;Livnat, Y.;Johnson, C.R.
+Lodha, S.K.;Wilson, C.M.;Sheehan, R.E.
+Munzner, T.;Banks, D.;Francis, G.;Hanson, A.J.;Jorgenson, L.
+Klein, R.;Liebich, G.;Strasser, W.
+Ebert, D.S.;Shaw, C.;Zwa, A.;Miller, E.L.;Roberts, D.A.
+Ming-Hoe Kiu;Banks, D.C.
+Pak Chung Wong;Bergeron, R.D.
+Shekhar, R.;Fayyad, E.;Yagel, R.;Cornhill, J.F.
+Chuah, M.C.;Roth, S.F.
+Rheingans, P.
+Evans, F.;Skiena, S.;Varshney, A.
+Hughes, R.G.;Forrest, A.R.
+Kazman, R.;Carriere, J.
+Fruhauf, T.
+Kaufman, A.;Pfister, H.;Knittel, G.;Hesser, J.;Goble, J.C.
+Garrett, W.F.;Fuchs, H.;Whitton, M.C.;State, A.
+Crawfis, R.
+Sobieczky, F.
+Wills, G.J.
+Shahidi, R.;Lorensen, B.;Kikinis, R.;Flynn, J.;Kaufman, A.;Napel, S.
+Keahey, T.A.;Robertson, E.L.
+Cohen-Or, D.;Levanoni, Y.
+Yingcai Xiao;Ziebarth, J.P.;Woodbury, C.;Bayer, E.;Rundell, B.;van der Zijp, J.
+Schroedel, W. J.;Martin, K.;Lorensen, W.F.
+Monks, C. R. F.;Crossno, P.;Davidson, G.;Pavlakos, C.;Kupfer, A.;Silva, C.T.;Wylie, B.
+Bryson, S.;Johan, S.
+Andrews, K.;Pichler, M.;Wolf, P.
+Han, S.; Medioni, G.
+Ebert, D.S.;Shaw, C.;Zwa, A.;Starr, C.
+Lodha, S.K.;Pang, A.;Sheehan, R.E.;Wittenbrink, C.M.
+Huang, M.;Grzeszczuk, R. P.;Kauffman, L.H.
+Kalvin, A.D.;Remy, A.;Ardito, O.;Morla, K.;Nolasco, E.;Prado, J.;Franco, R.;Murga, A.;Wiese, G.
+Obeysekare, U.;Williams, C.;Durbin, J.;Rosenblum, L.;Rosenberg, R.;Grinstein, F.;Ramamurti, R.;Landsberg, A.;Sandberg, W.
+Roth, S.F.;Lucas, P.;Senn, J.A.;Gomberg, C.C.;Burks, M.B.;Stroffolino, P.J.;Kolojechick, A.J.;Dunmire, C.
+Aliaga, D.
+Forgang, A.B.;Hamann, B.;Cerco, C.F.
+Wood, J.;Brodlie, K.;Wright, H.
+Liqun Jin;Banks, D.C.
+Munzner, T.;Hoffman, E.;Claffy, K.;Fenner, B.
+Mukherjea, S.;Hirata, K.;Hara, Y.
+Gray, M.;Badre, A.;Guzdial, M.
+Itoh, T.;Yamaguchi, Yasushi;Koyamada, K.
+Silver, D.;Wang, X.
+Trott, A.;Moorhead, R.J.;McGinley, J.
+Mulder, J.D.;van Wijk, J.J.
+Sobierajski, L.;Avila, R.
+Wagner, T.A.;Bergeron, R.D.
+Bergman, L.D.;Rogowitz, B.;Treinish, L.A.
+Fracchia, F.D.;Ashton, N.W.
+Lee, J.P.;Grinstein, G.
+Abram, G.;Treinish, L.A.
+Minghim, R.;Forrest, A.R.
+Gooch, R.E.
+Pak Chung Wong;Bergeron, R.D.
+Suter, M.;Nuesch, D.
+Silva, C.T.;Mitchell, J.S.B.;Kaufman, A.
+Cox, K.C.;Eick, S.G.
+Burton, C.A.;Johnston, L.J.;Sonenberg, E.A.
+Jean, Y.;Kindler, T.;Ribarsky, W.;Weiming Gu;Eisenhauer, G.;Schwan, K.;Alyea, F.
+Mitchell, R.;Day, D.;Hirschman, L.
+Falkenberg, C.;Kulkarni, R.
+Gershon, N.;LeVasseur, J.;Winstead, J.;Croall, J.;Pernicks, A.;Ruh, W.
+Rhyne, T.M.
+Hendley, R.J.;Drew, N.S.;Wood, A.M.;Beale, R.
+Andrews, K.
+Westermann, R.
+Varshney, A.;Brooks, F.P., Jr.;Richardson, D.C.;Wright, W.V.;Manocha, D.
+Ghavamnia, M.H.;Yang, X.D.
+de Leeuw, W.;van Wijk, J.J.
+Interrante, V.;Fuchs, H.;Pizer, S.
+Ueng, S.K.;Sikorski, K.;Kwan-Liu Ma
+Gross, M.H.;Gatti, R.;Staadt, O.
+Byeong Seok Shin;Yeong Gil Shin
+Pagendarm, H.-G.;Gerhold, T.
+Martin, A.R.;Ward, M.O.
+Knittel, G.
+Post, F.J.;Van Walsum, T.;Post, F.H.;Silver, D.
+Wittenbrink, C.M.
+Rheingans, P.;Marietta, M.;Nichols, J.
+Heidrich, W.;McCool, M.;Stevens, J.
+Cross, R.A.
+Lichan Hong;Xiaoyang Mao;Kaufman, A.
+Guo, B.
+Fujishiro, I.;Maeda, Y.;Sato, H.
+Ahlberg, C.;Wistrand, E.
+Ingram, R.;Benford, S.
+Lorensen, W.F.
+Insung Ihm;Rae Kyoung Lee
+Kenwright, D.;Lane, D.A.
+Muller, A.A.
+Prevost, N.;Jennings, R.E.;Jorgenson, L.;Fracchia, F.D.
+Hepting, D.H.;Derks, G.;Edoh, K.D.;Russell, R.D.
+Keim, D.A.;Kriegel, H.-P.;Ankerst, M.
+Luders, P.;Ernst, R.
+Wright, W.
+Anupam, V.;Dar, S.;Leibfried, T.;Petajan, E.
+Carriere, J.;Kazman, R.
+Chuah, M.C.;Roth, S.F.;Mattis, J.;Kolojejchick, J.
+Hanson, A.J.;Hui Ma
+Xiaoyang Mao;Lichan Hong;Kaufman, A.
+Golovchinsky, G.;Kamps, T.;Reichenberger, K.
+Han-Wei Shen;Johnson, C.R.
+Johnstone, J.K.;Sloan, K.
+Jerding, D.F.;Stasko, J.
+Reichenberger, K.;Kamps, T.;Golovchinsky, G.
+Taosong He;Lichan Hong;Kaufman, A.;Varshney, A.;Wang, S.
+Becker, B.;Lane, D.A.;Max, N.
+Dovey, D.
+Koller, D.;Lindstrom, P.;Ribarsky, W.;Hodges, L.F.;Faust, N.;Turner, G.
+Spence, B.;Tweedie, L.;Dawkes, H.;Hua Su
+Kerlick, G.D.
+Chi, E.H.;Barry, P.;Shoop, E.;Carlis, J.V.;Retzel, E.;Riedl, J.
+Hannemann, M.;Sobieczky, H.
+Wise, J.A.;Thomas, J.;Pennock, K.;Lantrip, D.;Pottier, M.;Schur, A.;Crow, V.
+Oliver, G.W.
+Yagel, R.;Lu, S.C.;Rebello, A.B.;Miller, R.A.
+Taosong He;Lichan Hong;Kaufman, A.;Varshney, A.;Wang, S.
+Angus, I.G.;Sowizral, H.A.
+Ang, C.S.;Martin, D.C.;Doyle, M.D.
+Rowlan, J.S.;Lent, G.E.;Gokhale, N.;Bradshaw, S.
+Avila, R.;Taosong He;Lichan Hong;Kaufman, A.;Pfister, H.;Silva, C.T.;Sobierajski, L.;Wang, S.
+Schroeder, W.J.;Lorensen, W.F.;Linthicum, S.
+Yamrom, B.;Sutliff, J.A.;Woodfield, A.P.
+Moran, P.J.;Wagner, M.
+Margaliot, M.;Gotsman, C.
+Bajaj, C.L.;Royappa, A.
+Itoh, T.;Koyamada, K.
+Taosong He;Wang, S.;Kaufman, A.
+Hai Tao;Moorhead, R.J.
+Marschner, S.R.;Lobb, R.J.
+Hanson, A.J.;Hui Ma
+Pagendarm, H.-G.;Walter, B.
+Kwan-Liu Ma;Zheng, Z.C.
+Banks, D.C.;Singer, B.A.
+Delmarcelle, T.;Hesselink, L.
+Tal, A.;Dobkin, David
+Cross, R.A.;Hanson, A.J.
+Najork, M.A.;Brown, M.H.
+Kimelman, D.;Rosenburg, B.;Roth, T.
+Han-Wei Shen;Johnson, C.R.
+Sramek, M.
+Silva, C.T.;Kaufman, A.
+Duffin, K.L.;Barrett, W.A.
+Twiddy, R.;Cavallo, J.;Shiri, S.M.
+Domik, G.O.;Gutkauf, B.
+Brill, M.;Hagen, H.;Rodrian, H.;Djatschin, W.;Klimenko, S.V.
+Ebert, D.S.;Yagel, R.;Scott, J.;Kurzion, Y.
+Forssell, L.K.
+Max, N.;Crawfis, R.;Grant, C.
+Lane, D.A.
+Banerjee, D.;Morley, C.;Smith, W.
+Loughlin, M.M.;Hughes, J.F.
+Montani, C.;Scateni, R.;Scopigno, R.
+Matveyev, S.V.
+Durkin, J.W.;Hughes, J.F.
+Pang, A.;Alper, N.
+Hibbard, W.;Dyer, C.R.;Paul, B.
+Favre, J.M.;Hahn, J.
+Ward, M.O.
+Parker, S.E.;Samtaney, R.
+Mankofsky, A.;Szuszczewicz, E.P.;Blanchard, P.;Goodrich, C.;McNabb, D.;Kulkarni, R.;Kamins, D.
+Domokos, G.;Paffenroth, R.
+Treinish, L.A.
+Johannsen, A.;Moorhead, R.J.
+Peterson, P.;Hayden, B.;Fracchia, F.D.
+State, A.;Chen, D.T.;Tector, C.;Brandt, A.;Hong Chen;Ohbuchi, R.;Bajura, M.;Fuchs, H.
+Sakas, G.;Schreyer, L.-A.;Grimm, M.
+Alameldin, T.;Shepley, M.
+Mahadev, P.M.;Christie, R.D.
+Rushmeier, H.;Hamins, A.;Choi, M.-Y.
+Roth, M.;Guritz, R.
+Botts, M.;Dykstra, J.D.;Elson, L.S.;Goodman, S.J.;Meemong Lee
+Roux, C.;Coatrieux, J.L.;Dillenseger, J.-L.;Fishman, E.K.;Loew, M.;Meinzer, H.-P.;Pearlman, J.D.
+Rhyne, T.M.;Ivey, W.;Knapp, L.;Kochevar, P.;Mace, T.
+Inselberg, A.;Grinstein, C.;Mihalisin, T.;Hinterberger, H.
+Stone, L.M.;Erickson, T.;Bederson, B.B.;Rothman, P.;Muzzy, R.
+Uselton, S.;Dorn, G.;Farhat, C.;Vannier, Michael;Esbensen, K.;Globus, A.
+Ning, P.;Hesselink, L.
+Max, N.;Becker, B.;Crawfis, R.
+Ehricke, H.-H.;Daiber, G.;Strasser, W.
+Lane, D.A.
+de Leeuw, W.;van Wijk, J.J.
+Hin, A.J.S.;Post, F.H.
+Carlbom, I.
+Yagel, R.;Shi, Z.
+Van Gelder, A.;Wilhelms, J.
+Wang, S.;Kaufman, A.
+Stonebraker, M.;Chen, J.;Nathan, N.;Paxson, C.;Su, A.;Wu, J.
+Kochevar, P.;Ahmed, Z.;Shade, J.;Sharp, C.
+Brodlie, K.;Poon, A.;Wright, H.;Brankin, L.;Banecki, G.;Gay, A.
+Klinker, G.J.
+van Wijk, J.J.;van Liere, R.
+Song, D.;Golin, E.
+Thornborrow, C.;Wilson, A.J.S.;Faigle, C.
+Taosong He;Kaufman, A.
+Spoerri, A.
+Keim, D.A.;Kriegel, H.-P.;Seidl, T.
+Morrow, T.M.;Ghosh, S.
+Waheed, A.;Rover, D.T.
+Alpern, B.;Carter, L.;Grayson, M.;Pelkie, C.
+Hinker, P.;Hansen, C.
+Hanson, A.J.;Cross, R.A.
+Eick, S.G.;Wills, G.J.
+Peercy, M.S.;Hesselink, L.
+Rao, A.R.;Lohse, G.L.
+Springmeyer, R.R.
+Rogowitz, B.;Treinish, L.A.
+van Wijk, J.J.
+Ma, K.-L.;Smith, P.J.
+Crawfis, R.;Max, N.
+Lorensen, W.F.
+Corrie, B.;Mackerras, P.
+Pang, A.;Smith, K.
+Fletcher, P.A.;Robertson, P.K.
+Varshney, A.;Brooks, F.P., Jr.
+Wu, D.;Roberge, J.;Cork, D.J.;Nguyen, B.G.;Grace, T.
+Bladek, A.J.
+Ranken, D.;George, J.
+Celniker, G.;Chakravarty, I.;Moorman, J.
+Tyson, S.;Williams, B.
+Pagendarm, H.-G.
+Kerlick, G.D.;Kirby, E.
+Abramov, D.I.;Gusev, V.V.;Klimenko, S.V.;Ponomarev, L.I.;Krueger, W.;Renz, W.
+Videau, H.;Mora de Freitas, P.
+Drevermann, H.;Kuhn, D.;Nilsson, B.S.
+Treinish, L.A.
+Chen, P.C.
+Moorehead, R.J., II;Zhifan Zhu
+Mayer, H.F.;Tabatabai, B.
+Lorensen, William;Cline, Harvey;Nafis, C.;Kikinis, R.;Altobelli, David;Gleason, L.
+Boissonnat, J.-D.;Geiger, B.
+Palamidese, P.;Betro, M.;Muccioli, G.
+Kenwright, D.;Mallinson, G.D.
+Springmeyer, R.R.;Blattner, M.M.;Max, N.
+Lucas, B.
+Wright, J.R.;Hsieh, J.C.L.
+Lucas, B.;Abram, G.;Collins, N.;Epstein, D.A.;Gresh, D.L.;McAuliffe, K.P.
+Xiaolin Wu;Yonggang Fang
+Hohne, K.H.;Pommert, A.;Riemer, M.;Schiemann, T.;Schubert, R.;Tiede, U.;Lierse, W.
+Muraki, S.
+Beshers, C.;Feiner, S.
+Zabusky, N.;Silver, D.
+Rheingans, P.
+Hultquist, J.P.M.
+Williams, R.D.;Wefer, F.L.;Clifton, T.E., III
+Hibbard, W.;Dyer, C.R.;Paul, B.
+Grinstein, F.;Obeysekare, U.;Patnaik, G.
+Hanson, A.J.;Heng, P.A.
+Hagen, H.;Hahmann, S.
+Treinish, L.A.;Butler, D.M.;Senay, H.;Grinstein, G.;Bryson, S.T.
+Turo, D.;Johnson, B.
+Kosslyn, S.M.;Gershon, N.;Levkowitz, H.;Pearlman, J.D.
+Williams, P.L.
+Kaba, J.;Matey, J.;Stoll, G.;Taylor, H.;Hanrahan, P.
+Sakas, G.;Hartig, J.
+Cuny, J.E.;Hough, A.A.;Kundu, J.
+Hansen, C.;Hinker, P.
+Nadeau, David R.;Bailey, M.
+Ribarsky, W.;Brown, B.;Myerson, T.;Feldmann, R.;Smith, S.;Treinish, L.A.
+Scarlatos, L.;Pavlidis, T.
+Breen, P.T., Jr.
+van Wijk, J.J.
+Subramanian, K.R.;Naylor, B.
+Hultquist, J.P.M.;Raible, E.L.
+Seidenberg, L.R.;Jerard, R.B.;Magewick, J.
+Campbell, W.J.;Cromp, R.F.;Fekete, G.;Wall, R.;Goldberg, M.
+Mercurio, P.J.;Elvins, T.T.;Young, S.J.
+Williams, C.;Rasure, J.;Hansen, C.
+Avila, R.;Sobierajski, L.;Kaufman, A.
+Kwan-Liu Ma;Smith, P.J.
+Bryson, S.
+Schroeder, W.J.;Lorensen, W.F.;Montanaro, G.D.;Volpe, C.R.
+Keim, D.A.;Lum, V.
+Lin, X.
+Kalvin, A.D.;Dean, D.;Hublin, J.-J.;Braun, M.
+Tobet, S.A.;King, J.C.;Wertheim, S.L.;Duffy, F.H.
+MacLeod, R.S.;Johnson, C.R.;Matheson, M.A.
+Gershon, N.
+Christon, M.A.;Spelce, T.
+Popovic, R.
+Delmarcelle, T.;Hesselink, L.
+Koyamada, K.
+Rhyne, T.M.;Bolstad, M.;Rheingans, P.;Petterson, L.;Shackelford, W.;Botts, M.;Pepke, E.;Johnson, K.W.;Hibbard, W.;Dyer, C.R.;Paul, B.;Treinish, L.A.
+Jones, C.;Baca, J.A.
+Eick, S.G.;Steffen, J.L.
+Ervin, S.M.
+McLeod, J.;Small, C.
+Geller, M.J.;Falco, E.E.;Fabricant, D.G.;Estus, B.
+Max, N.;Crawfis, R.;Williams, D.
+Elvins, T.T.
+True, T.J.;Hughes, J.F.
+Haber, R.;Lucas, B.;Collins, N.
+Renben Shu;Liu, A.
+Crawfis, R.;Allison, M.J.
+Globus, A.;Levit, C.;Lasinski, T.
+Yoo, T.S.;Neumann, U.;Fuchs, H.;Pizer, S.;Cullip, T.;Rhoades, J.;Whitaker, R.T.
+Rosenblum, L.;Kamgar-Parsi, B.;Belcher, E.;Engelsen, O.
+Legensky, S.M.
+Gallagher, R.S.;Haber, R.;Ferguson, G.;Parker, D.;Stillman, D.;Winget, J.
+Levkowitz, H.
+Levkowitz, H.;Holub, R.A.;Meyer, Gary W.;Robertson, P.K.
+Max, N.
+Kochhar, Sandeep;Friedell, Mark;LaPolla, Mark
+Hill, W.C.;Hollan, J.D.
+Sluis, L.V.
+Robertson, D.W.;Jacobson, V.L.;Johnston, W.E.;Loken, S.C.;Theil, E.H.;Tierney, B.L.
+Gershon, N.
+Schaller, Nan C.
+Schroder, P.;Salem, J.B.
+Lorensen, W.F.;Yamron, B.
+Feeney, W.R.
+Grosse, Eric
+Prawel, D.;Brown, M.S.;Harris, C.;Kriz, R.;Vigil, M.
+Nadeau, David R.;Elvins, T.T.;Bailey, M.
+Yang, G.Z.;Burger, P.;Kilner, P.J.;Mohiaddin, R.H.
+Lang, U.;Lang, R.;Ruhle, R.
+Smith, S.;Grinstein, G.;Bergeron, R.D.
+Buja, Andreas;McDonald, J.A.;Michalak, J.;Stuetzle, W.
+Foley, T.A.;Lane, D.A.
+Dolecek, Q.E.
+Blattner, M.M.;Grinstein, G.;Glinert, E.P.;Hill, W.;Levit, C.;Smith, S.
+Elvins, T.T.;Nadeau, David R.
+Yagel, R.;Kaufman, A.;Zhang, Q.
+Parulkar, G.M.;Bowie, J.;Braun, H.-W.;Guerin, R.;Stevenson, D.
+Tuchman, A.;Jablonowski, D.;Cybenko, G.
+Smarr, L.L.
+Klassen, R.V.;Harrington, S.J.
+Gallagher, R.S.
+Nielson, G.M.;Hamann, B.
+Wolfe, R.H.;Needels, M.;Joannopoulos, John D.
+Alpern, B.;Carter, L.
+Schroeder, W.J.;Volpe, C.R.;Lorensen, W.F.
+Bryson, S.;Levit, C.
+Hinckley, K.P.;Ward, M.O.
+Law, S.K.;Nunez, P.L.;Westdorp, A.F.;Nelson, A.V.;Pilgreen, K.L.
+Johnson, B.;Shneiderman, B.
+Park, H.;Eo, K.S.;Kim, D.L.;Choi, B.K.;Kim, Y.;Alexander, T.
+Stevenson, D.
+Mihalisin, T.;Timlin, J.;Schwegler, J.
+Haimes, R.;Darmofal, D.
+Watson, D.;Wejchert, J.;Williams, D.;Collins, B.M.
+Thune, N.;Olstad, B.
+Silver, D.;Gao, M.;Zabusky, N.
+Hurlburt, N.E.;Anacker, L.W.;Kopelman, Raoul
+Burnetti, J.;Manley, R.;Mitchell, W.;Varnadore, D.
+Hanson, A.J.;Heng, P.A.
+Swann, P.G.;Semwal, S.K.
+Argiro, V.;Whitton, M.;Evans, A.;Massell, W.;Paddock, S.;Fishman, E.
+Christensen, B.K.;Desjarlais, L.M.
+Ke, Y.;Panduranga, E.S.
+Robertson, P.K.
+Dobkin, D.;Panduranga, E.S.;Zhu, M.
+Wehrend, S.;Lewis, C.
+Montine, J.L.
+Wenzel, E.M.;Stone, P.K.;Fisher, S.S.;Foster, S.H.
+Yen, C.-C.J.;Bedford, K.W.;Kempf, J.L.;Marshall, R.E.
+Rockwood, A.
+Phillips, R.L.
+Maeder, A.J.
+Subramanian, K.R.;Fussell, D.S.
+Dooley, D.;Cohen, M.F.
+Fordyce, W.E.;Ventrella, J.J.
+Lohse, J.;Rueter, H.;Biolsi, K.;Walker, N.
+Brittain, D.L.;Aller, J.;Wilson, M.;Wang, S.-L.C.
+Yacoob, Y.
+Becker, R.A.;Eick, S.G.;Miller, E.O.;Wilks, A.R.
+LeBlanc, J.;Ward, M.O.;Wittels, N.
+Miller, J.;Breen, D.;Wozny, M.J.
+Bancroft, G.V.;Merritt, F.J.;Plessel, T.C.;Kelaita, P.G.;McCabe, R.K.;Globus, A.
+Scarlatos, L.;Pavlidis, T.
+Legensky, S.M.
+Hart, J.C.;Kauffman, L.H.;Sandim, D.J.
+Cox, D. C.
+Lamb, D.;Bandopadhay, A.
+Hagen, H.;Schreiber, T.;Gschwind, E.
+Kerlick, G.D.
+Inselberg, A.;Dimsdale, Bernard
+Dolecek, Q.E.;Moorjani, K.;Kim, B.F.;Tilley, D.G.;Denney, T.S.Jr.
+Meyers, R.J.;Stephenson, M.B.
+Prawel, D.A.
+Gyorgy, F.
+Voegele, K.
+Beddow, J.
+Binh Pham
+Hsu, P.;Staudhammer, J.
+Helman, J.L.;Hesselink, L.
+Nielson, G.M.;Hamann, B.
+Laszlo, M.J.
+Hanson, A.J.;Heng, P.A.;Kaplan, B.C.
+Krueger, W.
+Hibbard, B.;Santek, D.
+Gershon, N.
+Edgar, G.W.
+Herr, L.
+Lasser, D.
+Foley, T.A.;Lane, D.A.
+Pajon, J.L.;Tran, V.B.
+Mihalisin, T.;Gawlinski, E.;Timlin, J.;Schwegler, J.
+Alpern, B.;Carter, L.;Selker, T.
+Senft, S.L.;Argiro, V.J.;VanZandt, W.L.
+Kaufman, A.;Yagel, R.;Bakalash, R.;Spector, I.
+Hsiung, P.-K.;Thibadeau, R.H.;Cox, C.B.;Dunn, R.H.P.;Wu, M.;Olbrich, P.A.
