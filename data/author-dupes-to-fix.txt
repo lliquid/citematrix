@@ -1,0 +1,179 @@
+Abowd, G. <- Abowd, G.D.
+Abram, G. <- Abram, G.D.
+Aliaga, D. <- Aliaga, D. G.
+Aliaga, D. <- Aliaga, Daniel G.
+Avila, R. <- Avila, R.S.
+Bailey, M. <- Bailey, M.J.
+Bair, A. <- Bair, A.S.
+Bajaj, C.L. <- Bajaj, C.
+Baker, C. <- Baker, C.A.H.
+Barr, A. <- Barr, A.H.
+Batra, R. <- Batra, R.K.
+Batra, R. <- Batra, R. K.
+Becker, B. <- Becker, B.G.
+Bemis, K. <- Bemis, K.G.
+Bertam, M. <- Bertram, M.-H.
+Bhasker, E. <- Bhasker, E.S.
+Bonnell, K. <- Bonnell, K.S.
+Borkin, M. <- Borkin, M.A.
+Botts, M. <- Botts, M.E.
+Bowman, D.A. <- Bowman, Doug
+Brannon, R. <- Brannon, R.M.
+Breen, D. <- Breen, D.E.
+Bremer, P.-T. <- Bremer, P.
+Brown, M.S. <- Brown, M.
+Bryson, S. <- Bryson, S. T.
+Bum Chul Kwon <- Bum chul Kwon
+Carpendale, S. <- Carpendale, M.S.T.
+Chi, E.H. <- Chi, Ed H.
+Chi, E.H. <- Chi, E.H.-H.
+Clapworthy, G. <- G.J.
+Clark, D. <- Clark, D.W.
+Cohen, J.D. <- Cohehn, J.
+Collins, N. <- Collins, N.S.
+Correa, C. <- Correa, C.D.
+Crawfis, R. <- Crawfis, R.A.
+Crossno, P. <- Crossno, P.J.
+Crossno, P. <- Crossno, P. J.
+Crow, V. <- Crow, V.L.
+Cui, D.H. < Cui, D. H.
+Czerwinski, M. <- Czerwinski, Mary
+Davidson, G. <- Davidson, G.S.
+De Floriani, L. <- De Fioriani, L.
+de Leeuw, W. <- De Leeuw, W.C.
+de Leeuw, W. <- de Leeuw, W.C.
+Drucker, S. <- Drucker, Steven M.
+Duchaineau, M. <- Duchaineau, M.A.
+Ebert, D.S. <- Ebert, D.
+Egbert, P. <- Egbert, P.K.
+Feiner, S. <- Feiner, Steven K.
+Fekete, J. <- Fekete, J.-D.
+Forbes, A. <- Forbes, A.G.
+Gaither, K. <- Gaither, K.P.
+Gajos, K. <- Gajos, K.Z.
+Gershon, N. <- Gershon, N.D.
+Gosink, L. <- Gosink, L.J.
+Gresh, D.L. <- Gresh, D.
+Grinstein, F. <- Grinstein, F.F.
+Grinstein, G. <- Grinstein, G.G.
+Groller, E. <- Groller, E.M.
+Groller, E. <- Groller, M.E.
+Gross, M.H. <- Gross, Markus
+Gu, X. <- Gu, X.D.
+Gyulassy, A. <- Gyulassy, A.G.
+Haber, R. <- Haber, R.B.
+Hansen, C. <- Hansen, C.D.
+Havre, S. <- Havre, S.L.
+Healey, C. <- Healey, C.G.
+Healey, C. <- Healey, Christopher G.
+Hesselink, L. <- Hesselink, Lambertus
+Hetzler, E. <- Hetzler, B.
+Hetzler, E. <- Hetzler, E.G.
+Hibbard, W. <- Hibbard, W.L.
+Horn, W. <- Horn, W.P.
+House, D. <- House, D.H.
+Huang, J. <- Huang, Jian
+Irani, P. <- Irani, P.P.
+Itoh, T. <- Itoh, Takayuki
+Johnson, C.R. <- Johnson, C.
+Jones, C. <- Jones, C.S.
+Jones, M. <- Jones, M.W.
+Joy, K.I. <- Joy, K. I.
+Joy, K.I. <- Joy, Kenneth
+Jänicke, H. <- Janicke, H.
+Kao, D. <- Kao, D.L.
+Karlson, A. <- Karlson, A.K.
+Kauffman, L.H. <- Kauffman, L. H.
+Kaufman, A. <- Kaufman, A.E.
+Keefe, D.F. <- Keefe, Daniel F.
+Keim, D.A. <- Keim, D.
+Kenwright, D. <- Kenwright, D.N.
+Kindlmann, G. <- Kindlmann, G.L.
+Kinzel, G.L. <- Kinzel, G. L.
+Kniss, J. <- Kniss, J.M.
+Korn, J. <- Korn, J.L.
+Koyamada, K. <- Koyamada, Koji
+Krum, D. <- Krum, D.M.
+Laney, D. <- Laney, D.E.
+Langer, S. <- Langer, S.H.
+Lastra, A. <- Lastra, A.A.
+Lefohn, A. <- Lefohn, A.E.
+Lichtman, J. <- Lichtman, J.W.
+Lorensen, W.F. <- Lorensen, W.E.
+Lorensen, W.F. <- Lorensen, W. E.
+Lorensen, W.F. <- Lorensen, Wiliam
+Lu, S.C. <- Lu, S.-C.
+Lundervold, A. <- Lundervold, A.J.
+MacEachren, A.M. <- MacEachren, A.
+Magnor, M. <- Magnor, M.A.
+Martin, K. <- Martin, K.M.
+Martin, K. <- Martin, K. M.
+Marx, K. <- Marx, K.A.
+Max, N. <- Max, N.L.
+Mayerich, D. <- Mayerich, D.M.
+McCormick, P. <- McCormick, P.S.
+Migut, M. <- Migut, M.A.
+Miller, J. <- Miller, J.V.
+Miller, M. <- Miller, M.C.
+Miller, N. <- Miller, N.E.
+Miller, R.A. <- Miller, R. A.
+Moorhead, R.J. <- Moorhead, R.
+Moorhead, R.J. <- Moorhead, R.J., II
+Moran, P.J. <- Moran, P.
+Nguyen, T. <- Nguyen, T.N.
+North, S.C. <- North, S.
+Obeysekare, U. <- Obeysekare, U.R.
+Park, H. <- Park, H.W.
+Paul, B. <- Paul, B.E.
+Peuquet, D. <- Peuquet, D.J.
+Pickle, L. <- Pickle, L.W.
+Pizer, S. <- Pizer, S.M.
+Ramakrishnan, I. <- Ramakrishnan, I.V.
+Rebello, A.B. <- Rebello, A. B.
+Rhyne, T.M. <- Rhyne, T.
+Riedl, J. <- Riedl, J.T.
+Robertson, G. <- Robertson, G.G.
+Robinson, A. <- Robinson, A.C.
+Roerdink, J.B.T. <- Roerdink, J.B.T.M.
+Rogowtiz, B. <- Rogowitz, B.E.
+Rose, S. <-  Rose, S.J.
+Rosenblum, L. <- Rosenblum, Larry
+Roth, S.F. <- Roth, S.
+Rushmeier, H. <- Rushmeier, H.E.
+Scarlatos, L. <- Scarlatos, L.L.
+Scheidegger, C.E. <- Scheidegger, C.
+Scheidegger, C.E. <- Scheiclegger, C.E.
+Schreiner, J. <- Schreiner, J.M.
+Schroeder, W.J. <- Schroeder, W.
+Schulz, H. <- Schulz, H.-J.
+Schussman, G. <- Schussman, G.L.
+Scoggins, R. <- Scoggins, R.K.
+Shaw, C. <- Shaw, C.D.
+Silva, C.T. <- Silva, C.
+Silva, C.T. <- Silva, Claudio T.
+Sloan, K. <- Sloan, K.R.
+Smith, S. <- Smith, S.M.
+Sobierajski, L. <- Sobierajski, L.M.
+Spoelder, H.J.W. <- Spoelder, H. J. W.
+Staadt, O. <- Staadt, O.G.
+Stasko, J. <- Stasko, J.T.
+Storey, M. <- Storey, M.-A.D.
+Superfine, R. <- Superfine, Richard
+Svakhine, N. <- Svakhine, N.A.
+Tam, R. <- Tam, R.C.
+ter Haar Romenij, B. <- ter Haar Romeny, B.
+Thomas, J. <- Thomas, J.J.
+Treinish, L.A. <- Treinish, L.
+Uselton, S. <- Uselton, S.P.
+van de Wetering, H. <- Van De Wtering, H.
+van Wijk, J.J. <- van Wijk, J. J.
+Wang, S. <- Wang, S.W.
+Ward, M.O. <- Ward, M.
+Weber, G.H. <- Weber, G.
+Whitaker, R.T. <- Whitaker, R.
+Williams, D. <- Williams, D.W.
+Wylie, B. <- Wylie, B.N.
+Youn-ah Kang <- Youn ah Kang
+
+
+
