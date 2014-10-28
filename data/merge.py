@@ -49,12 +49,12 @@ for k in papers2:
         title2 = title2[15:] if title2.startswith('research report') else title2
         title = title[11:] if title.startswith('case study') else title
         title = title[15:] if title.startswith('research report') else title        
-        title.replace('&amp', '')
         if edit_distance(title, title2) < 12:
             cnt += 1
             break
-    if cnt == 1:
-        # print title0 + '\t' + k
+    if cnt != 1:
+        print str(cnt) + '\t' + title2 + '\t' + k
+    else:
         matched[title0] = k
     i +=1
 
@@ -65,14 +65,14 @@ for k in papers2:
 print '-------------------------------------------------------------------'
 
 
-with open(fn0, 'r') as f:
-    f.readline()
-    for l in f:
-        conf, year, title = l.split('\t')[1:4]
-        isOther, filename = l.split('\t')[9], l.split('\t')[16]
-        conf, year, title, isOther, filename = str(conf.lower()), int(year), str(title), len(isOther) > 0, filename.split('.')[0]
-        if not isOther and title in matched and matched[title] != filename:
-            print title + '\t' + filename + '\t' + matched[title]
+# with open(fn0, 'r') as f:
+#     f.readline()
+#     for l in f:
+#         conf, year, title = l.split('\t')[1:4]
+#         isOther, filename = l.split('\t')[9], l.split('\t')[16]
+#         conf, year, title, isOther, filename = str(conf.lower()), int(year), str(title), len(isOther) > 0, filename.split('.')[0]
+#         if not isOther and title in matched and matched[title] != filename:
+#             print title + '\t' + filename + '\t' + matched[title]
 
 
 
