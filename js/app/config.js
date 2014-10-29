@@ -11,7 +11,7 @@ var config = {
     width: 1000,
     height: 800,
 
-    matrixCellSize: 16,
+    matrixCellSize: 12,
     
     matrixCellPadding: 0.5,
     matrixPadding: 3,
@@ -19,7 +19,7 @@ var config = {
     forceSimulationTicks: 200,
     medianIterationRounds: 50,
 
-    labelFontSize: 9,
+    labelFontSize: 8,
     labelFontFamily: '"Century Gothic", CenturyGothic, AppleGothic, sans-serif',
     labelFontAscend: 0.75,
     labelFontDescend: -0.17,

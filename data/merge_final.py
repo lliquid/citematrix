@@ -7,6 +7,8 @@ from logger import info
 fn0 = 'IEEE VIS papers 1990-2013 - AllPapers+Abstracts+Authors.tsv'
 fn1 = 'vis_dataset.json'
 
+fncitecol = 'citation_column.txt'
+
 papers = {}
 
 with open(fn0, 'r') as f:
@@ -18,17 +20,10 @@ with open(fn0, 'r') as f:
             papers[(conf, year)] = []
         papers[(conf, year)].append(title)
 
-
 papers2 = None
 with open(fn1, 'r') as f:
     papers2 = json.load(f)
 
-print str(len(papers2.keys())) + ' papers'
-
-
-info('started')
-
-cnt_unmatched = 0
 
 matched = {}
 
@@ -57,5 +52,30 @@ for k in papers2:
     else:
         matched[title0] = k
     i +=1
+
+
+
+column = ['filename']
+
+with open(fn0, 'r') as f:
+    f.readline()
+    for l in f:
+        title, isOther = l.split('\t')[3], len(l.split('\t')[9]) > 0
+        if isOther:
+            column.append('')
+        elif title not in matched:
+            print 'error: ' + title
+            column.append('')
+        else:
+            column.append(matched[title])
+
+with open(fncitecol, 'w') as f:
+    for r in column:
+        f.write(r + '\n')
+
+
+
+
+
 
 

@@ -5,7 +5,6 @@ import networkx as nx
 
 directory = 'vis_titles_authors_citations_90-13'
 
-# parsed.append((fn, re.findall(r'title:([^\n]+)\nauthors:([^\n]+)\nabstract:([^\n]+)\nvis citations:([^\Z]+)\Z', filestr)))
 
 fn_json = 'vis_dataset.json'
 
@@ -26,11 +25,11 @@ for fn in os.listdir(directory):
             if l.startswith('abstract:'):
                 paper['abstract']  = l[9:].rstrip().lstrip()
                 continue
-            if l.startswith('vis citations:'):
+            if l.startswith('in_vis_citations:'):
                 paper['vis_citations'] = []
                 incitation = True
                 continue
-            if incitation:
+            if incitation and len(l.rstrip()) > 0:
                 paper['vis_citations'].append(l.rstrip())
             else:
                 paper['authors'] = ' '.join([paper['authors'], l.rstrip()])

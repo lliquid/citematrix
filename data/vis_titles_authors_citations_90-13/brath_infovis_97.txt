@@ -1,0 +1,6 @@
+title: Metrics for effective information visualization
+authors: Brath, R.
+in_vis_citations: 
+chuah_infovis_96
+wright_infovis_95
+zhou_infovis_96

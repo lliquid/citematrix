@@ -1593,7 +1593,7 @@ var config = {
     width: 1000,
     height: 800,
 
-    matrixCellSize: 16,
+    matrixCellSize: 12,
     
     matrixCellPadding: 0.5,
     matrixPadding: 3,
@@ -1601,7 +1601,7 @@ var config = {
     forceSimulationTicks: 200,
     medianIterationRounds: 50,
 
-    labelFontSize: 9,
+    labelFontSize: 8,
     labelFontFamily: '"Century Gothic", CenturyGothic, AppleGothic, sans-serif',
     labelFontAscend: 0.75,
     labelFontDescend: -0.17,
@@ -1658,9 +1658,9 @@ _.extend(CiteVis.prototype, {
 
         //years in inverse order
         this.years = {
-            'infovis': d3.range(2013, 1997, -1),
+            'infovis': d3.range(2013, 1994, -1),
             'vast': d3.range(2013, 2005, -1),
-            'vis': d3.range(2013, 1997, -1)
+            'vis': d3.range(2013, 1989, -1)
         };        
 
 
@@ -1910,7 +1910,7 @@ _.extend(CiteVis.prototype, {
                                         if (self.counts[key] == undefined) {
                                             return 0;
                                         } else {
-                                            return Math.log(self.counts[key]) / Math.log(2) * 1.2;
+                                            return Math.log(self.counts[key]) / Math.log(2);
                                         }
                                     });
 
