@@ -5,7 +5,6 @@
     "foundation": "latest",
     "jquery": "latest",
     "d3": "latest",
-    "underscore": "latest",
-    "threejs": "*"
+    "underscore": "latest"
   }
 }
