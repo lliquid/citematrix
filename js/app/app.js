@@ -27,8 +27,20 @@ $(function() {
         app.vis.init()
             .setInfoPanel(d3.select('#aux'))
             .layout()
-            .draw();
-            // .registerCallBack();
+            .draw();        
+
+        //add brush by author
+        var authors = app.graph.getNodes().filter(function(nid){
+            return app.graph.getNodeAttr('partition', nid) == "author";
+        });
+
+        $('#name').typeahead({source: authors});
+        $('#name').change(function(){
+            var author = $('#name').val();
+            if (app.graph.hasNode(author){
+                app.vis.highlight
+            })
+        });
 
     })
 

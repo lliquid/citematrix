@@ -1,6 +1,6 @@
 .label {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    font-size: 1.2rem;
+    font-size: 16px;
     margin: 0.1rem;
     font-weight: 400;
     fill:#aaaaaa;
@@ -55,31 +55,31 @@
 
 p {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 0.8rem;
+    font-size: 14px;
     margin: 0.1rem;
 }
 
 
 .year_col_label {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 0.6rem;
+    font-size: 10px;
     fill: #6B6B6B;
 }
 
 .year_row_label {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;    
-    font-size: 0.6rem;
+    font-size: 10px;
     fill: #6B6B6B;    
 }
 
 .year_col_label.highlight {
-    font-size: 0.8rem;
+    font-size: 14px;
     fill: #7A59D2;
     stroke: #7A59D2;
 }
 
 .year_row_label.highlight {
-    font-size: 0.8rem;
+    font-size: 14px;
     fill: #7A59D2;
     stroke: #7A59D2;   
 }
@@ -87,23 +87,21 @@ p {
 
 .conf_col_label {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    font-size: 1.2rem;    
+    font-size: 18px;    
 }
 
 .conf_row_label {
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    font-size: 1.2rem;
+    font-size: 18px;
 }
 
 
 .conf_col_label.highlight {
-    font-size: 1.3rem;
     fill: #7A59D2;
     stroke: #7A59D2;    
 }
 
 .conf_row_label.highlight {
-    font-size: 1.3rem;
     fill: #7A59D2;
     stroke: #7A59D2;    
 }

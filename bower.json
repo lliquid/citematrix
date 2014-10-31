@@ -2,7 +2,6 @@
   "name": "p",
   "version": "1.0.0",
   "dependencies": {
-    "foundation": "latest",
     "jquery": "latest",
     "d3": "latest",
     "underscore": "latest"

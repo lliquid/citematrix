@@ -17,12 +17,10 @@ module.exports = function (grunt) {
 
             application: {
                 src: [
-                    'js/util/colorbrewer.js',
                     'js/util/eventdispatcher.js',
                     'js/util/geom.js',
                     'js/util/d3behaviour.js',
                     'js/util/d3legend.js',
-                    'js/util/matrix.js',
                     'js/data/graph.js',
                     'js/app/config.js',
                     'js/app/citevis.js',
@@ -52,5 +50,4 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks("grunt-contrib-jshint");
 
     grunt.registerTask('develop', ['concat', 'jshint', 'watch']);
-    grunt.registerTask('default', ['concat', 'jshint']);
 };
