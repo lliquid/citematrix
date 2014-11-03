@@ -26,7 +26,7 @@
     /*fill: #7A59D2;*/
     stroke-width: 6px;
     stroke-opacity: 0.6;
-    stroke: #E0605C;
+    stroke: rgb(255, 225, 60);
 }
 
 .year_col.selected circle {
@@ -131,7 +131,7 @@ p {
 
 
 #aux .paper.highlight2 p {
-    background-color: rgba(224, 96, 92, 0.3);
+    background-color: rgba(255, 225, 60, 0.3);
 }
 
 

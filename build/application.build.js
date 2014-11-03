@@ -934,14 +934,14 @@ _.extend(CiteVis.prototype, {
 
         var self = this;
 
-        this.confs = ['infovis', 'vast', 'vis'];
+        this.confs = ['InfoVis', 'VAST', 'SciVis'];
 
         //years in inverse order
         this.years = {
-            'infovis': d3.range(2013, 1994, -1),
-            'vast': d3.range(2013, 2005, -1),
-            'vis': d3.range(2013, 1989, -1)
-        };        
+            'InfoVis': d3.range(2013, 1994, -1),
+            'VAST': d3.range(2013, 2005, -1),
+            'SciVis': d3.range(2013, 1989, -1)
+        };
 
 
         var eids = this.graph.getLinks().filter(function(eid) {
@@ -1105,10 +1105,7 @@ _.extend(CiteVis.prototype, {
             .attr('y', function(cc) {
                 return matrixCellSize * self.years[cc].length / 2;
             })
-            .text(function(cc) {
-                if (cc == 'vis') return 'scivis';
-                else return cc;
-            })
+            .text(_.identity)
             .attr('text-anchor', 'end');
 
 
@@ -1174,7 +1171,11 @@ _.extend(CiteVis.prototype, {
 
                                     })
                                     .each(d3behaviour.highlight)
-                                    .on('mouseover.detail', function(y, j) {
+                                    .filter(function(y , j) {
+                                        return y >= yy;
+                                    });
+
+                                cells.on('mouseover.detail', function(y, j) {
                                         var key = cc + '_' + c + '_' + yy + '_' + y;
                                         
                                         self.highlightLabels(cc, c, yy, y);
@@ -1223,10 +1224,7 @@ _.extend(CiteVis.prototype, {
             .selectAll('.conf_col')
             .append('text')
             .attr('class', 'conf_col_label')
-            .text(function(cc) {
-                if (cc == 'vis') return 'scivis';
-                else return cc;
-            })
+            .text(_.identity)
             .attr('text-anchor', 'middle')
             .attr('x', function(c, i) {return self.years[c].length * matrixCellSize / 2;})
             .attr('y', self.config.label0Shift)
@@ -1388,7 +1386,7 @@ _.extend(CiteVis.prototype, {
 
 var app = {};
 
-app.path = 'data/vis_dataset_tripartite.json';
+app.path = 'data/vis_graph.json';
 
 app.graph = new Graph();
 

@@ -2,7 +2,7 @@
 
 var app = {};
 
-app.path = 'data/vis_dataset_tripartite.json';
+app.path = 'data/vis_graph.json';
 
 app.graph = new Graph();
 
