@@ -5,8 +5,8 @@
 
 var config = {
 
-    x0: 300,
-    y0: 160,
+    x0: 200,
+    y0: 150,
 
     width: 1000,
     height: 800,
@@ -24,8 +24,10 @@ var config = {
     labelFontAscend: 0.75,
     labelFontDescend: -0.17,
 
-    label0Shift: -100,
-    label1Shift: -20
+    label0Shift: -80,
+    label1Shift: -20,
+
+    padding: 10
 
 
 

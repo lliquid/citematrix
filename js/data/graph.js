@@ -241,12 +241,42 @@ _.extend(Graph.prototype, {
         }
     },
 
-    precedessors: function(nid) { },
-    successors: function (nid) { },
+    successors: function(nid) { 
 
-    indegree: function(nid) { },
-    outdegree: function(nid) { },
+        var adjs = this.adjacents(nid),
+            succ = [],
+            i = -1;
 
+        while( ++i < adjs.length) {
+            if (this.link(adjs[i]).target == nid) {
+                succ.push(this.link(adjs[i]).source);
+            };
+        }
+
+        return succ;
+
+    },
+
+    predecessors: function (nid) {
+
+        var adjs = this.adjacents(nid),
+            pred = [],
+            i = -1;
+
+        while( ++i < adjs.length) {
+            if (this.link(adjs[i]).source == nid) {
+                pred.push(this.link(adjs[i]).target);
+            };
+        }
+
+        return pred;
+    },
+
+    ins: function(nid) {},
+    outs: function(nid) {},
+
+    indegree: function(nid) {},
+    outdegree: function(nid) {},
 
     getNodes: function() {
         var nids = [],

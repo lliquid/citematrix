@@ -26,6 +26,8 @@ CiteVis = function(graph, canvas, config) {
 
     this.infopanel = undefined;
 
+    this.author = undefined;
+
 };
 
 _.extend(CiteVis.prototype, {
@@ -35,11 +37,6 @@ _.extend(CiteVis.prototype, {
         var self = this;
 
         this.confs = ['infovis', 'vast', 'vis'];
-        // this.years = {
-        //     'infovis': d3.range(1998, 2014),
-        //     'vast': d3.range(2006, 2014),
-        //     'vis': d3.range(1998, 2014)
-        // };
 
         //years in inverse order
         this.years = {
@@ -49,7 +46,7 @@ _.extend(CiteVis.prototype, {
         };        
 
 
-        var eids = this.graph.getLinks(function(eid) {
+        var eids = this.graph.getLinks().filter(function(eid) {
             var sid = self.graph.link(eid)
                 .source,
                 tid = self.graph.link(eid)
@@ -81,7 +78,14 @@ _.extend(CiteVis.prototype, {
         var self = this;
         self.infopanel.selectAll('*').remove();
 
-        var papers = _.keys(paperCnts).sort();
+        var papers = _.keys(paperCnts).sort(),
+            papers2 = [];
+
+        papers = _.sortBy(papers, function(pid) {return -paperCnts[pid];});
+
+        if (self.author) {
+            papers2 = self.graph.neighbors(self.author);
+        }
 
         var pdivs = self.infopanel.selectAll('.paper')
             .data(papers)
@@ -90,8 +94,17 @@ _.extend(CiteVis.prototype, {
             .attr('class', 'paper');
             
         pdivs.append('p')
-            .text(function(p) {return paperCnts[p] + '--' + p});
+            .text(function(pid) {return paperCnts[pid] + '--' + self.graph.getNodeAttr('title', pid)});
 
+        pdivs.filter(function(pid) {
+                return papers2.indexOf(pid) > -1;
+            })
+            .classed('highlight2', true);
+
+    },
+
+    clearDetails: function() {
+        this.infopanel.selectAll('*').remove();
     },
 
     highlightLabels: function(cc, c, yy, y) {
@@ -130,24 +143,30 @@ _.extend(CiteVis.prototype, {
     //     return this;
     // },
 
-    layout: function() {
-        //STUB
-        return this;
-    },
-
     draw: function() {
 
         var self = this;
 
-        var matrixCellSize = self.config.matrixCellSize;
+        var matrixCellSize = self.config.matrixCellSize,
+            padding = self.config.padding;
 
         var confs_coords = {},
             y = 0;
 
         for (var i = 0; i < self.confs.length; i ++) {
+            y += padding;
             confs_coords[self.confs[i]] = {'x': 0, 'y': y};
             y += matrixCellSize * self.years[self.confs[i]].length;
         }
+
+
+        //draw rectangles
+        self.canvas.selectAll('.marker')
+            .data([0, 1])
+            .enter()
+            .append('rect')
+            .attr('class', 'marker')
+            .attr('x', 0).attr('y', 0).attr('width', 0).attr('height', 0);        
 
 
         //draw citing papers and cited papers
@@ -164,8 +183,10 @@ _.extend(CiteVis.prototype, {
             })
             .attr('y', function(l) {
                 if (l == 'cited')  return y / 2;
-                else return -140;
+                else return -120;
             });
+
+
 
 
         var conf_rows = self.canvas.selectAll('.conf_row')
@@ -255,29 +276,24 @@ _.extend(CiteVis.prototype, {
 
                                     })
                                     .each(d3behaviour.highlight)
-                                    // .on('mouseover', function(y, j) {
-                                    // })
-                                    .on('mouseover', function(y, j) {
-
+                                    .on('mouseover.detail', function(y, j) {
                                         var key = cc + '_' + c + '_' + yy + '_' + y;
                                         
                                         self.highlightLabels(cc, c, yy, y);
 
                                         if (self.groups[key] == undefined) {
-                                            return;
+                                            self.clearDetails();
                                         } else {
 
                                             var eids = self.groups[key];
-                                            var titles = _.map(eids, function(eid) {
-                                                var tid = self.graph.link(eid)
+                                            var pids = _.map(eids, function(eid) {
+                                                return self.graph.link(eid)
                                                     .target;
-                                                return self.graph.getNodeAttr('title', tid);
                                             }, null);
 
-                                            self.drawDetails(_.countBy(titles, _.identity));
+                                            self.drawDetails(_.countBy(pids, _.identity));
 
                                         }
-
                                     });
 
 
@@ -295,7 +311,7 @@ _.extend(CiteVis.prototype, {
                                         if (self.counts[key] == undefined) {
                                             return 0;
                                         } else {
-                                            return Math.log(self.counts[key]) / Math.log(2);
+                                            return Math.log(self.counts[key] + 1) / Math.log(2);
                                         }
                                     });
 
@@ -331,5 +347,141 @@ _.extend(CiteVis.prototype, {
             });
 
 
+
+
+
+        //redraw rectangles based on selection
+        self.canvas.selectAll('.conf_row')
+            .each(function(cc) {
+
+                d3.select(this).selectAll('.year_row')
+                    .each(function(yy, i) {
+
+                        d3.select(this).selectAll('.conf_col')
+                            .each(function(c) {
+
+                                d3.select(this).selectAll('.year_col')
+                                    .on('mouseover.marker', function(y, j) {
+
+                                        d3.selectAll('.marker')
+                                            .each(function(d) {
+
+                                                if (d == 0) {
+                                                    d3.select(this)
+                                                    .attr('width', matrixCellSize)
+                                                    .attr('y', 0)
+                                                    .attr('x', confs_coords[c].y + matrixCellSize * j)
+                                                    .attr('height', confs_coords[cc].y + matrixCellSize * i);
+                                                }
+                                                else {
+                                                    d3.select(this)
+                                                    .attr('height', matrixCellSize)
+                                                    .attr('x', 0)
+                                                    .attr('width', confs_coords[c].y + matrixCellSize * j)
+                                                    .attr('y', confs_coords[cc].y + matrixCellSize * i);
+                                                }
+
+                                            });
+
+                                    });
+                            })
+                    })
+            });            
+
     }
 });
+
+
+
+_.extend(CiteVis.prototype, {
+
+
+    clearAuthor: function() {
+
+        this.author = undefined;
+
+        this.canvas.selectAll('.year_row')
+            .selectAll('.year_col')
+            .classed('highlight2', false);
+
+    },
+
+    highlightAuthor: function(name) {
+
+        var self = this,
+            g = self.graph;
+
+        self.author = name;
+
+        self.canvas.selectAll('.year_row')
+            .selectAll('.year_col')
+            .classed('highlight2', false);
+
+        var pids = g.neighbors(name),
+            confs = null,
+            confs2 = null,
+            years = null,
+            years2 = null,
+            i = -1,
+            ii = -1,
+            j = -1,
+            k = -1,
+            citing = null;
+
+        var cited = _.groupBy(pids, function(pid) {return g.getNodeAttr('conf', pid);});
+
+        i = -1,
+        confs = _.keys(cited);
+
+        while( ++i < confs.length) {
+
+            cited[confs[i]] = _.groupBy(cited[confs[i]], function(pid) {return g.getNodeAttr('year', pid);});
+
+            years = _.keys(cited[confs[i]]);
+
+            j = -1;
+
+            while(++j < years.length) {
+
+                pids = cited[confs[i]][years[j]];
+                k = -1;
+                citing = [];
+
+                while( ++k < pids.length) {
+                    citing = citing.concat(g.successors(pids[k]).filter(function(pid){return g.getNodeAttr('partition', pid) == 'paper';}));
+                }
+
+                citing = _.groupBy(citing, function(pid) {return g.getNodeAttr('conf', pid);});
+
+                conf2 = _.keys(citing);
+
+                ii = -1;
+                while( ++ ii < conf2.length) {
+                    citing[conf2[ii]] = _.groupBy(citing[conf2[ii]], function(pid){return g.getNodeAttr('year', pid);});
+                }
+
+                cited[confs[i]][years[j]] = citing;
+            }
+        }
+
+        self.canvas.selectAll('.conf_row')
+            .filter(function(cc) {return cc in cited;})
+            .each(function(cc) {
+                d3.select(this).selectAll('.year_row')
+                    .filter(function(yy) {return yy in cited[cc];})
+                    .each(function(yy) {
+                        d3.select(this).selectAll('.conf_col')
+                            .filter(function(c) {return c in cited[cc][yy];})
+                            .each(function(c) {
+                                d3.select(this).selectAll('.year_col')
+                                    .filter(function(y) {return y in cited[cc][yy][c];})
+                                    .classed('highlight2', true);
+                            })
+                    })
+            });
+
+    }
+
+});
+
+

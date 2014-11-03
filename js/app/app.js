@@ -26,7 +26,6 @@ $(function() {
 
         app.vis.init()
             .setInfoPanel(d3.select('#aux'))
-            .layout()
             .draw();        
 
         //add brush by author
@@ -37,9 +36,13 @@ $(function() {
         $('#name').typeahead({source: authors});
         $('#name').change(function(){
             var author = $('#name').val();
-            if (app.graph.hasNode(author){
-                app.vis.highlight
-            })
+            if (app.graph.hasNode(author)){
+                app.vis.highlightAuthor(author);
+            }
+        });
+
+        $('#unselect').click(function() {
+            app.vis.clearAuthor();
         });
 
     })
