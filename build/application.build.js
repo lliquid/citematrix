@@ -1158,9 +1158,12 @@ _.extend(CiteVis.prototype, {
                             })
                             .each(function(c, i) {
 
+                                var years = self.years[c].slice().reverse();
+
                                 var cells = d3.select(this)
                                     .selectAll('.year_col')
-                                    .data(self.years[c])
+                                    // .data(self.years[c])
+                                    .data(years)
                                     .enter()
                                     .append('g')
                                     .attr('class', 'year_col')
@@ -1205,6 +1208,7 @@ _.extend(CiteVis.prototype, {
                                         self.fixed = false;
                                     }
                                     else {
+                                        d3.selectAll('.year_col').classed('selected', false);
                                         d3.select(this).classed('selected', true);
                                         self.fixed = true;
 
@@ -1279,7 +1283,6 @@ _.extend(CiteVis.prototype, {
 
 
 
-
         //redraw rectangles based on selection
         self.canvas.selectAll('.conf_row')
             .each(function(cc) {
@@ -1290,32 +1293,37 @@ _.extend(CiteVis.prototype, {
                         d3.select(this).selectAll('.conf_col')
                             .each(function(c) {
 
+                                var update_marker = function(cc, c, i, j) {
+                                    d3.selectAll('.marker')
+                                        .each(function(d) {
+
+                                            if (d == 0) {
+                                                d3.select(this)
+                                                .attr('width', matrixCellSize)
+                                                .attr('y', 0)
+                                                .attr('x', confs_coords[c].y + matrixCellSize * j)
+                                                .attr('height', confs_coords[cc].y + matrixCellSize * i);
+                                            }
+                                            else {
+                                                d3.select(this)
+                                                .attr('height', matrixCellSize)
+                                                .attr('x', 0)
+                                                .attr('width', confs_coords[c].y + matrixCellSize * j)
+                                                .attr('y', confs_coords[cc].y + matrixCellSize * i);
+                                            }
+
+                                        });
+                                }
+
                                 d3.select(this).selectAll('.year_col')
                                     .on('mouseover.marker', function(y, j) {
-
                                         if (self.fixed) {return}
-
-                                        d3.selectAll('.marker')
-                                            .each(function(d) {
-
-                                                if (d == 0) {
-                                                    d3.select(this)
-                                                    .attr('width', matrixCellSize)
-                                                    .attr('y', 0)
-                                                    .attr('x', confs_coords[c].y + matrixCellSize * j)
-                                                    .attr('height', confs_coords[cc].y + matrixCellSize * i);
-                                                }
-                                                else {
-                                                    d3.select(this)
-                                                    .attr('height', matrixCellSize)
-                                                    .attr('x', 0)
-                                                    .attr('width', confs_coords[c].y + matrixCellSize * j)
-                                                    .attr('y', confs_coords[cc].y + matrixCellSize * i);
-                                                }
-
-                                            });
-
+                                        else {update_marker(cc, c, i , j)}
+                                    })
+                                    .on('click.marker',  function(y, j) {
+                                        update_marker(cc, c , i , j);
                                     });
+
                             })
                     })
             });            
