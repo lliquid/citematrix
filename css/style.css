@@ -24,7 +24,7 @@
 
 .year_col.highlight2 circle {
     /*fill: #7A59D2;*/
-    stroke-width: 6px;
+    stroke-width: 3px;
     stroke-opacity: 0.6;
     stroke: rgb(255, 225, 60);
 }
@@ -99,6 +99,12 @@ p {
     font-size: 14px;
     fill: #7A59D2;
     stroke: #7A59D2;   
+}
+
+.year_row_label.highlight2 {
+    font-size: 14px;
+    background-color: rgba(255, 225, 60, 0.5);
+    stroke: rgba(255, 225, 60, 0.5);
 }
 
 

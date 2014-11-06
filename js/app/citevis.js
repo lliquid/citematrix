@@ -28,6 +28,7 @@ CiteVis = function(graph, canvas, config) {
 
     this.author = undefined;
 
+
 };
 
 _.extend(CiteVis.prototype, {
@@ -278,6 +279,9 @@ _.extend(CiteVis.prototype, {
                                     });
 
                                 cells.on('mouseover.detail', function(y, j) {
+
+                                        if (self.fixed)  {return}
+
                                         var key = cc + '_' + c + '_' + yy + '_' + y;
                                         
                                         self.highlightLabels(cc, c, yy, y);
@@ -296,6 +300,36 @@ _.extend(CiteVis.prototype, {
 
                                         }
                                     });
+
+                                cells.on('click.detail', function(y, j) {
+                                    if (d3.select(this).classed('selected')) {
+                                        d3.select(this).classed('selected', false);
+                                        self.fixed = false;
+                                    }
+                                    else {
+                                        d3.select(this).classed('selected', true);
+                                        self.fixed = true;
+
+                                        var key = cc + '_' + c + '_' + yy + '_' + y;
+                                        
+                                        self.highlightLabels(cc, c, yy, y);
+
+                                        if (self.groups[key] == undefined) {
+                                            self.clearDetails();
+                                        } else {
+
+                                            var eids = self.groups[key];
+                                            var pids = _.map(eids, function(eid) {
+                                                return self.graph.link(eid)
+                                                    .target;
+                                            }, null);
+
+                                            self.drawDetails(_.countBy(pids, _.identity));
+
+                                        }                                        
+                                    }
+
+                                });
 
 
                                 cells.append('rect')
@@ -361,6 +395,8 @@ _.extend(CiteVis.prototype, {
                                 d3.select(this).selectAll('.year_col')
                                     .on('mouseover.marker', function(y, j) {
 
+                                        if (self.fixed) {return}
+
                                         d3.selectAll('.marker')
                                             .each(function(d) {
 
@@ -401,6 +437,15 @@ _.extend(CiteVis.prototype, {
         this.canvas.selectAll('.year_row')
             .selectAll('.year_col')
             .classed('highlight2', false);
+
+        this.canvas.selectAll('.conf_row')
+            .each(function(cc) {
+                d3.select(this).selectAll('.year_row')
+                    .each(function(yy) {
+                        d3.select(this).select('.year_row_label')
+                            .classed('highlight2', false);
+                    })
+            });           
 
     },
 
@@ -462,6 +507,7 @@ _.extend(CiteVis.prototype, {
             }
         }
 
+        //highlight matrix entries
         self.canvas.selectAll('.conf_row')
             .filter(function(cc) {return cc in cited;})
             .each(function(cc) {
@@ -472,9 +518,21 @@ _.extend(CiteVis.prototype, {
                             .filter(function(c) {return c in cited[cc][yy];})
                             .each(function(c) {
                                 d3.select(this).selectAll('.year_col')
-                                    .filter(function(y) {return y in cited[cc][yy][c];})
+                                    .filter(function(y) {return y in cited[cc][yy][c] > 0;})
                                     .classed('highlight2', true);
                             })
+                    })
+            });
+
+        //highlight label
+        self.canvas.selectAll('.conf_row')
+            .filter(function(cc) {return cc in cited;})
+            .each(function(cc) {
+                d3.select(this).selectAll('.year_row')
+                    .filter(function(yy) {return yy in cited[cc];})
+                    .each(function(yy) {
+                        d3.select(this).select('.year_row_label')
+                            .classed('highlight2', true);
                     })
             });
 
