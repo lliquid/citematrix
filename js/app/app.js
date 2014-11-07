@@ -42,7 +42,8 @@ $(function() {
         });
 
         $('#unselect').click(function() {
-            app.vis.clearAuthor();
+            app.vis.clearAll();
+            // $('#unselect').button('reset');
         });
 
     })

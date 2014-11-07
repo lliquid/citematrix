@@ -438,7 +438,7 @@ _.extend(CiteVis.prototype, {
 _.extend(CiteVis.prototype, {
 
 
-    clearAuthor: function() {
+    clearAll: function() {
 
         this.author = undefined;
 
@@ -453,7 +453,12 @@ _.extend(CiteVis.prototype, {
                         d3.select(this).select('.year_row_label')
                             .classed('highlight2', false);
                     })
-            });           
+            });
+
+
+        this.canvas.selectAll('.year_col').classed('selected', false);
+        
+        this.fixed = false;
 
     },
 
