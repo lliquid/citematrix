@@ -38,7 +38,7 @@ for pid in papers:
     p = papers[pid]
     g.add_node(pid, conf=p['conf'], id=p['id'], partition='paper', year=p['year'], title=p['title'])
     for a in p['authors']:
-        g.add_node(a, partition='author')
+        g.add_node(a.rstrip().lstrip(), partition='author')
 
 
 for pid in papers:
@@ -46,7 +46,7 @@ for pid in papers:
     for pcid in p['citations']:
         g.add_edge(pid, pcid)
     for a in p['authors']:
-        g.add_edge(a, pid)
+        g.add_edge(a, pid.rstrip().lstrip())
 
 
 with open(fn_json_graph, 'w') as f:
