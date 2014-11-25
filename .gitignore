@@ -8,3 +8,4 @@ data/*.pyc
 data/logger.pyc
 data/util.pyc
 data/congress/*
+*.sublime-project
