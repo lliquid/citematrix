@@ -350,7 +350,7 @@ _.extend(CiteVis.prototype, {
                                         if (self.counts[key] == undefined) {
                                             return 0;
                                         } else {
-                                            return Math.log(self.counts[key] + 1) / Math.log(2);
+                                            return Math.log(self.counts[key] + 1) / Math.log(2) * 0.85;
                                         }
                                     });
 

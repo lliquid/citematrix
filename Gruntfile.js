@@ -47,7 +47,6 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks("grunt-contrib-concat");
     grunt.loadNpmTasks("grunt-contrib-watch");
     grunt.loadNpmTasks("grunt-bower-install");
-    grunt.loadNpmTasks("grunt-contrib-jshint");
 
-    grunt.registerTask('develop', ['concat', 'jshint', 'watch']);
+    grunt.registerTask('develop', ['concat', 'watch']);
 };
