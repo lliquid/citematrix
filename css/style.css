@@ -1,147 +1,67 @@
-
-
-.label {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    font-size: 16px;
-    margin: 0.1rem;
-    font-weight: 400;
-    fill:#aaaaaa;
-}
-
-
-
-.conf_row rect {
-    stroke: #bbb;
-    stroke-width: 0.5px;
-    fill: #fff;
-}
-
 .year_col circle {
-    fill: #C0C0C0;
-    stroke: #666666;
-}
+  fill: #888;
+  stroke: #888; }
 
-.year_col.highlight circle {
-    fill: #656CFC;
-    stroke: #7A59D2;
-}
-
-.year_col.highlight2 circle {
-    /*fill: #7A59D2;*/
-    stroke-width: 3px;
-    stroke-opacity: 0.6;
-    stroke: rgb(252, 133, 61);
-}
-
+.year_col.highlight circle,
 .year_col.selected circle {
-    fill: #656CFC;
-    stroke: #7A59D2;
-}
-
+  fill: #5B34F8;
+  stroke: #5B34F8; }
 
 .year_col rect {
-    fill: #fff;
-    fill-opacity: 0.0;
-    stroke: #fff;
-    stroke-width: 0.0;
-}
+  fill-opacity: 0;
+  stroke-color: white;
+  stroke-width: 0; }
 
-.year_col.highlight rect {
-    fill: #fff;
-    stroke: #5B34F8;
-    stroke-width: 1;    
-}
-
+.year_col.highlight rect,
 .year_col.selected rect {
-    fill: #fff;
-    stroke: #5B34F8;
-    stroke-width: 0.0;    
-}
+  fill-opacity: 0;
+  stroke-color: #5B34F8;
+  stroke-width: 1px; }
 
 .year_col.highlight2 rect {
-    /*fill: #5B34F8;*/
-    /*fill-opacity: 0.5;*/
-    /*stroke: #5B34F8;*/
-    /*stroke-width: 3px;*/
-}
+  fill-opacity: 0.4;
+  fill: rgba(252, 133, 61, 0.8); }
 
-rect.marker {
-    fill: #5B34F8;
-    fill-opacity: 0.2;
-    stroke-opacity: 0.0;
-    stroke-width: 0;
-}
-
-
+.marker {
+  fill: #5B34F8;
+  fill-opacity: 0.4;
+  stroke-width: 0; }
 
 p {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    margin: 0.1rem;
-}
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  font-size: 11px;
+  margin: 0px; }
 
-
-.year_col_label {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 9px;
-    fill: #6B6B6B;
-}
-
-.year_row_label {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;    
-    font-size: 9px;
-    fill: #6B6B6B;    
-}
-
-.year_col_label.highlight {
-    font-size: 12px;
-    fill: #7A59D2;
-    stroke: #7A59D2;
-}
-
-.year_row_label.highlight {
-    font-size: 12px;
-    fill: #7A59D2;
-    stroke: #7A59D2;   
-}
-
-.year_row_label.highlight2 {
-    font-size: 14px;
-    background-color: rgba(252, 133, 61, 0.5);
-    stroke: rgba(252, 133, 61, 0.5);
-}
-
-
-.conf_col_label {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    font-size: 16px;    
-}
-
+.year_row_label,
+.year_col_label,
+.year_col_label.highlight,
+.year_row_label.highlight,
+.conf_col_label,
+.conf_col_label.highlight,
+.conf_row_label.highlight,
 .conf_row_label {
-    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    font-size: 16px;
-}
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  font-size: 8px;
+  fill: #666; }
 
+.year_col_label.highlight,
+.highlight.year_row_label, .highlight.conf_col_label,
+.highlight.conf_row_label,
+.year_row_label.highlight {
+  fill: #5B34F8;
+  font-size: 9.5px;
+  font-weight: bold; }
 
-.conf_col_label.highlight {
-    fill: #7A59D2;
-    stroke: #7A59D2;    
-}
-
-.conf_row_label.highlight {
-    fill: #7A59D2;
-    stroke: #7A59D2;    
-}
-
+.conf_col_label, .conf_col_label.highlight,
+.conf_row_label.highlight,
+.conf_row_label {
+  font-size: 16px; }
 
 #aux {
-    overflow-y: auto;
-    max-height: 600px;
-}
-
+  overflow-y: auto;
+  max-height: 600px; }
 
 #aux .paper.highlight2 p {
-    background-color: rgba(252, 133, 61, 0.3);
-}
+  background-color: rgba(252, 133, 61, 0.3); }
 
-
+/*# sourceMappingURL=style.css.map */

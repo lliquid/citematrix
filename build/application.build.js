@@ -868,19 +868,16 @@ _.extend(Graph.prototype, {
 
 var config = {
 
-    x0: 110,
+    x0: 112,
     y0: 100,
 
     width: 800,
     height: 800,
 
-    matrixCellSize: 10.5,
+    matrixCellSize: 9,
     
     matrixCellPadding: 0.5,
     matrixPadding: 3,
-
-    forceSimulationTicks: 200,
-    medianIterationRounds: 50,
 
     labelFontSize: 7,
     labelFontFamily: '"Century Gothic", CenturyGothic, AppleGothic, sans-serif',
@@ -1246,7 +1243,7 @@ _.extend(CiteVis.prototype, {
                                         if (self.counts[key] == undefined) {
                                             return 0;
                                         } else {
-                                            return Math.log(self.counts[key] + 1) / Math.log(2) * 0.85;
+                                            return Math.log(self.counts[key] + 1) / Math.log(2) * 0.72;
                                         }
                                     });
 

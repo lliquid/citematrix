@@ -1,0 +1,87 @@
+$font:  Century Gothic, CenturyGothic, AppleGothic, sans-serif
+
+$font_size0: 8px
+$font_size1: 11px
+$font_size2: 16px
+$font_color: #666
+
+$nofill: 0
+$transparent: 0.4
+
+$primary_color: #888
+$secondary_color:  #5B34F8
+$highlight_color: rgba(252, 133, 61, 0.8)
+
+$font_color_highlight: #7A59D2
+
+
+=circle-style($color)
+    fill: $color
+    stroke: $color
+
+.year_col circle
+    +circle-style($primary_color)
+
+.year_col.highlight circle,
+.year_col.selected circle
+    +circle-style($secondary_color)
+
+=rect-style($color, $width)
+    fill-opacity: $nofill
+    stroke-color: $color
+    stroke-width: $width
+    
+
+.year_col rect
+    +rect-style(white, 0)
+
+.year_col.highlight rect,
+.year_col.selected rect,
+    +rect-style($secondary_color, 1px)
+
+.year_col.highlight2 rect
+    fill-opacity: $transparent
+    fill: $highlight_color
+
+.marker
+    fill: $secondary_color
+    fill-opacity: $transparent
+    stroke-width: 0
+
+p
+    font-family: $font
+    font-size: $font_size1
+    margin: 0px
+
+
+.year_row_label,
+.year_col_label
+    font-family: $font
+    font-size: $font_size0
+    fill: $font_color
+
+.year_col_label.highlight,
+.year_row_label.highlight
+    @extend .year_col_label
+    fill: $secondary_color
+    font-size: ($font_size1 + $font_size0) / 2
+    font-weight: bold
+
+.conf_col_label, 
+.conf_row_label
+    @extend .year_col_label
+    font-size: $font_size2
+
+.conf_col_label.highlight,
+.conf_row_label.highlight
+    @extend .conf_col_label
+
+
+#aux
+    overflow-y: auto
+    max-height: 600px
+
+
+#aux .paper.highlight2 p
+    background-color: rgba(252, 133, 61, 0.3)
+

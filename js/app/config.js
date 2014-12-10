@@ -5,19 +5,16 @@
 
 var config = {
 
-    x0: 110,
+    x0: 112,
     y0: 100,
 
     width: 800,
     height: 800,
 
-    matrixCellSize: 10.5,
+    matrixCellSize: 9,
     
     matrixCellPadding: 0.5,
     matrixPadding: 3,
-
-    forceSimulationTicks: 200,
-    medianIterationRounds: 50,
 
     labelFontSize: 7,
     labelFontFamily: '"Century Gothic", CenturyGothic, AppleGothic, sans-serif',
