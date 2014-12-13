@@ -2,15 +2,15 @@ $font:  Century Gothic, CenturyGothic, AppleGothic, sans-serif
 
 $font_size0: 8px
 $font_size1: 11px
-$font_size2: 16px
+$font_size2: 14px
 $font_color: #666
 
 $nofill: 0
 $transparent: 0.4
 
 $primary_color: #888
-$secondary_color:  #5B34F8
-$highlight_color: rgba(252, 133, 61, 0.8)
+$secondary_color:  #2F35D0
+$highlight_color: rgba(224, 96, 92, 0.4)
 
 $font_color_highlight: #7A59D2
 
@@ -40,7 +40,7 @@ $font_color_highlight: #7A59D2
     +rect-style($secondary_color, 1px)
 
 .year_col.highlight2 rect
-    fill-opacity: $transparent
+    fill-opacity: 1.0
     fill: $highlight_color
 
 .marker
@@ -79,9 +79,9 @@ p
 
 #aux
     overflow-y: auto
-    max-height: 600px
+    max-height: 430px
 
 
 #aux .paper.highlight2 p
-    background-color: rgba(252, 133, 61, 0.3)
+    background-color: $highlight_color
 

@@ -874,11 +874,8 @@ var config = {
     width: 800,
     height: 800,
 
-    matrixCellSize: 9,
+    matrixCellSize: 8.5,
     
-    matrixCellPadding: 0.5,
-    matrixPadding: 3,
-
     labelFontSize: 7,
     labelFontFamily: '"Century Gothic", CenturyGothic, AppleGothic, sans-serif',
     labelFontAscend: 0.75,
@@ -887,7 +884,7 @@ var config = {
     label0Shift: -60,
     label1Shift: -30,
 
-    padding: 10
+    padding: 8
 
 }
 
@@ -1071,16 +1068,19 @@ _.extend(CiteVis.prototype, {
             .attr('class', 'label')
             .text(_.identity)
             .attr('text-anchor', 'end')
-            .attr('x', function(l) {
-                if (l == 'cited')  return self.config.label0Shift - 80;
-                else return y / 2;
+            .each(function(l) {
+                var xx = (l == 'cited')? (self.config.label0Shift - 45) :( y / 2 ),
+                    yy = (l == 'cited')? (y / 2) : (-80);
+
+                d3.select(this)
+                    .attr('transform', function(l) {
+                        if (l=='cited') return geom.transform.begin().rotate(-90, xx, yy).end()
+                        else return geom.transform.begin().rotate(0, xx, yy).end()
+                    })
+                    .attr('x', xx)
+                    .attr('y', yy)
+
             })
-            .attr('y', function(l) {
-                if (l == 'cited')  return y / 2;
-                else return -120;
-            });
-
-
 
 
         var conf_rows = self.canvas.selectAll('.conf_row')
@@ -1493,6 +1493,8 @@ $(function() {
 
         $('#unselect').click(function() {
             app.vis.clearAll();
+            d3.select('#aux').selectAll('.paper').classed('highlight', false)
+            d3.select('#aux').selectAll('.paper').classed('highlight2', false)
             // $('#unselect').button('reset');
         });
 

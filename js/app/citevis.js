@@ -178,16 +178,19 @@ _.extend(CiteVis.prototype, {
             .attr('class', 'label')
             .text(_.identity)
             .attr('text-anchor', 'end')
-            .attr('x', function(l) {
-                if (l == 'cited')  return self.config.label0Shift - 80;
-                else return y / 2;
+            .each(function(l) {
+                var xx = (l == 'cited')? (self.config.label0Shift - 45) :( y / 2 ),
+                    yy = (l == 'cited')? (y / 2) : (-80);
+
+                d3.select(this)
+                    .attr('transform', function(l) {
+                        if (l=='cited') return geom.transform.begin().rotate(-90, xx, yy).end()
+                        else return geom.transform.begin().rotate(0, xx, yy).end()
+                    })
+                    .attr('x', xx)
+                    .attr('y', yy)
+
             })
-            .attr('y', function(l) {
-                if (l == 'cited')  return y / 2;
-                else return -120;
-            });
-
-
 
 
         var conf_rows = self.canvas.selectAll('.conf_row')

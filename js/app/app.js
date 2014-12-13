@@ -43,6 +43,8 @@ $(function() {
 
         $('#unselect').click(function() {
             app.vis.clearAll();
+            d3.select('#aux').selectAll('.paper').classed('highlight', false)
+            d3.select('#aux').selectAll('.paper').classed('highlight2', false)
             // $('#unselect').button('reset');
         });
 

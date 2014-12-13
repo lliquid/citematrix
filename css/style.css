@@ -4,8 +4,8 @@
 
 .year_col.highlight circle,
 .year_col.selected circle {
-  fill: #5B34F8;
-  stroke: #5B34F8; }
+  fill: #2F35D0;
+  stroke: #2F35D0; }
 
 .year_col rect {
   fill-opacity: 0;
@@ -15,15 +15,15 @@
 .year_col.highlight rect,
 .year_col.selected rect {
   fill-opacity: 0;
-  stroke-color: #5B34F8;
+  stroke-color: #2F35D0;
   stroke-width: 1px; }
 
 .year_col.highlight2 rect {
-  fill-opacity: 0.4;
-  fill: rgba(252, 133, 61, 0.8); }
+  fill-opacity: 1;
+  fill: rgba(224, 96, 92, 0.4); }
 
 .marker {
-  fill: #5B34F8;
+  fill: #2F35D0;
   fill-opacity: 0.4;
   stroke-width: 0; }
 
@@ -48,20 +48,20 @@ p {
 .highlight.year_row_label, .highlight.conf_col_label,
 .highlight.conf_row_label,
 .year_row_label.highlight {
-  fill: #5B34F8;
+  fill: #2F35D0;
   font-size: 9.5px;
   font-weight: bold; }
 
 .conf_col_label, .conf_col_label.highlight,
 .conf_row_label.highlight,
 .conf_row_label {
-  font-size: 16px; }
+  font-size: 14px; }
 
 #aux {
   overflow-y: auto;
-  max-height: 600px; }
+  max-height: 430px; }
 
 #aux .paper.highlight2 p {
-  background-color: rgba(252, 133, 61, 0.3); }
+  background-color: rgba(224, 96, 92, 0.4); }
 
 /*# sourceMappingURL=style.css.map */

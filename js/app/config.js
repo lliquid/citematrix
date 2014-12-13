@@ -11,11 +11,8 @@ var config = {
     width: 800,
     height: 800,
 
-    matrixCellSize: 9,
+    matrixCellSize: 8.5,
     
-    matrixCellPadding: 0.5,
-    matrixPadding: 3,
-
     labelFontSize: 7,
     labelFontFamily: '"Century Gothic", CenturyGothic, AppleGothic, sans-serif',
     labelFontAscend: 0.75,
@@ -24,6 +21,6 @@ var config = {
     label0Shift: -60,
     label1Shift: -30,
 
-    padding: 10
+    padding: 8
 
 }
