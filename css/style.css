@@ -1,6 +1,6 @@
 .year_col circle {
-  fill: #888;
-  stroke: #888; }
+  fill: #ccc;
+  stroke: #777; }
 
 .year_col.highlight circle,
 .year_col.selected circle {
@@ -41,21 +41,22 @@ p {
 .conf_row_label.highlight,
 .conf_row_label {
   font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
-  font-size: 8px;
-  fill: #666; }
+  font-size: 9px;
+  fill: #333; }
 
 .year_col_label.highlight,
 .highlight.year_row_label, .highlight.conf_col_label,
 .highlight.conf_row_label,
 .year_row_label.highlight {
   fill: #2F35D0;
-  font-size: 9.5px;
+  font-size: 11px;
   font-weight: bold; }
 
 .conf_col_label, .conf_col_label.highlight,
 .conf_row_label.highlight,
 .conf_row_label {
-  font-size: 14px; }
+  font-size: 14px; 
+  font-weight: 600;}
 
 #aux {
   overflow-y: auto;
