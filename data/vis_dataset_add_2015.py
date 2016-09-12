@@ -1,11 +1,8 @@
 import json
-import networkx as nx
-from networkx.readwrite import json_graph
-
 
 
 def main():
-	graph = None
+	data = None
 	with open('vis_graph.json', 'r') as f:
 		graph = json_graph.node_link_graph(json.load(f))
 	with open('IEEE VIS papers 1990-2015 - Main dataset.tsv', 'r') as f:
