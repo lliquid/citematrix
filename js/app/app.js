@@ -2,7 +2,7 @@
 
 var app = {};
 
-app.path = 'data/vis_graph_add_2015.json';
+app.path = 'data/fix_dup_graph_2015.json';
 
 app.graph = new Graph();
 
