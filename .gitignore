@@ -9,3 +9,4 @@ data/logger.pyc
 data/util.pyc
 data/congress/*
 *.sublime-project
+.DS_Store

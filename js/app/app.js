@@ -2,7 +2,7 @@
 
 var app = {};
 
-app.path = 'data/fix_dup_graph_2015.json';
+app.path = 'data/IEEE VIS papers 1990-2016 - Main dataset.json';
 
 app.graph = new Graph();
 

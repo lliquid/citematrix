@@ -41,9 +41,9 @@ _.extend(CiteVis.prototype, {
 
         //years in inverse order
         this.years = {
-            'InfoVis': d3.range(2015, 1994, -1),
-            'VAST': d3.range(2015, 2005, -1),
-            'SciVis': d3.range(2015, 1989, -1)
+            'InfoVis': d3.range(2016, 1994, -1),
+            'VAST': d3.range(2016, 2005, -1),
+            'SciVis': d3.range(2016, 1989, -1)
         };
 
 
